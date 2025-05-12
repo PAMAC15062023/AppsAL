@@ -1,0 +1,1061 @@
+using System;
+using System.Data;
+using System.Configuration;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Web.UI.HtmlControls;
+using System.Data.OleDb;
+
+/// <summary>
+/// Summary description for C_CELLULAR_ENTRY
+/// </summary>
+public class C_CELLULAR_ENTRY
+{
+    CCommon objconn = new CCommon();
+    public C_CELLULAR_ENTRY()
+    {
+        //
+        // TODO: Add constructor logic here
+        //
+    }
+    //added by hemangi kambli on 03/10/2007 ----
+    private DateTime dtTransStart;
+    private DateTime dtTransEnd;
+    private string sUserId;
+    private string sCentreId;
+    private string sProductId;
+    private string sClientId;
+
+
+    public DateTime TransStart
+    {
+        get { return dtTransStart; }
+        set { dtTransStart = value; }
+    }
+
+    public DateTime TransEnd
+    {
+        get { return dtTransEnd; }
+        set { dtTransEnd = value; }
+    }
+
+    public string UserId
+    {
+        get { return sUserId; }
+        set { sUserId = value; }
+    }
+
+    public string CentreId
+    {
+        get { return sCentreId; }
+        set { sCentreId = value; }
+    }
+
+    public string ProductId
+    {
+        get { return sProductId; }
+        set { sProductId = value; }
+    }
+
+    public string ClientId
+    {
+        get { return sClientId; }
+        set { sClientId = value; }
+    }
+    private string sVerficationTypeID;
+    public string VerficationTypeID
+    {
+        get { return sVerficationTypeID; }
+        set { sVerficationTypeID = value; }
+    }
+    
+    ////------------------------------------------------
+
+    private string caseID;
+    private string credit_Status_Code;
+    private string disconnected_Code;
+    private string remark;
+    private string fe;
+    private DateTime visit_Date;
+    private string additional_Mtnl1;
+    private string additional_Mtnl2;
+    private string additional_Cell;
+    private string sub_Met;
+    private string occupation;
+    private string doc_Sighted;
+    private string contactability;
+    private string welcome_Visit;
+    private string terif_Plan;
+    private string first_Bill_Exp;
+    private string fun_Card;
+    private string rating;
+    private string nature_Of_Bussiness;
+    private string discription;
+    private string companyaddress1;
+    private string companyaddress2;
+    private string companyaddress3;
+    private string companystreet;
+    private string companycity;
+    private string companypincode;
+    private string companyphone1;
+    private string companyphone2;
+    private string subInfoAudit;
+    private string auditJobDesc;
+
+
+    private string residanceaddress1;
+    private string residanceaddress2;
+    private string residanceaddress3;
+    private string residancestreet;
+    private string residancecity;
+    private string residancepincode;
+    private string residancephone1;
+    private string residancephone2;
+
+    private string riskRatingBilling;
+   
+    private string riskRatingAlt;
+    
+    private string voucherNumber;
+
+    private string salesFlyersRcd;
+    private string simUsedBy;
+    private string email;
+    private string ddb;
+    
+
+    private string custCode;
+    private string refCellNo;
+    private string caseStatusId;
+    private string creditStatus;
+    private string refNo;
+    private string FeName;
+    public string fename
+    {
+        get { return FeName; }
+        set { FeName = value; }
+    }
+    public string RefNo
+    {
+        get { return refNo; }
+        set { refNo = value; }
+    }
+    public string DDB
+    {
+        get { return ddb; }
+        set { ddb = value; }
+    }
+
+
+    public string CaseStatusId
+    {
+        get { return caseStatusId; }
+        set { caseStatusId = value; }
+    }
+    public string CreditStatus
+    {
+        get { return creditStatus;}
+        set { creditStatus = value; }
+    }
+    public string SimUsedBy
+    {
+        get { return simUsedBy; }
+        set { simUsedBy = value; }
+    }
+    public string Email
+    {
+        get { return email; }
+        set { email = value; }
+    }
+    public string SalesFlyersRcd
+    {
+        get { return salesFlyersRcd; }
+        set { salesFlyersRcd = value; }
+    }
+    public string RefCellNo
+    {
+        get { return refCellNo; }
+        set { refCellNo = value; }
+    }
+    public string CustCode
+    {
+        get { return custCode; }
+        set { custCode = value; }
+    }
+
+    public string VoucherNumber
+    {
+        get { return voucherNumber; }
+        set { voucherNumber = value; }
+    }
+    public string RiskRatingBilling
+    {
+        get { return riskRatingBilling; }
+        set { riskRatingBilling = value; }
+    }
+    private string applicantAccessibility ;
+    public string ApplicantAccessibility 
+    {
+        get { return applicantAccessibility ; }
+        set { applicantAccessibility  = value; }
+    }
+    public string RiskRatingAlt
+    {
+        get { return riskRatingAlt; }
+        set { riskRatingAlt = value; }
+    }
+    private string zonal;
+    public string Zonal
+    {
+        get { return zonal; }
+        set { zonal = value; }
+    }
+    private string iPComments;
+    public string IPComments
+    {
+        get { return iPComments; }
+        set { iPComments = value; }
+    }
+    private string pVTag;
+    public string PVTag
+    {
+        get { return pVTag; }
+        set { pVTag = value; }
+    }
+
+    private string commentCode;
+    public string CommentCode
+    {
+        get { return commentCode; }
+        set { commentCode = value; }
+    }
+    private string commentCodeReason;
+    public string CommentCodeReason
+    {
+        get { return commentCodeReason; }
+        set { commentCodeReason = value; }
+    }
+
+    public string Companyaddress1
+    {
+        get { return companyaddress1; }
+        set { companyaddress1 = value; }
+    }
+    public string Companyaddress2
+    {
+        get { return companyaddress2; }
+        set { companyaddress2 = value; }
+    }
+    public string Companyaddress3
+    {
+        get { return companyaddress3; }
+        set { companyaddress3 = value; }
+    }
+    public string Companystreet
+    {
+        get { return companystreet; }
+        set { companystreet = value; }
+    }
+    public string Companycity
+    {
+        get { return companycity; }
+        set { companycity = value; }
+    }
+    public string Companypincode
+    {
+        get { return companypincode; }
+        set { companypincode = value; }
+    }
+    public string Companyphone1
+    {
+        get { return companyphone1; }
+        set { companyphone1 = value; }
+    }
+    public string Companyphone2
+    {
+        get { return companyphone2; }
+        set { companyphone2 = value; }
+    }
+
+
+    public string Residanceaddress1
+    {
+        get { return residanceaddress1; }
+        set { residanceaddress1 = value; }
+    }
+    public string Residanceaddress2
+    {
+        get { return residanceaddress2; }
+        set { residanceaddress2 = value; }
+    }
+    public string Residanceaddress3
+    {
+        get { return residanceaddress3; }
+        set { residanceaddress3 = value; }
+    }
+    public string Residancestreet
+    {
+        get { return residancestreet; }
+        set { residancestreet = value; }
+    }
+    public string Residancecity
+    {
+        get { return residancecity; }
+        set { residancecity = value; }
+    }
+    public string Residancepincode
+    {
+        get { return residancepincode; }
+        set { residancepincode = value; }
+    }
+    public string Residancephone1
+    {
+        get { return residancephone1; }
+        set { residancephone1 = value; }
+    }
+    public string Residancephone2
+    {
+        get { return residancephone2; }
+        set { residancephone2 = value; }
+    }
+
+
+    public string Fe
+    {
+        get { return fe; }
+        set { fe = value; }
+    }
+    public string CaseID
+    {
+        get { return caseID; }
+        set { caseID = value; }
+    }
+
+    public string Credit_Status_Code
+    {
+        get { return credit_Status_Code; }
+        set { credit_Status_Code = value; }
+    }
+    public string Disconnected_Code
+    {
+        get { return disconnected_Code; }
+        set { disconnected_Code = value; }
+    }
+    public string Remark
+    {
+        get { return remark; }
+        set { remark = value; }
+    }
+    public DateTime Visit_Date
+    {
+        get { return visit_Date; }
+        set { visit_Date = value; }
+    }
+    public string Additional_Mtnl1
+    {
+        get { return additional_Mtnl1; }
+        set { additional_Mtnl1 = value; }
+    }
+    public string Additional_Mtnl2
+    {
+        get { return additional_Mtnl2; }
+        set { additional_Mtnl2 = value; }
+    }
+    public string Additional_Cell
+    {
+        get { return additional_Cell; }
+        set { additional_Cell = value; }
+    }
+    public string Sub_Met
+    {
+        get { return sub_Met; }
+        set { sub_Met = value; }
+    }
+    public string Occupation
+    {
+        get { return occupation; }
+        set { occupation = value; }
+    }
+    public string Doc_Sighted
+    {
+        get { return doc_Sighted; }
+        set { doc_Sighted = value; }
+    }
+    public string Contactability
+    {
+        get { return contactability; }
+        set { contactability = value; }
+    }
+    public string Welcome_Visit
+    {
+        get { return welcome_Visit; }
+        set { welcome_Visit = value; }
+    }
+    public string Terif_Plan
+    {
+        get { return terif_Plan; }
+        set { terif_Plan = value; }
+    }
+    public string First_Bill_Exp
+    {
+        get { return first_Bill_Exp; }
+        set { first_Bill_Exp = value; }
+    }
+    public string Fun_Card
+    {
+        get { return fun_Card; }
+        set { fun_Card = value; }
+    }
+    public string Rating
+    {
+        get { return rating; }
+        set { rating = value; }
+    }
+    public string Nature_Of_Bussiness
+    {
+        get { return nature_Of_Bussiness; }
+        set { nature_Of_Bussiness = value; }
+
+    }
+    public string Discription
+    {
+        get { return discription; }
+        set { discription = value; }
+    }
+    public string SubInfoAudit
+    {
+        get { return subInfoAudit; }
+        set { subInfoAudit = value; }
+    }
+    public string AuditJobDesc
+    {
+        get { return auditJobDesc; }
+        set { auditJobDesc = value; }
+    }
+
+    
+
+    public string Fill_Cellular_Entry()
+    {
+        OleDbDataReader objoledbDR;
+        OleDbConnection conn = new OleDbConnection(objconn.ConnectionString);
+
+        conn.Open();
+        OleDbTransaction oledbTrans = conn.BeginTransaction();
+
+        string sql = "";
+        string sql1 = "";
+        string sql2 = "";
+        string sql3 = "";
+        string sqlSelectQuery = "";
+        string sMsg = "";
+
+
+        try
+        {
+
+
+            sqlSelectQuery = "Select CASE_ID from CPV_CELLULAR_VERIFICATION " +
+                             " where CASE_ID='" + CaseID + "'";
+            objoledbDR = OleDbHelper.ExecuteReader(objconn.ConnectionString, CommandType.Text, sqlSelectQuery);
+
+
+            OleDbParameter[] param = new OleDbParameter[33];
+
+            if (objoledbDR.Read() == false)
+            {
+                sql = "INSERT INTO CPV_CELLULAR_VERIFICATION (FINAL_CREDIT_STATUS_ID,DISCONNECT_CODE_ID,"
+                 + "ADDITIONAL_MTNL_1,ADDITIONAL_CELL,APP_MET,DOC_SIGHTED,"
+                 + "CONTACTIBILITY,WELCOM_VISIT,TARIF_PLAN,FIRST_Bill_EXP,FUN_CARD,NATURE_OF_BUSINESS,"
+                 + "CASE_ID,OCCUPATION_ID,ADDITIONAL_MTNL_2,Sub_Info_Audit,Audit_Job_Desc,RISK_RATING_BILLING,"
+                 + "RISK_RATING_ALT,App_Accessibility,Zonal,IP_Comments,PV_Tag,"
+                 + "Voucher_no,Sales_Flyers_Rcd,Sim_Used_By,Email,DDB,Comment_Code,Comment_Reason,ADD_BY,ADD_DATE,Fe_Name )"
+                 + " values (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)";
+
+
+                param[0] = new OleDbParameter("@Credit_Status_Code", OleDbType.VarChar, 50);
+                param[0].Value = Credit_Status_Code;
+
+                param[1] = new OleDbParameter("@Disconnected_Code", OleDbType.VarChar, 50);
+                param[1].Value = Disconnected_Code;
+
+                param[2] = new OleDbParameter("@Additional_Mtnl", OleDbType.VarChar, 20);
+                param[2].Value = Additional_Mtnl1;
+
+                param[3] = new OleDbParameter("@Additional_Cell", OleDbType.VarChar, 20);
+                param[3].Value = Additional_Cell;
+
+                param[4] = new OleDbParameter("@Sub_Met", OleDbType.VarChar, 1);
+
+                if (Sub_Met == "")
+                {
+                    param[4].Value = System.DBNull.Value;
+                }
+                else
+                {
+                    param[4].Value = Sub_Met;
+                }
+
+
+
+                param[5] = new OleDbParameter("@Doc_Sighted", OleDbType.VarChar, 5);
+                param[5].Value = Doc_Sighted;
+
+                param[6] = new OleDbParameter("@Contactability", OleDbType.VarChar, 50);
+                param[6].Value = Contactability;
+
+                param[7] = new OleDbParameter("@Welcome_Visit", OleDbType.VarChar, 1);
+                param[7].Value = Welcome_Visit;
+
+                param[8] = new OleDbParameter("@Terif_Plan", OleDbType.VarChar, 1);
+                param[8].Value = Terif_Plan;
+
+                param[9] = new OleDbParameter("@First_Bill_Exp", OleDbType.VarChar, 1);
+                param[9].Value = First_Bill_Exp;
+
+                param[10] = new OleDbParameter("@Fun_Card", OleDbType.VarChar, 100);
+                param[10].Value = Fun_Card;
+
+                param[11] = new OleDbParameter("@Nature_Of_Bussiness", OleDbType.VarChar, 100);
+                param[11].Value = Nature_Of_Bussiness;
+
+                param[12] = new OleDbParameter("@CaseID", OleDbType.VarChar, 15);
+                param[12].Value = CaseID;
+
+                param[13] = new OleDbParameter("@Occupation", OleDbType.VarChar, 50);
+                param[13].Value = Occupation;
+
+                param[14] = new OleDbParameter("@Additional_Mtnl2", OleDbType.VarChar, 50);
+                param[14].Value = Additional_Mtnl2;
+
+                param[15] = new OleDbParameter("@SubInfoAudit", OleDbType.VarChar, 50);
+                param[15].Value = SubInfoAudit;
+
+                param[16] = new OleDbParameter("@AuditJobDesc", OleDbType.VarChar, 50);
+                param[16].Value = AuditJobDesc;
+
+                param[17] = new OleDbParameter("@RiskRatingBilling", OleDbType.VarChar, 50);
+                param[17].Value = RiskRatingBilling;
+
+                param[18] = new OleDbParameter("@RiskRatingAlt", OleDbType.VarChar, 100);
+                param[18].Value = RiskRatingAlt;
+
+                param[19] = new OleDbParameter("@ApplicantAccessibility", OleDbType.VarChar, 50);
+                param[19].Value = ApplicantAccessibility;
+
+                param[20] = new OleDbParameter("@Zonal", OleDbType.VarChar, 25);
+                param[20].Value = Zonal;
+
+                param[21] = new OleDbParameter("@IPComments", OleDbType.VarChar, 1000);
+                param[21].Value = IPComments;
+
+                param[22] = new OleDbParameter("@PVTag", OleDbType.VarChar, 50);
+                param[22].Value = PVTag;
+
+
+                param[23] = new OleDbParameter("@VoucherNumber", OleDbType.VarChar, 50);
+                param[23].Value = VoucherNumber;
+
+                param[24] = new OleDbParameter("@SalesFlyersRcd", OleDbType.VarChar, 5);
+                param[24].Value = SalesFlyersRcd;
+               
+                param[25] = new OleDbParameter("@SimUsedBy", OleDbType.VarChar, 50);
+                param[25].Value = SimUsedBy;
+
+                param[26] = new OleDbParameter("@Email", OleDbType.VarChar, 50);
+                param[26].Value = Email;
+
+                param[27] = new OleDbParameter("@DDB", OleDbType.VarChar, 50);
+                param[27].Value = DDB;
+
+                param[28] = new OleDbParameter("@CommentCode", OleDbType.VarChar, 100);
+                param[28].Value = CommentCode;
+
+                param[29] = new OleDbParameter("@CommentCodeReason", OleDbType.VarChar, 255);
+                param[29].Value = CommentCodeReason;
+
+                param[30] = new OleDbParameter("@AddedBy", OleDbType.VarChar, 15);
+                param[30].Value = HttpContext.Current.Session["UserId"];
+
+                param[31] = new OleDbParameter("@AddedDate", OleDbType.DBTimeStamp, 8);
+                param[31].Value =System.DateTime.Now;
+
+                param[32] = new OleDbParameter("@FeName", OleDbType.VarChar, 100);
+                param[32].Value = FeName; 
+
+                sMsg = "Record added successfully.";
+
+
+            }
+            else
+            {
+
+                sql = "Update CPV_CELLULAR_VERIFICATION set FINAL_CREDIT_STATUS_ID=?,DISCONNECT_CODE_ID=?, " +
+                        "ADDITIONAL_MTNL_1=?,ADDITIONAL_CELL=?,APP_MET=?,DOC_SIGHTED=?, " +
+                        "CONTACTIBILITY=?,WELCOM_VISIT=?,TARIF_PLAN=?,FIRST_Bill_EXP=?, " +
+                        "FUN_CARD=?,NATURE_OF_BUSINESS=?,OCCUPATION_ID=?,ADDITIONAL_MTNL_2=?, " +
+                        "Sub_Info_Audit=?,Audit_Job_Desc=?,RISK_RATING_BILLING=?,RISK_RATING_ALT=?, " +
+                        "Voucher_no=?,Sales_Flyers_Rcd=?,App_Accessibility=?,Zonal=?,IP_Comments=?,PV_Tag=?," +
+                        "Sim_Used_By=?,Email=?,DDB=?,Comment_Code=?,Comment_Reason=?,MODIFY_BY=?,MODIFY_DATE=?,Fe_Name=?  where CASE_ID=? ";
+
+
+                param[0] = new OleDbParameter("@Credit_Status_Code", OleDbType.VarChar, 50);
+                param[0].Value = Credit_Status_Code;
+
+                param[1] = new OleDbParameter("@Disconnected_Code", OleDbType.VarChar, 50);
+                param[1].Value = Disconnected_Code;
+
+                param[2] = new OleDbParameter("@Additional_Mtnl", OleDbType.VarChar, 20);
+                param[2].Value = Additional_Mtnl1;
+
+                param[3] = new OleDbParameter("@Additional_Cell", OleDbType.VarChar, 20);
+                param[3].Value = Additional_Cell;
+
+                param[4] = new OleDbParameter("@Sub_Met", OleDbType.VarChar, 50);
+                if (Sub_Met == "")
+                {
+                    param[4].Value = System.DBNull.Value;
+                }
+                else
+                {
+                    param[4].Value = Sub_Met;
+                }
+
+                param[5] = new OleDbParameter("@Doc_Sighted", OleDbType.VarChar, 5);
+                param[5].Value = Doc_Sighted;
+
+                param[6] = new OleDbParameter("@Contactability", OleDbType.VarChar, 50);
+                param[6].Value = Contactability;
+
+                param[7] = new OleDbParameter("@Welcome_Visit", OleDbType.VarChar, 1);
+                param[7].Value = Welcome_Visit;
+
+                param[8] = new OleDbParameter("@Terif_Plan", OleDbType.VarChar, 50);
+                param[8].Value = Terif_Plan;
+
+                param[9] = new OleDbParameter("@First_Bill_Exp", OleDbType.VarChar, 50);
+                param[9].Value = First_Bill_Exp;
+
+                param[10] = new OleDbParameter("@Fun_Card", OleDbType.VarChar, 100);
+                param[10].Value = Fun_Card;
+
+                param[11] = new OleDbParameter("@Nature_Of_Bussiness", OleDbType.VarChar, 100);
+                param[11].Value = Nature_Of_Bussiness;
+
+                param[12] = new OleDbParameter("@Occupation", OleDbType.VarChar, 50);
+                param[12].Value = Occupation;
+
+                param[13] = new OleDbParameter("@Additional_Mtnl2", OleDbType.VarChar, 50);
+                param[13].Value = Additional_Mtnl2;
+
+                param[14] = new OleDbParameter("@SubInfoAudit", OleDbType.VarChar, 50);
+                param[14].Value = SubInfoAudit;
+
+                param[15] = new OleDbParameter("@AuditJobDesc", OleDbType.VarChar, 50);
+                param[15].Value = AuditJobDesc;
+
+                param[16] = new OleDbParameter("@RiskRatingBilling", OleDbType.VarChar, 50);
+                param[16].Value = RiskRatingBilling;
+
+                param[17] = new OleDbParameter("@RiskRatingAlt", OleDbType.VarChar, 100);
+                param[17].Value = RiskRatingAlt;
+
+                param[18] = new OleDbParameter("@VoucherNumber", OleDbType.VarChar, 50);
+                param[18].Value = VoucherNumber;
+
+                param[19] = new OleDbParameter("@SalesFlyersRcd", OleDbType.VarChar, 5);
+                param[19].Value = SalesFlyersRcd;
+                
+
+                param[20] = new OleDbParameter("@ApplicantAccessibility", OleDbType.VarChar, 50);
+                param[20].Value = ApplicantAccessibility;
+
+                param[21] = new OleDbParameter("@Zonal", OleDbType.VarChar, 25);
+                param[21].Value = Zonal;
+
+                param[22] = new OleDbParameter("@IPComments", OleDbType.VarChar, 1000);
+                param[22].Value = IPComments;
+
+                param[23] = new OleDbParameter("@PVTag", OleDbType.VarChar, 50);
+                param[23].Value = PVTag;
+                
+
+                param[24] = new OleDbParameter("@SimUsedBy", OleDbType.VarChar, 50);
+                param[24].Value = SimUsedBy;
+
+                param[25] = new OleDbParameter("@Email", OleDbType.VarChar, 50);
+                param[25].Value = Email;
+
+                param[26] = new OleDbParameter("@DDB", OleDbType.VarChar, 50);
+                param[26].Value = DDB;
+
+                param[27] = new OleDbParameter("@CommentCode", OleDbType.VarChar, 100);
+                param[27].Value = CommentCode;
+
+                param[28] = new OleDbParameter("@CommentCodeReason", OleDbType.VarChar, 255);
+                param[28].Value = CommentCodeReason;
+
+                param[29] = new OleDbParameter("@ModifiedBy", OleDbType.VarChar, 15);
+                param[29].Value = HttpContext.Current.Session["UserId"];
+
+                param[30] = new OleDbParameter("@ModifiedDate", OleDbType.DBTimeStamp, 8);
+                param[30].Value = System.DateTime.Now;
+
+                param[31] = new OleDbParameter("@FeName", OleDbType.VarChar, 100);
+                param[31].Value = FeName; 
+
+                param[32] = new OleDbParameter("@CaseID", OleDbType.VarChar, 15);
+                param[32].Value = CaseID;
+
+                sMsg = "Record Updated successfully.";
+
+            }
+            OleDbHelper.ExecuteNonQuery(oledbTrans, CommandType.Text, sql, param);
+
+
+            sqlSelectQuery = "";
+            sqlSelectQuery = "Select CASE_ID from CPV_CELLULAR_VERI_ATTEMPTS " +
+                                        "where CASE_ID='" + CaseID + "'";
+            objoledbDR = OleDbHelper.ExecuteReader(objconn.ConnectionString, CommandType.Text, sqlSelectQuery);
+            OleDbParameter[] param1 = new OleDbParameter[4];
+            if (objoledbDR.Read() == false)
+            {
+
+
+                sql1 = "INSERT INTO CPV_CELLULAR_VERI_ATTEMPTS (VERIFIER,ATTEMPT_DATETIME,REMARK ," +
+                "CASE_ID) values (?,?,?,?)";
+
+                param1[0] = new OleDbParameter("@VERIFIER", OleDbType.VarChar, 50);
+                param1[0].Value = Fe;
+
+                param1[1] = new OleDbParameter("@ATTEMPT_DATETIME", OleDbType.Date, 8);
+                param1[1].Value = Visit_Date;
+
+                param1[2] = new OleDbParameter("@Remark", OleDbType.VarChar, 2000);
+                param1[2].Value = Remark;
+
+                param1[3] = new OleDbParameter("@CASE_ID", OleDbType.VarChar, 15);
+                param1[3].Value = CaseID;
+
+                sMsg = "Record added successfully.";
+            }
+            else
+            {
+
+                sql1 = "Update CPV_CELLULAR_VERI_ATTEMPTS set VERIFIER=?,ATTEMPT_DATETIME=? ,REMARK=? where CASE_ID=? ";
+
+
+                param1[0] = new OleDbParameter("@VERIFIER", OleDbType.VarChar, 50);
+                param1[0].Value = Fe;
+                param1[1] = new OleDbParameter("@ATTEMPT_DATETIME", OleDbType.Date, 8);
+                param1[1].Value = Visit_Date;
+                param1[2] = new OleDbParameter("@Remark", OleDbType.VarChar, 2000);
+                param1[2].Value = Remark;
+                param1[3] = new OleDbParameter("@CASE_ID", OleDbType.VarChar, 15);
+                param1[3].Value = CaseID;
+
+                sMsg = "Record Updated successfully.";
+
+            }
+
+            OleDbHelper.ExecuteNonQuery(oledbTrans, CommandType.Text, sql1, param1);
+
+            OleDbParameter[] param2 = new OleDbParameter[20];
+            sql2 = "Update CPV_CELLULAR_CASES set COMP_ADDR1=?,COMP_ADDR2=?,COMP_ADDR3=?,COMP_STREET=?,COMP_CITY=?,COMP_PINCODE=?,COMP_PHONE1=?,COMP_PHONE2=? ,APP_ADDR1=?,APP_ADDR2=?,APP_ADDR3=?,APP_STREET=?,APP_CITY=?,APP_PINCODE=?,APP_PHONE1=?,APP_PHONE2=?,Credit_Stat=?,EXISTING_CELL_NO=?,Case_Status_id=?  where CASE_ID=? ";
+            param2[0] = new OleDbParameter("@COMP_ADDR1", OleDbType.VarChar, 100);
+            param2[0].Value = Companyaddress1;
+            param2[1] = new OleDbParameter("@COMP_ADDR2", OleDbType.VarChar, 100);
+            param2[1].Value = Companyaddress2;
+            param2[2] = new OleDbParameter("@COMP_ADDR3", OleDbType.VarChar, 100);
+            param2[2].Value = Companyaddress3;
+            param2[3] = new OleDbParameter("@COMP_STREET", OleDbType.VarChar, 100);
+            param2[3].Value = Companystreet;
+            param2[4] = new OleDbParameter("@COMP_CITY", OleDbType.VarChar, 50);
+            param2[4].Value = Companycity;
+            param2[5] = new OleDbParameter("@COMP_PINCODE", OleDbType.VarChar, 50);
+            param2[5].Value = Companypincode;
+            param2[6] = new OleDbParameter("@COMP_PHONE1", OleDbType.VarChar, 50);
+            param2[6].Value = Companyphone1;
+            param2[7] = new OleDbParameter("@COMP_PHONE2", OleDbType.VarChar, 50);
+            param2[7].Value = Companyphone2;
+
+
+            param2[8] = new OleDbParameter("@APP_ADDR1", OleDbType.VarChar, 100);
+            param2[8].Value = Residanceaddress1;
+            param2[9] = new OleDbParameter("@APP_ADDR2", OleDbType.VarChar, 100);
+            param2[9].Value = Residanceaddress2;
+            param2[10] = new OleDbParameter("@APP_ADDR3", OleDbType.VarChar, 100);
+            param2[10].Value = Residanceaddress3;
+            param2[11] = new OleDbParameter("@APP_STREET", OleDbType.VarChar, 50);
+            param2[11].Value = Residancestreet;
+            param2[12] = new OleDbParameter("@APP_CITY", OleDbType.VarChar, 50);
+            param2[12].Value = Residancecity;
+            param2[13] = new OleDbParameter("@APP_PINCODE", OleDbType.VarChar, 50);
+            param2[13].Value = Residancepincode;
+            param2[14] = new OleDbParameter("@APP_PHONE1", OleDbType.VarChar, 50);
+            param2[14].Value = Residancephone1;
+            param2[15] = new OleDbParameter("@APP_PHONE2", OleDbType.VarChar, 50);
+            param2[15].Value = Residancephone2;
+            param2[16] = new OleDbParameter("@CreditStatus", OleDbType.VarChar, 50);
+            param2[16].Value = CreditStatus; 
+
+            param2[17] = new OleDbParameter("@RefCellNo", OleDbType.VarChar, 50);
+            param2[17].Value = RefCellNo;
+
+            param2[18] = new OleDbParameter("@CaseStatusId", OleDbType.VarChar, 15);
+            param2[18].Value = CaseStatusId; 
+
+            param2[19] = new OleDbParameter("@CASE_ID", OleDbType.VarChar, 15);
+            param2[19].Value = CaseID;
+
+            sMsg = "Record Updated successfully.";
+
+            OleDbHelper.ExecuteNonQuery(oledbTrans, CommandType.Text, sql2, param2);
+
+            //Start Insert into CASE_TRANSACTION_LOG -------------------
+            sql = "";
+            sql = "Insert into CASE_TRANSACTION_LOG(CASE_ID,VERIFICATION_TYPE_ID,USER_ID,TRANS_START,TRANS_END," +
+                 "CENTRE_ID,PRODUCT_ID,CLIENT_ID) VALUES(?,?,?,?,?,?,?,?)";
+
+            OleDbParameter[] paramTransLog = new OleDbParameter[8];
+            paramTransLog[0] = new OleDbParameter("@CaseID", OleDbType.VarChar, 15);
+            paramTransLog[0].Value = CaseID;
+            paramTransLog[1] = new OleDbParameter("@VerficationTypeID", OleDbType.VarChar, 15);
+            paramTransLog[1].Value = VerficationTypeID;
+            paramTransLog[2] = new OleDbParameter("@UserId", OleDbType.VarChar, 15);
+            paramTransLog[2].Value = UserId;
+            paramTransLog[3] = new OleDbParameter("@TransStart", OleDbType.DBTimeStamp);
+            paramTransLog[3].Value = TransStart;
+            paramTransLog[4] = new OleDbParameter("@TransEnd", OleDbType.DBTimeStamp);
+            paramTransLog[4].Value = TransEnd;
+            paramTransLog[5] = new OleDbParameter("@CentreId", OleDbType.VarChar, 15);
+            paramTransLog[5].Value = CentreId;
+            paramTransLog[6] = new OleDbParameter("@ProductId", OleDbType.VarChar, 15);
+            paramTransLog[6].Value = ProductId;
+            paramTransLog[7] = new OleDbParameter("@ClientId", OleDbType.VarChar, 15);
+            paramTransLog[7].Value = ClientId;
+
+            OleDbHelper.ExecuteNonQuery(oledbTrans, CommandType.Text, sql, paramTransLog);
+
+            //End  Insert into CASE_TRANSACTION_LOG --------------------
+
+            //Update CPV_CC_Case_details with status 'Y' ---------------
+            if (IsVerificationComplete(oledbTrans, CaseID) == "true")
+            {
+                VerificationComplete(oledbTrans, CaseID);
+                sMsg += " Case verification data entry completed.";
+            }
+            /////////////////////////////////////////////////////////////////////////////////////////////
+            /////////////////////////////////////////////////////////////////////////////////////////////
+
+            oledbTrans.Commit();
+            conn.Close();
+            return sMsg;
+
+
+        }
+        catch (Exception ex)
+        {
+            oledbTrans.Rollback();
+            conn.Close();
+            throw new Exception("Error while Submiting " + ex.Message);
+        }
+    }
+   
+
+    public OleDbDataReader GetStatusId(string sCaseId)
+    {
+        string sSql = "";
+        sSql = "SELECT Ref_No,CASE_ID,CELLNO,(ISNULL(APP_FNAME,' ')+'   '+ISNULL(APP_MNAME,' ')+'   '+ISNULL(APP_LNAME,' '))AS APP_FNAME," +
+                "COMP_ADDR1,COMP_ADDR3,COMP_ADDR2,COMP_STREET,COMP_CITY,COMP_PINCODE,COMP_PHONE1,COMP_PHONE2," +
+                "APP_ADDR1,APP_ADDR2,APP_ADDR3,APP_CITY,APP_PINCODE,APP_STREET,APP_PHONE1,APP_PHONE2,CASE_REC_DATETIME,CUSTOMER_CLASS,CASE_STATUS_ID,DESIGNATION,EXISTING_CELL_NO,PREVIOUS_CREDITSTATUS,Credit_Stat  " +
+                "FROM CPV_CELLULAR_CASES  WHERE CASE_ID='" + sCaseId + "'";
+        return OleDbHelper.ExecuteReader(objconn.ConnectionString, CommandType.Text, sSql);
+    }
+    public OleDbDataReader GetCaseTypeCode(string sCaseId)
+    {
+        string sSql = "";
+        sSql = " select ccc.Case_Type_ID,ctm.Case_Type_Code from CPV_CELLULAR_CASES as ccc inner join "+ 
+               " CPV_CELLULAR_CASE_TYPE_MASTER as ctm on ccc.case_type_id = ctm.case_Type_id where case_Id='" + sCaseId + "'";
+        return OleDbHelper.ExecuteReader(objconn.ConnectionString, CommandType.Text, sSql);
+    }
+    public OleDbDataReader GetCellularEntryDetail(string sCaseID)
+    {
+        string sSql = "";
+        sSql = "SELECT cv.DDB,cv.DISCONNECT_CODE_ID,FINAL_REMARK,ADDITIONAL_MTNL_1," +
+            "ADDITIONAL_CELL,APP_MET,DOC_SIGHTED,CONTACTIBILITY,WELCOM_VISIT,TARIF_PLAN,FIRST_Bill_EXP," +
+            "FUN_CARD,NATURE_OF_BUSINESS,SPECIAL_INSTRUCTION,OCCUPATION_ID,ADDITIONAL_MTNL_2,Sub_Info_Audit,Audit_Job_Desc, " +
+            "RISK_RATING_ALT," +
+            "Voucher_no,Sales_Flyers_Rcd,Sim_Used_By,Email,App_Accessibility,Zonal,IP_Comments,PV_Tag,RISK_RATING_BILLING,Comment_Code,Comment_Reason,credit_status,Fe_Name,final_credit_status_id from CPV_CELLULAR_VERIFICATION cv " +
+            //" inner join CPV_CELLULAR_DISCONNECTED_CODE cd on cv.DISCONNECT_CODE_ID=cd.DISCONNECTED_CODE_ID  " +
+            " where CASE_ID='" + sCaseID + "'";
+        return OleDbHelper.ExecuteReader(objconn.ConnectionString, CommandType.Text, sSql);
+    }
+
+    public OleDbDataReader GetVerifier(string sCaseID)
+    {
+        string sSql = "";
+        sSql = "SELECT ATTEMPT_DATETIME,REMARK from CPV_CELLULAR_VERI_ATTEMPTS where CASE_ID='" + sCaseID + "'";
+
+
+        return OleDbHelper.ExecuteReader(objconn.ConnectionString, CommandType.Text, sSql);
+    }
+
+    public OleDbDataReader GetFEID(string sCaseID)
+    {
+        string sSql = "";
+        sSql = "SELECT VW.FULLNAME,CMAP.FE_ID from FE_VW AS VW INNER JOIN  CPV_CELLULAR_FE_CASE_MAPPING AS CMAP ON (VW.EMP_ID=CMAP.FE_ID) WHERE CMAP.CASE_ID='" + sCaseID + "'";
+        return OleDbHelper.ExecuteReader(objconn.ConnectionString, CommandType.Text, sSql);
+    }
+
+    public OleDbDataReader GetCaseID(string sCaseId, string sClientId, string sCentreId)
+    {
+        string sSql = "";
+        sSql = "SELECT CASE_ID FROM CPV_CELLULAR_CASES WHERE CASE_ID='" + objconn.FixQuotes(sCaseId) + "'" +
+            " AND CLIENT_ID='" + sClientId + "'" +
+             " AND Centre_Id='" + sCentreId + "'" +
+              " AND SEND_DATETIME IS NULL ";
+        return OleDbHelper.ExecuteReader(objconn.ConnectionString, CommandType.Text, sSql);
+    }
+
+    
+    public OleDbDataReader GetVerifierID(string sCaseId)
+    {
+        string sSql = "";
+        sSql = "select FE_ID from CPV_CELLULAR_FE_CASE_MAPPING where case_id='" + sCaseId + "' ";
+
+
+        return OleDbHelper.ExecuteReader(objconn.ConnectionString, CommandType.Text, sSql);
+    }
+
+    public DataTable GetView(string sRefNo)
+    {
+        string sSql = "";
+
+        DataTable dt = new DataTable();
+
+        sSql = " select Case_ID,REF_NO, CASE_REC_DATETIME,SEND_DATETIME,(isNull(APP_FNAME,'')+' '+isnull(APP_MNAME,'')+' '+isnull(APP_LNAME,'')) as ApplicantName," +
+                " REMARK,Status_Name,CELLNO,ctm.Case_Type from CPV_CELLULAR_CASES as ccc " +
+                " left join CASE_STATUS_MASTER as csm on ccc.CASE_STATUS_ID = csm.CASE_STATUS_ID " +
+                " inner join CPV_CELLULAR_CASE_TYPE_MASTER as ctm on ccc.Case_Type_ID=ctm.Case_Type_ID " +
+                " where REF_NO='" + sRefNo + "'";
+
+        OleDbDataAdapter oledbDa = new OleDbDataAdapter(sSql, objconn.ConnectionString);
+        DataSet ds = new DataSet();
+        oledbDa.Fill(ds, "Ref");
+        dt = ds.Tables["Ref"];
+        return dt;
+
+    }
+
+    public DataTable GetDiscCode()
+    {
+        string sSql = "";
+
+        DataTable dt = new DataTable();
+
+        sSql = "SELECT DISTINCT [DISCONNECTED_CODE] FROM [CPV_CELLULAR_DISCONNECTED_CODE]as cd  " +
+               "inner join CASE_STATUS_MASTER as cm on cd.CASE_STATUS_ID=cm.CASE_STATUS_ID ";
+
+        OleDbDataAdapter oledbDa = new OleDbDataAdapter(sSql, objconn.ConnectionString);
+        DataSet ds = new DataSet();
+        oledbDa.Fill(ds, "DiscCode");
+        dt = ds.Tables["DiscCode"];
+        return dt;
+
+    }
+
+
+    public DataTable GetCommentCode()
+    {
+        string sSql = "";
+
+        DataTable dt = new DataTable();
+
+        sSql = "SELECT DISCONNECTED_CODE_ID,[COMMENTS_CODE] FROM [CPV_CELLULAR_DISCONNECTED_CODE] ";
+               
+        OleDbDataAdapter oledbDa = new OleDbDataAdapter(sSql, objconn.ConnectionString);
+        DataSet ds = new DataSet();
+        oledbDa.Fill(ds, "CommentCode");
+        dt = ds.Tables["CommentCode"];
+        return dt;
+
+    }
+   
+    public DataTable GetCommentCodeONIndexZero(string id)
+    {
+        string sSql = "";
+
+        DataTable dt = new DataTable();
+
+        sSql = "SELECT '0'as DISCONNECTED_CODE_ID,'Select' as [COMMENTS_CODE] FROM [CPV_CELLULAR_DISCONNECTED_CODE] " +
+        " union   SELECT DISCONNECTED_CODE_ID,[COMMENTS_CODE] FROM [CPV_CELLULAR_DISCONNECTED_CODE] " +
+       " where DISCONNECTED_CODE='" + id + "'" + " and COMMENTS_CODE is not null"; 
+
+        OleDbDataAdapter oledbDa = new OleDbDataAdapter(sSql, objconn.ConnectionString);
+        DataSet ds = new DataSet();
+        oledbDa.Fill(ds, "CommentCode");
+        dt = ds.Tables["CommentCode"];
+        return dt;
+
+    }
+
+   public string  CaseRecieved()
+   {
+       string sSql = "";
+       string massage = "";
+       object o;
+       sSql = "select CASE_REC_FROM_FE from CPV_CELLULAR_CASES where case_id=" + CaseID + " ";
+       o = OleDbHelper.ExecuteScalar(objconn.ConnectionString, CommandType.Text, sSql);
+       string res= o.ToString();
+       if (res == "" || res =="N")
+       {
+           sSql = "update CPV_CELLULAR_CASES set CASE_REC_FROM_FE = 'Y' where case_id=" + CaseID + " ";
+           OleDbHelper.ExecuteNonQuery(objconn.ConnectionString, CommandType.Text, sSql);
+           massage = "Case recieved from FE";
+       }
+       else
+       {
+           massage = "Case already recieved from FE";
+       }
+       return massage;
+   }
+
+   #region IsVerificationComplete
+   //Name             :   IsVerificationComplete
+   //Create By		   :   Hemangi Kambli
+   //Create Date	   :   03 Aug 2007
+   //Remarks 		   :   This method is used to check whether verification of case is completed or not.
+
+    public string IsVerificationComplete(OleDbTransaction oledbTrans, string sCaseId)
+   {
+       string sSql = "";
+       OleDbDataReader oledbRead;
+       string bComplete = "";
+       sSql = " Select case (select count(*) from CPV_CELLULAR_CASE_VERIFICATIONTYPE " +
+             " where case_id='" + sCaseId + "') " +
+             " when (select count(*) from CPV_CEL_CASE_EXPORT_VW where case_id='" + sCaseId + "') " +
+             " then 'true' else 'false' end as IsComplete";
+
+       oledbRead = OleDbHelper.ExecuteReader(oledbTrans, CommandType.Text, sSql);
+       if (oledbRead.Read() == true)
+           bComplete = oledbRead["IsComplete"].ToString();
+
+       return bComplete;
+   }
+
+   #endregion IsVerificationComplete
+
+   #region VerificationComplete after completing verification IS_CASE_COMPLETE='Y'
+    public void VerificationComplete(OleDbTransaction oledbTrans, string sCaseId)
+   {
+       string sSql = "";
+       sSql = "Update CPV_CELLULAR_CASES SET IS_CASE_COMPLETE='Y' WHERE CASE_ID='" + sCaseId + "'";
+       OleDbHelper.ExecuteNonQuery(oledbTrans, CommandType.Text, sSql);
+   }
+   #endregion VerificationComplete
+}
+

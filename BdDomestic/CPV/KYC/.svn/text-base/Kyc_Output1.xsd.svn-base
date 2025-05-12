@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Kyc_Output" targetNamespace="http://tempuri.org/Kyc_Output.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/Kyc_Output.xsd" xmlns:mstns="http://tempuri.org/Kyc_Output.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Kyc_Hdfc_Resi">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="verification_type_id" type="xs:string" />
+        <xs:element name="branch_name" type="xs:string" />
+        <xs:element name="branch_code" type="xs:string" />
+        <xs:element name="reason_cpv" type="xs:string" />
+        <xs:element name="first_name" type="xs:string" />
+        <xs:element name="res_add_line_1" type="xs:string" />
+        <xs:element name="mobile" type="xs:string" />
+        <xs:element name="resi_pincode" type="xs:string" />
+        <xs:element name="resi_landmark" type="xs:string" />
+        <xs:element name="area_residence" type="xs:string" />
+        <xs:element name="name_displayed_board" type="xs:string" />
+        <xs:element name="name_plate_of_app_sighted" type="xs:string" />
+        <xs:element name="other_institution_demat_account" type="xs:string" />
+        <xs:element name="name_of_dp" type="xs:string" />
+        <xs:element name="person_contacted" type="xs:string" />
+        <xs:element name="relationship_with_applicant" type="xs:string" />
+        <xs:element name="resi_tel_no" type="xs:string" />
+        <xs:element name="res_phone" type="xs:string" />
+        <xs:element name="email_id" type="xs:string" />
+        <xs:element name="business_activity_seen" type="xs:string" />
+        <xs:element name="staying_since_resi" type="xs:string" />
+        <xs:element name="general_comments" type="xs:string" />
+        <xs:element name="attempt_date_time" type="xs:string" />
+        <xs:element name="remark" type="xs:string" />
+        <xs:element name="Case_id" type="xs:string" />
+        <xs:element name="ResiAdd" type="xs:string" />
+        <xs:element name="Person_issued_Cerificate_spoken" type="xs:string" />
+        <xs:element name="emp_code" type="xs:string" />
+        <xs:element name="FullName" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Kyc_Hdfc_Buss">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="VERIFICATION_TYPE_ID" type="xs:string" />
+        <xs:element name="branch_name" type="xs:string" />
+        <xs:element name="branch_code" type="xs:string" />
+        <xs:element name="reason_cpv" type="xs:string" />
+        <xs:element name="Off_Name" type="xs:string" />
+        <xs:element name="mobile" type="xs:string" />
+        <xs:element name="off_pin_code" type="xs:string" />
+        <xs:element name="prominent_landmark" type="xs:string" />
+        <xs:element name="area_premises" type="xs:string" />
+        <xs:element name="name_displayed_board" type="xs:string" />
+        <xs:element name="sign_sighted_remark" type="xs:string" />
+        <xs:element name="properietor_partener_met" type="xs:string" />
+        <xs:element name="contactperson" type="xs:string" />
+        <xs:element name="designation" type="xs:string" />
+        <xs:element name="bussiness_tel_no" type="xs:string" />
+        <xs:element name="email_id" type="xs:string" />
+        <xs:element name="broking_through_other" type="xs:string" />
+        <xs:element name="no_years_current_employment" type="xs:string" />
+        <xs:element name="third_party_invoice_issued_by" type="xs:string" />
+        <xs:element name="third_party_address" type="xs:string" />
+        <xs:element name="no_employees" type="xs:string" />
+        <xs:element name="business_equipment_sighted" type="xs:string" />
+        <xs:element name="attempt_date_time" type="xs:string" />
+        <xs:element name="remark" type="xs:string" />
+        <xs:element name="case_id" type="xs:string" />
+        <xs:element name="OffAdd" type="xs:string" />
+        <xs:element name="business_activity" type="xs:string" />
+        <xs:element name="emp_code" type="xs:string" />
+        <xs:element name="Cerificate_person_confirm" type="xs:string" />
+        <xs:element name="FullName" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Main">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="case_id" type="xs:string" />
+        <xs:element name="verification_type_id" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Kyc_ScbAC_Resi">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="case_id" type="xs:string" />
+        <xs:element name="case_rec_datetime" type="xs:string" />
+        <xs:element name="send_datetime" type="xs:string" />
+        <xs:element name="first_name" type="xs:string" />
+        <xs:element name="ResiAddress" type="xs:string" />
+        <xs:element name="resi_pincode" type="xs:string" />
+        <xs:element name="resi_tel_no" type="xs:string" />
+        <xs:element name="resi_landmark" type="xs:string" />
+        <xs:element name="full_name" type="xs:string" />
+        <xs:element name="Permanent_Address" type="xs:string" />
+        <xs:element name="Permanent_Pincode" type="xs:string" />
+        <xs:element name="Permamnent_Tel_no" type="xs:string" />
+        <xs:element name="Staying_since_Resi" type="xs:string" />
+        <xs:element name="Business_Occupation_Details" type="xs:string" />
+        <xs:element name="RV_COMMENT" type="xs:string" />
+        <xs:element name="Person_Contacted" type="xs:string" />
+        <xs:element name="Relationship_with_Applicant" type="xs:string" />
+        <xs:element name="Place_Visited" type="xs:string" />
+        <xs:element name="Name_Plate_Of_App_Sighted" type="xs:string" />
+        <xs:element name="Area_Residence" type="xs:string" />
+        <xs:element name="Locating_Address" type="xs:string" />
+        <xs:element name="Business_activity_Seen" type="xs:string" />
+        <xs:element name="General_Comments" type="xs:string" />
+        <xs:element name="Remark" type="xs:string" />
+        <xs:element name="attempt_date_time" type="xs:string" />
+        <xs:element name="verification_type_id" type="xs:string" />
+        <xs:element name="description_res" type="xs:string" />
+        <xs:element name="VeriName" type="xs:string" />
+        <xs:element name="Status" type="xs:string" />
+        <xs:element name="veri_date_time" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Kyc_ScbAC_Buss">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="case_id" type="xs:string" />
+        <xs:element name="first_name" type="xs:string" />
+        <xs:element name="OffAddress" type="xs:string" />
+        <xs:element name="off_pin_code" type="xs:string" />
+        <xs:element name="bussiness_tel_no" type="xs:string" />
+        <xs:element name="full_name" type="xs:string" />
+        <xs:element name="entity_type" type="xs:string" />
+        <xs:element name="properietor_Partener_Met" type="xs:string" />
+        <xs:element name="Name_person_contacted" type="xs:string" />
+        <xs:element name="Person_Contacted" type="xs:string" />
+        <xs:element name="Designation" type="xs:string" />
+        <xs:element name="Premise_Location" type="xs:string" />
+        <xs:element name="Prominent_Landmark" type="xs:string" />
+        <xs:element name="Address_Verified_is" type="xs:string" />
+        <xs:element name="How_long_Business" type="xs:string" />
+        <xs:element name="Area_Premises" type="xs:string" />
+        <xs:element name="Ownership_Premises" type="xs:string" />
+        <xs:element name="Type_Premise" type="xs:string" />
+        <xs:element name="ContactPerson" type="xs:string" />
+        <xs:element name="Nature_Business" type="xs:string" />
+        <xs:element name="Firm_Signboard_Sighted" type="xs:string" />
+        <xs:element name="Name_On_Sign_Board" type="xs:string" />
+        <xs:element name="Concern_Is_Related" type="xs:string" />
+        <xs:element name="Concern_Related_Name" type="xs:string" />
+        <xs:element name="Family_Member_Is" type="xs:string" />
+        <xs:element name="Family_Member_Name" type="xs:string" />
+        <xs:element name="Family_Member_Relationship" type="xs:string" />
+        <xs:element name="Type_Document_Sighted" type="xs:string" />
+        <xs:element name="Document_Sighted_Remark" type="xs:string" />
+        <xs:element name="Used_Pages_Sighted_Date" type="xs:string" />
+        <xs:element name="Issued_to" type="xs:string" />
+        <xs:element name="Initial_Invoice_Sighted_No" type="xs:string" />
+        <xs:element name="Initial_Invoice_Sighted_Date" type="xs:string" />
+        <xs:element name="Initial_Invoice_issued_to" type="xs:string" />
+        <xs:element name="Third_Party_Invoice_No" type="xs:string" />
+        <xs:element name="Third_Party_Invoice_Date" type="xs:string" />
+        <xs:element name="Third_Party_Invoice_Issued_by" type="xs:string" />
+        <xs:element name="Third_Party_Address" type="xs:string" />
+        <xs:element name="Relationship_between" type="xs:string" />
+        <xs:element name="Business_Ownership" type="xs:string" />
+        <xs:element name="Level_Business_Activity" type="xs:string" />
+        <xs:element name="No_Employees" type="xs:string" />
+        <xs:element name="Business_Equipment_Sighted" type="xs:string" />
+        <xs:element name="Remark" type="xs:string" />
+        <xs:element name="verification_type_id" type="xs:string" />
+        <xs:element name="Add_date" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Kyc_ScbAc_CA">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="case_id" type="xs:string" />
+        <xs:element name="Name_Account" type="xs:string" />
+        <xs:element name="Request_No" type="xs:string" />
+        <xs:element name="Name_CA_firms" type="xs:string" />
+        <xs:element name="Address_CA_Firm" type="xs:string" />
+        <xs:element name="tele_no_ca_firm" type="xs:string" />
+        <xs:element name="firm_Exist_Address" type="xs:string" />
+        <xs:element name="IS_CA_firm" type="xs:string" />
+        <xs:element name="Name_Person_CA_Certificate" type="xs:string" />
+        <xs:element name="IS_person_case_praticing" type="xs:string" />
+        <xs:element name="Person_issued_Cerificate_spoken" type="xs:string" />
+        <xs:element name="Cerificate_person_confirm" type="xs:string" />
+        <xs:element name="inconclusive_Reason" type="xs:string" />
+        <xs:element name="verification_type_id" type="xs:string" />
+        <xs:element name="ref_no" type="xs:string" />
+        <xs:element name="status" type="xs:string" />
+        <xs:element name="veri_date_time" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>297</MenuID>
+    <Text>I-RPC</Text>
+    <Description>I-RPC</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>300</MenuID>
+      <Text>BDE</Text>
+      <Description>BDE</Description>
+      <PagePath>~/Pages/ICICIRPC/BDE.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>310</MenuID>
+      <Text>Bank calculation</Text>
+      <Description>Bank calculation</Description>
+      <PagePath>~/Pages/ICICIRPC/Bank_Cal.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>301</MenuID>
+      <Text>CAM</Text>
+      <Description>CAM</Description>
+      <PagePath>~/Pages/ICICIRPC/CAM.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>302</MenuID>
+      <Text>CPV</Text>
+      <Description>CPV</Description>
+      <PagePath>~/Pages/ICICIRPC/CPV.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>311</MenuID>
+      <Text>Doc Upload</Text>
+      <Description>Doc Upload</Description>
+      <PagePath>~/Pages/ICICIRPC/Doc_import.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

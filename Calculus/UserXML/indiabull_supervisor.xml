@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>605</MenuID>
+    <Text>IndiaBulls</Text>
+    <Description>IndiaBulls</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>606</MenuID>
+      <Text>Import</Text>
+      <Description>Import</Description>
+      <PagePath>~/Pages/IndiaBull/Import.aspx</PagePath>
+      <ParentID>605</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>609</MenuID>
+      <Text>Role Master</Text>
+      <Description>Role Master</Description>
+      <PagePath>~/Pages/IndiaBull/RoleMaster.aspx</PagePath>
+      <ParentID>605</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>610</MenuID>
+      <Text>Superadmin</Text>
+      <Description>Superadmin</Description>
+      <PagePath>~/Pages/IndiaBull/Superadmin.aspx</PagePath>
+      <ParentID>605</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>611</MenuID>
+      <Text>MIS</Text>
+      <Description>MIS</Description>
+      <PagePath>~/Pages/IndiaBull/IndiaBullsMIS.aspx</PagePath>
+      <ParentID>605</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>612</MenuID>
+      <Text>Manual Entry</Text>
+      <Description>Manual Entry</Description>
+      <PagePath>~/Pages/IndiaBull/ManualEntry.aspx</PagePath>
+      <ParentID>605</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

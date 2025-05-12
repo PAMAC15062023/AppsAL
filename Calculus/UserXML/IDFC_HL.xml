@@ -1,0 +1,141 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>638</MenuID>
+    <Text>IDFC HL</Text>
+    <Description>IDFC HL</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>639</MenuID>
+      <Text>IDFC Data</Text>
+      <Description>IDFC Data</Description>
+      <PagePath>~/Pages/IDFC_HL/IDFC.aspx</PagePath>
+      <ParentID>638</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>640</MenuID>
+      <Text>Discrepancy Incomplete</Text>
+      <Description>Discrepancy Incomplete</Description>
+      <PagePath>~/Pages/IDFC_HL/Discrepancy.aspx</PagePath>
+      <ParentID>638</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>656</MenuID>
+      <Text>Banking Analysis</Text>
+      <Description>Banking Analysis</Description>
+      <PagePath>~/Pages/IDFC_HL/Banking_details.aspx</PagePath>
+      <ParentID>638</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>641</MenuID>
+      <Text>IDFC HL - CPV Firing</Text>
+      <Description>IDFC HL - CPV Firing</Description>
+      <PagePath />
+      <ParentID>638</ParentID>
+      <Menu>
+        <MenuID>642</MenuID>
+        <Text>TVR And PD</Text>
+        <Description>TVR And PD</Description>
+        <PagePath />
+        <ParentID>641</ParentID>
+        <Menu>
+          <MenuID>643</MenuID>
+          <Text>TVR &amp; PD Initiation</Text>
+          <Description>TVR &amp; PD Initiation</Description>
+          <PagePath>~/Pages/IDFC_HL/TVR_PD_Master.aspx</PagePath>
+          <ParentID>642</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>644</MenuID>
+          <Text>TVR &amp; PD Agency Master</Text>
+          <Description>TVR &amp; PD Agency Master</Description>
+          <PagePath>~/Pages/IDFC_HL/TVRPD_Agency_Manager.aspx</PagePath>
+          <ParentID>642</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>645</MenuID>
+        <Text>CPV -Agency</Text>
+        <Description>CPV -Agency</Description>
+        <PagePath />
+        <ParentID>641</ParentID>
+        <Menu>
+          <MenuID>646</MenuID>
+          <Text>CPV-Initiation</Text>
+          <Description>CPV-Initiation</Description>
+          <PagePath>~/Pages/IDFC_HL/cpvfiring.aspx</PagePath>
+          <ParentID>645</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>647</MenuID>
+          <Text>CPV Agency Master</Text>
+          <Description>CPV Agency Master</Description>
+          <PagePath>~/Pages/IDFC_HL/CPV_Agency_Manager.aspx</PagePath>
+          <ParentID>645</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>648</MenuID>
+        <Text>Legal</Text>
+        <Description>Legal</Description>
+        <PagePath />
+        <ParentID>641</ParentID>
+        <Menu>
+          <MenuID>649</MenuID>
+          <Text>Legal Initiation</Text>
+          <Description>Legal Initiation</Description>
+          <PagePath>~/Pages/IDFC_HL/Legal_Master.aspx</PagePath>
+          <ParentID>648</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>650</MenuID>
+          <Text>Legal Agency Master</Text>
+          <Description>Legal Agency Master</Description>
+          <PagePath>~/Pages/IDFC_HL/Legal_AgencyManager.aspx</PagePath>
+          <ParentID>648</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>651</MenuID>
+        <Text>Technical</Text>
+        <Description>Technical</Description>
+        <PagePath />
+        <ParentID>641</ParentID>
+        <Menu>
+          <MenuID>652</MenuID>
+          <Text>Technical Initiation</Text>
+          <Description>Technical Initiation</Description>
+          <PagePath>~/Pages/IDFC_HL/Technical.aspx</PagePath>
+          <ParentID>651</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>653</MenuID>
+          <Text>Technical Agency Master</Text>
+          <Description>Technical Agency Master</Description>
+          <PagePath>~/Pages/IDFC_HL/Technical_AgencyManager.aspx</PagePath>
+          <ParentID>651</ParentID>
+        </Menu>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>654</MenuID>
+      <Text>MIS</Text>
+      <Description>MIS</Description>
+      <PagePath>~/Pages/IDFC_HL/IDFCMIS.aspx</PagePath>
+      <ParentID>638</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

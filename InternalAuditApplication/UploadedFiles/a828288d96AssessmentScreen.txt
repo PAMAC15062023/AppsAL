@@ -1,0 +1,36 @@
+
+Assessment screen:  Applicable only for auditor user.
+
+Bring one grid for this Auditor from Scheduler table where audit date is filled - edit button - 'Assessment' 
+and if existing in our Auditing table -  with status as Assignment or does not exist.
+
+On click :  input fields - GAP no:                        (1)
+
+On save & Continue;  Save and exit
+On save & continue :  Save record and refresh bottom panel. - Increment Gap no. --
+
+Save and exit - Save and and go back to menu.
+
+Status = Assignment 
+
+-------------------------
+First - some body at the HO preapres a schedule and gets it approved by Topl management
+Once approved - they will enter in our solution.- Import data
+Schedule is given to all auditors.
+The auditor would accept the schedule with the same date or revised date. - Scheduler and would continue to update 
+the scheduler at every stage (as a summary).
+
+Having decided to audit on a particular date - he/she will visit the unit and do an audit. 
+During the audit the auditor would find errors or gaps in implementing the rules of the company.- Assessment
+
+Auditee - CAP - will reply to each of the gap given by the auditor.
+Based on this the Auditor will also respond.  If satisfied - will close the gap and 
+if not satisfied he will raise it further till closure. - followup
+
+
+
+
+
+
+
+

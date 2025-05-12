@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>579</MenuID>
+    <Text>Menu</Text>
+    <Description>Menu</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>580</MenuID>
+      <Text>New Request</Text>
+      <Description>New Request</Description>
+      <PagePath>~/Pages/Inword Tracking Module/Manual Entry Form.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>592</MenuID>
+      <Text>MIS</Text>
+      <Description>MIS</Description>
+      <PagePath>~/Pages/Inword Tracking Module/MISPage.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>594</MenuID>
+      <Text>Pending With Business</Text>
+      <Description>Pending With Business</Description>
+      <PagePath>~/Pages/Inword Tracking Module/PendingStageClient.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>595</MenuID>
+      <Text>Case History</Text>
+      <Description>Case History</Description>
+      <PagePath>~/Pages/Inword Tracking Module/caseview.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>602</MenuID>
+      <Text>Dashboard</Text>
+      <Description>Dashboard</Description>
+      <PagePath>~/Pages/Inword Tracking Module/DashBoard.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>624</MenuID>
+      <Text>Feedback</Text>
+      <Description>Feedback</Description>
+      <PagePath>~/Pages/Inword Tracking Module/Feedback.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>626</MenuID>
+      <Text>Feedback and Survey Report</Text>
+      <Description>Feedback and Survey Report</Description>
+      <PagePath>~/Pages/Inword Tracking Module/FeedbackMIS.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

@@ -1,0 +1,137 @@
+﻿body 
+{
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	font-family:Arial;
+	font-size:8pt;
+    
+}
+.FormHeading
+{
+	font-family:Frutiger 47LightCn,Arial;
+	font-weight:bold;
+	font-size:11pt;
+}
+.txtBold
+{
+	font-family:Frutiger 47LightCn,Arial;
+	font-weight:bold;
+	font-size:9pt;
+}
+.txtRed
+{
+	font-family:Arial;
+	font-weight:bold;
+	color:Red;
+}
+.TDWidth
+{
+	width:30%;	
+}
+.TDWidth1
+{
+	width:70%;
+}
+.TDBGColor
+{
+    background-color:#D0D5D8;
+    font-weight:bold;
+}
+.LabelError
+{
+	color:#F87311;
+}
+ 
+.BlueBold
+{
+color: #3B5998;
+}
+
+
+.UpdateMessage
+{
+	font-weight: bold;
+	font-size: 8pt;
+	color: maroon;
+	font-family: Verdana, Tahoma;
+	background-color: navajowhite;
+	text-decoration: underline overline;
+}
+
+.ErrorMessage
+{
+	font-weight: bold;
+	font-size: 8pt;
+	color: red;
+	font-family: Verdana, Tahoma;
+	background-color: white;
+	text-decoration: underline overline;
+}
+.TableHeader
+{
+	font-weight: bold;
+	font-size: 9pt;
+	color: white;
+	border-bottom: #000066 thick solid;
+	font-family: Verdana, Tahoma;
+	background-color: #3399ff;
+}
+.TableTitle
+{
+	font-weight: bold;
+	font-size: 8pt;
+	color: darkblue;
+	font-family: Verdana, Tahoma;
+	background-color: lightblue;
+	border-right: #0066ff 1px solid;
+	border-top: #0066ff 1px solid;
+	border-left: #0066ff 1px solid;
+	border-bottom: #0066ff 1px solid;
+}
+.TEXTBOX
+{
+	font-size: 8pt;
+	font-family: Verdana, Tahoma;
+	 
+	text-transform: uppercase;
+}
+
+#shadow-container {
+	position: relative;
+	left: 3px;
+	top: 3px;
+	margin-right: 3px;
+	margin-bottom: 3px;
+}
+ 
+#shadow-container .shadow2,
+#shadow-container .shadow3,
+#shadow-container .container {
+	position: relative;
+	left: -1px;
+	top: -1px;
+}
+ 
+	#shadow-container .shadow1 {
+		background: #F1F0F1;
+	}
+ 
+	#shadow-container .shadow2 {
+		background: #DBDADB;
+	}
+ 
+	#shadow-container .shadow3 {
+		background: #B8B6B8;
+	}
+ 
+	#shadow-container .container {
+		background: #ffffff;
+		border: 1px solid #848284;
+		padding: 10px;
+	}
+	
+	
+ 
+ 

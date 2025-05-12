@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "G:\...\PublishMumbai10sep\", ".", "{71612DD5-970A-41E7-A720-CADEDDEFD97F}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/PublishMumbai"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Database_Backup\Database_Local\Final_Web_Config_Changes\PublishMumbai\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\PublishMumbai\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/PublishMumbai"
+		Release.AspNetCompiler.PhysicalPath = "D:\Database_Backup\Database_Local\Final_Web_Config_Changes\PublishMumbai\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\PublishMumbai\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63248"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71612DD5-970A-41E7-A720-CADEDDEFD97F}.Debug|.NET.ActiveCfg = Debug|.NET
+		{71612DD5-970A-41E7-A720-CADEDDEFD97F}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>111</MenuID>
+      <Text>Ticket Assignment</Text>
+      <Description>Ticket Assignment</Description>
+      <PagePath>~/Pages/Helpdesk/TicketAssignment.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>171</MenuID>
+      <Text>Reports</Text>
+      <Description>Reports</Description>
+      <PagePath>~/pages/helpdesk/Report.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>197</MenuID>
+    <Text>ICICI BLG</Text>
+    <Description>ICICI BLG</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>198</MenuID>
+      <Text>Case Entry</Text>
+      <Description>Case Entry</Description>
+      <PagePath>~/Pages/ICICIBank-BLGActivityMIS/First.aspx</PagePath>
+      <ParentID>197</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>199</MenuID>
+      <Text>Update Status</Text>
+      <Description>Update Status</Description>
+      <PagePath>~/Pages/ICICIBank-BLGActivityMIS/Second.aspx</PagePath>
+      <ParentID>197</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>200</MenuID>
+      <Text>Process Update</Text>
+      <Description>Process Update</Description>
+      <PagePath>~/Pages/ICICIBank-BLGActivityMIS/Third.aspx</PagePath>
+      <ParentID>197</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>201</MenuID>
+      <Text>Send To Client</Text>
+      <Description>Send To Client</Description>
+      <PagePath>~/Pages/ICICIBank-BLGActivityMIS/Fourth.aspx</PagePath>
+      <ParentID>197</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

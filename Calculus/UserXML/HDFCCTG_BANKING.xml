@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>613</MenuID>
+    <Text>HDFC-CTG</Text>
+    <Description>HDFC-CTG</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>615</MenuID>
+      <Text>LASER SOFT</Text>
+      <Description>LASER SOFT</Description>
+      <PagePath />
+      <ParentID>613</ParentID>
+      <Menu>
+        <MenuID>618</MenuID>
+        <Text>Indexing</Text>
+        <Description>Indexing</Description>
+        <PagePath>~/Pages/HDFCCTG/Indexing.aspx</PagePath>
+        <ParentID>615</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>616</MenuID>
+        <Text>DDE</Text>
+        <Description>DDE</Description>
+        <PagePath>~/Pages/HDFCCTG/DDE.aspx</PagePath>
+        <ParentID>615</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>617</MenuID>
+        <Text>Banking</Text>
+        <Description>Banking</Description>
+        <PagePath>~/Pages/HDFCCTG/Banking.aspx</PagePath>
+        <ParentID>615</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>619</MenuID>
+      <Text>LOS</Text>
+      <Description>LOS</Description>
+      <PagePath />
+      <ParentID>613</ParentID>
+      <Menu>
+        <MenuID>620</MenuID>
+        <Text>Indexing</Text>
+        <Description>Indexing</Description>
+        <PagePath>~/Pages/HDFCCTG/LOSIndexing.aspx</PagePath>
+        <ParentID>619</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>621</MenuID>
+        <Text>DDE</Text>
+        <Description>DDE</Description>
+        <PagePath>~/Pages/HDFCCTG/LOSDDE.aspx</PagePath>
+        <ParentID>619</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>622</MenuID>
+        <Text>Banking</Text>
+        <Description>Banking</Description>
+        <PagePath>~/Pages/HDFCCTG/LOSBanking.aspx</PagePath>
+        <ParentID>619</ParentID>
+      </Menu>
+    </Menu>
+  </Menu>
+</Menus>

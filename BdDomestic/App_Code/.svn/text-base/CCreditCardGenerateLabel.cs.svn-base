@@ -1,0 +1,268 @@
+using System;
+using System.Data;
+using System.Data.OleDb;
+using System.Configuration;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Web.UI.HtmlControls;
+
+/// <summary>
+/// Summary description for CCreditCardGenerateLabel
+/// </summary>
+public class CCreditCardGenerateLabel
+{
+    CCommon oCom = new CCommon();
+    private string strActivity_ID;
+    private string strProduct_ID;
+    private string strVerification_Type_ID;
+    private string strClient_ID;
+    private string strfromdate;
+    private string strtodate;
+    private string strverification_Type;
+    private string strcentre_id;
+
+
+
+
+    public string Centre_Id
+    {
+        get { return strcentre_id; }
+        set { strcentre_id = value; }
+    }
+    public string Fromdate
+    {
+        get { return strfromdate; }
+        set { strfromdate = value; }
+    }
+
+    public string Todate
+    {
+        get { return strtodate; }
+        set { strtodate = value; }
+    }
+
+    public string Verification_Type
+    {
+        get { return strverification_Type; }
+        set { strverification_Type = value; }
+    }
+
+    public string Activity_ID
+    {
+        get { return strActivity_ID; }
+        set { strActivity_ID = value; }
+    }
+
+    public string Product_ID
+    {
+        get { return strProduct_ID; }
+        set { strProduct_ID = value; }
+    }
+
+    public string Verification_Type_ID
+    {
+        get { return strVerification_Type_ID; }
+        set { strVerification_Type_ID = value; }
+    }
+
+    public string Client_ID
+    {
+        get { return strClient_ID; }
+        set { strClient_ID = value; }
+    }
+
+    public CCreditCardGenerateLabel()
+    {
+        //
+        // TODO: Add constructor logic here
+        //
+    }
+
+    public DataSet getTemplate()
+    {
+
+        string strSQL = " SELECT VTM.VERIFICATION_TYPE_CODE, LPTM.ADDITIONAL1, LPTM.ADDITIONAL2, LPTM.SR_NO,";
+        strSQL = strSQL + " LPTM.LABEL_PRINTING_DATE, LPTM.ALL_VERIFICATION_TYPE,LPTD.TABLE_NAME, ";
+        strSQL = strSQL + " LPTD.SELECTED_FIELD, LPTD.SERIAL_NO, LPTD.LINE_NO";
+        strSQL = strSQL + " FROM LABEL_PRINTING_TEMPLATE_MASTER LPTM ";
+        strSQL = strSQL + " INNER JOIN LABEL_PRINTING_TEMPLATE_DETAILS LPTD ";
+        strSQL = strSQL + " ON (LPTM.LABEL_TEMPLATE_ID=LPTD.LABEL_TEMPLATE_ID)";
+        strSQL = strSQL + " INNER JOIN VERIFICATION_TYPE_MASTER VTM";
+        strSQL = strSQL + " ON (LPTM.VERIFICATION_TYPE_ID=VTM.VERIFICATION_TYPE_ID)";
+        strSQL = strSQL + " WHERE LPTM.CLIENT_ID='" + strClient_ID + "' AND LPTM.ACTIVITY_ID='" + strActivity_ID + "'";
+        strSQL = strSQL + " AND LPTM.PRODUCT_ID='" + strProduct_ID + "'";
+        strSQL = strSQL + " AND LPTM.VERIFICATION_TYPE_ID='" + strVerification_Type_ID + "' and LPTM.Template_For='L'";
+        strSQL = strSQL + " ORDER BY LPTD.SERIAL_NO ";
+        return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+
+    }
+
+    public DataSet getLabel(string strSQL)
+    {
+
+        return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+
+    }
+    //public DataSet getGridValue(string CentreId, string strClient_ID, string strProduct_ID)
+    //{
+    //    string strSQL = "";
+    //    if (strProduct_ID == "1017")
+    //    {
+    //         strSQL = "SELECT SR_NO, ISNULL(FIRST_NAME, '') + '' + ISNULL(MIDDLE_NAME, '') + '' + ISNULL(LAST_NAME, '') AS APPLICANT_NAME " +
+    //                         "FROM CPV_IDOC_CASE_DETAILS WHERE case_rec_datetime >= '" + strfromdate + "' AND case_rec_datetime <  '" + strtodate + "' " +
+    //                         "AND [CENTRE_ID]='" + CentreId + "' AND [CLIENT_ID]='" + strClient_ID + "'";
+    //        //return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+    //    }
+    //    if (strProduct_ID == "1014")
+    //    {
+    //         strSQL = "SELECT SR_NO, ISNULL(APP_FNAME, '') + '' + ISNULL(APP_MNAME, '') + '' + ISNULL(APP_LNAME, '') AS APPLICANT_NAME "+
+    //                        "FROM CPV_CELLULAR_CASES WHERE case_rec_datetime >= '" + strfromdate + "' AND case_rec_datetime <  '" + strtodate + "' "+
+    //                        "AND [CENTRE_ID]='" + CentreId + "' AND [CLIENT_ID]='" + strClient_ID + "'";              
+    //        //return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+    //    }
+    //    if (strProduct_ID == "1011")
+    //    {
+    //        strSQL = "SELECT [SR_nO],[REF_NO],(ISNULL(FIRST_NAME,'')+''+ISNULL(MIDDLE_NAME,'')+''+ISNULL(LAST_NAME,'')) AS APPLICANT_NAME FROM CPV_CC_CASE_DETAILS";
+    //        strSQL = strSQL + " WHERE case_rec_datetime >= '" + strfromdate + "' AND case_rec_datetime <  '" + strtodate + "' ";
+    //        strSQL = strSQL + " AND [CENTRE_ID]='" + CentreId + "' AND [CLIENT_ID]='" + strClient_ID + "'";
+    //        //return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+    //    }
+    //    return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+    //}
+    public DataSet getGridValue_IDOC(string CentreId, string strClient_ID)
+    {
+        string strSQL = "";
+        strSQL = "SELECT SR_NO, ISNULL(FIRST_NAME, '') + '' + ISNULL(MIDDLE_NAME, '') + '' + ISNULL(LAST_NAME, '') AS APPLICANT_NAME " +
+                            "FROM CPV_IDOC_CASE_DETAILS WHERE case_rec_datetime >= '" + strfromdate + "' AND case_rec_datetime <  '" + strtodate + "' " +
+                            "AND [CENTRE_ID]='" + CentreId + "' AND [CLIENT_ID]='" + strClient_ID + "'";
+        return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+    }
+    public DataSet getGridValue_Cellular(string CentreId, string strClient_ID)
+    {
+        string strSQL = "";
+        strSQL = "SELECT SR_NO, ISNULL(APP_FNAME, '') + '' + ISNULL(APP_MNAME, '') + '' + ISNULL(APP_LNAME, '') AS APPLICANT_NAME " +
+                               "FROM CPV_CELLULAR_CASES WHERE case_rec_datetime >= '" + strfromdate + "' AND case_rec_datetime <  '" + strtodate + "' " +
+                               "AND [CENTRE_ID]='" + CentreId + "' AND [CLIENT_ID]='" + strClient_ID + "'";
+        return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+    }
+    public DataSet getGridValue_CC(string CentreId, string strClient_ID)
+    {
+        string strSQL = "";
+        strSQL = "SELECT [SR_nO] as [Sr No],[REF_NO],(ISNULL(FIRST_NAME,'')+''+ISNULL(MIDDLE_NAME,'')+''+ISNULL(LAST_NAME,'')) AS APPLICANT_NAME FROM CPV_CC_CASE_DETAILS";
+        strSQL = strSQL + " WHERE case_rec_datetime >= '" + strfromdate + "' AND case_rec_datetime <  '" + strtodate + "' ";
+        strSQL = strSQL + " AND [CENTRE_ID]='" + CentreId + "' AND [CLIENT_ID]='" + strClient_ID + "'";
+        return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+    }
+    //public DataSet getGridValue_EBC(string CentreId, string strClient_ID)
+    //{
+    //    string strSQL = "";
+    //    strSQL = "SELECT SR_NO,[REF_NO],(ISNULL(FIRST_NAME,'')+''+ISNULL(MIDDLE_NAME,'')+''+ISNULL(LAST_NAME,'')) AS APPLICANT_NAME FROM CPV_EBC_CASE_DETAILS";
+    //    strSQL = strSQL + " WHERE CONVERT(CHAR(9), CASE_REC_DATETIME, 3) + LTRIM(SUBSTRING(CONVERT( VARCHAR(20),CASE_REC_DATETIME, 22), 10, 5) + RIGHT(CONVERT(VARCHAR(20), CASE_REC_DATETIME, 22), 3)) >= '" + strfromdate + "' AND CONVERT(CHAR(9), CASE_REC_DATETIME, 3) + LTRIM(SUBSTRING(CONVERT( VARCHAR(20),CASE_REC_DATETIME, 22), 10, 5) + RIGHT(CONVERT(VARCHAR(20), CASE_REC_DATETIME, 22), 3)) <  '" + strtodate + "' ";
+    //    strSQL = strSQL + " AND [CENTRE_ID]='" + CentreId + "' AND [CLIENT_ID]='" + strClient_ID + "'";
+    //    return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+    //}
+    public DataSet getGridValue_EBC(string CentreId, string strClient_ID)
+    {
+        string strSQL = "";
+        strSQL = "SELECT SR_NO,[REF_NO],(ISNULL(FIRST_NAME,'')+''+ISNULL(MIDDLE_NAME,'')+''+ISNULL(LAST_NAME,'')) AS APPLICANT_NAME FROM CPV_EBC_CASE_DETAILS";
+        strSQL = strSQL + " WHERE CASE_REC_DATETIME >= '" + strfromdate + "' AND  CASE_REC_DATETIME <  '" + strtodate + "' ";
+        strSQL = strSQL + " AND [CENTRE_ID]='" + CentreId + "' AND [CLIENT_ID]='" + strClient_ID + "'";
+        return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+    }
+    public DataSet getGridValue_RL(string CentreId, string strClient_ID)
+    {
+        string strSQL = "";
+        strSQL = "SELECT [SR_nO],[REF_NO],(ISNULL(FIRST_NAME,'')+''+ISNULL(MIDDLE_NAME,'')+''+ISNULL(LAST_NAME,'')) AS APPLICANT_NAME FROM CPV_RL_CASE_DETAILS";
+        strSQL = strSQL + " WHERE case_rec_datetime >= '" + strfromdate + "' AND case_rec_datetime <  '" + strtodate + "' ";
+        strSQL = strSQL + " AND [CENTRE_ID]='" + CentreId + "' AND [CLIENT_ID]='" + strClient_ID + "'";
+        return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+    }
+
+
+
+    //modify by hemangi kambli on 27/06/2007---------------
+    public DataSet getGridValue_KYC(string CentreId, string strClient_ID)
+    {
+        string strSQL = "";
+        strSQL = "SELECT [REF_NO],(ISNULL(FIRST_NAME,'')+''+ISNULL(MIDDLE_NAME,'')+''+ISNULL(LAST_NAME,'')) AS APPLICANT_NAME FROM CPV_KYC_CASE_DETAILS";
+        strSQL = strSQL + " WHERE case_rec_datetime >= '" + strfromdate + "' AND  case_rec_datetime <  '" + strtodate + "' ";
+        
+        //CONVERT(CHAR(9), case_rec_datetime, 3) + LTRIM(SUBSTRING(CONVERT( VARCHAR(20), case_rec_datetime, 22), 10, 5) + RIGHT(CONVERT(VARCHAR(20), case_rec_datetime, 22), 3))
+        
+        strSQL = strSQL + " AND [CENTRE_ID]='" + CentreId + "' AND [CLIENT_ID]='" + strClient_ID + "'";
+        return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+    }
+
+    public DataSet GetVerificationType_CC(string activityid)
+    {
+
+        string strSQL = " select VERIFICATION_TYPE_CODE,VERIFICATION_TYPE_ID FROM verification_type_master   WHERE  ACTIVITY_ID= '" + activityid + "'" +
+                         " AND VERIFICATION_TYPE_ID IN(1,2,4,3,10) ";
+        return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+    }
+    public DataSet GetVerificationType_CC_Dcr(string activityid)
+    {
+
+        string strSQL = " select VERIFICATION_TYPE_CODE,VERIFICATION_TYPE_ID FROM verification_type_master   WHERE  ACTIVITY_ID= '" + activityid + "'" +
+                         " AND VERIFICATION_TYPE_ID IN(20,21,22,23,24) ";
+        return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+    }
+    public DataSet GetVerificationType_EBC(string activityid)
+    {
+
+        string strSQL = " select VERIFICATION_TYPE_CODE,VERIFICATION_TYPE_ID FROM verification_type_master   WHERE  ACTIVITY_ID= '" + activityid + "'" +
+                         " AND VERIFICATION_TYPE_ID IN(1,15,16,17,18) ";
+        return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+    }
+
+    public DataSet GetVerificationType_KYC(string activityid)
+    {
+
+        string strSQL = " select VERIFICATION_TYPE_CODE,VERIFICATION_TYPE_ID FROM verification_type_master   WHERE  ACTIVITY_ID= '" + activityid + "'" +
+                         " AND VERIFICATION_TYPE_ID IN(1,2,19) ";
+        return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+    }
+
+    public DataSet GetVerificationType_IDOC(string activityid)
+    {
+
+        string strSQL = " select VERIFICATION_TYPE_CODE,VERIFICATION_TYPE_ID FROM verification_type_master   WHERE  ACTIVITY_ID= '" + activityid + "'" +
+                         " AND VERIFICATION_TYPE_ID IN(5,6,7,8,9,11) ";
+        return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+    }
+    public DataSet GetVerificationType_RL(string activityid)
+    {
+
+        string strSQL = " select VERIFICATION_TYPE_CODE,VERIFICATION_TYPE_ID FROM verification_type_master   WHERE  ACTIVITY_ID= '" + activityid + "'" +
+                         " AND VERIFICATION_TYPE_ID IN(1,2,3,4,10,12,13,14) ";
+        return OleDbHelper.ExecuteDataset(oCom.ConnectionString, CommandType.Text, strSQL);
+    }
+
+   
+    //-------------------------------------------------------
+
+    
+    public bool FunctioncompareDate(string strFromDate,string strToDate)
+    {
+        DateTime sFromDate;
+        DateTime sToDate;
+        sFromDate = Convert.ToDateTime(oCom.strDate(strFromDate));
+        sToDate = Convert.ToDateTime(oCom.strDate(strToDate));
+
+        bool bReturn = true;
+        if (sFromDate > sToDate)
+        {
+            bReturn = false;
+        }
+        else
+        {
+            bReturn = true;
+
+
+        }
+        return bReturn;
+    }
+}

@@ -1,0 +1,551 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/sandbox/!svn/ver/45/Application/CPV/KYC
+END
+KYC_SendToClient.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_SendToClient.aspx.cs
+END
+KYC_CaseVerificationEntry.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_CaseVerificationEntry.aspx
+END
+KYC_BifurcationReport.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_BifurcationReport.aspx
+END
+KYC_ClaimMISReport.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_ClaimMISReport.xsx
+END
+KYC_PendingList.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_PendingList.xsd
+END
+KYC_SendToClientFinal.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_SendToClientFinal.aspx
+END
+KYC_FEAssignmentTracking.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_FEAssignmentTracking.aspx
+END
+KYC_ScbAcOp_CA.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_ScbAcOp_CA.rpt
+END
+Kyc_Output.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/Kyc_Output.xsx
+END
+KYC_VerificationEntry.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_VerificationEntry.aspx.cs
+END
+KYC_FEAssignmentTracking.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_FEAssignmentTracking.aspx.cs
+END
+KYC_CaseStatusView.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_CaseStatusView.aspx
+END
+KYC_ScbAcOp_RV.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_ScbAcOp_RV.rpt
+END
+KYC_CaseStatusView.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_CaseStatusView.aspx.cs
+END
+KYC_FEReport.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_FEReport.rpt
+END
+KYC_FEAutoAssignment.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_FEAutoAssignment.aspx.cs
+END
+KYC_EXPORT.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_EXPORT.aspx
+END
+CPV_KYC_FEReport.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/CPV_KYC_FEReport.xsd
+END
+KYC_SMS_Generation.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_SMS_Generation.aspx.cs
+END
+KYC_VerificationView.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_VerificationView.aspx.cs
+END
+KYC_PendingList.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_PendingList.aspx.cs
+END
+KYC_ClaimMISReport.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_ClaimMISReport.rpt
+END
+KYC_PendingList.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_PendingList.xsx
+END
+KYC_FEAssignment.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_FEAssignment.aspx.cs
+END
+KYC_SendDateNull.aspx.vb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_SendDateNull.aspx.vb
+END
+KYC_SendToClient.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_SendToClient.aspx
+END
+KYC_CaseEntry.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_CaseEntry.aspx
+END
+KYC_Cover_Letter.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_Cover_Letter.aspx
+END
+KYC_BifurcationReport.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_BifurcationReport.aspx.cs
+END
+CPV_KYC_FEReport.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/CPV_KYC_FEReport.xsx
+END
+Kyc_hdfc_Rv.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/Kyc_hdfc_Rv.rpt
+END
+KYC_CaseView.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_CaseView.aspx
+END
+KYC_MasterPage.master
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_MasterPage.master
+END
+KYC_EXPORT_ALL.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_EXPORT_ALL.aspx
+END
+KYC_SendToClientFinal.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_SendToClientFinal.aspx.cs
+END
+KYC_PendingList.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_PendingList.rpt
+END
+KYC_CaseView.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_CaseView.aspx.cs
+END
+KYC_CA_VERI.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_CA_VERI.aspx.cs
+END
+Default.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/Default.aspx
+END
+KYC_RV_VERI.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_RV_VERI.aspx.cs
+END
+KYC_BUSINESS_VERI.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/40/Application/CPV/KYC/KYC_BUSINESS_VERI.aspx
+END
+KYC_Cover_Letter.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_Cover_Letter.xsd
+END
+Default.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/Default.aspx.cs
+END
+KYC_SendDateNull.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_SendDateNull.aspx
+END
+KYC_FEAssignment.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_FEAssignment.aspx
+END
+KYC_BIFURCATIONREPORT.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_BIFURCATIONREPORT.xsd
+END
+KYC_EXPORT.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_EXPORT.aspx.cs
+END
+KYC_LabelPrinting.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_LabelPrinting.aspx
+END
+KYC_SearchSms.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_SearchSms.aspx.cs
+END
+KYC_LabelPrinting.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_LabelPrinting.aspx.cs
+END
+KYC_CaseEntry.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_CaseEntry.aspx.cs
+END
+KYC_Cover_Letter.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_Cover_Letter.aspx.cs
+END
+KYC_TATMIS.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_TATMIS.aspx
+END
+vssver2.scc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/vssver2.scc
+END
+KYC_CaseVerificationEntry.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_CaseVerificationEntry.aspx.cs
+END
+KYC_Cover_Letter.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_Cover_Letter.xsx
+END
+KYC_VerificationEntry.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_VerificationEntry.aspx
+END
+KYC_ScbAcOp_Export.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_ScbAcOp_Export.rpt
+END
+KYC_BIFURCATIONREPORT.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_BIFURCATIONREPORT.xsx
+END
+KYC_Import.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_Import.aspx
+END
+KYC_FEAutoAssignment.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_FEAutoAssignment.aspx
+END
+KYC_EXPORT_ALL.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/44/Application/CPV/KYC/KYC_EXPORT_ALL.aspx.cs
+END
+KYC_Import.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_Import.aspx.cs
+END
+KYC_PendingList.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_PendingList.aspx
+END
+KYC_FEAssignmentReport.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_FEAssignmentReport.aspx.cs
+END
+KYC_TATMIS.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_TATMIS.xsd
+END
+kyc_hdfc_bv.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/kyc_hdfc_bv.rpt
+END
+KYC_Cover_Letter.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_Cover_Letter.rpt
+END
+KYC_DedupSearch.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_DedupSearch.aspx.cs
+END
+KYC_BIFURCATIONREPORT.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_BIFURCATIONREPORT.rpt
+END
+KYC_Hdfc_Export.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/45/Application/CPV/KYC/KYC_Hdfc_Export.rpt
+END
+KYC_TATMIS.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_TATMIS.aspx.cs
+END
+KYC_CA_VERI.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_CA_VERI.aspx
+END
+KYC_TATMIS.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_TATMIS.xsx
+END
+KYC_RV_VERI.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_RV_VERI.aspx
+END
+KYC_MasterPage.master.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_MasterPage.master.cs
+END
+KYC_SMS_Generation.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_SMS_Generation.aspx
+END
+KYC_ClaimMISReport.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_ClaimMISReport.xsd
+END
+KYC_VerificationView.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_VerificationView.aspx
+END
+KYC_FEAssignmentReport.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_FEAssignmentReport.aspx
+END
+Kyc_Output.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sandbox/!svn/ver/44/Application/CPV/KYC/Kyc_Output.xsd
+END
+KYC_BUSINESS_VERI.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/45/Application/CPV/KYC/KYC_BUSINESS_VERI.aspx.cs
+END
+KYC_DedupSearch.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_DedupSearch.aspx
+END
+CRTest.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/CRTest.rpt
+END
+KYC_SearchSms.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_SearchSms.aspx
+END
+KYC_GenerateLabel.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_GenerateLabel.aspx
+END
+KYC_ClaimMISReport.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_ClaimMISReport.aspx
+END
+KYC_ScbAcOp_BV.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_ScbAcOp_BV.rpt
+END
+KYC_TATMIS.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_TATMIS.rpt
+END
+KYC_GenerateLabel.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_GenerateLabel.aspx.cs
+END
+KYC_ClaimMISReport.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/CPV/KYC/KYC_ClaimMISReport.aspx.cs
+END

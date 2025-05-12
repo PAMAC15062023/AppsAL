@@ -1,0 +1,51 @@
+System
+P - Suhanipatil95
+
+EasyHR
+U - R100004
+P - Suhanipatil95
+
+Training Project
+U - P12345
+P - pamac@123
+
+Calculus :- https://calculus.pamac-online.com/pages/Login.aspx
+U - R100004
+P - pamac@1234
+Branch - Mumbai
+
+PMS :- https://pamac-online.com/
+U - R100004
+P - pamac@123
+
+Live :- Database
+103.8.127.42
+sa
+P@M@c$QL@1433
+
+Local :- MFEDL
+pamac@123
+
+UAT : sa
+192.168.0.33
+pass : P@M@c$@sa@31$05@2023
+
+PMS WEST (App)
+R100004	
+pamac@123
+
+Online Test :
+http://192.168.0.33:86/OnlineTest/LoginPage
+C001
+pamac@123
+
+EMP Information API : 
+https://pamac.easyhrworld.com/api/v2/Pamac/getRes?X-API-KEY=b43fa3ab7fc0ea078573fba9b02c98dcd611f2a8&Accept=application/json
+============================================================================================================================================================
+TCFSL LIVE : https://tcfsl.pamac-online.com/
+R100004
+Gvlg@868
+==============================================================================================================================================================
+SBI Live : https://sbi.pamac-online.com/
+R100004
+Dqiq@181

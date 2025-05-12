@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>197</MenuID>
+    <Text>ICICI BLG</Text>
+    <Description>ICICI BLG</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>198</MenuID>
+      <Text>Case Entry</Text>
+      <Description>Case Entry</Description>
+      <PagePath>~/Pages/ICICIBank-BLGActivityMIS/First.aspx</PagePath>
+      <ParentID>197</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>199</MenuID>
+      <Text>Login Status</Text>
+      <Description>Login Status</Description>
+      <PagePath>~/Pages/ICICIBank-BLGActivityMIS/Second.aspx</PagePath>
+      <ParentID>197</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>200</MenuID>
+      <Text>Process Update</Text>
+      <Description>Process Update</Description>
+      <PagePath>~/Pages/ICICIBank-BLGActivityMIS/Third.aspx</PagePath>
+      <ParentID>197</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>201</MenuID>
+      <Text>Send To Client</Text>
+      <Description>Send To Client</Description>
+      <PagePath>~/Pages/ICICIBank-BLGActivityMIS/Fourth.aspx</PagePath>
+      <ParentID>197</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>203</MenuID>
+      <Text>File Status-Search</Text>
+      <Description>File Status-Search</Description>
+      <PagePath>~/Pages/ICICIBank-BLGActivityMIS/File_Status_Search.aspx</PagePath>
+      <ParentID>197</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>204</MenuID>
+      <Text>My Tray</Text>
+      <Description>My Tray</Description>
+      <PagePath>~/Pages/ICICIBank-BLGActivityMIS/MyTray.aspx</PagePath>
+      <ParentID>197</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

@@ -1,0 +1,575 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/sandbox/!svn/ver/1/Application/Administrator
+END
+TemplateConfiguration.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sandbox/!svn/ver/1/Application/Administrator/TemplateConfiguration.aspx.cs
+END
+AssignRights.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/Administrator/AssignRights.aspx.cs
+END
+ProductMasterManage.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sandbox/!svn/ver/1/Application/Administrator/ProductMasterManage.aspx.cs
+END
+Default2.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/Administrator/Default2.aspx.cs
+END
+ConfigurationVerification.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sandbox/!svn/ver/1/Application/Administrator/ConfigurationVerification.aspx
+END
+SubCentreMaster.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/Administrator/SubCentreMaster.aspx.cs
+END
+RoleMaster.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/Administrator/RoleMaster.aspx.cs
+END
+Department_Master.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/Administrator/Department_Master.aspx.cs
+END
+RoleMasterManage.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/Administrator/RoleMasterManage.aspx
+END
+ExportNewTemplate.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/Administrator/ExportNewTemplate.aspx
+END
+Summary_Panel_Mapping.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/Administrator/Summary_Panel_Mapping.aspx
+END
+ClientMaster.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/Administrator/ClientMaster.aspx
+END
+CongfigurationVerificatinManager.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sandbox/!svn/ver/1/Application/Administrator/CongfigurationVerificatinManager.aspx
+END
+DeclineCode.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/Administrator/DeclineCode.aspx
+END
+TemplateConfigurationManager.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sandbox/!svn/ver/1/Application/Administrator/TemplateConfigurationManager.aspx
+END
+StandarTatHour.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/Administrator/StandarTatHour.aspx
+END
+EmployeeMasterManage.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/Administrator/EmployeeMasterManage.aspx
+END
+Label_Printing_manage.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sandbox/!svn/ver/1/Application/Administrator/Label_Printing_manage.aspx.cs
+END
+AssignRights.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/Administrator/AssignRights.aspx
+END
+ProductMasterManage.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/Administrator/ProductMasterManage.aspx
+END
+StandardTATHour_View.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sandbox/!svn/ver/1/Application/Administrator/StandardTATHour_View.aspx.cs
+END
+FEPincodeMapping_View.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sandbox/!svn/ver/1/Application/Administrator/FEPincodeMapping_View.aspx.cs
+END
+ActivityViewMaster.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/Administrator/ActivityViewMaster.aspx.cs
+END
+EmployeeMasterManage.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sandbox/!svn/ver/1/Application/Administrator/EmployeeMasterManage.aspx.cs
+END
+ActivityMaster.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/Administrator/ActivityMaster.aspx
+END
+ActivityMaster.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/Administrator/ActivityMaster.aspx.cs
+END
+RoleMaster.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/Administrator/RoleMaster.aspx
+END
+UserRoleManage.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/Administrator/UserRoleManage.aspx.cs
+END
+Admin_MasterPage.master
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/Administrator/Admin_MasterPage.master
+END
+ExportTemplate.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/Administrator/ExportTemplate.aspx.cs
+END
+CompanyViewMaster.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/Administrator/CompanyViewMaster.aspx.cs
+END
+kyc_Export_Template.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/Administrator/kyc_Export_Template.aspx
+END
+Default.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/Administrator/Default.aspx
+END
+Admin_MasterPage.master.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/Administrator/Admin_MasterPage.master.cs
+END
+CompanyMaster.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/Administrator/CompanyMaster.aspx.cs
+END
+Label_Template_View_Cellular.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sandbox/!svn/ver/1/Application/Administrator/Label_Template_View_Cellular.aspx
+END
+Default.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/Administrator/Default.aspx.cs
+END
+BuildQuery.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/Administrator/BuildQuery.aspx.cs
+END
+ExportNewTemplate.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/Administrator/ExportNewTemplate.aspx.cs
+END
+EmployeeMaster.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/Administrator/EmployeeMaster.aspx
+END
+Summary_Panel_Mapping.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sandbox/!svn/ver/1/Application/Administrator/Summary_Panel_Mapping.aspx.cs
+END
+ViewSavedQueries.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/Administrator/ViewSavedQueries.aspx
+END
+Label_Printing_manage.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/Administrator/Label_Printing_manage.aspx
+END
+StandardTATHour_View.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/Administrator/StandardTATHour_View.aspx
+END
+ClientMasterManage.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/Administrator/ClientMasterManage.aspx
+END
+Label_Template_View.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/Administrator/Label_Template_View.aspx
+END
+Default2.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sandbox/!svn/ver/1/Application/Administrator/Default2.aspx
+END
+SubCentreMaster.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/Administrator/SubCentreMaster.aspx
+END
+StandarTatHour.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/Administrator/StandarTatHour.aspx.cs
+END
+vssver2.scc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sandbox/!svn/ver/1/Application/Administrator/vssver2.scc
+END
+Label_Template_View.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sandbox/!svn/ver/1/Application/Administrator/Label_Template_View.aspx.cs
+END
+UserRoleManage.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/Administrator/UserRoleManage.aspx
+END
+ExportTemplate.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/Administrator/ExportTemplate.aspx
+END
+CompanyViewMaster.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/Administrator/CompanyViewMaster.aspx
+END
+Department_Master.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/Administrator/Department_Master.aspx
+END
+ConfigurationVerification.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sandbox/!svn/ver/1/Application/Administrator/ConfigurationVerification.aspx.cs
+END
+kyc_Export_new_tempate.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sandbox/!svn/ver/1/Application/Administrator/kyc_Export_new_tempate.aspx
+END
+Label_Printing_manage_Cellular.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sandbox/!svn/ver/1/Application/Administrator/Label_Printing_manage_Cellular.aspx
+END
+BuildQuery.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/Administrator/BuildQuery.aspx
+END
+Summary_Panel_Mapping_View.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sandbox/!svn/ver/1/Application/Administrator/Summary_Panel_Mapping_View.aspx.cs
+END
+CentreViewMaster.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/Administrator/CentreViewMaster.aspx
+END
+Label_Printing_manage_Cellular.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sandbox/!svn/ver/1/Application/Administrator/Label_Printing_manage_Cellular.aspx.cs
+END
+ClusterViewMaster.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/Administrator/ClusterViewMaster.aspx
+END
+RoleMasterManage.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/Administrator/RoleMasterManage.aspx.cs
+END
+Label_Template_View_Cellular.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sandbox/!svn/ver/1/Application/Administrator/Label_Template_View_Cellular.aspx.cs
+END
+CenterMaster.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/Administrator/CenterMaster.aspx
+END
+ClusterViewMaster.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/Administrator/ClusterViewMaster.aspx.cs
+END
+ClientMaster.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/Administrator/ClientMaster.aspx.cs
+END
+EmployeeMaster.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/Administrator/EmployeeMaster.aspx.cs
+END
+ViewSavedQueries.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/Administrator/ViewSavedQueries.aspx.cs
+END
+CenterMaster.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/Administrator/CenterMaster.aspx.cs
+END
+ClusterMaster.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/Administrator/ClusterMaster.aspx.cs
+END
+FEPincodeMapping_View.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/Administrator/FEPincodeMapping_View.aspx
+END
+DeclineCode.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/Administrator/DeclineCode.aspx.cs
+END
+TemplateConfigurationManager.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sandbox/!svn/ver/1/Application/Administrator/TemplateConfigurationManager.aspx.cs
+END
+TemplateConfiguration.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/Administrator/TemplateConfiguration.aspx
+END
+ClientMasterManage.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/Administrator/ClientMasterManage.aspx.cs
+END
+FEPincodeMapping.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/Administrator/FEPincodeMapping.aspx
+END
+FEPincodeMapping.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/Administrator/FEPincodeMapping.aspx.cs
+END
+QueryBuilder.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/Administrator/QueryBuilder.aspx
+END
+QueryBuilder.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/Administrator/QueryBuilder.aspx.cs
+END
+Summary_Panel_Mapping_View.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sandbox/!svn/ver/1/Application/Administrator/Summary_Panel_Mapping_View.aspx
+END
+CompanyMaster.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/Administrator/CompanyMaster.aspx
+END
+kyc_Export_new_tempate.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sandbox/!svn/ver/1/Application/Administrator/kyc_Export_new_tempate.aspx.cs
+END
+Main.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sandbox/!svn/ver/1/Application/Administrator/Main.aspx
+END
+kyc_Export_Template.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sandbox/!svn/ver/1/Application/Administrator/kyc_Export_Template.aspx.cs
+END
+Main.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/Administrator/Main.aspx.cs
+END
+Header.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sandbox/!svn/ver/1/Application/Administrator/Header.aspx
+END
+CentreViewMaster.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/Administrator/CentreViewMaster.aspx.cs
+END
+ProductMaster.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/Administrator/ProductMaster.aspx
+END
+Header.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/Administrator/Header.aspx.cs
+END
+ClusterMaster.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/Administrator/ClusterMaster.aspx
+END
+ProductMaster.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/Administrator/ProductMaster.aspx.cs
+END
+CongfigurationVerificatinManager.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sandbox/!svn/ver/1/Application/Administrator/CongfigurationVerificatinManager.aspx.cs
+END
+ActivityViewMaster.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/Administrator/ActivityViewMaster.aspx
+END

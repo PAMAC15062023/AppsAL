@@ -1,0 +1,184 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>133</MenuID>
+    <Text>Admin Master</Text>
+    <Description>Admin Master</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>9</MenuID>
+      <Text>Menu Master</Text>
+      <Description>Menu Master</Description>
+      <PagePath>~/Pages/MenuMaster.aspx</PagePath>
+      <ParentID>133</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>13</MenuID>
+      <Text>User Master</Text>
+      <Description>User Master</Description>
+      <PagePath>~/Pages/Usermaster.aspx</PagePath>
+      <ParentID>133</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>45</MenuID>
+      <Text>Group Rights Assignment</Text>
+      <Description>Group Rights Assignment</Description>
+      <PagePath>~/Pages/GroupRightsInfo.aspx</PagePath>
+      <ParentID>133</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>46</MenuID>
+      <Text>Group Master</Text>
+      <Description>Group Master</Description>
+      <PagePath>~/Pages/GroupMaster.aspx</PagePath>
+      <ParentID>133</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>137</MenuID>
+      <Text>Vertical Rights Master</Text>
+      <Description>Vertical Rights Master</Description>
+      <PagePath>~/Pages/Calculus/VerticalRightsMaster.aspx</PagePath>
+      <ParentID>133</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>1</MenuID>
+    <Text>Common Master</Text>
+    <Description>Common Master</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>126</MenuID>
+      <Text>Change Password</Text>
+      <Description>Change Password</Description>
+      <PagePath>~/Pages/Change_Password.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>49</MenuID>
+    <Text>Calculus Online Transactional</Text>
+    <Description>Calculus Online Transactional</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>50</MenuID>
+      <Text>Branch Payment Request</Text>
+      <Description>Branch Payment Request</Description>
+      <PagePath>~/Pages/Calculus/BranchPaymentRequest.aspx</PagePath>
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>86</MenuID>
+        <Text>Vendor Payment Request</Text>
+        <Description>Vendor Payment Request</Description>
+        <PagePath />
+        <ParentID>50</ParentID>
+        <Menu>
+          <MenuID>65</MenuID>
+          <Text>Payment Request -View</Text>
+          <Description>Payment Request -View</Description>
+          <PagePath>~/Pages/Calculus/BranchPaymentRequest_View.aspx</PagePath>
+          <ParentID>86</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>146</MenuID>
+        <Text>Utility Payment Request</Text>
+        <Description>Utility Payment Request</Description>
+        <PagePath />
+        <ParentID>50</ParentID>
+        <Menu>
+          <MenuID>148</MenuID>
+          <Text>Utility Payment Request -View</Text>
+          <Description>Utility Payment Request -View</Description>
+          <PagePath>~/Pages/Calculus/BranchUtilityPaymentRequest_View.aspx</PagePath>
+          <ParentID>146</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>87</MenuID>
+        <Text>Cash Voucher Request</Text>
+        <Description>Cash Voucher Request</Description>
+        <PagePath />
+        <ParentID>50</ParentID>
+        <Menu>
+          <MenuID>89</MenuID>
+          <Text>Petty Cash Voucher View</Text>
+          <Description>Petty Cash Voucher View</Description>
+          <PagePath>~/Pages/Calculus/BranchPettyCashVoucherRequest_View.aspx</PagePath>
+          <ParentID>87</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>122</MenuID>
+        <Text>Other Than 
+Petty Cash Request</Text>
+        <Description>Other Than 
+Petty Cash Request</Description>
+        <PagePath>~/Pages/Calculus/OtherThanPettyCash_View.aspx</PagePath>
+        <ParentID>50</ParentID>
+        <Menu>
+          <MenuID>123</MenuID>
+          <Text>Other Than Petty Cash -Add</Text>
+          <Description>Other Than Petty Cash -Add</Description>
+          <PagePath>~/Pages/Calculus/OtherThanPettyCash.aspx</PagePath>
+          <ParentID>122</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>124</MenuID>
+          <Text>Other Than Petty Cash -View</Text>
+          <Description>Other Than Petty Cash -View</Description>
+          <PagePath>~/Pages/Calculus/OtherThanPettyCash_View.aspx</PagePath>
+          <ParentID>122</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>192</MenuID>
+        <Text>Employee Payment Request</Text>
+        <Description>Employee Payment Request</Description>
+        <PagePath />
+        <ParentID>50</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>91</MenuID>
+      <Text>Branch Opening Balance</Text>
+      <Description>Branch Opening Balance</Description>
+      <PagePath />
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>61</MenuID>
+        <Text>BranchWise Opening Balance</Text>
+        <Description>BranchWise Opening Balance</Description>
+        <PagePath>~/Pages/Calculus/Set_Opening_Balance.aspx</PagePath>
+        <ParentID>91</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>82</MenuID>
+        <Text>Opening Balance Request</Text>
+        <Description>Opening Balance Request</Description>
+        <PagePath>~/Pages/Calculus/RequestOpeningBalance.aspx</PagePath>
+        <ParentID>91</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>85</MenuID>
+        <Text>Approve Balance Request</Text>
+        <Description>Approve Balance Request</Description>
+        <PagePath>~/Pages/Calculus/ApproveOpeBalReq.aspx</PagePath>
+        <ParentID>91</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>92</MenuID>
+      <Text>Calculus Reports</Text>
+      <Description>Calculus Reports</Description>
+      <PagePath />
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>136</MenuID>
+        <Text>Calculus User Defined Reports</Text>
+        <Description>Calculus User Defined Reports</Description>
+        <PagePath>~/Pages/Calculus/Reports/CalculusUserDefinedReports.aspx</PagePath>
+        <ParentID>92</ParentID>
+      </Menu>
+    </Menu>
+  </Menu>
+</Menus>

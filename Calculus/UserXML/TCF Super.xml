@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>579</MenuID>
+    <Text>TCFSL</Text>
+    <Description>TCFSL</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>580</MenuID>
+      <Text>New Entry</Text>
+      <Description>New Entry</Description>
+      <PagePath>~/Pages/Inword Tracking Module/Manual Entry Form.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>584</MenuID>
+      <Text>TCFSL DEO</Text>
+      <Description>TCFSL DEO</Description>
+      <PagePath />
+      <ParentID>579</ParentID>
+      <Menu>
+        <MenuID>587</MenuID>
+        <Text>DEO</Text>
+        <Description>DEO</Description>
+        <PagePath>~/Pages/Inword Tracking Module/DEO.aspx</PagePath>
+        <ParentID>584</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>582</MenuID>
+      <Text>QC</Text>
+      <Description>QC</Description>
+      <PagePath />
+      <ParentID>579</ParentID>
+      <Menu>
+        <MenuID>589</MenuID>
+        <Text>TCFSL QC</Text>
+        <Description>TCFSL QC</Description>
+        <PagePath>~/Pages/Inword Tracking Module/QCTCF.aspx</PagePath>
+        <ParentID>582</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>583</MenuID>
+      <Text>PAMAC Pending</Text>
+      <Description>PAMAC Pending</Description>
+      <PagePath>~/Pages/Inword Tracking Module/PendingStage.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>591</MenuID>
+      <Text>Super Admin</Text>
+      <Description>Super Admin</Description>
+      <PagePath>~/Pages/Inword Tracking Module/SuperadminTCF.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>592</MenuID>
+      <Text>MIS</Text>
+      <Description>MIS</Description>
+      <PagePath>~/Pages/Inword Tracking Module/MISPage.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>594</MenuID>
+      <Text>Client Pending</Text>
+      <Description>Client Pending</Description>
+      <PagePath>~/Pages/Inword Tracking Module/PendingStageClient.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>595</MenuID>
+      <Text>Case History</Text>
+      <Description>Case History</Description>
+      <PagePath>~/Pages/Inword Tracking Module/caseview.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>596</MenuID>
+      <Text>DedupSearch</Text>
+      <Description>DedupSearch</Description>
+      <PagePath>~/Pages/Inword Tracking Module/DedupSearch.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>601</MenuID>
+      <Text>Role Assignment</Text>
+      <Description>Role Assignment</Description>
+      <PagePath>~/Pages/Inword Tracking Module/ChangeRole.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

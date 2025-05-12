@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="StdOutput" targetNamespace="http://tempuri.org/StdOutput.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/StdOutput.xsd" xmlns:mstns="http://tempuri.org/StdOutput.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="GAP">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="APPLICANT_NAME" type="xs:string" />
+        <xs:element name="Gap_Identified" type="xs:string" />
+        <xs:element name="Period_Of_Gap" type="xs:string" />
+        <xs:element name="Reason_Of_Gap" type="xs:string" />
+        <xs:element name="Address_Gap" type="xs:string" />
+        <xs:element name="Police_Verification_GAP" type="xs:string" />
+        <xs:element name="Police_Verification" type="xs:string" />
+        <xs:element name="EMP_CODE" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="MAIN">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="CASE_ID" type="xs:string" />
+        <xs:element name="verified" type="xs:integer" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RESIDENCERECORD">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="APPLICANT_NAME" type="xs:string" />
+        <xs:element name="ADDRESS" type="xs:string" />
+        <xs:element name="CONTACT_PERSON_DESIGNATION" type="xs:string" />
+        <xs:element name="CONTACT_PERSON" type="xs:string" />
+        <xs:element name="RELATIONSHIP" type="xs:string" />
+        <xs:element name="TELEPHONE_NO" type="xs:string" />
+        <xs:element name="YEAR_AT_RESIDENCE" type="xs:string" />
+        <xs:element name="LANDMARK" type="xs:string" />
+        <xs:element name="ACCESSIBILITY" type="xs:string" />
+        <xs:element name="LOCALITY" type="xs:string" />
+        <xs:element name="PREVIOUS_JOB_DETAIL" type="xs:string" />
+        <xs:element name="NEIGHBOUR_FEEDBACK" type="xs:string" />
+        <xs:element name="NEIGHBOUR_NAME" type="xs:string" />
+        <xs:element name="REMARK" type="xs:string" />
+        <xs:element name="ORGANIZATION_NAME" type="xs:string" />
+        <xs:element name="TEL_NO2" type="xs:string" />
+        <xs:element name="Permanent_Address" type="xs:string" />
+        <xs:element name="Residence_Type" type="xs:string" />
+        <xs:element name="OCCUPATION" type="xs:string" />
+        <xs:element name="FAMILY_RELATIONSHIP" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DEGREE">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="APPLICANT_NAME" type="xs:string" />
+        <xs:element name="DOB" type="xs:string" />
+        <xs:element name="CONTACT_PERSON" type="xs:string" />
+        <xs:element name="CONTACT_PERSON_DESIGNATION" type="xs:string" />
+        <xs:element name="FULLNAME" type="xs:string" />
+        <xs:element name="VERIFICATION_DATETIME" type="xs:string" />
+        <xs:element name="INSTITUTE_NAME" type="xs:string" />
+        <xs:element name="DATE_ATTEND" type="xs:string" />
+        <xs:element name="QULAIFICATION_GAINED" type="xs:string" />
+        <xs:element name="REMARK" type="xs:string" />
+        <xs:element name="STATUS_CODE" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="EmploymentVerification">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="APPLICANT_NAME" type="xs:string" />
+        <xs:element name="CONTACT_PERSON" type="xs:string" />
+        <xs:element name="CONTACT_PERSON_DESIGNATION" type="xs:string" />
+        <xs:element name="INSTITUTE_NAME" type="xs:string" />
+        <xs:element name="EMPLOYMENT_DATE" type="xs:string" />
+        <xs:element name="LAST_POSITION_HELD" type="xs:string" />
+        <xs:element name="REPORTING_MANAGER" type="xs:string" />
+        <xs:element name="REMARK" type="xs:string" />
+        <xs:element name="STATUS_CODE" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,118 @@
+<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+<%--Skin for Text box--%>
+<asp:TextBox skinID="txtSkin" runat="server" BackColor="#FFFFE1" BorderColor="#476085" BorderStyle="Solid" Font-Names="Arial" Font-Size="8pt" BorderWidth="1px" Column="30"></asp:TextBox>
+<asp:TextBox skinID="txtSkinWidth" runat="server" BackColor="#FFFFE1" BorderColor="#476085" BorderStyle="Solid" Font-Names="Arial" Font-Size="8pt" BorderWidth="1px" ></asp:TextBox>
+
+<%--Skin for Button--%>
+<asp:Button SkinId="btnImport" runat="server" Text="Import" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt"/>
+<asp:Button SkinId="btnSubmitSkin" runat="server" Text="Submit" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt"/>
+<asp:Button SkinId="btnSaveSkin" runat="server" Text="Save" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt" />
+<asp:Button SkinId="btnResetSkin" runat="server" Text="Reset" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt" />
+<asp:Button SkinId="btnCancelSkin" runat="server" Text="Cancel" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt"/>
+<asp:Button SkinId="btnBackSkin" runat="server" Text="Back" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt" />
+
+<asp:Button SkinId="btnExpToExlSkin" runat="server" Text="Export To Excel" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt" />
+<asp:Button SkinId="btnAddNewSkin" runat="server" Text="Add New" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt" />
+<asp:Button SkinId="btnSignInSkin" runat="server" Text="Sign In" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt" />
+<asp:Button SkinId="btnSearchSkin" runat="server" Text="Search" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt" />
+<asp:Button SkinId="btnAssingSkin" runat="server" Text="Assign / Re-Assign" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt" />
+<asp:Button SkinId="btnUploadSkin" runat="server" Text="Upload" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt" />
+<asp:Button SkinId="btnCheckAvailabilitySkin" runat="server" Text="Check Availability" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt" />
+<asp:Button SkinId="btnGenerateExcelReportSkin" runat="server" Text="Generate Excel Report" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt" />
+<asp:Button SkinId="btnGenerateReportSkin" runat="server" Text="Generate Report" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt" />
+<asp:Button SkinId="btnDedupSkin" runat="server" Text="Dedup Search" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt" />
+<asp:Button SkinId="btnReportSkin" runat="server" Text="Report" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt"/>
+<asp:Button SkinId="btnGenrateLabel" runat="server" Text="GenerateLabel" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt"/>
+<asp:Button SkinId="btn" runat="server" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt"/>
+<asp:Button SkinId="btnNewCaseSkin" runat="server" Text="New Case" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt" />
+
+
+<asp:Button SkinId="btnSendFeSkin" runat="server" Text="SendToFe" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt" />
+<asp:Button SkinId="btnSendSkin" runat="server" Text="SendToClient" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt" />
+<asp:Button SkinId="btntatcalskin" runat="server" Text="TatCalculation" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt"/>
+
+<asp:Button SkinId="btnExportSkin" runat="server" Text="Export" BorderColor="#476085" BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Verdana" Font-Size="8pt" />
+<%--Skin for Dropdown--%>
+<asp:DropDownList SkinId="ddlSkin" runat="server" BackColor="#FFFFE1" Font-Names="Arial" Font-Size="8pt"></asp:DropDownList>
+
+<%--Skin for ListBox--%>
+<asp:ListBox SkinId="lbSkin" runat="server" BackColor="#FFFFE1" Font-Names="Arial" Font-Size="8pt"></asp:ListBox>
+<%--Skin for RedioButton--%>
+<asp:RadioButton SkinId="rdbSkin" runat="server" Font-Names="Arial" Font-Size="8pt" />
+
+<%--Skin for RedioButtonList--%>
+<asp:RadioButtonList SkinId="rdblSkin" runat="server" Font-Names="Arial" Font-Size="8pt" />
+
+<%--Skin for CheckBox--%>
+<asp:CheckBox SkinId="chkSkin" runat="server" Font-Names="Arial" Font-Size="8pt" />
+
+<%--Skin for CheckBoxList--%>
+<asp:CheckBoxList SkinId="chkListSkin" runat="server" Font-Names="Arial" Font-Size="8pt" />
+
+<%--Skin for Grid View--%>
+<asp:GridView SkinId="gridviewSkin" runat="server" AllowSorting="True"
+    BackColor="White" BorderColor="Transparent"
+    BorderWidth="1px" CellPadding="1" CellSpacing="1"
+    ForeColor="Black" GridLines="None" BorderStyle="Solid" Font-Bold="False" Font-Names="Arial" Font-Size="8pt" Width="100%">
+    <FooterStyle BackColor="#D0D5D8" Height="20px"  ForeColor="White" />
+    <RowStyle BackColor="#E5E5E5"  />
+    <SelectedRowStyle BackColor="#CE5D5A" Font-Bold="True" ForeColor="White" />
+    <PagerStyle BackColor="#D0D5D8" ForeColor="Black" HorizontalAlign="Center" />
+    <HeaderStyle BackColor="#D0D5D8" Font-Bold="True" ForeColor="Black" Height="20px" Font-Names="Arial" Font-Size="8pt" />
+    <AlternatingRowStyle BackColor="White" />
+</asp:GridView>
+
+<asp:GridView SkinId="gridviewExportSkin" runat="server" AllowSorting="True"
+    BackColor="#0093DD" BorderColor="Black"
+    BorderWidth="1px" CellPadding="1" CellSpacing="1"
+    ForeColor="Black" GridLines="None" BorderStyle="Solid" Font-Bold="False" Font-Names="Arial" Font-Size="8pt" Width="100%">
+    <FooterStyle BackColor="#D0D5D8" Height="20px"  ForeColor="White" />
+    <RowStyle BackColor="#FFFFE1"  />
+    <SelectedRowStyle BackColor="#CE5D5A" Font-Bold="True" ForeColor="White" />
+    <PagerStyle BackColor="#D0D5D8" ForeColor="Black" HorizontalAlign="Center" />
+    <HeaderStyle BackColor="#FFFFE1" Font-Bold="True" ForeColor="Black" Height="20px" Font-Names="Arial" Font-Size="8pt" />
+    <AlternatingRowStyle BackColor="White" />
+</asp:GridView>
+
+<asp:GridView SkinId="gridviewNoSort" runat="server" AllowSorting="False"
+    BackColor="White" BorderColor="Transparent"
+    BorderWidth="1px" CellPadding="1" CellSpacing="1"
+    ForeColor="Black" GridLines="None" BorderStyle="Solid" Font-Bold="False" Font-Names="Arial" Font-Size="8pt" Width="100%">
+    <FooterStyle BackColor="#D0D5D8" Height="20px"  ForeColor="White" />
+    <RowStyle BackColor="#E5E5E5"  />
+    <SelectedRowStyle BackColor="#CE5D5A" Font-Bold="True" ForeColor="White" />
+    <PagerStyle BackColor="#D0D5D8" ForeColor="Black" HorizontalAlign="Center" />
+    <HeaderStyle BackColor="#D0D5D8" Font-Bold="True" ForeColor="Black" Height="20px" Font-Names="Arial" Font-Size="8pt" />
+    <AlternatingRowStyle BackColor="White" />
+</asp:GridView>
+
+<%--Skin for Images--%>
+<asp:Image SkinId="imgDeleteSkin" runat="server" ImageUrl="Images/icon_delete.gif" AlternateText="Delete" />
+<asp:Image SkinId="imgEditSkin" runat="server" ImageUrl="Images/icon_edit.gif" AlternateText="Edit"/>
+<asp:Image SkinId="imgCalendarSkin" runat="server" ImageUrl="Images/SmallCalendar.gif" AlternateText="Calender"/>
+<asp:ImageButton SkinId="imgBtn" runat="server" ImageUrl="Images/help.gif" AlternateText="Help"/>
+<asp:ImageButton SkinId="imgEdit" runat="server" ImageUrl="../Images/icon_edit.gif" AlternateText="Edit"/>
+
+<%--Skin for Labels--%>
+<asp:Label SkinId="lblSkin" runat="server" Font-Names="Arial" Font-Size="8pt"></asp:Label>
+<asp:Label SkinId="lblPanelSkin" runat="server" Font-Names="Arial" Font-Color="Blue"; Font-Size="9pt"></asp:Label>
+<asp:Label SkinId="lblErrorMsg" runat="server" Font-Bold="True" Font-Names="Arial" Font-Size="8pt" ForeColor="#F87311"></asp:Label>
+
+<asp:Label SkinId="lblError"  CssClass="LabelError" runat="server" Font-Bold="True" Font-Names="Arial" Font-Size="8pt" ForeColor="#F87311"
+        ></asp:Label>        
+<%--Skin for FileUpload--%>
+<asp:FileUpload skinID="flup" runat="server" BackColor="#F4F8FB" BorderColor="#476085" BorderStyle="Solid" Font-Names="Arial" Font-Size="8pt" BorderWidth="1px"></asp:FileUpload>

@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>708</MenuID>
+    <Text>Hero Housing</Text>
+    <Description>Hero Housing</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>709</MenuID>
+      <Text>Import</Text>
+      <Description>Import</Description>
+      <PagePath>~/pages/HeroHousing/IMPORT.aspx</PagePath>
+      <ParentID>708</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>712</MenuID>
+      <Text>SuperAdmin</Text>
+      <Description>SuperAdmin</Description>
+      <PagePath>~/pages/HeroHousing/Superadmin.aspx</PagePath>
+      <ParentID>708</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>714</MenuID>
+      <Text>Case Reversal</Text>
+      <Description>Case Reversal</Description>
+      <PagePath>~/pages/HeroHousing/Case_Reversal.aspx</PagePath>
+      <ParentID>708</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>720</MenuID>
+      <Text>Role Master</Text>
+      <Description>Role Master</Description>
+      <PagePath>~/pages/HeroHousing/RoleMaster.aspx</PagePath>
+      <ParentID>708</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>723</MenuID>
+      <Text>MIS</Text>
+      <Description>MIS</Description>
+      <PagePath>~/pages/HeroHousing/MIS.aspx</PagePath>
+      <ParentID>708</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

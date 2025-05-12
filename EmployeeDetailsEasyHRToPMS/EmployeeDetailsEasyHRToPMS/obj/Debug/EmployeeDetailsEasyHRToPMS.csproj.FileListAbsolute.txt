@@ -1,0 +1,97 @@
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\EmployeeDetailsEasyHRToPMS.exe.config
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\EmployeeDetailsEasyHRToPMS.exe
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\EmployeeDetailsEasyHRToPMS.pdb
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\obj\Debug\EmployeeDetailsEasyHRToPMS.csproj.CoreCompileInputs.cache
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\obj\Debug\EmployeeDetailsEasyHRToPMS.csproj.CopyComplete
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\obj\Debug\EmployeeDetailsEasyHRToPMS.exe
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\obj\Debug\EmployeeDetailsEasyHRToPMS.pdb
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Buffers.dll
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Memory.dll
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Security.Permissions.dll
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Buffers.xml
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Memory.xml
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Security.Permissions.xml
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\PAMAC\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Text.Encodings.Web.xml
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\EmployeeDetailsEasyHRToPMS.exe.config
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\EmployeeDetailsEasyHRToPMS.exe
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\EmployeeDetailsEasyHRToPMS.pdb
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\Newtonsoft.Json.dll
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Buffers.dll
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Memory.dll
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Numerics.Vectors.dll
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Security.AccessControl.dll
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Security.Permissions.dll
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Security.Principal.Windows.dll
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Text.Encodings.Web.dll
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\Newtonsoft.Json.xml
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Buffers.xml
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Memory.xml
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Numerics.Vectors.xml
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Security.AccessControl.xml
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Security.Permissions.xml
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Security.Principal.Windows.xml
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Text.Encodings.Web.xml
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\obj\Debug\EmployeeDetailsEasyHRToPMS.csproj.AssemblyReference.cache
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\obj\Debug\EmployeeDetailsEasyHRToPMS.csproj.CoreCompileInputs.cache
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\obj\Debug\EmployeeDetailsEasyHRToPMS.csproj.CopyComplete
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\obj\Debug\EmployeeDetailsEasyHRToPMS.exe
+E:\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\obj\Debug\EmployeeDetailsEasyHRToPMS.pdb
+F:\D Drive\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\obj\Debug\EmployeeDetailsEasyHRToPMS.csproj.CoreCompileInputs.cache
+F:\D Drive\Yasir\My Data\Schedulars\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\obj\Debug\EmployeeDetailsEasyHRToPMS.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\EmployeeDetailsEasyHRToPMS.exe.config
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\EmployeeDetailsEasyHRToPMS.exe
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\EmployeeDetailsEasyHRToPMS.pdb
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Security.Permissions.dll
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Buffers.xml
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Memory.xml
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Security.Permissions.xml
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\obj\Debug\EmployeeDetailsEasyHRToPMS.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\obj\Debug\EmployeeDetailsEasyHRToPMS.exe
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\obj\Debug\EmployeeDetailsEasyHRToPMS.pdb
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\obj\Debug\EmployeeDetailsEasyHRToPMS.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\EmployeeDetailsEasyHRToPMS\EmployeeDetailsEasyHRToPMS\obj\Debug\Employee.31ECDCF5.Up2Date

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="KYCTAT_MIS" targetNamespace="http://tempuri.org/KYC_TATMIS.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/KYC_TATMIS.xsd" xmlns:mstns="http://tempuri.org/KYC_TATMIS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="KYCTAT_MIS">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="CASE_REC_DATETIME" type="xs:string" />
+        <xs:element name="SEND_DATETIME" type="xs:string" />
+        <xs:element name="NO" type="xs:string" />
+        <xs:element name="WITHIN_TAT" type="xs:string" />
+        <xs:element name="GRATER_THAN_TAT" type="xs:string" />
+        <xs:element name="PENDING" type="xs:string" />
+        <xs:element name="PER_WITHIN" type="xs:string" />
+        <xs:element name="PER_GRATER_TAT" type="xs:string" />
+        <xs:element name="PER_PENDING" type="xs:string" />
+        <xs:element name="FROMDATE" type="xs:string" />
+        <xs:element name="TODATE" type="xs:string" />
+        <xs:element name="COMPANYNAME" type="xs:string" />
+        <xs:element name="TYPE" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

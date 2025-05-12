@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>217</MenuID>
+    <Text>FTS</Text>
+    <Description>FTS</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>225</MenuID>
+      <Text>DDE</Text>
+      <Description>DDE</Description>
+      <PagePath>~/Pages/PFT/DDE_stage.aspx</PagePath>
+      <ParentID>217</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

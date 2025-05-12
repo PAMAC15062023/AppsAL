@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>111</MenuID>
+      <Text>Ticket Assignment</Text>
+      <Description>Ticket Assignment</Description>
+      <PagePath>~/Pages/Helpdesk/TicketAssignment.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>171</MenuID>
+      <Text>Reports</Text>
+      <Description>Reports</Description>
+      <PagePath>~/pages/helpdesk/Report.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>197</MenuID>
+    <Text>ICICI BLG</Text>
+    <Description>ICICI BLG</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>202</MenuID>
+      <Text>File MoveMent</Text>
+      <Description>File MoveMent</Description>
+      <PagePath>~/Pages/ICICIBank-BLGActivityMIS/MoveToLocation.aspx</PagePath>
+      <ParentID>197</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

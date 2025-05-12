@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>661</MenuID>
+    <Text>TCFSL CD Loans</Text>
+    <Description>TCFSL CD Loans</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>662</MenuID>
+      <Text>TCFSL Import</Text>
+      <Description>TCFSL Import</Description>
+      <PagePath />
+      <ParentID>661</ParentID>
+      <Menu>
+        <MenuID>681</MenuID>
+        <Text>TCFSL Import(DD/MM/YYYY)</Text>
+        <Description>TCFSL Import(DD/MM/YYYY)</Description>
+        <PagePath>~/Pages/TCFSL_CDLOAN/IMPORT.aspx</PagePath>
+        <ParentID>662</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>668</MenuID>
+      <Text>Superadmin</Text>
+      <Description>Superadmin</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/Superadmin.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>669</MenuID>
+      <Text>Role Master</Text>
+      <Description>Role Master</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/Role_Master.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>670</MenuID>
+      <Text>MIS</Text>
+      <Description>MIS</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/MIS.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>680</MenuID>
+      <Text>Daily Tracker</Text>
+      <Description>Daily Tracker</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/DailyTracker.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>683</MenuID>
+      <Text>Case Tracker View</Text>
+      <Description>Case Tracker View</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/Case_Tracker.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>684</MenuID>
+      <Text>Down Time Tracker</Text>
+      <Description>Down Time Tracker</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/DownTimeTracker.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

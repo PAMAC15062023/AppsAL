@@ -1,0 +1,119 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Configuration;
+using System.Data;
+using System.Data.SqlClient;
+using System.IO;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using Microsoft.Reporting.WebForms;
+
+public partial class Pages_ChequePrinting_ReportViewer_CPR : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (!IsPostBack)
+        {
+            string reportName = Request.QueryString["rname"];
+            string datasetsent = Request.QueryString["datasetsent"];
+
+
+            if (!string.IsNullOrEmpty(reportName) && !string.IsNullOrEmpty(datasetsent))
+            {
+
+                GenerateRDLCReport(reportName, datasetsent);
+            }
+
+        }
+    }
+
+    private void GenerateRDLCReport(string reptname,string datasetsent)
+    {
+        try
+        {
+            //string reptname = "Userinfo.rdlc";
+            //string SPName = "testUserinfo";
+            DataTable dt = (DataTable)Session["ReportDT"];
+            //  DataTable dt = GetUserinfoDetails(SPName);
+
+
+            if (dt != null && dt.Rows.Count > 0)
+            {
+
+
+                UserinfoReportViewer.LocalReport.EnableHyperlinks = true;
+                UserinfoReportViewer.ProcessingMode = ProcessingMode.Local;
+                UserinfoReportViewer.LocalReport.ReportPath = Server.MapPath("~/Report/" + reptname + ".rdlc");
+                ReportDataSource datasource = new ReportDataSource(datasetsent, dt);
+                UserinfoReportViewer.LocalReport.DataSources.Clear();
+                UserinfoReportViewer.LocalReport.DataSources.Add(datasource);
+            }
+            else
+            {
+                btnExport.Visible = false;
+                lblErrorMsg.Text = "No Data Found";
+            }
+        }
+        catch (Exception ex)
+        {
+            ex.ToString();
+        }
+    }
+
+    public DataTable GetUserinfoDetails(string SPName)
+    {
+        DataTable dt = new DataTable();
+
+        using (SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["CalculusConnectionString"].ConnectionString))
+        {
+            using (SqlCommand cmd = new SqlCommand(SPName, con))
+            {
+                cmd.CommandType = CommandType.StoredProcedure;
+                con.Open();
+                SqlDataAdapter adp = new SqlDataAdapter(cmd);
+                adp.Fill(dt);
+            }
+
+
+            return dt;
+        }
+    }
+
+    protected void Export(object sender, EventArgs e)
+    {
+        try
+        {
+            string filename = DateTime.Now.Ticks.ToString() + ".";
+            Warning[] warnings;
+            string[] streamIds;
+            string contentType;
+            string encoding;
+            string extension;
+
+            //Export the RDLC Report to Byte Array.
+            // WORD
+            // EXCEL
+            // PDF
+            // IMAGE
+            byte[] bytes = UserinfoReportViewer.LocalReport.Render("PDF", null, out contentType, out encoding, out extension, out streamIds, out warnings);
+
+            //Download the RDLC Report in Word, Excel, PDF and Image formats.
+            Response.Clear();
+            Response.Buffer = true;
+            Response.Charset = "";
+            Response.Cache.SetCacheability(HttpCacheability.NoCache);
+            Response.ContentType = contentType;
+            Response.AppendHeader("Content-Disposition", "attachment; filename=" + filename + extension);
+            Response.BinaryWrite(bytes);
+            Response.Flush();
+            Response.End();
+        }
+        catch (Exception)
+        {
+
+            throw;
+        }
+    }
+}

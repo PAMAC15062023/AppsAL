@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "NANO-PRO-App_Csharp_Calculus(28-Apr-2014)", ".", "{8D789D25-8B9C-408A-B33D-5CF6375B489A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/NANO-PRO-App_Csharp_Calculus"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Avinash\Backup\NANO-PRO\NANO-PRO-App_Csharp_Calculus\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\NANO-PRO-App_Csharp_Calculus\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/NANO-PRO-App_Csharp_Calculus"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Avinash\Backup\NANO-PRO\NANO-PRO-App_Csharp_Calculus\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\NANO-PRO-App_Csharp_Calculus\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50625"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D789D25-8B9C-408A-B33D-5CF6375B489A}.Debug|.NET.ActiveCfg = Debug|.NET
+		{8D789D25-8B9C-408A-B33D-5CF6375B489A}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TextTemplating) = postSolution
+		TextTemplating = 1
+	EndGlobalSection
+EndGlobal

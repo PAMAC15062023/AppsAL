@@ -1,0 +1,5 @@
+[TSMEXTRCT_TSM_Verification_IND_04032108114347.txt]
+ColNameHeader=True
+Format=TabDelimited
+MaxScanRows=25
+CharacterSet=OEM

@@ -1,0 +1,1 @@
+Select case_ID from cpv_cc_case_Details a where a.CASE_REC_DATETIME >= '01-Oct-2007' and  a.CASE_REC_DATETIME<='07-Nov-2007'

@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>579</MenuID>
+    <Text>TCF</Text>
+    <Description>TCF</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>580</MenuID>
+      <Text>Inward Manual Entry</Text>
+      <Description>Inward Manual Entry</Description>
+      <PagePath>~/Pages/Inword Tracking Module/Manual Entry Form.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>581</MenuID>
+      <Text>DEO</Text>
+      <Description>DEO</Description>
+      <PagePath>~/Pages/Inword Tracking Module/DEO.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

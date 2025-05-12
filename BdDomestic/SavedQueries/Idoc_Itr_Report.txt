@@ -1,0 +1,7 @@
+select a.case_id as'Case Id',a.ref_no as'Ref No',convert(varchar,a.Case_rec_datetime,103) as'Receive Date',convert(varchar,a.send_datetime,103) as'Send Date',
+c.centre_name as'Centre Name',b.Client_name as'Client Name',a.pan_no as'Pan No',a.ASST_YEAR as'Asst Year'
+from CPV_IDOC_CASE_DETAILS a,client_master b,centre_master c
+where a.client_id=b.client_id and a.centre_id=c.centre_id and @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+
+
+

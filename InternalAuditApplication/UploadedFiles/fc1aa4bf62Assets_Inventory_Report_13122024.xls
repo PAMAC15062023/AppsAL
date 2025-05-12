@@ -1,0 +1,3924 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="ProgId" content="Excel.Sheet"/>
+  <meta name="Generator" content="WPS Office ET"/>
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Author>Ekol-04</o:Author>
+     <o:Created>2024-12-13T15:01:30</o:Created>
+     <o:LastSaved>2024-12-14T12:42:23</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:KSOProductBuildVer dt:dt="string">1033-9.1.0.4674</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:0.98in 0.75in 0.98in 0.75in;
+	mso-header-margin:0.51in;
+	mso-footer-margin:0.51in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#000000;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#CCCCFF;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#003366;
+	font-size:8.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font3
+	{color:#003366;
+	font-size:8.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font4
+	{color:#0000FF;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Times New Roman";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font5
+	{color:#800080;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Times New Roman";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:#000000;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Times New Roman;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"Normal";
+	mso-style-id:0;}
+.style16
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"Comma";
+	mso-style-id:3;}
+.style17
+	{mso-number-format:"_\(\\$* \#\,\#\#0\.00_\)\;_\(\\$* \\\(\#\,\#\#0\.00\\\)\;_\(\\$* \0022-\0022??_\)\;_\(\@_\)";
+	mso-style-name:"Currency";
+	mso-style-id:4;}
+.style18
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"Comma[0]";
+	mso-style-id:6;}
+.style19
+	{mso-number-format:"0%";
+	mso-style-name:"Percent";
+	mso-style-id:5;}
+.style20
+	{mso-number-format:"_\(\\$* \#\,\#\#0_\)\;_\(\\$* \\\(\#\,\#\#0\\\)\;_\(\\$* \0022-\0022_\)\;_\(\@_\)";
+	mso-style-name:"Currency[0]";
+	mso-style-id:7;}
+.style21
+	{color:#800080;
+	font-size:12.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Times New Roman;
+	mso-style-name:"Followed Hyperlink";
+	mso-style-id:9;}
+.style22
+	{color:#0000FF;
+	font-size:12.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Times New Roman;
+	mso-style-name:"Hyperlink";
+	mso-style-id:8;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:#000000;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Times New Roman;
+	border:none;
+	mso-protection:locked visible;}
+.xl24
+	{mso-style-parent:style0;
+	mso-pattern:auto none;
+	background:#003366;
+	color:#CCCCFF;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial;}
+.xl25
+	{mso-style-parent:style0;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	color:#003366;
+	font-size:8.0pt;
+	font-family:Arial;}
+.xl26
+	{mso-style-parent:style0;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	color:#003366;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial;}
+.xl27
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#003366;
+	color:#CCCCFF;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial;}
+.xl28
+	{mso-style-parent:style0;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	color:#003366;
+	font-size:8.0pt;
+	font-family:Arial;}
+.xl29
+	{mso-style-parent:style0;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	color:#003366;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:Arial;}
+.xl30
+	{mso-style-parent:style0;
+	mso-number-format:"m\\/d\\/yyyy";
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#FFFFFF;
+	color:#003366;
+	font-size:8.0pt;
+	font-family:Arial;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>Assets Inventory Report 1312202</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>315</x:DefaultRowHeight>
+        <x:Selected/>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>5</x:ActiveCol>
+          <x:ActiveRow>79</x:ActiveRow>
+          <x:RangeSelection>F80</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:DoNotDisplayGridlines/>
+        <x:FilterOn/>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>False</x:ProtectObjects>
+        <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:PageBreakZoom>100</x:PageBreakZoom>
+        <x:Print>
+         <x:ValidPrinterInfo/>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:SelectedSheets>0</x:SelectedSheets>
+     <x:WindowHeight>8955</x:WindowHeight>
+     <x:WindowWidth>20205</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple">
+  <table width="8120" border="0" cellpadding="0" cellspacing="0" style='width:6090.00pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="87" style='mso-width-source:userset;mso-width-alt:2784;'/>
+   <col width="125" style='mso-width-source:userset;mso-width-alt:4000;'/>
+   <col width="68" style='mso-width-source:userset;mso-width-alt:2176;'/>
+   <col width="127" style='mso-width-source:userset;mso-width-alt:4064;'/>
+   <col width="145" style='mso-width-source:userset;mso-width-alt:4640;'/>
+   <col width="81" style='mso-width-source:userset;mso-width-alt:2592;'/>
+   <col width="113" style='mso-width-source:userset;mso-width-alt:3616;'/>
+   <col width="85" style='mso-width-source:userset;mso-width-alt:2720;'/>
+   <col width="92" style='mso-width-source:userset;mso-width-alt:2944;'/>
+   <col width="95" style='mso-width-source:userset;mso-width-alt:3040;'/>
+   <col width="97" style='mso-width-source:userset;mso-width-alt:3104;'/>
+   <col width="65" style='mso-width-source:userset;mso-width-alt:2080;'/>
+   <col width="145" style='mso-width-source:userset;mso-width-alt:4640;'/>
+   <col width="65" style='mso-width-source:userset;mso-width-alt:2080;'/>
+   <col width="218" style='mso-width-source:userset;mso-width-alt:6976;'/>
+   <col width="92" style='mso-width-source:userset;mso-width-alt:2944;'/>
+   <col width="108" style='mso-width-source:userset;mso-width-alt:3456;'/>
+   <col width="152" style='mso-width-source:userset;mso-width-alt:4864;'/>
+   <col width="143" style='mso-width-source:userset;mso-width-alt:4576;'/>
+   <col width="88" style='mso-width-source:userset;mso-width-alt:2816;'/>
+   <col width="76" style='mso-width-source:userset;mso-width-alt:2432;'/>
+   <col width="75" style='mso-width-source:userset;mso-width-alt:2400;'/>
+   <col width="71" style='mso-width-source:userset;mso-width-alt:2272;'/>
+   <col width="70" style='mso-width-source:userset;mso-width-alt:2240;'/>
+   <col width="83" style='mso-width-source:userset;mso-width-alt:2656;'/>
+   <col width="72" span="2" style='mso-width-source:userset;mso-width-alt:2304;'/>
+   <col width="86" style='mso-width-source:userset;mso-width-alt:2752;'/>
+   <col width="79" style='mso-width-source:userset;mso-width-alt:2528;'/>
+   <col width="78" style='mso-width-source:userset;mso-width-alt:2496;'/>
+   <col width="83" style='mso-width-source:userset;mso-width-alt:2656;'/>
+   <col width="73" style='mso-width-source:userset;mso-width-alt:2336;'/>
+   <col width="86" style='mso-width-source:userset;mso-width-alt:2752;'/>
+   <col width="79" style='mso-width-source:userset;mso-width-alt:2528;'/>
+   <col width="59" style='mso-width-source:userset;mso-width-alt:1888;'/>
+   <col width="65" style='mso-width-source:userset;mso-width-alt:2080;'/>
+   <col width="80" style='mso-width-source:userset;mso-width-alt:2560;'/>
+   <col width="69" style='mso-width-source:userset;mso-width-alt:2208;'/>
+   <col width="48" style='mso-width-source:userset;mso-width-alt:1536;'/>
+   <col width="82" style='mso-width-source:userset;mso-width-alt:2624;'/>
+   <col width="91" style='mso-width-source:userset;mso-width-alt:2912;'/>
+   <col width="92" style='mso-width-source:userset;mso-width-alt:2944;'/>
+   <col width="86" style='mso-width-source:userset;mso-width-alt:2752;'/>
+   <col width="71" style='mso-width-source:userset;mso-width-alt:2272;'/>
+   <col width="87" style='mso-width-source:userset;mso-width-alt:2784;'/>
+   <col width="64" style='mso-width-source:userset;mso-width-alt:2048;'/>
+   <col width="98" style='mso-width-source:userset;mso-width-alt:3136;'/>
+   <col width="102" style='mso-width-source:userset;mso-width-alt:3264;'/>
+   <col width="106" style='mso-width-source:userset;mso-width-alt:3392;'/>
+   <col width="107" style='mso-width-source:userset;mso-width-alt:3424;'/>
+   <col width="85" style='mso-width-source:userset;mso-width-alt:2720;'/>
+   <col width="81" style='mso-width-source:userset;mso-width-alt:2592;'/>
+   <col width="112" style='mso-width-source:userset;mso-width-alt:3584;'/>
+   <col width="77" style='mso-width-source:userset;mso-width-alt:2464;'/>
+   <col width="71" style='mso-width-source:userset;mso-width-alt:2272;'/>
+   <col width="78" style='mso-width-source:userset;mso-width-alt:2496;'/>
+   <col width="57" style='mso-width-source:userset;mso-width-alt:1824;'/>
+   <col width="64" style='mso-width-source:userset;mso-width-alt:2048;'/>
+   <col width="58" style='mso-width-source:userset;mso-width-alt:1856;'/>
+   <col width="85" style='mso-width-source:userset;mso-width-alt:2720;'/>
+   <col width="57" style='mso-width-source:userset;mso-width-alt:1824;'/>
+   <col width="65" style='mso-width-source:userset;mso-width-alt:2080;'/>
+   <col width="89" style='mso-width-source:userset;mso-width-alt:2848;'/>
+   <col width="83" style='mso-width-source:userset;mso-width-alt:2656;'/>
+   <col width="35" style='mso-width-source:userset;mso-width-alt:1120;'/>
+   <col width="117" style='mso-width-source:userset;mso-width-alt:3744;'/>
+   <col width="96" style='mso-width-source:userset;mso-width-alt:3072;'/>
+   <col width="61" style='mso-width-source:userset;mso-width-alt:1952;'/>
+   <col width="115" style='mso-width-source:userset;mso-width-alt:3680;'/>
+   <col width="85" style='mso-width-source:userset;mso-width-alt:2720;'/>
+   <col width="103" style='mso-width-source:userset;mso-width-alt:3296;'/>
+   <col width="88" style='mso-width-source:userset;mso-width-alt:2816;'/>
+   <col width="35" style='mso-width-source:userset;mso-width-alt:1120;'/>
+   <col width="39" style='mso-width-source:userset;mso-width-alt:1248;'/>
+   <col width="97" style='mso-width-source:userset;mso-width-alt:3104;'/>
+   <col width="81" style='mso-width-source:userset;mso-width-alt:2592;'/>
+   <col width="53" style='mso-width-source:userset;mso-width-alt:1696;'/>
+   <col width="35" style='mso-width-source:userset;mso-width-alt:1120;'/>
+   <col width="48" style='mso-width-source:userset;mso-width-alt:1536;'/>
+   <col width="51" style='mso-width-source:userset;mso-width-alt:1632;'/>
+   <col width="86" style='mso-width-source:userset;mso-width-alt:2752;'/>
+   <col width="63" span="2" style='mso-width-source:userset;mso-width-alt:2016;'/>
+   <col width="49" style='mso-width-source:userset;mso-width-alt:1568;'/>
+   <col width="79" style='mso-width-source:userset;mso-width-alt:2528;'/>
+   <col width="88" style='mso-width-source:userset;mso-width-alt:2816;'/>
+   <col width="34" style='mso-width-source:userset;mso-width-alt:1088;'/>
+   <col width="83" style='mso-width-source:userset;mso-width-alt:2656;'/>
+   <col width="123" style='mso-width-source:userset;mso-width-alt:3936;'/>
+   <col width="108" style='mso-width-source:userset;mso-width-alt:3456;'/>
+   <col width="110" style='mso-width-source:userset;mso-width-alt:3520;'/>
+   <col width="32" span="2" style='mso-width-source:userset;mso-width-alt:1024;'/>
+   <col width="85" style='mso-width-source:userset;mso-width-alt:2720;'/>
+   <col width="117" style='mso-width-source:userset;mso-width-alt:3744;'/>
+   <col width="51" style='mso-width-source:userset;mso-width-alt:1632;'/>
+   <col width="135" style='mso-width-source:userset;mso-width-alt:4320;'/>
+   <tr height="20" class="xl24" style='height:15.00pt;mso-height-source:userset;mso-height-alt:300;'>
+    <td class="xl27" height="20" width="87" x:autofilter="all" x:autofilterrange="$A$1:CS82" style='height:15.00pt;width:65.25pt;' x:str>Centre_name</td>
+    <td class="xl27" width="125" x:autofilter="all" style='width:93.75pt;' x:str>Subcentrename</td>
+    <td class="xl27" width="68" x:autofilter="all" style='width:51.00pt;' x:str>Emp_code</td>
+    <td class="xl27" width="127" x:autofilter="all" style='width:95.25pt;' x:str>FullName</td>
+    <td class="xl27" width="145" x:autofilter="all" style='width:108.75pt;' x:str>transrefno</td>
+    <td class="xl27" width="81" x:autofilter="custom" x:autofiltervalue="=PC" style='width:60.75pt;' x:str>Assets_type</td>
+    <td class="xl27" width="113" x:autofilter="all" style='width:84.75pt;' x:str>unit</td>
+    <td class="xl27" width="85" x:autofilter="all" style='width:63.75pt;' x:str>owner_name</td>
+    <td class="xl27" width="92" x:autofilter="all" style='width:69.00pt;' x:str>Owner_name1</td>
+    <td class="xl27" width="95" x:autofilter="all" style='width:71.25pt;' x:str>Purchase_Date</td>
+    <td class="xl27" width="97" x:autofilter="all" style='width:72.75pt;' x:str>Purchase_Cost</td>
+    <td class="xl27" width="65" x:autofilter="all" style='width:48.75pt;' x:str>Rent_Amt</td>
+    <td class="xl27" width="145" x:autofilter="all" style='width:108.75pt;' x:str>Vender_Name</td>
+    <td class="xl27" width="65" x:autofilter="all" style='width:48.75pt;' x:str>RentDate</td>
+    <td class="xl27" width="218" x:autofilter="all" style='width:163.50pt;' x:str>Status</td>
+    <td class="xl27" width="92" x:autofilter="all" style='width:69.00pt;' x:str>AssetLocation</td>
+    <td class="xl27" width="108" x:autofilter="all" style='width:81.00pt;' x:str>Assets_SubType</td>
+    <td class="xl27" width="152" x:autofilter="all" style='width:114.00pt;' x:str>CompName</td>
+    <td class="xl27" width="143" x:autofilter="all" style='width:107.25pt;' x:str>Model_Name</td>
+    <td class="xl27" width="88" x:autofilter="all" style='width:66.00pt;' x:str>WarrantyType</td>
+    <td class="xl27" width="76" x:autofilter="all" style='width:57.00pt;' x:str>CassetteCD</td>
+    <td class="xl27" width="75" x:autofilter="all" style='width:56.25pt;' x:str>UsbPortAvil</td>
+    <td class="xl27" width="71" x:autofilter="all" style='width:53.25pt;' x:str>TotalRacks</td>
+    <td class="xl27" width="70" x:autofilter="all" style='width:52.50pt;' x:str>LockerAvil</td>
+    <td class="xl27" width="83" x:autofilter="all" style='width:62.25pt;' x:str>PrintCapacity</td>
+    <td class="xl27" width="72" x:autofilter="all" style='width:54.00pt;' x:str>OthFeature</td>
+    <td class="xl27" width="72" x:autofilter="all" style='width:54.00pt;' x:str>CountDraw</td>
+    <td class="xl27" width="86" x:autofilter="all" style='width:64.50pt;' x:str>BlockingLock</td>
+    <td class="xl27" width="79" x:autofilter="all" style='width:59.25pt;' x:str>SensorResu</td>
+    <td class="xl27" width="78" x:autofilter="all" style='width:58.50pt;' x:str>SensorType</td>
+    <td class="xl27" width="83" x:autofilter="all" style='width:62.25pt;' x:str>ManualFocus</td>
+    <td class="xl27" width="73" x:autofilter="all" style='width:54.75pt;' x:str>ScreenSize</td>
+    <td class="xl27" width="86" x:autofilter="all" style='width:64.50pt;' x:str>RechargeBett</td>
+    <td class="xl27" width="79" x:autofilter="all" style='width:59.25pt;' x:str>Connectivity</td>
+    <td class="xl27" width="59" x:autofilter="all" style='width:44.25pt;' x:str>TotalBatt</td>
+    <td class="xl27" width="65" x:autofilter="all" style='width:48.75pt;' x:str>PushBack</td>
+    <td class="xl27" width="80" x:autofilter="all" style='width:60.00pt;' x:str>FoldingChair</td>
+    <td class="xl27" width="69" x:autofilter="all" style='width:51.75pt;' x:str>PlainPaper</td>
+    <td class="xl27" width="48" x:autofilter="all" style='width:36.00pt;' x:str>Colour</td>
+    <td class="xl27" width="82" x:autofilter="all" style='width:61.50pt;' x:str>PowerOffDial</td>
+    <td class="xl27" width="91" x:autofilter="all" style='width:68.25pt;' x:str>FaxPrintSpeed</td>
+    <td class="xl27" width="92" x:autofilter="all" style='width:69.00pt;' x:str>CompPrintCap</td>
+    <td class="xl27" width="86" x:autofilter="all" style='width:64.50pt;' x:str>PrintCartg</td>
+    <td class="xl27" width="71" x:autofilter="all" style='width:53.25pt;' x:str>SpeakerPH</td>
+    <td class="xl27" width="87" x:autofilter="all" style='width:65.25pt;' x:str>MaxPaperCap</td>
+    <td class="xl27" width="64" x:autofilter="all" style='width:48.00pt;' x:str>AlarmIndi</td>
+    <td class="xl27" width="98" x:autofilter="all" style='width:73.50pt;' x:str>InbuiltAnsMach</td>
+    <td class="xl27" width="102" x:autofilter="all" style='width:76.50pt;' x:str>ProcessorName</td>
+    <td class="xl27" width="106" x:autofilter="all" style='width:79.50pt;' x:str>PassUserRestric</td>
+    <td class="xl27" width="107" x:autofilter="all" style='width:80.25pt;' x:str>ProcessorSpeed</td>
+    <td class="xl27" width="85" x:autofilter="all" style='width:63.75pt;' x:str>StandardRam</td>
+    <td class="xl27" width="81" x:autofilter="all" style='width:60.75pt;' x:str>UpgradeRam</td>
+    <td class="xl27" width="112" x:autofilter="all" style='width:84.00pt;' x:str>HardDiskDriveCap</td>
+    <td class="xl27" width="77" x:autofilter="all" style='width:57.75pt;' x:str>BatteryType</td>
+    <td class="xl27" width="71" x:autofilter="all" style='width:53.25pt;' x:str>BatteryLife</td>
+    <td class="xl27" width="78" x:autofilter="all" style='width:58.50pt;' x:str>CameraBuilt</td>
+    <td class="xl27" width="57" x:autofilter="all" style='width:42.75pt;' x:str>Speaker</td>
+    <td class="xl27" width="64" x:autofilter="all" style='width:48.00pt;' x:str>Bluetooth</td>
+    <td class="xl27" width="58" x:autofilter="all" style='width:43.50pt;' x:str>SmartPh</td>
+    <td class="xl27" width="85" x:autofilter="all" style='width:63.75pt;' x:str>TouchScreen</td>
+    <td class="xl27" width="57" x:autofilter="all" style='width:42.75pt;' x:str>ConfCall</td>
+    <td class="xl27" width="65" x:autofilter="all" style='width:48.75pt;' x:str>MemCard</td>
+    <td class="xl27" width="89" x:autofilter="all" style='width:66.75pt;' x:str>MemCardSize</td>
+    <td class="xl27" width="83" x:autofilter="all" style='width:62.25pt;' x:str>RouterSpeed</td>
+    <td class="xl27" width="35" x:autofilter="all" style='width:26.25pt;' x:str>Ram</td>
+    <td class="xl27" width="117" x:autofilter="all" style='width:87.75pt;' x:str>MotherBoardMake</td>
+    <td class="xl27" width="96" x:autofilter="all" style='width:72.00pt;' x:str>AutomaticDocu</td>
+    <td class="xl27" width="61" x:autofilter="all" style='width:45.75pt;' x:str>TotalPort</td>
+    <td class="xl27" width="115" x:autofilter="all" style='width:86.25pt;' x:str>ModelType</td>
+    <td class="xl27" width="85" x:autofilter="all" style='width:63.75pt;' x:str>SpeakerType</td>
+    <td class="xl27" width="103" x:autofilter="all" style='width:77.25pt;' x:str>OpticalCharReco</td>
+    <td class="xl27" width="88" x:autofilter="all" style='width:66.00pt;' x:str>SpeakerPorts</td>
+    <td class="xl27" width="35" x:autofilter="all" style='width:26.25pt;' x:str>Watt</td>
+    <td class="xl27" width="39" x:autofilter="all" style='width:29.25pt;' x:str>Tonn</td>
+    <td class="xl27" width="97" x:autofilter="all" style='width:72.75pt;' x:str>TextEnhanTech</td>
+    <td class="xl27" width="81" x:autofilter="all" style='width:60.75pt;' x:str>Telephone</td>
+    <td class="xl27" width="53" x:autofilter="all" style='width:39.75pt;' x:str>CallerID</td>
+    <td class="xl27" width="35" x:autofilter="all" style='width:26.25pt;' x:str>Std</td>
+    <td class="xl27" width="48" x:autofilter="all" style='width:36.00pt;' x:str>Router</td>
+    <td class="xl27" width="51" x:autofilter="all" style='width:38.25pt;' x:str>Validity</td>
+    <td class="xl27" width="86" x:autofilter="all" style='width:64.50pt;' x:str>Encodingtype</td>
+    <td class="xl27" width="63" x:autofilter="all" style='width:47.25pt;' x:str>Cartridge</td>
+    <td class="xl27" width="63" x:autofilter="all" style='width:47.25pt;' x:str>KeyBoard</td>
+    <td class="xl27" width="49" x:autofilter="all" style='width:36.75pt;' x:str>Mouse</td>
+    <td class="xl27" width="79" x:autofilter="all" style='width:59.25pt;' x:str>BackupTime</td>
+    <td class="xl27" width="88" x:autofilter="all" style='width:66.00pt;' x:str>NoOfBatteries</td>
+    <td class="xl27" width="34" x:autofilter="all" style='width:25.50pt;' x:str>Size</td>
+    <td class="xl27" width="83" x:autofilter="all" style='width:62.25pt;' x:str>UserCapacity</td>
+    <td class="xl27" width="123" x:autofilter="all" style='width:92.25pt;' x:str>TransactionStorage</td>
+    <td class="xl27" width="108" x:autofilter="all" style='width:81.00pt;' x:str>Communications</td>
+    <td class="xl27" width="110" x:autofilter="all" style='width:82.50pt;' x:str>Identificationtime</td>
+    <td class="xl27" width="32" x:autofilter="all" style='width:24.00pt;' x:str>FAR</td>
+    <td class="xl27" width="32" x:autofilter="all" style='width:24.00pt;' x:str>FRR</td>
+    <td class="xl27" width="85" x:autofilter="all" style='width:63.75pt;' x:str>Temperature</td>
+    <td class="xl27" width="117" x:autofilter="all" style='width:87.75pt;' x:str>OperatingHumidity</td>
+    <td class="xl27" width="51" x:autofilter="all" style='width:38.25pt;' x:str>Sensor</td>
+    <td class="xl27" width="135" x:autofilter="all" style='width:101.25pt;' x:str>VendorAssetNumber</td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18000</td>
+    <td class="xl28" x:str>Asim Kumar Boral</td>
+    <td class="xl28" x:str>Kol\201205\CH-0049</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>PCPA</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>30/12/2016</td>
+    <td class="xl28" align="right" x:num>1500</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cushion Chair</td>
+    <td class="xl28" x:str>JK STEEL</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" colspan="27" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18006</td>
+    <td class="xl28" x:str>NANDAN CHATTERJEE</td>
+    <td class="xl28" x:str>Kol\201205\CH-0050</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>AC/ADMIN</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="38753.">2/5/2006</td>
+    <td class="xl28" align="right" x:num>950</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cushion Chair</td>
+    <td class="xl28" x:str>JK STEEL</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" colspan="27" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18150</td>
+    <td class="xl28" x:str>SOURAV SAHA</td>
+    <td class="xl28" x:str>Kol\201205\CH-0051</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>PCPV</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>30/04/2016</td>
+    <td class="xl28" align="right" x:num>1500</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cushion Chair</td>
+    <td class="xl28" x:str>JK STEEL</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" colspan="27" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18381</td>
+    <td class="xl28" x:str>JAGANNATH HENSH</td>
+    <td class="xl28" x:str>Kol\201205\CH-0056</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>PCPV</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42465.">4/5/2016</td>
+    <td class="xl28" align="right" x:num>1500</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cushion Chair</td>
+    <td class="xl28" x:str>JK STEEL</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" colspan="27" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kol\201205\CK-0003</td>
+    <td class="xl28" x:str>CK</td>
+    <td class="xl28" x:str>COMMON ROOM</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="38353.">1/1/2005</td>
+    <td class="xl28" align="right" x:num>150</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>CK</td>
+    <td class="xl28" x:str>AJANTA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>OffSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="16" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kol\201205\FN-0008</td>
+    <td class="xl28" x:str>FN</td>
+    <td class="xl28" x:str>CPV</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42441.">3/12/2016</td>
+    <td class="xl28" align="right" x:num>1100</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Table Fan</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kol\201205\Inv-0003</td>
+    <td class="xl28" x:str>INV</td>
+    <td class="xl28" x:str>ALL UNIT</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="41126.">8/5/2012</td>
+    <td class="xl28" align="right" x:num>5800</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>MICROTEK</td>
+    <td class="xl28" x:str>SW3KVA</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>1hr</td>
+    <td class="xl28" align="right" x:num>4</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="19" class="xl25" style='height:14.25pt;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="19" style='height:14.25pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18006</td>
+    <td class="xl28" x:str>NANDAN CHATTERJEE</td>
+    <td class="xl28" x:str>Kol\201205\PC-0010</td>
+    <td class="xl28" x:str>PC</td>
+    <td class="xl28" x:str>CPA / ALL UNIT</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="40278.">4/10/2010</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28"></td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>CRT</td>
+    <td class="xl28" x:str>PAMAC FINSERVE PVT LTD</td>
+    <td class="xl28" x:str>ASSEMBLED</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>16&quot;</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>P4</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>2.00 Ghz</td>
+    <td class="xl28" x:str>2 GB</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>500 GB</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>2 GB</td>
+    <td class="xl28" x:str>Intel Chipset</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>PS2</td>
+    <td class="xl28" x:str>PS2</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28"></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18046</td>
+    <td class="xl28" x:str>ABHIJIT MITRA</td>
+    <td class="xl28" x:str>Kol\201205\PT-0006</td>
+    <td class="xl28" x:str>PRINTER</td>
+    <td class="xl28" x:str>ALL UNIT</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" align="right" x:num>42066</td>
+    <td class="xl28" x:str>DR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>DR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NOT WORKING</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>PRINTER</td>
+    <td class="xl28" x:str>HP</td>
+    <td class="xl28" x:str>DR</td>
+    <td class="xl28" x:str>OffSite</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>CANON TONER</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>LaserJet 1020</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28"></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18046</td>
+    <td class="xl28" x:str>ABHIJIT MITRA</td>
+    <td class="xl28" x:str>Kol\201205\RACK-0007</td>
+    <td class="xl28" x:str>RACK</td>
+    <td class="xl28" x:str>ALL UNIT</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" align="right" x:num>41794</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>DR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>RACK</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28"></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kol\201205\TB-0030</td>
+    <td class="xl28" x:str>TB</td>
+    <td class="xl28" x:str>ALL UNIT</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Wooden Table</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>RUNNING</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18000</td>
+    <td class="xl28" x:str>Asim Kumar Boral</td>
+    <td class="xl28" x:str>Kol\201205\TP-0016</td>
+    <td class="xl28" x:str>TP</td>
+    <td class="xl28" x:str>PCPA</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42465.">4/5/2016</td>
+    <td class="xl28" align="right" x:num>1200</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cordless</td>
+    <td class="xl28" x:str>TATA DOCOMO</td>
+    <td class="xl28" x:str>HUAWEI CE 0168</td>
+    <td class="xl28" x:str>OffSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="6" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>033-68888473</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18006</td>
+    <td class="xl28" x:str>NANDAN CHATTERJEE</td>
+    <td class="xl28" x:str>Kol\201205\TP-0017</td>
+    <td class="xl28" x:str>TP</td>
+    <td class="xl28" x:str>AC/ADMIN</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42404.">2/4/2016</td>
+    <td class="xl28" align="right" x:num>1200</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cordless</td>
+    <td class="xl28" x:str>TATA DOCOMO</td>
+    <td class="xl28" x:str>HUAWEI CE0168</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="6" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>033-64444804</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18046</td>
+    <td class="xl28" x:str>ABHIJIT MITRA</td>
+    <td class="xl28" x:str>Kol\201206\PT-0001</td>
+    <td class="xl28" x:str>PRINTER</td>
+    <td class="xl28" x:str>All Dept</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" align="right" x:num>39966</td>
+    <td class="xl28" x:str>DR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>DR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>PRINTER</td>
+    <td class="xl28" x:str>HP</td>
+    <td class="xl28" x:str>M1136MFP</td>
+    <td class="xl28" x:str>OffSite</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>CANON TONER</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>LaserJet M1136 MFP</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28"></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201503\CN-000001</td>
+    <td class="xl28" x:str>CN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="41004.">4/5/2012</td>
+    <td class="xl28" align="right" x:num>4000</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Metal</td>
+    <td class="xl28" x:str>HP</td>
+    <td class="xl28" x:str>HP1020</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18046</td>
+    <td class="xl28" x:str>ABHIJIT MITRA</td>
+    <td class="xl28" x:str>Kolk\201503\RT-000001</td>
+    <td class="xl28" x:str>ROUTER</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" align="right" x:num>42837</td>
+    <td class="xl28" x:str>DR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>DR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>ROUTER</td>
+    <td class="xl28" x:str>I-BALL</td>
+    <td class="xl28" x:str>BA25</td>
+    <td class="xl28" x:str>OffSite</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>10 / 100 MBPS</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>4 PORT</td>
+    <td class="xl28" x:str>iBaton</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>iBaton</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28"></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18046</td>
+    <td class="xl28" x:str>ABHIJIT MITRA</td>
+    <td class="xl28" x:str>Kolk\201503\SW-000001</td>
+    <td class="xl28" x:str>SWITCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" align="right" x:num>43232</td>
+    <td class="xl28" x:str>DR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>DR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>SWITCH</td>
+    <td class="xl28" x:str>CISO</td>
+    <td class="xl28" x:str>SR224</td>
+    <td class="xl28" x:str>OffSite</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>24 Ports</td>
+    <td class="xl28" x:str>SR224</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28"></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201503\WB-000001</td>
+    <td class="xl28" x:str>WB</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42099.">4/5/2015</td>
+    <td class="xl28" align="right" x:num>1200</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>LOCALMF</td>
+    <td class="xl28" x:str>NORMAL</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18046</td>
+    <td class="xl28" x:str>ABHIJIT MITRA</td>
+    <td class="xl28" x:str>Kolk\201504\TP-000001</td>
+    <td class="xl28" x:str>TP</td>
+    <td class="xl28" x:str>DCH</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" colspan="5" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cordless</td>
+    <td class="xl28" x:str>TATA DOCOMO</td>
+    <td class="xl28" x:str>HUAWEI CE 0168</td>
+    <td class="xl28" x:str>OffSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="6" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>033-68888411</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-55104</td>
+    <td class="xl28" x:str>SOURAV SAHA</td>
+    <td class="xl28" x:str>Kolk\201508\TP-000001</td>
+    <td class="xl28" x:str>TP</td>
+    <td class="xl28" x:str>OPERATION</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>TATA DOCOMO</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cordless</td>
+    <td class="xl28" x:str>TATA DOCOMO</td>
+    <td class="xl28" x:str>HUAWEI CE 0168</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="6" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>68888472</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201603\CH-000005</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42412.">2/12/2016</td>
+    <td class="xl28" align="right" x:num>1100</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cushion Chair</td>
+    <td class="xl28" x:str>Local</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>N0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="27" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18006</td>
+    <td class="xl28" x:str>NANDAN CHATTERJEE</td>
+    <td class="xl28" x:str>Kolk\201603\TB-000003</td>
+    <td class="xl28" x:str>TB</td>
+    <td class="xl28" x:str>AC/ADMIN</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Wooden Table</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>RUNNING</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18381</td>
+    <td class="xl28" x:str>JAGANNATH HENSH</td>
+    <td class="xl28" x:str>Kolk\201604\TB-000002</td>
+    <td class="xl28" x:str>TB</td>
+    <td class="xl28" x:str>COMMON</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Wooden Table</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>RUNNING</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201607\CH-000004</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>CPA LOS</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>17/03/2016</td>
+    <td class="xl28" align="right" x:num>950</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cushion Chair</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>N0</td>
+    <td class="xl28" x:str>FIX</td>
+    <td class="xl28" colspan="27" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201607\CM-000001</td>
+    <td class="xl28" x:str>CM</td>
+    <td class="xl28" x:str>ALL UNIT</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42464.">4/4/2016</td>
+    <td class="xl28" align="right" x:num>4424</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Digital</td>
+    <td class="xl28" x:str>DAKE EYE</td>
+    <td class="xl28" x:str>ROUND CK</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>WAP</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201607\CM-000002</td>
+    <td class="xl28" x:str>CM</td>
+    <td class="xl28" x:str>ALL UNIT</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42464.">4/4/2016</td>
+    <td class="xl28" align="right" x:num>4424</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Digital</td>
+    <td class="xl28" x:str>DAKE EYE</td>
+    <td class="xl28" x:str>ROUND CK</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>WAP</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201607\CM-000003</td>
+    <td class="xl28" x:str>CM</td>
+    <td class="xl28" x:str>ALL UNIT</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42464.">4/4/2016</td>
+    <td class="xl28" align="right" x:num>4424</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Digital</td>
+    <td class="xl28" x:str>DAKE EYE</td>
+    <td class="xl28" x:str>ROUND CK</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>WAP</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201607\CM-000004</td>
+    <td class="xl28" x:str>CM</td>
+    <td class="xl28" x:str>ALL UNIT</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42464.">4/4/2016</td>
+    <td class="xl28" align="right" x:num>4424</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Digital</td>
+    <td class="xl28" x:str>DAKE EYE</td>
+    <td class="xl28" x:str>ROUND CK</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>WAP</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201607\TB-000002</td>
+    <td class="xl28" x:str>TB</td>
+    <td class="xl28" x:str>PCPA</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Wooden Table</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>RUNNING TABLE</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-61381</td>
+    <td class="xl28" x:str>RANJAN BOSE</td>
+    <td class="xl28" x:str>Kolk\201608\CH-000001</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>PTPU/JFS</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42797.">3/3/2017</td>
+    <td class="xl28" align="right" x:num>1100</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cushion Chair</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NO</td>
+    <td class="xl28" x:str>FIX</td>
+    <td class="xl28" colspan="27" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201608\CH-000004</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>PDCR/DEAL4LOANS</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="39850.">2/6/2009</td>
+    <td class="xl28" align="right" x:num>950</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cushion Chair</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NO</td>
+    <td class="xl28" x:str>FIX</td>
+    <td class="xl28" colspan="27" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201608\TB-000002</td>
+    <td class="xl28" x:str>TB</td>
+    <td class="xl28" x:str>PTPU/JFS</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Running Table</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>RUNNING TABLE</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-55104</td>
+    <td class="xl28" x:str>SOURAV SAHA</td>
+    <td class="xl28" x:str>Kolk\201609\TB-000001</td>
+    <td class="xl28" x:str>TB</td>
+    <td class="xl28" x:str>COMMON</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" colspan="5" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Running Table</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>RUNNING TABLE</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18381</td>
+    <td class="xl28" x:str>JAGANNATH HENSH</td>
+    <td class="xl28" x:str>Kolk\201609\TP-000001</td>
+    <td class="xl28" x:str>TP</td>
+    <td class="xl28" x:str>CPV</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="43012.">10/4/2017</td>
+    <td class="xl28" align="right" x:num>1200</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cordless</td>
+    <td class="xl28" x:str>TATA DOCOMO</td>
+    <td class="xl28" x:str>HUAWEI CE0168</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="6" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>033-68888471</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>YEW</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201702\FN-000001</td>
+    <td class="xl28" x:str>FN</td>
+    <td class="xl28" x:str>CPA</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42716.">12/12/2016</td>
+    <td class="xl28" align="right" x:num>1200</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Wall Fan</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>MA</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201702\FN-000002</td>
+    <td class="xl28" x:str>FN</td>
+    <td class="xl28" x:str>All Unit</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42716.">12/12/2016</td>
+    <td class="xl28" align="right" x:num>1200</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Ceiling Fan</td>
+    <td class="xl28" x:str>Crompton</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201702\FN-000003</td>
+    <td class="xl28" x:str>FN</td>
+    <td class="xl28" x:str>All Unit</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42716.">12/12/2016</td>
+    <td class="xl28" align="right" x:num>1200</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Ceiling Fan</td>
+    <td class="xl28" x:str>Crompton</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201702\FN-000004</td>
+    <td class="xl28" x:str>FN</td>
+    <td class="xl28" x:str>All unit</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42716.">12/12/2016</td>
+    <td class="xl28" align="right" x:num>1200</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Ceiling Fan</td>
+    <td class="xl28" x:str>Crompton</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201702\FN-000005</td>
+    <td class="xl28" x:str>FN</td>
+    <td class="xl28" x:str>All Unit</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42716.">12/12/2016</td>
+    <td class="xl28" align="right" x:num>1200</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Ceiling Fan</td>
+    <td class="xl28" x:str>Crompton</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201702\FN-000006</td>
+    <td class="xl28" x:str>FN</td>
+    <td class="xl28" x:str>All Unit</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>12/12/20016</td>
+    <td class="xl28" align="right" x:num>1200</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Ceiling Fan</td>
+    <td class="xl28" x:str>Crompton</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201702\FN-000007</td>
+    <td class="xl28" x:str>FN</td>
+    <td class="xl28" x:str>All Unit</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42716.">12/12/2016</td>
+    <td class="xl28" align="right" x:num>1200</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Ceiling Fan</td>
+    <td class="xl28" x:str>Crompton</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201703\AC-000001</td>
+    <td class="xl28" x:str>AC</td>
+    <td class="xl28" x:str>Admin</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>24/03/2017</td>
+    <td class="xl28" align="right" x:num>33000</td>
+    <td class="xl28" x:str>Na</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Split</td>
+    <td class="xl28" x:str>DAIKIN</td>
+    <td class="xl28" x:str>RCG/GTC-50SRV162</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>1.5</td>
+    <td class="xl28" colspan="6" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201703\AC-000002</td>
+    <td class="xl28" x:str>AC</td>
+    <td class="xl28" x:str>Admin</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>24/03/2017</td>
+    <td class="xl28" align="right" x:num>33000</td>
+    <td class="xl28" x:str>Na</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>24/03/2017</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Split</td>
+    <td class="xl28" x:str>DAIKIN</td>
+    <td class="xl28" x:str>RCG/GTC-50SRV162</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>1.5</td>
+    <td class="xl28" colspan="6" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201703\AC-000003</td>
+    <td class="xl28" x:str>AC</td>
+    <td class="xl28" x:str>Admin</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>24/03/2017</td>
+    <td class="xl28" align="right" x:num>33000</td>
+    <td class="xl28" x:str>Na</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>24/03/2017</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Split</td>
+    <td class="xl28" x:str>DAIKIN</td>
+    <td class="xl28" x:str>RCG/GTC-50SRV162</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>1.5</td>
+    <td class="xl28" colspan="6" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-46413</td>
+    <td class="xl28" x:str>GOUTAM DAS</td>
+    <td class="xl28" x:str>Kolk\201703\CH-000003</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>ALL UNIT</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42797.">3/3/2017</td>
+    <td class="xl28" align="right" x:num>1100</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cushion Chair</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>FIX</td>
+    <td class="xl28" colspan="27" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201703\CH-000004</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>CPV</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42797.">3/3/2017</td>
+    <td class="xl28" align="right" x:num>1100</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cushion Chair</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>FIX</td>
+    <td class="xl28" colspan="27" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-57915</td>
+    <td class="xl28" x:str>SUMIT DAS</td>
+    <td class="xl28" x:str>Kolk\201703\CH-000005</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>ALL UNIT</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42797.">3/3/2017</td>
+    <td class="xl28" align="right" x:num>1100</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cushion Chair</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>FIX</td>
+    <td class="xl28" colspan="27" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18046</td>
+    <td class="xl28" x:str>ABHIJIT MITRA</td>
+    <td class="xl28" x:str>Kolk\201703\CH-000008</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>MANAGER</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42797.">3/3/2017</td>
+    <td class="xl28" align="right" x:num>2650</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cushion Chair</td>
+    <td class="xl28" x:str>JK STEEL</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>OffSite</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" colspan="27" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201703\CH-000010</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>CPA</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42797.">3/3/2017</td>
+    <td class="xl28" align="right" x:num>1100</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cushion Chair</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>FIX</td>
+    <td class="xl28" colspan="27" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-53437</td>
+    <td class="xl28" x:str>MILAN HARI</td>
+    <td class="xl28" x:str>Kolk\201703\CH-000013</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>ALL UNIT</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42797.">3/3/2017</td>
+    <td class="xl28" align="right" x:num>1100</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cushion Chair</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="27" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201706\CH-000001</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>ALL UNIT</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42797.">3/3/2017</td>
+    <td class="xl28" align="right" x:num>1100</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Cushion Chair</td>
+    <td class="xl28" x:str>LOCAL</td>
+    <td class="xl28" x:str>Local</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>FIX</td>
+    <td class="xl28" colspan="27" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201801\BIOM-000001</td>
+    <td class="xl28" x:str>BIOM</td>
+    <td class="xl28" x:str>All Unit</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>28/09/2017</td>
+    <td class="xl28" align="right" x:num>19000</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>28/09/2017</td>
+    <td class="xl28" x:str>28/09/2017</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="82" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18046</td>
+    <td class="xl28" x:str>ABHIJIT MITRA</td>
+    <td class="xl28" x:str>Kolk\201904\FW-000001</td>
+    <td class="xl28" x:str>Firewall</td>
+    <td class="xl28" x:str>ALLUNIT</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>DR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>Gajshield</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>FIREWALL</td>
+    <td class="xl28" x:str>Gajshield</td>
+    <td class="xl28" x:str>GS20DC-b</td>
+    <td class="xl28" x:str>OffSite</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>GS20 DC-b</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28"></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18046</td>
+    <td class="xl28" x:str>ABHIJIT MITRA</td>
+    <td class="xl28" x:str>Kolk\201908\LT-000002</td>
+    <td class="xl28" x:str>LT</td>
+    <td class="xl28" x:str>DCH</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="43473.">1/8/2019</td>
+    <td class="xl28" align="right" x:num>35000</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>PAMAC FINSERVE PVT LTD</td>
+    <td class="xl28" x:str>Dell</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>INTEL Core i3</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>2.10 GHz</td>
+    <td class="xl28" x:str>4GB</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>320GB</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>4GB</td>
+    <td class="xl28" x:str>Dell</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>Latitude E5250</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28"></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\201910\FEX-000001</td>
+    <td class="xl28" x:str>FEX</td>
+    <td class="xl28" x:str>ALL UNIT</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="43748.">10/10/2019</td>
+    <td class="xl28" align="right" x:num>885</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>SVM ENGINEERING</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>SVM ENGINEERING</td>
+    <td class="xl28" x:str>ABC TYPE 2KG 84241000</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="30" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\202012\SC-000002</td>
+    <td class="xl28" x:str>SC</td>
+    <td class="xl28" x:str>YBL CPA UNIT</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>26/10/2020</td>
+    <td class="xl28" align="right" x:num>124100</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>MBM</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" x:str>--Select--</td>
+    <td class="xl28" x:str>SC</td>
+    <td class="xl28" x:str>Canon DR M1060</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>ONSITE</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\202012\SC-000006</td>
+    <td class="xl28" x:str>SC</td>
+    <td class="xl28" x:str>ALL UNIT</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="42864.">5/9/2017</td>
+    <td class="xl28" align="right" x:num>28500</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>SC</td>
+    <td class="xl28" x:str>HP LASER Jet</td>
+    <td class="xl28" x:str>M1136MFP</td>
+    <td class="xl28" x:str>ONSITE</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18000</td>
+    <td class="xl28" x:str>Asim Kumar Boral</td>
+    <td class="xl28" x:str>Kolk\202108\LT-000001</td>
+    <td class="xl28" x:str>LT</td>
+    <td class="xl28" x:str>CPA / ALL UNIT</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="44537.">12/7/2021</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" align="right" x:num>0</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>PAMAC FINSERVE PVT LTD</td>
+    <td class="xl28" x:str>E6420</td>
+    <td class="xl28" x:str>OnSite</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>YES</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>INTEL I5</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>3.00 GHz</td>
+    <td class="xl28" x:str>4GB</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>320GB</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>4GB</td>
+    <td class="xl28" x:str>Dell</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>Latitude E6420</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>USB</td>
+    <td class="xl28" x:str>USB</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28" x:str>NDR</td>
+    <td class="xl28"></td>
+   </tr>
+   <tr height="0" class="xl26" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl29" height="0" colspan="97" style='height:0.00pt;mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\202301\CH-000001</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="44842.">10/8/2022</td>
+    <td class="xl28" align="right" x:num>950</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>STEEL FURNITURE HOUSE</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="82" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\202301\CH-000002</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="44842.">10/8/2022</td>
+    <td class="xl28" align="right" x:num>950</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>STEEL FURNITURE HOUSE</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="82" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\202301\CH-000003</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="44842.">10/8/2022</td>
+    <td class="xl28" align="right" x:num>950</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>STEEL FURNITURE HOUSE</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="82" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\202301\CH-000004</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="44842.">10/8/2022</td>
+    <td class="xl28" align="right" x:num>950</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>STEEL FURNITURE HOUSE</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="82" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\202301\CH-000005</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="44842.">10/8/2022</td>
+    <td class="xl28" align="right" x:num>950</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>STEEL FURNITURE HOUSE</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="82" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\202301\CH-000006</td>
+    <td class="xl28" x:str>CH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="44842.">10/8/2022</td>
+    <td class="xl28" align="right" x:num>950</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>STEEL FURNITURE HOUSE</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="82" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="19" class="xl25" style='height:14.25pt;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="19" style='height:14.25pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-78438</td>
+    <td class="xl28" x:str>SHALINI GHOSH</td>
+    <td class="xl28" x:str>Kolk\202306\PC-000001</td>
+    <td class="xl28" x:str>PC</td>
+    <td class="xl28" x:str>PCPA</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>1400</td>
+    <td class="xl28" x:str>Rento</td>
+    <td class="xl30" align="right" x:num="45205.">10/6/2023</td>
+    <td class="xl28" x:str>Pending Transferred to other PAMACian</td>
+    <td class="xl28" x:str>PAMAC</td>
+    <td class="xl28" colspan="81" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="19" class="xl25" style='height:14.25pt;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="19" style='height:14.25pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-73075</td>
+    <td class="xl28" x:str>SRIPARNA DAS</td>
+    <td class="xl28" x:str>Kolk\202306\PC-000003</td>
+    <td class="xl28" x:str>PC</td>
+    <td class="xl28" x:str>PCPA</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>1400</td>
+    <td class="xl28" x:str>Rento</td>
+    <td class="xl30" align="right" x:num="45205.">10/6/2023</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="82" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="19" class="xl25" style='height:14.25pt;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="19" style='height:14.25pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-71505</td>
+    <td class="xl28" x:str>RAJU HALDER</td>
+    <td class="xl28" x:str>Kolk\202306\PC-000004</td>
+    <td class="xl28" x:str>PC</td>
+    <td class="xl28" x:str>PCPA</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>1400</td>
+    <td class="xl28" x:str>Rento</td>
+    <td class="xl30" align="right" x:num="45205.">10/6/2023</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="82" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="19" class="xl25" style='height:14.25pt;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="19" style='height:14.25pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-74030</td>
+    <td class="xl28" x:str>POULAMI DHARA</td>
+    <td class="xl28" x:str>Kolk\202306\PC-000005</td>
+    <td class="xl28" x:str>PC</td>
+    <td class="xl28" x:str>PCPA</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>1400</td>
+    <td class="xl28" x:str>Rento</td>
+    <td class="xl30" align="right" x:num="45205.">10/6/2023</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="82" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18150</td>
+    <td class="xl28" x:str>SOURAV SAHA</td>
+    <td class="xl28" x:str>Kolk\202307\LT-000001</td>
+    <td class="xl28" x:str>LT</td>
+    <td class="xl28" x:str>All Unit</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>22/07/2023</td>
+    <td class="xl28" align="right" x:num>15500</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Krishna Infotech</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>HP ProBook 640 G2</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="13" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Core i5</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>8 GB</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>512 GB</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28" colspan="4" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="19" class="xl25" style='height:14.25pt;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="19" style='height:14.25pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-74665</td>
+    <td class="xl28" x:str>SUDIP DHARA</td>
+    <td class="xl28" x:str>Kolk\202307\PC-000002</td>
+    <td class="xl28" x:str>PC</td>
+    <td class="xl28" x:str>All Unit</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>1500</td>
+    <td class="xl28" x:str>ANKIT JOJIDIA</td>
+    <td class="xl30" align="right" x:num="45145.">8/7/2023</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="82" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="19" class="xl25" style='height:14.25pt;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="19" style='height:14.25pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-74094</td>
+    <td class="xl28" x:str>TORSA GUHA</td>
+    <td class="xl28" x:str>Kolk\202307\PC-000006</td>
+    <td class="xl28" x:str>PC</td>
+    <td class="xl28" x:str>All Unit</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>1500</td>
+    <td class="xl28" x:str>ANKIT JOJIDIA</td>
+    <td class="xl30" align="right" x:num="45145.">8/7/2023</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="82" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="19" class="xl25" style='height:14.25pt;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="19" style='height:14.25pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-77797</td>
+    <td class="xl28" x:str>SUKALYAN GUPTA</td>
+    <td class="xl28" x:str>Kolk\202307\PC-000007</td>
+    <td class="xl28" x:str>PC</td>
+    <td class="xl28" x:str>All Unit</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>1500</td>
+    <td class="xl28" x:str>ANKIT JOJIDIA</td>
+    <td class="xl30" align="right" x:num="45145.">8/7/2023</td>
+    <td class="xl28" x:str>Pending Transferred to other PAMACian</td>
+    <td class="xl28" x:str>PAMAC</td>
+    <td class="xl28" colspan="81" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="19" class="xl25" style='height:14.25pt;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="19" style='height:14.25pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18006</td>
+    <td class="xl28" x:str>NANDAN CHATTERJEE</td>
+    <td class="xl28" x:str>Kolk\202309\PC-000001</td>
+    <td class="xl28" x:str>PC</td>
+    <td class="xl28" x:str>DCR</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>1500</td>
+    <td class="xl28" x:str>ANKIT JOJIDIA</td>
+    <td class="xl30" align="right" x:num="45054.">5/8/2023</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="81" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>1</td>
+   </tr>
+   <tr height="19" class="xl25" style='height:14.25pt;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="19" style='height:14.25pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-72962</td>
+    <td class="xl28" x:str>PABITRA GHOSH</td>
+    <td class="xl28" x:str>Kolk\202309\PC-000002</td>
+    <td class="xl28" x:str>PC</td>
+    <td class="xl28" x:str>CPA</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>1500</td>
+    <td class="xl28" x:str>ANKIT JOJIDIA</td>
+    <td class="xl30" align="right" x:num="45054.">5/8/2023</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="81" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>1</td>
+   </tr>
+   <tr height="19" class="xl25" style='height:14.25pt;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="19" style='height:14.25pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-58604</td>
+    <td class="xl28" x:str>PRATICK CHATTERJEE</td>
+    <td class="xl28" x:str>Kolk\202309\PC-000004</td>
+    <td class="xl28" x:str>PC</td>
+    <td class="xl28" x:str>HR</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>1500</td>
+    <td class="xl28" x:str>ANKIT JOJIDIA</td>
+    <td class="xl30" align="right" x:num="44780.">8/7/2022</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="82" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="19" class="xl25" style='height:14.25pt;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="19" style='height:14.25pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18381</td>
+    <td class="xl28" x:str>JAGANNATH HENSH</td>
+    <td class="xl28" x:str>Kolk\202309\PC-000005</td>
+    <td class="xl28" x:str>PC</td>
+    <td class="xl28" x:str>CPV</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>1500</td>
+    <td class="xl28" x:str>ANKIT JOJIDIA</td>
+    <td class="xl30" align="right" x:num="45145.">8/7/2023</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="82" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="19" class="xl25" style='height:14.25pt;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="19" style='height:14.25pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-78423</td>
+    <td class="xl28" x:str>RITIKA DAS</td>
+    <td class="xl28" x:str>Kolk\202309\PC-000007</td>
+    <td class="xl28" x:str>PC</td>
+    <td class="xl28" x:str>DCR</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>1500</td>
+    <td class="xl28" x:str>ANKIT JOJIDIA</td>
+    <td class="xl30" align="right" x:num="45145.">8/7/2023</td>
+    <td class="xl28" x:str>Pending Transferred to other PAMACian</td>
+    <td class="xl28" x:str>PAMAC</td>
+    <td class="xl28" colspan="81" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="19" class="xl25" style='height:14.25pt;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="19" style='height:14.25pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-71587</td>
+    <td class="xl28" x:str>SUDIP DHARA</td>
+    <td class="xl28" x:str>Kolk\202309\PC-000008</td>
+    <td class="xl28" x:str>PC</td>
+    <td class="xl28" x:str>DCR</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" x:str>Rented</td>
+    <td class="xl28" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl28" align="right" x:num>1500</td>
+    <td class="xl28" x:str>ANKIT JOJIDIA</td>
+    <td class="xl30" align="right" x:num="45145.">8/7/2023</td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" colspan="82" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>P-18000</td>
+    <td class="xl28" x:str>Asim Kumar Boral</td>
+    <td class="xl28" x:str>Kolk\202312\LT-000001</td>
+    <td class="xl28" x:str>LT</td>
+    <td class="xl28" x:str>CPA</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" align="right" x:num>3042004</td>
+    <td class="xl28" align="right" x:num>55000</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" x:str>PAMAC</td>
+    <td class="xl28" colspan="81" style='mso-ignore:colspan;'></td>
+   </tr>
+   <tr height="0" class="xl25" style='height:0.00pt;display:none;mso-height-source:userset;mso-height-alt:285;'>
+    <td class="xl28" height="0" style='height:0.00pt;' x:str>Kolkata</td>
+    <td class="xl28" x:str>KOLKATTA - BRANCH</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>ADMIN</td>
+    <td class="xl28" x:str>Kolk\202412\FW-000001</td>
+    <td class="xl28" x:str>FW</td>
+    <td class="xl28" x:str>All Unit</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl28" x:str>Owned</td>
+    <td class="xl30" align="right" x:num="44930.">1/4/2023</td>
+    <td class="xl28" align="right" x:num>35000</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>GAJSHIELD</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>Available</td>
+    <td class="xl28" x:str>PAMAC</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>SOPHOS</td>
+    <td class="xl28" x:str>DGIN7</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="8" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="18" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="3" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="9" style='mso-ignore:colspan;'></td>
+    <td class="xl28" x:str>na</td>
+    <td class="xl28" x:str>na</td>
+    <td class="xl28" x:str>Manual</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28"></td>
+    <td class="xl28" x:str>NA</td>
+    <td class="xl28" colspan="11" style='mso-ignore:colspan;'></td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="87" style='width:65;'></td>
+     <td width="125" style='width:94;'></td>
+     <td width="68" style='width:51;'></td>
+     <td width="127" style='width:95;'></td>
+     <td width="145" style='width:109;'></td>
+     <td width="81" style='width:61;'></td>
+     <td width="113" style='width:85;'></td>
+     <td width="85" style='width:64;'></td>
+     <td width="92" style='width:69;'></td>
+     <td width="95" style='width:71;'></td>
+     <td width="97" style='width:73;'></td>
+     <td width="65" style='width:49;'></td>
+     <td width="145" style='width:109;'></td>
+     <td width="65" style='width:49;'></td>
+     <td width="218" style='width:164;'></td>
+     <td width="92" style='width:69;'></td>
+     <td width="108" style='width:81;'></td>
+     <td width="152" style='width:114;'></td>
+     <td width="143" style='width:107;'></td>
+     <td width="88" style='width:66;'></td>
+     <td width="76" style='width:57;'></td>
+     <td width="75" style='width:56;'></td>
+     <td width="71" style='width:53;'></td>
+     <td width="70" style='width:53;'></td>
+     <td width="83" style='width:62;'></td>
+     <td width="72" style='width:54;'></td>
+     <td width="86" style='width:65;'></td>
+     <td width="79" style='width:59;'></td>
+     <td width="78" style='width:59;'></td>
+     <td width="83" style='width:62;'></td>
+     <td width="73" style='width:55;'></td>
+     <td width="86" style='width:65;'></td>
+     <td width="79" style='width:59;'></td>
+     <td width="59" style='width:44;'></td>
+     <td width="65" style='width:49;'></td>
+     <td width="80" style='width:60;'></td>
+     <td width="69" style='width:52;'></td>
+     <td width="48" style='width:36;'></td>
+     <td width="82" style='width:62;'></td>
+     <td width="91" style='width:68;'></td>
+     <td width="92" style='width:69;'></td>
+     <td width="86" style='width:65;'></td>
+     <td width="71" style='width:53;'></td>
+     <td width="87" style='width:65;'></td>
+     <td width="64" style='width:48;'></td>
+     <td width="98" style='width:74;'></td>
+     <td width="102" style='width:77;'></td>
+     <td width="106" style='width:80;'></td>
+     <td width="107" style='width:80;'></td>
+     <td width="85" style='width:64;'></td>
+     <td width="81" style='width:61;'></td>
+     <td width="112" style='width:84;'></td>
+     <td width="77" style='width:58;'></td>
+     <td width="71" style='width:53;'></td>
+     <td width="78" style='width:59;'></td>
+     <td width="57" style='width:43;'></td>
+     <td width="64" style='width:48;'></td>
+     <td width="58" style='width:44;'></td>
+     <td width="85" style='width:64;'></td>
+     <td width="57" style='width:43;'></td>
+     <td width="65" style='width:49;'></td>
+     <td width="89" style='width:67;'></td>
+     <td width="83" style='width:62;'></td>
+     <td width="35" style='width:26;'></td>
+     <td width="117" style='width:88;'></td>
+     <td width="96" style='width:72;'></td>
+     <td width="61" style='width:46;'></td>
+     <td width="115" style='width:86;'></td>
+     <td width="85" style='width:64;'></td>
+     <td width="103" style='width:77;'></td>
+     <td width="88" style='width:66;'></td>
+     <td width="35" style='width:26;'></td>
+     <td width="39" style='width:29;'></td>
+     <td width="97" style='width:73;'></td>
+     <td width="81" style='width:61;'></td>
+     <td width="53" style='width:40;'></td>
+     <td width="35" style='width:26;'></td>
+     <td width="48" style='width:36;'></td>
+     <td width="51" style='width:38;'></td>
+     <td width="86" style='width:65;'></td>
+     <td width="63" style='width:47;'></td>
+     <td width="49" style='width:37;'></td>
+     <td width="79" style='width:59;'></td>
+     <td width="88" style='width:66;'></td>
+     <td width="34" style='width:26;'></td>
+     <td width="83" style='width:62;'></td>
+     <td width="123" style='width:92;'></td>
+     <td width="108" style='width:81;'></td>
+     <td width="110" style='width:83;'></td>
+     <td width="32" style='width:24;'></td>
+     <td width="85" style='width:64;'></td>
+     <td width="117" style='width:88;'></td>
+     <td width="51" style='width:38;'></td>
+     <td width="135" style='width:101;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>49</MenuID>
+    <Text>Calculus Online Transactional</Text>
+    <Description>Calculus Online Transactional</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>92</MenuID>
+      <Text>Calculus Reports</Text>
+      <Description>Calculus Reports</Description>
+      <PagePath />
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>678</MenuID>
+        <Text>Calculus User Defined Reports Accounts</Text>
+        <Description>Calculus User Defined Reports Accounts</Description>
+        <PagePath>~/Pages/Calculus/Reports/Account_CalculusUserDefinedReports.aspx</PagePath>
+        <ParentID>92</ParentID>
+      </Menu>
+    </Menu>
+  </Menu>
+</Menus>

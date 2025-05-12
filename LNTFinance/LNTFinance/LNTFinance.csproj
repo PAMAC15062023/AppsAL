@@ -1,0 +1,365 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7C3DFC63-89E9-4DAB-B610-BFC6EA89EC76}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LNTFinance</RootNamespace>
+    <AssemblyName>LNTFinance</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ASPSnippets.Captcha, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>F:\D Drive\Yasir\My Data\MFA_Application\LNTFinance\LNTFinance\bin\ASPSnippets.Captcha.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Assets\css\animate.css" />
+    <Content Include="App_Assets\css\bootstrap.css" />
+    <Content Include="App_Assets\css\example.css" />
+    <Content Include="App_Assets\css\flaticon.css" />
+    <Content Include="App_Assets\css\font-awesome.css" />
+    <Content Include="App_Assets\css\hover.css" />
+    <Content Include="App_Assets\css\jquery-ui.css" />
+    <Content Include="App_Assets\css\jquery.bootstrap-touchspin.css" />
+    <Content Include="App_Assets\css\jquery.fancybox.css" />
+    <Content Include="App_Assets\css\nouislider.css" />
+    <Content Include="App_Assets\css\nouislider.pips.css" />
+    <Content Include="App_Assets\css\owl.css" />
+    <Content Include="App_Assets\css\owl.video.play.html" />
+    <Content Include="App_Assets\css\Pages\Images\bgr.gif" />
+    <Content Include="App_Assets\css\responsive.css" />
+    <Content Include="App_Assets\css\style.css" />
+    <Content Include="App_Assets\css\StyleSheet.css" />
+    <Content Include="App_Assets\js\appear.js" />
+    <Content Include="App_Assets\js\bootstrap-datepicker.min.js" />
+    <Content Include="App_Assets\js\bootstrap.min.js" />
+    <Content Include="App_Assets\js\gmaps.js" />
+    <Content Include="App_Assets\js\jquery-3.5.1.js" />
+    <Content Include="App_Assets\js\jquery-ui.js" />
+    <Content Include="App_Assets\js\jquery.fancybox-media.js" />
+    <Content Include="App_Assets\js\jquery.fancybox.pack.js" />
+    <Content Include="App_Assets\js\jquery.js" />
+    <Content Include="App_Assets\js\main-slider-script.js" />
+    <Content Include="App_Assets\js\map-script.js" />
+    <Content Include="App_Assets\js\mixitup.js" />
+    <Content Include="App_Assets\js\nouislider.js" />
+    <Content Include="App_Assets\js\owl.js" />
+    <Content Include="App_Assets\js\popcalendar.js" />
+    <Content Include="App_Assets\js\script.js" />
+    <Content Include="App_Assets\js\validate.js" />
+    <Content Include="App_Assets\js\wow.js" />
+    <Content Include="bin\ASPSnippets.Captcha.dll" />
+    <Content Include="bin\LNTFinance.dll" />
+    <Content Include="bin\LNTFinance.pdb" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <Content Include="bin\roslyn\csc.exe" />
+    <Content Include="bin\roslyn\csi.exe" />
+    <Content Include="bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll" />
+    <Content Include="bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll" />
+    <Content Include="bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll" />
+    <Content Include="bin\roslyn\System.AppContext.dll" />
+    <Content Include="bin\roslyn\System.Collections.Immutable.dll" />
+    <Content Include="bin\roslyn\System.Diagnostics.StackTrace.dll" />
+    <Content Include="bin\roslyn\System.IO.FileSystem.dll" />
+    <Content Include="bin\roslyn\System.IO.FileSystem.Primitives.dll" />
+    <Content Include="bin\roslyn\System.Reflection.Metadata.dll" />
+    <Content Include="bin\roslyn\vbc.exe" />
+    <Content Include="bin\roslyn\VBCSCompiler.exe" />
+    <Content Include="Global.asax" />
+    <Content Include="LoginPage.aspx" />
+    <Content Include="LoginScreen.jpg" />
+    <Content Include="LoginScreen4.jpg" />
+    <Content Include="Pages\animated_favicon1.gif" />
+    <Content Include="Pages\Calc.jpg" />
+    <Content Include="Pages\Calender.gif" />
+    <Content Include="Pages\DataPurge.aspx" />
+    <Content Include="Pages\FarmDigitalUserTATReport.aspx" />
+    <Content Include="Pages\favicon.ico" />
+    <Content Include="Pages\grid_authentication.aspx" />
+    <Content Include="Pages\LNT_ChangePassWord.aspx" />
+    <Content Include="Pages\LNT_FarmDigital.aspx" />
+    <Content Include="Pages\LNT_LTFS_IP.aspx" />
+    <Content Include="Pages\LNT_ManageEmailID.aspx" />
+    <Content Include="Pages\LNT_PurgingEmailSend.aspx" />
+    <Content Include="Pages\LNT_PurgingEmailSend_ViewLog.aspx" />
+    <Content Include="Pages\LNT_ReportSummary.aspx" />
+    <Content Include="Pages\LNT_RoleMaster.aspx" />
+    <Content Include="Pages\LNT_TWLData.aspx" />
+    <Content Include="Pages\LNT_UserMaster.aspx" />
+    <Content Include="Pages\LNT_UserReport.aspx" />
+    <Content Include="Pages\MenuPage.aspx" />
+    <Content Include="Pages\SmallCalendar.gif" />
+    <Content Include="Pages\TWLDataUserTATReport.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Data\CEncDec.cs" />
+    <Compile Include="App_Data\CommonMaster.cs" />
+    <Compile Include="App_Data\RAS_EncDec.cs" />
+    <Compile Include="App_Data\UserInfo.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPage.aspx.cs">
+      <DependentUpon>LoginPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LoginPage.aspx.designer.cs">
+      <DependentUpon>LoginPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Debug\.NETFramework,Version=v4.5.AssemblyAttributes.cs" />
+    <Compile Include="Pages\DataPurge.aspx.cs">
+      <DependentUpon>DataPurge.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\DataPurge.aspx.designer.cs">
+      <DependentUpon>DataPurge.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\FarmDigitalUserTATReport.aspx.cs">
+      <DependentUpon>FarmDigitalUserTATReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\FarmDigitalUserTATReport.aspx.designer.cs">
+      <DependentUpon>FarmDigitalUserTATReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\grid_authentication.aspx.cs">
+      <DependentUpon>grid_authentication.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\grid_authentication.aspx.designer.cs">
+      <DependentUpon>grid_authentication.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LNT_ChangePassWord.aspx.cs">
+      <DependentUpon>LNT_ChangePassWord.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\LNT_ChangePassWord.aspx.designer.cs">
+      <DependentUpon>LNT_ChangePassWord.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LNT_CommonMaster.Master.cs">
+      <DependentUpon>LNT_CommonMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\LNT_CommonMaster.Master.designer.cs">
+      <DependentUpon>LNT_CommonMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LNT_FarmDigital.aspx.cs">
+      <DependentUpon>LNT_FarmDigital.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\LNT_FarmDigital.aspx.designer.cs">
+      <DependentUpon>LNT_FarmDigital.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LNT_LTFS_IP.aspx.cs">
+      <DependentUpon>LNT_LTFS_IP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\LNT_LTFS_IP.aspx.designer.cs">
+      <DependentUpon>LNT_LTFS_IP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LNT_ManageEmailID.aspx.cs">
+      <DependentUpon>LNT_ManageEmailID.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\LNT_ManageEmailID.aspx.designer.cs">
+      <DependentUpon>LNT_ManageEmailID.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LNT_Master.Master.cs">
+      <DependentUpon>LNT_Master.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\LNT_Master.Master.designer.cs">
+      <DependentUpon>LNT_Master.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LNT_PurgingEmailSend.aspx.cs">
+      <DependentUpon>LNT_PurgingEmailSend.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\LNT_PurgingEmailSend.aspx.designer.cs">
+      <DependentUpon>LNT_PurgingEmailSend.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LNT_PurgingEmailSend_ViewLog.aspx.cs">
+      <DependentUpon>LNT_PurgingEmailSend_ViewLog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\LNT_PurgingEmailSend_ViewLog.aspx.designer.cs">
+      <DependentUpon>LNT_PurgingEmailSend_ViewLog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LNT_ReportSummary.aspx.cs">
+      <DependentUpon>LNT_ReportSummary.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\LNT_ReportSummary.aspx.designer.cs">
+      <DependentUpon>LNT_ReportSummary.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LNT_RoleMaster.aspx.cs">
+      <DependentUpon>LNT_RoleMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\LNT_RoleMaster.aspx.designer.cs">
+      <DependentUpon>LNT_RoleMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LNT_TWLData.aspx.cs">
+      <DependentUpon>LNT_TWLData.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\LNT_TWLData.aspx.designer.cs">
+      <DependentUpon>LNT_TWLData.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LNT_UserMaster.aspx.cs">
+      <DependentUpon>LNT_UserMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\LNT_UserMaster.aspx.designer.cs">
+      <DependentUpon>LNT_UserMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LNT_UserReport.aspx.cs">
+      <DependentUpon>LNT_UserReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\LNT_UserReport.aspx.designer.cs">
+      <DependentUpon>LNT_UserReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MenuPage.aspx.cs">
+      <DependentUpon>MenuPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\MenuPage.aspx.designer.cs">
+      <DependentUpon>MenuPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\TWLDataUserTATReport.aspx.cs">
+      <DependentUpon>TWLDataUserTATReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\TWLDataUserTATReport.aspx.designer.cs">
+      <DependentUpon>TWLDataUserTATReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\ASPSnippets.Captcha.dll.refresh" />
+    <Content Include="bin\LNTFinance.dll.config" />
+    <Content Include="bin\roslyn\csc.exe.config" />
+    <Content Include="bin\roslyn\csc.rsp" />
+    <Content Include="bin\roslyn\csi.rsp" />
+    <Content Include="bin\roslyn\Microsoft.CSharp.Core.targets" />
+    <Content Include="bin\roslyn\Microsoft.VisualBasic.Core.targets" />
+    <Content Include="bin\roslyn\vbc.exe.config" />
+    <Content Include="bin\roslyn\vbc.rsp" />
+    <Content Include="bin\roslyn\VBCSCompiler.exe.config" />
+    <None Include="packages.config" />
+    <Content Include="Pages\LNT_Master.Master" />
+    <Content Include="Pages\LNT_CommonMaster.Master" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>50355</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:50355/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

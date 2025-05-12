@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>4</MenuID>
+    <Text>Reports</Text>
+    <Description>Reports</Description>
+    <PagePath>D:\</PagePath>
+    <Menu>
+      <MenuID>6</MenuID>
+      <Text>SBI Upload Report</Text>
+      <Description>SBI Upload Report</Description>
+      <PagePath>D:\</PagePath>
+      <ParentID>4</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>16</MenuID>
+      <Text>Cheque Processing Reports</Text>
+      <Description>Cheque Processing Reports</Description>
+      <PagePath />
+      <ParentID>4</ParentID>
+      <Menu>
+        <MenuID>26</MenuID>
+        <Text>Dropbox MIS</Text>
+        <Description>Dropbox MIS</Description>
+        <PagePath>~/Pages/ChequeProcessing/Reports/DropboxMIS.aspx</PagePath>
+        <ParentID>16</ParentID>
+      </Menu>
+    </Menu>
+  </Menu>
+</Menus>

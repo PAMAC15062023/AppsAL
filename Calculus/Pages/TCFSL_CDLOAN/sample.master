@@ -1,0 +1,93 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="sample.master.cs" Inherits="Pages_Sample_sample" %>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>TCFSL CD Loan</title>
+    <!-- #include virtual="config.aspx"-->
+</head>
+<body>
+    <script type="text/javascript">
+        $.material.init();
+    </script>
+    <div id="header" runat="server">
+        <div class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                        <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar">
+                        </span>
+                    </button>
+                </div>
+                <div class="navbar-collapse collapse navbar-responsive-collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown"><a>TCFSL CD Loan
+                            <b class="caret"></b></a></li></ul></div>
+                 <%-- <div class="navbar-collapse collapse navbar-responsive-collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">TCFSL CD Loan
+                            <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                            <%
+                    
+                            string roleId = Session["groupId"].ToString();
+                            if (!Session["groupId"].ToString().Equals("153"))
+                            {
+                                %>
+                                <li><a href="IMPORT.aspx">IMPORT</a>
+                                    <div class="ripple-container">
+                                    </div>
+                                </li>
+                                
+                        <%} %>
+                                <li><a href="SFDC_Screening.aspx">SFDC Screening</a>
+                                    <div class="ripple-container">
+                                    </div>
+                                </li>
+                                <li><a href="MIS.aspx">MIS</a>
+                                    <div class="ripple-container">
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                       <li><a href="#">Paper</a>
+                            <div class="ripple-container">
+                            </div>
+                        </li>
+                        <li><a href="#">Exam</a>
+                            <div class="ripple-container">
+                            </div>
+                        </li>
+                        <li><a href="#">Report</a>
+                            <div class="ripple-container">
+                            </div>
+                        </li>
+                        <li><a href="#">Role Assign</a>
+                            <div class="ripple-container">
+                            </div>
+                        </li>
+                    </ul>
+                     <ul class="nav navbar-nav navbar-right">
+                        <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">User
+                            <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Log Out</a>
+                                    <div class="ripple-container">
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>--%>
+            </div>
+        </div>
+    </div>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="head" runat="server" />
+    </div>
+    </form>
+    <%-- <div id="footer" runat="server" class="navbar-static-bottom navbar-fixed-bottom">
+        <!-- #include virtual="footer.aspx"-->
+    </div>--%>
+</body>
+</html>

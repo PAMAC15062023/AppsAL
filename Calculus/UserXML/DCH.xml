@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>49</MenuID>
+    <Text>Calculus Online Transactional</Text>
+    <Description>Calculus Online Transactional</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>83</MenuID>
+      <Text>HO Payment Process</Text>
+      <Description>HO Payment Process</Description>
+      <PagePath />
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>62</MenuID>
+        <Text>Authorize Payment Request</Text>
+        <Description>Authorize Payment Request</Description>
+        <PagePath>~/Pages/Calculus/PaymentRequestProcess.aspx</PagePath>
+        <ParentID>83</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>92</MenuID>
+      <Text>Calculus Reports</Text>
+      <Description>Calculus Reports</Description>
+      <PagePath />
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>136</MenuID>
+        <Text>Calculus User Defined Reports</Text>
+        <Description>Calculus User Defined Reports</Description>
+        <PagePath>~/Pages/Calculus/Reports/CalculusUserDefinedReports.aspx</PagePath>
+        <ParentID>92</ParentID>
+      </Menu>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

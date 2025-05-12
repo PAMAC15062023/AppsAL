@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>605</MenuID>
+    <Text>IndiaBulls</Text>
+    <Description>IndiaBulls</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>606</MenuID>
+      <Text>Import</Text>
+      <Description>Import</Description>
+      <PagePath>~/Pages/IndiaBull/Import.aspx</PagePath>
+      <ParentID>605</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

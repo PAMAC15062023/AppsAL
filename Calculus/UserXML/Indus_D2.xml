@@ -1,0 +1,119 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>473</MenuID>
+    <Text>Indus-Ind Personal Loan</Text>
+    <Description>Indus-Ind Personal Loan</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>474</MenuID>
+      <Text>Transcription</Text>
+      <Description>Transcription</Description>
+      <PagePath>~/Pages/IndusInd/PreTranscriptionPLNew.aspx</PagePath>
+      <ParentID>473</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>475</MenuID>
+      <Text>D1 stage</Text>
+      <Description>D1 stage</Description>
+      <PagePath>~/Pages/IndusInd/INDUSPLD1.aspx</PagePath>
+      <ParentID>473</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>476</MenuID>
+      <Text>Basic Transcription</Text>
+      <Description>Basic Transcription</Description>
+      <PagePath>~/Pages/IndusInd/TranscriptionPLNew.aspx</PagePath>
+      <ParentID>473</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>482</MenuID>
+      <Text>D2 Stage</Text>
+      <Description>D2 Stage</Description>
+      <PagePath>~/Pages/IndusInd/INDUSd1PL.aspx</PagePath>
+      <ParentID>473</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>486</MenuID>
+      <Text>QC/Compare</Text>
+      <Description>QC/Compare</Description>
+      <PagePath>~/Pages/IndusInd/QC_PL.aspx</PagePath>
+      <ParentID>473</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>492</MenuID>
+      <Text>CKYC PL</Text>
+      <Description>CKYC PL</Description>
+      <PagePath>~/Pages/IndusInd/CKYC_PL.aspx</PagePath>
+      <ParentID>473</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>477</MenuID>
+    <Text>Indus-Ind Credit</Text>
+    <Description>Indus-Ind Credit</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>483</MenuID>
+      <Text>Transcription</Text>
+      <Description>Transcription</Description>
+      <PagePath>~/Pages/IndusInd/PreTranscriptionCC.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>484</MenuID>
+      <Text>Basic Transcription</Text>
+      <Description>Basic Transcription</Description>
+      <PagePath>~/Pages/IndusInd/TranscriptionCC.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>480</MenuID>
+      <Text>D1 Stage</Text>
+      <Description>D1 Stage</Description>
+      <PagePath>~/Pages/IndusInd/IndusCredit.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>485</MenuID>
+      <Text>D2 Stage</Text>
+      <Description>D2 Stage</Description>
+      <PagePath>~/Pages/IndusInd/CreditD2.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>487</MenuID>
+      <Text>QC Credit</Text>
+      <Description>QC Credit</Description>
+      <PagePath>~/Pages/IndusInd/CreditQC.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>488</MenuID>
+      <Text>CKYC Credit</Text>
+      <Description>CKYC Credit</Description>
+      <PagePath>~/Pages/IndusInd/CKYC_Credit.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>491</MenuID>
+      <Text>Compare Credit</Text>
+      <Description>Compare Credit</Description>
+      <PagePath>~/Pages/IndusInd/Induscompare.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

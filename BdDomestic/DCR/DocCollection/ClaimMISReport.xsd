@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ClaimMISReport" targetNamespace="http://tempuri.org/ClaimMISReport.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/ClaimMISReport.xsd" xmlns:mstns="http://tempuri.org/ClaimMISReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="CLAIMMIS">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="REFNO" type="xs:string" />
+        <xs:element name="APPLICANT_x0020_NAME" type="xs:string" />
+        <xs:element name="RECEIVED_x0020_DATE" type="xs:string" />
+        <xs:element name="SEND_x0020_DATE" type="xs:string" />
+        <xs:element name="WITHIN_x0020_TAT" type="xs:string" />
+        <xs:element name="VV" type="xs:integer" />
+        <xs:element name="TV" type="xs:integer" />
+        <xs:element name="COMPANYNAME" type="xs:string" />
+        <xs:element name="FROMDATE" type="xs:string" />
+        <xs:element name="TODATE" type="xs:string" />
+        <xs:element name="CLIENT_x0020_NAME" type="xs:string" />
+        <xs:element name="RV" type="xs:string" />
+        <xs:element name="BV" type="xs:string" />
+        <xs:element name="RT" type="xs:string" />
+        <xs:element name="BT" type="xs:string" />
+        <xs:element name="PRV" type="xs:string" />
+        <xs:element name="CRV" type="xs:string" />
+        <xs:element name="CBV" type="xs:string" />
+        <xs:element name="CRT" type="xs:string" />
+        <xs:element name="CBT" type="xs:string" />
+        <xs:element name="CPRV" type="xs:string" />
+        <xs:element name="case_id" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

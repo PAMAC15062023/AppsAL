@@ -1,0 +1,271 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.IO;
+using System.Data.OleDb;
+using System.Data;
+using System.Data.SqlClient;
+using System.Configuration;
+using System.Text;
+
+public partial class CPRT_GereratorPrintFile : System.Web.UI.Page
+{
+    // SingleUserLogin Login = new SingleUserLogin();
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+
+        if (!IsPostBack)
+        {
+            string confirmprint = Request.QueryString["cprint"];
+
+            if (confirmprint == "1")
+            {
+                btnView_Click_1();
+
+                return;
+
+            }
+
+            string clientName = Request.QueryString["cname"];
+            hdnID.Value = clientName;
+            generateCheque(clientName);
+
+        }
+
+
+    }
+    protected void btnView_Click_1()
+    {
+
+
+        DataTable dt = (DataTable)Session["ReportDT"];
+        hdnID.Value = dt.Rows[0]["id"].ToString();
+        hdncheNo.Value = dt.Rows[0]["ChequeNumber"].ToString();
+        hdnCo.Value = dt.Rows[0]["Company_DirectorName"].ToString();
+        hdnBank.Value = dt.Rows[0]["BankName"].ToString();
+        hdnBranch.Value = dt.Rows[0]["BranchName"].ToString();
+
+
+
+        SqlConnection sqlCon = new SqlConnection(ConfigurationSettings.AppSettings["CPRT_ConnectionString"]);
+
+        sqlCon.Open();
+        SqlCommand sqlCom = new SqlCommand();
+        sqlCom.Connection = sqlCon;
+        sqlCom.CommandType = CommandType.StoredProcedure;
+        sqlCom.CommandText = "CPRT_updateChqPrint";
+
+
+        SqlParameter CID = new SqlParameter();
+        CID.SqlDbType = SqlDbType.Int;
+        CID.Value = hdnID.Value;
+        CID.ParameterName = "@ID";
+        sqlCom.Parameters.Add(CID);
+
+        SqlParameter chqeNo = new SqlParameter();
+        chqeNo.SqlDbType = SqlDbType.Int;
+        chqeNo.Value = hdncheNo.Value;
+        chqeNo.ParameterName = "@CheqNo";
+        sqlCom.Parameters.Add(chqeNo);
+
+        int Rows = 0;
+
+        Rows = sqlCom.ExecuteNonQuery();
+
+        if (Rows > 0)
+        {
+            lblMessage.Text = "Update Successfully!";
+            lblMessage.CssClass = "UpdateMessage";
+            lblMessage.Visible = true;
+        }
+
+
+        String company = hdnCo.Value;
+        String Bank = hdnBank.Value;
+        String Branch = hdnBranch.Value;
+
+        //string tempPath = "~/../InvoiceGenerator.aspx?cname=" + clientname + "&invno=" + invoiceNo;
+
+
+
+        Response.Redirect("CPRT_ChequePrinting.aspx?comp=" + company + "&Bank=" + Bank + "&Branch=" + Branch, true);
+
+
+    }
+    public void generateCheque(string cname)
+    {
+        try
+        {
+            DataTable dtChequeData = getChequeData(cname);
+
+            Session["ReportDT"] = dtChequeData;
+
+            Response.Redirect("ReportViewer_CPR.aspx?rname=CPR_print&datasetsent=CPR_print", false);
+
+            return;
+
+        }
+        catch (Exception ex)
+        {
+            //divError.Visible = true;
+            //lblError.Text = "Error:" + ex.Message;
+            //ErrorLog Log = new ErrorLog(ex, ErrorFileName, Session["LoginName"].ToString());
+        }
+
+    }
+
+    public static string ConvertNumbertoWords(int number)
+    {
+        if (number == 0)
+            return "ZERO";
+        if (number < 0)
+            return "minus " + ConvertNumbertoWords(Math.Abs(number));
+        string words = "";
+        if ((number / 10000000) > 0)
+        {
+            words += ConvertNumbertoWords(number / 10000000) + " CRORE ";
+            number %= 10000000;
+        }
+        if ((number / 100000) > 0)
+        {
+            words += ConvertNumbertoWords(number / 100000) + " LAKH ";
+            number %= 100000;
+        }
+        if ((number / 1000) > 0)
+        {
+            words += ConvertNumbertoWords(number / 1000) + " THOUSAND ";
+            number %= 1000;
+        }
+        if ((number / 100) > 0)
+        {
+            words += ConvertNumbertoWords(number / 100) + " HUNDRED ";
+            number %= 100;
+        }
+        if (number > 0)
+        {
+            if (words != "")
+                words += "AND ";
+            var unitsMap = new[] { "ZERO", "ONE", "TWO", "THREE", "FOUR", "FIVE", "SIX", "SEVEN", "EIGHT", "NINE", "TEN", "ELEVEN", "TWELVE", "THIRTEEN", "FOURTEEN", "FIFTEEN", "SIXTEEN", "SEVENTEEN", "EIGHTEEN", "NINETEEN" };
+            var tensMap = new[] { "ZERO", "TEN", "TWENTY", "THIRTY", "FORTY", "FIFTY", "SIXTY", "SEVENTY", "EIGHTY", "NINETY" };
+
+            if (number < 20)
+                words += unitsMap[number];
+            else
+            {
+                words += tensMap[number / 10];
+                if ((number % 10) > 0)
+                    words += " " + unitsMap[number % 10];
+            }
+        }
+        return words;
+    }
+
+    public DataTable getChequeData(string cname)
+    {
+        DataTable dtChequeData = null;
+        try
+        {
+
+            SqlConnection sqlcon = new SqlConnection(ConfigurationSettings.AppSettings["CPRT_ConnectionString"]);
+
+            sqlcon.Open();
+            SqlCommand sqlcmd = new SqlCommand();
+            sqlcmd.Connection = sqlcon;
+            sqlcmd.CommandType = CommandType.StoredProcedure;
+            sqlcmd.CommandText = "CRPT_GetPrintChequeDetails";
+            SqlDataAdapter sqlda = new SqlDataAdapter();
+            sqlda.SelectCommand = sqlcmd;
+
+
+            SqlParameter rid = new SqlParameter();
+            rid.SqlDbType = SqlDbType.VarChar;
+            rid.Value = cname;
+            rid.ParameterName = "@ID";
+            sqlcmd.Parameters.Add(rid);
+
+            DataTable dt = new DataTable();
+            sqlda.Fill(dt);
+            sqlcon.Close();
+
+
+            if (dt.Rows.Count > 0)
+            {
+
+
+                //lblMessage.Text = "Total No of Rows found :" + dt.Rows.Count;
+                //lblMessage.CssClass = "SuccessMessage";
+                dtChequeData = dt;
+
+            }
+
+
+
+        }
+
+        catch (Exception ex)
+        {
+            //divError.Visible = true;
+            //lblError.Text = "Error:" + ex.Message;
+            //ErrorLog Log = new ErrorLog(ex, ErrorFileName, Session["LoginName"].ToString());
+        }
+        return dtChequeData;
+    }
+    protected void btnView_Click(object sender, EventArgs e)
+    {
+        SqlConnection sqlCon = new SqlConnection(ConfigurationSettings.AppSettings["CPRT_ConnectionString"]);
+
+        sqlCon.Open();
+        SqlCommand sqlCom = new SqlCommand();
+        sqlCom.Connection = sqlCon;
+        sqlCom.CommandType = CommandType.StoredProcedure;
+        sqlCom.CommandText = "CPRT_updateChqPrint";
+
+
+        SqlParameter CID = new SqlParameter();
+        CID.SqlDbType = SqlDbType.Int;
+        CID.Value = hdnID.Value;
+        CID.ParameterName = "@ID";
+        sqlCom.Parameters.Add(CID);
+
+        SqlParameter chqeNo = new SqlParameter();
+        chqeNo.SqlDbType = SqlDbType.Int;
+        chqeNo.Value = hdncheNo.Value;
+        chqeNo.ParameterName = "@CheqNo";
+        sqlCom.Parameters.Add(chqeNo);
+
+        int Rows = 0;
+
+        Rows = sqlCom.ExecuteNonQuery();
+
+        if (Rows > 0)
+        {
+            lblMessage.Text = "Update Successfully!";
+            lblMessage.CssClass = "UpdateMessage";
+            lblMessage.Visible = true;
+        }
+
+
+        String company = hdnCo.Value;
+        String Bank = hdnBank.Value;
+        String Branch = hdnBranch.Value;
+
+        //string tempPath = "~/../InvoiceGenerator.aspx?cname=" + clientname + "&invno=" + invoiceNo;
+
+
+        Response.Redirect("CPRT_ChequePrinting.aspx?comp=" + company + "&Bank=" + Bank + "&Branch=" + Branch, true);
+
+
+    }
+    protected void btnCancel_Click(object sender, EventArgs e)
+    {
+        Response.Redirect("~/pages/menu.aspx", true);
+    }
+}
+
+
+
+

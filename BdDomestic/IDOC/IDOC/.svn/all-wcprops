@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/sandbox/!svn/ver/45/Application/IDOC/IDOC
+END
+IDOC_MasterPage.master.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_MasterPage.master.cs
+END
+Idoc_FEWiseSearch.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/Idoc_FEWiseSearch.aspx.cs
+END
+IDOC_VerificationView.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_VerificationView.aspx
+END
+IDOC_ClaimMISReport.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_ClaimMISReport.xsd
+END
+Idoc_FEWiseSearch.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/Idoc_FEWiseSearch.xsx
+END
+Idoc_SMS_Generation.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/Idoc_SMS_Generation.aspx.cs
+END
+IDOC_Generate_Label.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_Generate_Label.rpt
+END
+IDOC_Standard_Output.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_Standard_Output.aspx.cs
+END
+IDOC_SearchSms.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_SearchSms.aspx
+END
+IDOC_Inter_DedupSearch.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_Inter_DedupSearch.aspx
+END
+IDOC_ClaimMISReport.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_ClaimMISReport.aspx
+END
+IDOC_DV_ITR.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_DV_ITR.aspx.cs
+END
+IDOC_F16.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_F16.aspx
+END
+IDOC_ClaimMISReport.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_ClaimMISReport.aspx.cs
+END
+IDOC_SendToClient.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_SendToClient.aspx.cs
+END
+IDOC_ClaimMISReport.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_ClaimMISReport.xsx
+END
+Idoc_FEWiseSearch.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/Idoc_FEWiseSearch.rpt
+END
+IDOC_PendingList.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_PendingList.xsd
+END
+IDOC_SendToClientFinal.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_SendToClientFinal.aspx
+END
+IDOC_FEAssignmentTracking.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_FEAssignmentTracking.aspx
+END
+IDOC_DaywiseBreakupOfCases.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_DaywiseBreakupOfCases.xsd
+END
+IDOC_FEAssignmentTracking.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_FEAssignmentTracking.aspx.cs
+END
+IDOC_CaseStatusView.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_CaseStatusView.aspx
+END
+IDOC_CaseStatusView.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_CaseStatusView.aspx.cs
+END
+IDOC_FEAutoAssignment.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_FEAutoAssignment.aspx.cs
+END
+IDOC_VerificationView.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_VerificationView.aspx.cs
+END
+IDOC_PendingList.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_PendingList.aspx.cs
+END
+IDOC_ClaimMISReport.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_ClaimMISReport.rpt
+END
+Default.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/Default.aspx
+END
+IDOC_DaywiseBreakupOfCases.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_DaywiseBreakupOfCases.aspx.cs
+END
+IDOC_DV_ITR.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_DV_ITR.aspx
+END
+IDOC_FEAssignment.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_FEAssignment.aspx.cs
+END
+IDOC_PendingList.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_PendingList.xsx
+END
+Default.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/Default.aspx.cs
+END
+IDOC_DaywiseBreakupOfCases.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_DaywiseBreakupOfCases.xsx
+END
+IDOC_SendToClient.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_SendToClient.aspx
+END
+IDOC_CaseEntry.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/45/Application/IDOC/IDOC/IDOC_CaseEntry.aspx
+END
+IDOC_Cover_Letter.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_Cover_Letter.aspx
+END
+IDOC_CaseView.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_CaseView.aspx
+END
+IDOC_BankStatementVerification.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_BankStatementVerification.aspx.cs
+END
+IDOC_MasterPage.master
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_MasterPage.master
+END
+Idoc_FEWiseSearch.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/Idoc_FEWiseSearch.aspx
+END
+IDOC_SendToClientFinal.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_SendToClientFinal.aspx.cs
+END
+vssver2.scc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/vssver2.scc
+END
+IDOC_PendingList.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_PendingList.rpt
+END
+IDOC_CaseView.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_CaseView.aspx.cs
+END
+IDOC_RCVerification.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_RCVerification.aspx.cs
+END
+IDOC_DaywiseBreakupOfCases.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_DaywiseBreakupOfCases.rpt
+END
+IDOC_Standard_Output.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_Standard_Output.aspx
+END
+IDOC_Cover_Letter.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_Cover_Letter.xsd
+END
+IDOC_FEAssignment.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_FEAssignment.aspx
+END
+IDOC_DaywiseBreakupOfCases.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_DaywiseBreakupOfCases.aspx
+END
+ExcelStdOutputIDOC.xls
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/ExcelStdOutputIDOC.xls
+END
+IDOC_Generate_Label.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_Generate_Label.aspx
+END
+IDOC_LabelPrinting.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_LabelPrinting.aspx
+END
+IDOC_DeDupSearch.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_DeDupSearch.aspx.cs
+END
+IDOC_SearchSms.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_SearchSms.aspx.cs
+END
+IDOC_Inter_DedupSearch.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_Inter_DedupSearch.aspx.cs
+END
+IDOC_LabelPrinting.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_LabelPrinting.aspx.cs
+END
+IDOC_F16.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_F16.aspx.cs
+END
+IDOC_CaseEntry.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/45/Application/IDOC/IDOC/IDOC_CaseEntry.aspx.cs
+END
+IDOC_Cover_Letter.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_Cover_Letter.aspx.cs
+END
+IDOC_BankStatementVerification.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_BankStatementVerification.aspx
+END
+IDOC_Cover_Letter.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_Cover_Letter.xsx
+END
+IDOC_RCVerification.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_RCVerification.aspx
+END
+IDOC_FEAutoAssignment.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_FEAutoAssignment.aspx
+END
+Idoc_SMS_Generation.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/Idoc_SMS_Generation.aspx
+END
+IDOC_PendingList.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_PendingList.aspx
+END
+IDOC_Cover_Letter.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_Cover_Letter.rpt
+END
+IDOC_DeDupSearch.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_DeDupSearch.aspx
+END
+rpt_IDOC_Lbl.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/rpt_IDOC_Lbl.rpt
+END
+Idoc_FEWiseSearch.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/Idoc_FEWiseSearch.xsd
+END
+IDOC_Generate_Label.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/IDOC/IDOC/IDOC_Generate_Label.aspx.cs
+END

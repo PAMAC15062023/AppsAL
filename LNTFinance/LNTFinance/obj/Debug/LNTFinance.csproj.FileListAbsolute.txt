@@ -1,0 +1,205 @@
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\LNTFinance.dll.config
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\LNTFinance.dll
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\LNTFinance.pdb
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\csc.exe
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\csc.exe.config
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\csc.rsp
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\csi.exe
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\csi.rsp
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\System.AppContext.dll
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\vbc.exe
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\vbc.exe.config
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\vbc.rsp
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\VBCSCompiler.exe
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\obj\Debug\LNTFinance.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\obj\Debug\LNTFinance.csproj.CopyComplete
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\obj\Debug\LNTFinance.dll
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\obj\Debug\LNTFinance.pdb
+C:\Users\dell\Desktop\New folder\LNTFinance\LNTFinance\obj\Debug\LNTFinance.csprojAssemblyReference.cache
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\LNTFinance.dll.config
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\LNTFinance.dll
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\LNTFinance.pdb
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\csc.exe
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\csc.exe.config
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\csc.rsp
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\csi.exe
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\csi.rsp
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\System.AppContext.dll
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\System.Collections.Immutable.dll
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\System.IO.FileSystem.dll
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\System.Reflection.Metadata.dll
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\vbc.exe
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\vbc.exe.config
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\vbc.rsp
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\VBCSCompiler.exe
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\roslyn\VBCSCompiler.exe.config
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\obj\Debug\LNTFinance.csproj.CoreCompileInputs.cache
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\obj\Debug\LNTFinance.csproj.CopyComplete
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\obj\Debug\LNTFinance.dll
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\obj\Debug\LNTFinance.pdb
+E:\PAMAC\LNT Project\LNTFinance\LNTFinance\obj\Debug\LNTFinance.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\LNTFinance.dll.config
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\LNTFinance.dll
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\LNTFinance.pdb
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\obj\Debug\LNTFinance.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\obj\Debug\LNTFinance.csproj.CopyComplete
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\obj\Debug\LNTFinance.dll
+C:\Users\admin\Desktop\New folder\LNTFinance\LNTFinance\obj\Debug\LNTFinance.pdb
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\LNTFinance.dll.config
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\LNTFinance.dll
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\LNTFinance.pdb
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\csc.exe
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\csc.exe.config
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\csc.rsp
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\csi.exe
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\csi.rsp
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\System.AppContext.dll
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\System.Collections.Immutable.dll
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\System.IO.FileSystem.dll
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\System.Reflection.Metadata.dll
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\vbc.exe
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\vbc.exe.config
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\vbc.rsp
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\VBCSCompiler.exe
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\bin\roslyn\VBCSCompiler.exe.config
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\obj\Debug\LNTFinance.csproj.AssemblyReference.cache
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\obj\Debug\LNTFinance.csproj.CoreCompileInputs.cache
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\obj\Debug\LNTFinance.csproj.CopyComplete
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\obj\Debug\LNTFinance.dll
+D:\SUHANI\Projects\LNTFinance\LNTFinance\LNTFinance\obj\Debug\LNTFinance.pdb
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\LNTFinance.dll.config
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\LNTFinance.dll
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\LNTFinance.pdb
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\csc.exe
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\csc.exe.config
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\csc.rsp
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\csi.exe
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\csi.rsp
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\System.AppContext.dll
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\System.Collections.Immutable.dll
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\System.IO.FileSystem.dll
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\System.Reflection.Metadata.dll
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\vbc.exe
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\vbc.exe.config
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\vbc.rsp
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\VBCSCompiler.exe
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\bin\roslyn\VBCSCompiler.exe.config
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\obj\Debug\LNTFinance.csproj.CoreCompileInputs.cache
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\obj\Debug\LNTFinance.csproj.CopyComplete
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\obj\Debug\LNTFinance.dll
+F:\D Drive\Yasir\My Data\LNT Project\Working_28_02_2025\LNTFinance\LNTFinance\obj\Debug\LNTFinance.pdb
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\LNTFinance.dll.config
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\LNTFinance.dll
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\LNTFinance.pdb
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\csc.exe
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\csc.exe.config
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\csc.rsp
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\csi.exe
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\csi.rsp
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\System.AppContext.dll
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\System.Collections.Immutable.dll
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\System.IO.FileSystem.dll
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\System.Reflection.Metadata.dll
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\vbc.exe
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\vbc.exe.config
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\vbc.rsp
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\VBCSCompiler.exe
+D:\UAT_Applications\LNTFinance\LNTFinance\bin\roslyn\VBCSCompiler.exe.config
+D:\UAT_Applications\LNTFinance\LNTFinance\obj\Debug\LNTFinance.csproj.CoreCompileInputs.cache
+D:\UAT_Applications\LNTFinance\LNTFinance\obj\Debug\LNTFinance.csproj.CopyComplete
+D:\UAT_Applications\LNTFinance\LNTFinance\obj\Debug\LNTFinance.dll
+D:\UAT_Applications\LNTFinance\LNTFinance\obj\Debug\LNTFinance.pdb

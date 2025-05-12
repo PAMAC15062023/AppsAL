@@ -1,0 +1,153 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>1</MenuID>
+    <Text>Common Master</Text>
+    <Description>Common Master</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>126</MenuID>
+      <Text>Change Password</Text>
+      <Description>Change Password</Description>
+      <PagePath>~/Pages/Change_Password.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>172</MenuID>
+    <Text>JFS</Text>
+    <Description>JFS</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>178</MenuID>
+      <Text>Data Entry</Text>
+      <Description>Data Entry</Description>
+      <PagePath>~/Pages/JFS/DDE.aspx</PagePath>
+      <ParentID>172</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>217</MenuID>
+    <Text>FTS</Text>
+    <Description>FTS</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>218</MenuID>
+      <Text>New Login Entry</Text>
+      <Description>New Login Entry</Description>
+      <PagePath />
+      <ParentID>217</ParentID>
+      <Menu>
+        <MenuID>219</MenuID>
+        <Text>Import File</Text>
+        <Description>Import File</Description>
+        <PagePath>~/Pages/PFT/importfile.aspx</PagePath>
+        <ParentID>218</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>220</MenuID>
+        <Text>Mannual Entry</Text>
+        <Description>Mannual Entry</Description>
+        <PagePath>~/Pages/PFT/dataentry_page.aspx</PagePath>
+        <ParentID>218</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>275</MenuID>
+        <Text>HL Login Entry</Text>
+        <Description>HL Login Entry</Description>
+        <PagePath>~/Pages/PFT/hl_activity.aspx</PagePath>
+        <ParentID>218</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>277</MenuID>
+        <Text>QDE Login Entry</Text>
+        <Description>QDE Login Entry</Description>
+        <PagePath>~/Pages/PFT/import_qde.aspx</PagePath>
+        <ParentID>218</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>285</MenuID>
+        <Text>PDP Ops Login Entry</Text>
+        <Description>PDP Ops Login Entry</Description>
+        <PagePath>~/Pages/PFT/ops_dataentry.aspx</PagePath>
+        <ParentID>218</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>280</MenuID>
+      <Text>Credit Processing</Text>
+      <Description>Credit Processing</Description>
+      <PagePath />
+      <ParentID>217</ParentID>
+      <Menu>
+        <MenuID>283</MenuID>
+        <Text>Screening</Text>
+        <Description>Screening</Description>
+        <PagePath>~/Pages/PFT/Search.aspx</PagePath>
+        <ParentID>280</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>222</MenuID>
+        <Text>Eligbility Check</Text>
+        <Description>Eligbility Check</Description>
+        <PagePath />
+        <ParentID>280</ParentID>
+        <Menu>
+          <MenuID>223</MenuID>
+          <Text>DSCR</Text>
+          <Description>DSCR</Description>
+          <PagePath>~/Pages/PFT/bank_analysis.aspx</PagePath>
+          <ParentID>222</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>224</MenuID>
+          <Text>Bank Calculation</Text>
+          <Description>Bank Calculation</Description>
+          <PagePath>~/Pages/PFT/bank_calculation.aspx</PagePath>
+          <ParentID>222</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>225</MenuID>
+        <Text>DDE</Text>
+        <Description>DDE</Description>
+        <PagePath>~/Pages/PFT/DDE_stage.aspx</PagePath>
+        <ParentID>280</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>226</MenuID>
+        <Text>CPV</Text>
+        <Description>CPV</Description>
+        <PagePath>~/Pages/PFT/CPV.aspx</PagePath>
+        <ParentID>280</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>227</MenuID>
+      <Text>Send To BANK Credit</Text>
+      <Description>Send To BANK Credit</Description>
+      <PagePath>~/Pages/PFT/SendToCredit.aspx</PagePath>
+      <ParentID>217</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>228</MenuID>
+      <Text>Received from Bank</Text>
+      <Description>Received from Bank</Description>
+      <PagePath>~/Pages/PFT/recepivedfrm_bank.aspx</PagePath>
+      <ParentID>217</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

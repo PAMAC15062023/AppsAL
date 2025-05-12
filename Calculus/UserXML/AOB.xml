@@ -1,0 +1,183 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>133</MenuID>
+    <Text>Admin Master</Text>
+    <Description>Admin Master</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>17</MenuID>
+      <Text>Branch Master</Text>
+      <Description>Branch Master</Description>
+      <PagePath>~/Pages/Calculus/Branch_Master.aspx</PagePath>
+      <ParentID>133</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>9</MenuID>
+      <Text>Menu Master</Text>
+      <Description>Menu Master</Description>
+      <PagePath>~/Pages/MenuMaster.aspx</PagePath>
+      <ParentID>133</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>13</MenuID>
+      <Text>User Master</Text>
+      <Description>User Master</Description>
+      <PagePath>~/Pages/Usermaster.aspx</PagePath>
+      <ParentID>133</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>45</MenuID>
+      <Text>Group Rights Assignment</Text>
+      <Description>Group Rights Assignment</Description>
+      <PagePath>~/Pages/GroupRightsInfo.aspx</PagePath>
+      <ParentID>133</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>46</MenuID>
+      <Text>Group Master</Text>
+      <Description>Group Master</Description>
+      <PagePath>~/Pages/GroupMaster.aspx</PagePath>
+      <ParentID>133</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>137</MenuID>
+      <Text>Vertical Rights Master</Text>
+      <Description>Vertical Rights Master</Description>
+      <PagePath>~/Pages/Calculus/VerticalRightsMaster.aspx</PagePath>
+      <ParentID>133</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>798</MenuID>
+    <Text>Asset On Boarding</Text>
+    <Description>Asset On Boarding</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>799</MenuID>
+      <Text>Asset Master</Text>
+      <Description>Asset Master</Description>
+      <PagePath>~/Pages/AssetOnBoarding/AOB_AssetMaster.aspx</PagePath>
+      <ParentID>798</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>800</MenuID>
+      <Text>Asset Allocation and Rate fixation</Text>
+      <Description>Asset Allocation and Rate fixation</Description>
+      <PagePath>~/Pages/AssetOnBoarding/AOB_AssetMovement.aspx</PagePath>
+      <ParentID>798</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>801</MenuID>
+      <Text>Attendance Register</Text>
+      <Description>Attendance Register</Description>
+      <PagePath>~/Pages/AssetOnBoarding/AOB_AttendanceRegister.aspx</PagePath>
+      <ParentID>798</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>802</MenuID>
+      <Text>Billing Report</Text>
+      <Description>Billing Report</Description>
+      <PagePath>~/Pages/AssetOnBoarding/AOB_BillingReport.aspx</PagePath>
+      <ParentID>798</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>806</MenuID>
+      <Text>Import Excel</Text>
+      <Description>Import Excel</Description>
+      <PagePath>~/Pages/AssetOnBoarding/AOB_ImportExcel.aspx</PagePath>
+      <ParentID>798</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>808</MenuID>
+      <Text>Resource Master</Text>
+      <Description>Resource Master</Description>
+      <PagePath>~/Pages/AssetOnBoarding/AOB_ResourceMaster.aspx</PagePath>
+      <ParentID>798</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>809</MenuID>
+      <Text>Client Master</Text>
+      <Description>Client Master</Description>
+      <PagePath>~/Pages/AssetOnBoarding/AOB_ClientMaster.aspx</PagePath>
+      <ParentID>798</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>811</MenuID>
+      <Text>Activity Master</Text>
+      <Description>Activity Master</Description>
+      <PagePath>~/Pages/AssetOnBoarding/AOB_ActivityMaster.aspx</PagePath>
+      <ParentID>798</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>813</MenuID>
+      <Text>Pamac Location Master</Text>
+      <Description>Pamac Location Master</Description>
+      <PagePath>~/Pages/AssetOnBoarding/AOB_PamacLocationMaster.aspx</PagePath>
+      <ParentID>798</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>814</MenuID>
+      <Text>Asset Vendor Master</Text>
+      <Description>Asset Vendor Master</Description>
+      <PagePath>~/Pages/AssetOnBoarding/AOB_AssetVendorMaster.aspx</PagePath>
+      <ParentID>798</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>815</MenuID>
+      <Text>State Master</Text>
+      <Description>State Master</Description>
+      <PagePath>~/Pages/AssetOnBoarding/AOB_StateMaster.aspx</PagePath>
+      <ParentID>798</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>817</MenuID>
+      <Text>Asset Name Master</Text>
+      <Description>Asset Name Master</Description>
+      <PagePath>~/Pages/AssetOnBoarding/AOB_AssetNameMaster.aspx</PagePath>
+      <ParentID>798</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>818</MenuID>
+      <Text>Sub Location Master</Text>
+      <Description>Sub Location Master</Description>
+      <PagePath>~/Pages/AssetOnBoarding/AOB_SubLocationMaster.aspx</PagePath>
+      <ParentID>798</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>819</MenuID>
+      <Text>EDP Counter Name</Text>
+      <Description>EDP Counter Name</Description>
+      <PagePath>~/Pages/AssetOnBoarding/AOB_EDPCounterNameMaster.aspx</PagePath>
+      <ParentID>798</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>820</MenuID>
+      <Text>Assets Discontinuation</Text>
+      <Description>Assets Discontinuation</Description>
+      <PagePath>~/Pages/AssetOnBoarding/AOB_AssetsDiscontinuation.aspx</PagePath>
+      <ParentID>798</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>821</MenuID>
+      <Text>Asset Scrap/Disposal Process</Text>
+      <Description>Asset Scrap/Disposal Process</Description>
+      <PagePath>~/Pages/AssetOnBoarding/AOB_AssetScrapDisposalProcess.aspx</PagePath>
+      <ParentID>798</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>823</MenuID>
+      <Text>Billing Conditions</Text>
+      <Description>Billing Conditions</Description>
+      <PagePath>~/Pages/AssetOnBoarding/AOB_BillingConditions.aspx</PagePath>
+      <ParentID>798</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>824</MenuID>
+      <Text>DOL</Text>
+      <Description>DOL</Description>
+      <PagePath>~/Pages/AssetOnBoarding/AOB_DOLDetails.aspx</PagePath>
+      <ParentID>798</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

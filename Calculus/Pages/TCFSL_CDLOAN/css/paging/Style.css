@@ -1,0 +1,62 @@
+body { 
+}
+a{text-decoration:none;}
+.body-content{padding-left: 15px;
+padding-right: 15px;
+Margin-top:50px;
+width:100%;
+float:left;
+padding-bottom:30px;}
+/*----------tap panel style------*/
+ .tab-panel {
+            width: 100%;
+            display: inline-block;
+        }
+
+        .tab-link:after {
+            display: block;
+            padding-top: 20px;
+            content: '';
+        }
+
+        .tab-link li {
+            margin: 0px 5px;
+            float: left;
+            list-style: none;
+        }
+
+        .tab-link a {
+            padding: 8px 15px;
+            display: inline-block;
+            border-radius: 10px 3px 0px 0px;
+            background: #8dc8f5;
+            font-weight: bold;
+            color: #4c4c4c;
+        }
+
+            .tab-link a:hover {
+                background: #b7c7e5;
+                text-decoration: none;
+            }
+
+        li.active a, li.active a:hover {
+            background: #ccc;
+            color: #0094ff;
+            text-decoration:none;
+        }
+
+        .content-area {
+            padding: 15px;
+            border-radius: 3px;
+            box-shadow: -1px 1px 1px rgba(0,0,0,0.15);
+            background: #fff;
+            border: 1px solid #ccc;
+        }
+
+        .inactive{
+            display: none;
+        }
+
+        .active {
+            display: block;
+        }

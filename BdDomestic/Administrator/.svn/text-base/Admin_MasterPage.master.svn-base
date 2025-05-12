@@ -1,0 +1,88 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Admin_MasterPage.master.cs" EnableTheming="true"  Inherits="Administrator_Admin_MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>PAMAC Online</title>
+    <link rel="stylesheet" type="text/css" href="../StyleSheet.css" />  
+    <script language="javascript" type="text/javascript" src="../popcalendar.js"></script>  
+</head>
+<body>
+    <form id="form1" runat="server"> 
+    <atlas:ScriptManager id="ScriptManager1" runat="server" EnablePartialRendering="True">
+    </atlas:ScriptManager> <div>
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr bgcolor="#4EB9ED">
+    <td>
+        <asp:Menu ID="Menu1" runat="server" BackColor="#4EB9ED" DynamicHorizontalOffset="2"
+            Font-Names="Arial" Font-Size="10pt" ForeColor="White" Orientation="Horizontal"
+            StaticSubMenuIndent="10px" Font-Bold="True">
+            <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+            <DynamicHoverStyle BackColor="#0093DD" ForeColor="White" />
+            <DynamicMenuStyle BackColor="#4EB9ED" />
+            <StaticSelectedStyle BackColor="#C4C1C1" />
+            <DynamicSelectedStyle BackColor="#0093DD" />
+            <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+            <Items>
+                <asp:MenuItem Text="Template" Value="Template">
+                    <asp:MenuItem Text="Import Template" Value="Import Template" NavigateUrl="TemplateConfigurationManager.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Label Template" Value="Label Template" NavigateUrl="Label_Printing_manage.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Case Updation Template" Value="Case Updation Template" NavigateUrl="Summary_Panel_Mapping_View.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Export Template For Cellular" Value="Export Template For Cellular" NavigateUrl="ExportTemplate.aspx"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/Administrator/Label_Printing_manage_Cellular.aspx" Text="Cellular Label Template"
+                        Value="Cellular Label Template"></asp:MenuItem>
+                         <asp:MenuItem Text="Export Template For Kyc" Value="Export Template For Kyc" NavigateUrl="kyc_Export_Template.aspx"></asp:MenuItem>
+                </asp:MenuItem>
+                <asp:MenuItem Text="Master" Value="Master">
+                    <asp:MenuItem Text="Company Master" Value="Company Master" NavigateUrl="CompanyViewMaster.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Cluster Master" Value="Cluster Master" NavigateUrl="ClusterViewMaster.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Centre Master" Value="Centre Master" NavigateUrl="CentreViewMaster.aspx"></asp:MenuItem>
+                     <asp:MenuItem Text="Sub Centre Master" Value="Sub Centre Master" NavigateUrl="SubCentreMaster.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Activity Master" Value="Activity Master" NavigateUrl="ActivityViewMaster.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Product Master" Value="Product Master" NavigateUrl="ProductMaster.aspx" ></asp:MenuItem>
+                    <asp:MenuItem Text="Client Master" Value="Client Master" NavigateUrl="ClientMaster.aspx"></asp:MenuItem>
+                    <asp:MenuItem NavigateUrl="~/Administrator/Department_Master.aspx" Text="Department Masrer"
+                        Value="Department Masrer"></asp:MenuItem>
+                    <asp:MenuItem Text="Declined Code Master" Value="Declined Code Master" NavigateUrl="DeclineCode.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Employee Master" Value="Employee Master" NavigateUrl="EmployeeMaster.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="User Master" Value="User Master" NavigateUrl="UserRoleManage.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Role Master" Value="Role Master" NavigateUrl="RoleMaster.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Standard Tat Hours" Value="Satandard Tat Hours" NavigateUrl="StandardTATHour_View.aspx"></asp:MenuItem>
+                    <%--<asp:MenuItem Text="Holiday Calendar" Value="Holiday Calendar">
+                        <asp:MenuItem NavigateUrl="~/Administrator/WeekEnds.aspx" Text="Week Ends" Value="Week Ends">
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Administrator/SpecialHolidays.aspx" Text="Special Holidays"
+                            Value="Special Holidays"></asp:MenuItem>
+                    </asp:MenuItem>--%>
+                 <%-- <asp:MenuItem NavigateUrl="~/Administrator/RoleAssigned.aspx" Text="Role Assignment"
+                        Value="Role Assigned"></asp:MenuItem>
+                  <asp:MenuItem NavigateUrl="~/Administrator/User_Hierarchy.aspx" Text="User Heirarchy"
+                        Value="User Heirarchy"></asp:MenuItem>--%>
+               </asp:MenuItem>
+                
+                <asp:MenuItem Text="Mapping" Value="Mapping">
+                    <asp:MenuItem Text="FE Pincode Mapping" Value="FE Pincode Mapping" NavigateUrl="FEPincodeMapping_View.aspx"></asp:MenuItem>
+               </asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/Administrator/QueryBuilder.aspx" Text="Query builder"
+                    Value="Querry builder">
+                    <asp:MenuItem Text="Build Query" Value="Build Query" NavigateUrl="BuildQuery.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="View Saved Queries" Value="View Saved Queries" NavigateUrl="ViewSavedQueries.aspx"></asp:MenuItem>
+                    <asp:MenuItem Text="Assign Rights" Value="Assign Rights" NavigateUrl="AssignRights.aspx"></asp:MenuItem>
+                </asp:MenuItem>
+            </Items>
+            <StaticHoverStyle BackColor="#0093DD" ForeColor="White" />
+        </asp:Menu>
+    </td>
+    </tr>
+    <tr>
+    <td>
+        <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        </asp:contentplaceholder>
+    </td>
+    </tr>    
+    </table>
+    </div>
+    </form>
+</body>
+</html>

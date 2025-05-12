@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>1</MenuID>
+    <Text>Common Master</Text>
+    <Description>Common Master</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>126</MenuID>
+      <Text>Change Password</Text>
+      <Description>Change Password</Description>
+      <PagePath>~/Pages/Change_Password.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>172</MenuID>
+    <Text>JFS</Text>
+    <Description>JFS</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>175</MenuID>
+      <Text>Scanning</Text>
+      <Description>Scanning</Description>
+      <PagePath>~/Pages/JFS/Scanning.aspx</PagePath>
+      <ParentID>172</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>273</MenuID>
+      <Text>cis number</Text>
+      <Description>cis number</Description>
+      <PagePath>~/Pages/JFS/cisc_number.aspx</PagePath>
+      <ParentID>172</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

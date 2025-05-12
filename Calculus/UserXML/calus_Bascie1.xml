@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>49</MenuID>
+    <Text>Calculus Online Transactional</Text>
+    <Description>Calculus Online Transactional</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>50</MenuID>
+      <Text>Branch Payment Request</Text>
+      <Description>Branch Payment Request</Description>
+      <PagePath>~/Pages/Calculus/BranchPaymentRequest.aspx</PagePath>
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>86</MenuID>
+        <Text>Vendor Payment Request</Text>
+        <Description>Vendor Payment Request</Description>
+        <PagePath />
+        <ParentID>50</ParentID>
+        <Menu>
+          <MenuID>67</MenuID>
+          <Text>Payment Request -Add</Text>
+          <Description>Payment Request -Add</Description>
+          <PagePath>~/Pages/Calculus/BranchPaymentRequest.aspx</PagePath>
+          <ParentID>86</ParentID>
+        </Menu>
+      </Menu>
+    </Menu>
+  </Menu>
+</Menus>

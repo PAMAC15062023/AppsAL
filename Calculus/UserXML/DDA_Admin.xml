@@ -1,0 +1,161 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>133</MenuID>
+    <Text>Admin Master</Text>
+    <Description>Admin Master</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>17</MenuID>
+      <Text>Branch Master</Text>
+      <Description>Branch Master</Description>
+      <PagePath>~/Pages/Calculus/Branch_Master.aspx</PagePath>
+      <ParentID>133</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>9</MenuID>
+      <Text>Menu Master</Text>
+      <Description>Menu Master</Description>
+      <PagePath>~/Pages/MenuMaster.aspx</PagePath>
+      <ParentID>133</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>13</MenuID>
+      <Text>User Master</Text>
+      <Description>User Master</Description>
+      <PagePath>~/Pages/Usermaster.aspx</PagePath>
+      <ParentID>133</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>45</MenuID>
+      <Text>Group Rights Assignment</Text>
+      <Description>Group Rights Assignment</Description>
+      <PagePath>~/Pages/GroupRightsInfo.aspx</PagePath>
+      <ParentID>133</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>46</MenuID>
+      <Text>Group Master</Text>
+      <Description>Group Master</Description>
+      <PagePath>~/Pages/GroupMaster.aspx</PagePath>
+      <ParentID>133</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>1</MenuID>
+    <Text>Common Master</Text>
+    <Description>Common Master</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>135</MenuID>
+      <Text>Accounts Master</Text>
+      <Description>Accounts Master</Description>
+      <PagePath />
+      <ParentID>1</ParentID>
+      <Menu>
+        <MenuID>59</MenuID>
+        <Text>Service Tax Master</Text>
+        <Description>Service Tax Master</Description>
+        <PagePath>~/Pages/Calculus/ServiceTax.aspx</PagePath>
+        <ParentID>135</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>58</MenuID>
+        <Text>Payee Masters</Text>
+        <Description>Payee Masters</Description>
+        <PagePath>~/Pages/Calculus/Payee_Master.aspx</PagePath>
+        <ParentID>135</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>60</MenuID>
+        <Text>Account Head</Text>
+        <Description>Account Head</Description>
+        <PagePath>~/Pages/Calculus/Account_LedgerInfo.aspx</PagePath>
+        <ParentID>135</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>3</MenuID>
+      <Text>Source Branch Add</Text>
+      <Description>Source Branch Add</Description>
+      <PagePath>~/Pages/SouchBranchMaster.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>98</MenuID>
+    <Text>DDA-EFS</Text>
+    <Description>DDA-EFS</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>99</MenuID>
+      <Text>DDA Application Entry</Text>
+      <Description>DDA Application Entry</Description>
+      <PagePath>~/Pages/DDA/DDA_ApplicationEntry.aspx</PagePath>
+      <ParentID>98</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>100</MenuID>
+      <Text>DDA Application Search</Text>
+      <Description>DDA Application Search</Description>
+      <PagePath>~/Pages/DDA/DDA_ApplicationSearch.aspx</PagePath>
+      <ParentID>98</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>101</MenuID>
+      <Text>DDA Send To Client</Text>
+      <Description>DDA Send To Client</Description>
+      <PagePath />
+      <ParentID>98</ParentID>
+      <Menu>
+        <MenuID>102</MenuID>
+        <Text>PDC Send to Client</Text>
+        <Description>PDC Send to Client</Description>
+        <PagePath>~/Pages/DDA/UploadingSentToPDCDetails.aspx</PagePath>
+        <ParentID>101</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>103</MenuID>
+        <Text>Application Send to Client</Text>
+        <Description>Application Send to Client</Description>
+        <PagePath>~/Pages/DDA/UploadingSentToApplicationDetails.aspx</PagePath>
+        <ParentID>101</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>104</MenuID>
+      <Text>DDA Reports</Text>
+      <Description>DDA Reports</Description>
+      <PagePath />
+      <ParentID>98</ParentID>
+      <Menu>
+        <MenuID>108</MenuID>
+        <Text>Master MIS</Text>
+        <Description>Master MIS</Description>
+        <PagePath>~/Pages/DDA/Reports/Master_MIS.aspx</PagePath>
+        <ParentID>104</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>105</MenuID>
+        <Text>Banking Batch MIS</Text>
+        <Description>Banking Batch MIS</Description>
+        <PagePath>~/pages/dda/reports/dda_bankingbatchmis.aspx</PagePath>
+        <ParentID>104</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>106</MenuID>
+        <Text>CMS Batch MIS</Text>
+        <Description>CMS Batch MIS</Description>
+        <PagePath>~/Pages/DDA/Reports/DDA_CMSBatchMIS.aspx</PagePath>
+        <ParentID>104</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>107</MenuID>
+        <Text>FIG Format MIS</Text>
+        <Description>FIG Format MIS</Description>
+        <PagePath>~/Pages/DDA/Reports/DDA_FIGFormatMIS.aspx</PagePath>
+        <ParentID>104</ParentID>
+      </Menu>
+    </Menu>
+  </Menu>
+</Menus>

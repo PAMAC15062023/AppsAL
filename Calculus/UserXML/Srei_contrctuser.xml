@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>520</MenuID>
+    <Text>SREI CPA</Text>
+    <Description>SREI CPA</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>521</MenuID>
+      <Text>Import</Text>
+      <Description>Import</Description>
+      <PagePath>~/Pages/SREI_CPA/Import.aspx</PagePath>
+      <ParentID>520</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>537</MenuID>
+      <Text>Lead Generation</Text>
+      <Description>Lead Generation</Description>
+      <PagePath />
+      <ParentID>520</ParentID>
+      <Menu>
+        <MenuID>522</MenuID>
+        <Text>LEAD</Text>
+        <Description>LEAD</Description>
+        <PagePath>~/Pages/SREI_CPA/Leadgeneration.aspx</PagePath>
+        <ParentID>537</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>526</MenuID>
+        <Text>LEAD FTNR</Text>
+        <Description>LEAD FTNR</Description>
+        <PagePath>~/Pages/SREI_CPA/LeadFTNR.aspx</PagePath>
+        <ParentID>537</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>530</MenuID>
+      <Text>Contract Preparation</Text>
+      <Description>Contract Preparation</Description>
+      <PagePath />
+      <ParentID>520</ParentID>
+      <Menu>
+        <MenuID>531</MenuID>
+        <Text>Contract</Text>
+        <Description>Contract</Description>
+        <PagePath>~/Pages/SREI_CPA/Contractpreparation.aspx</PagePath>
+        <ParentID>530</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>532</MenuID>
+        <Text>Contract FTNR</Text>
+        <Description>Contract FTNR</Description>
+        <PagePath>~/Pages/SREI_CPA/ContractFTNR.aspx</PagePath>
+        <ParentID>530</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>533</MenuID>
+        <Text>Preowned CE Cases</Text>
+        <Description>Preowned CE Cases</Description>
+        <PagePath>~/Pages/SREI_CPA/ContractVertical_Handsoff.aspx</PagePath>
+        <ParentID>530</ParentID>
+      </Menu>
+    </Menu>
+  </Menu>
+</Menus>

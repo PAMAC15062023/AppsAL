@@ -1,0 +1,21 @@
+<style> TD { mso-number-format:\@; } </style> <table>
+	<tr style="height:20px;">
+		<td> </td>
+	</tr><tr>
+		<td class="SuccessMessage" colspan="20"><b> <span style='background-color:Gray'> <font size='4'>PAMAC FINSERVE PVT. LTD., Branch--Select- </font></span></b> <br/><b><font size='2' color='blue'>NEFT Payment Report  for Date 21/01/2015 To 21/01/2015 </font></b> <br/></td>
+	</tr>
+</table><table id="ContentPlaceHolder1_tbExport" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td>
+                                <div>
+			<table cellspacing="0" rules="all" border="1" id="ContentPlaceHolder1_gvExportReport" style="height:100px;width:98%;border-collapse:collapse;">
+				<tr>
+					<th scope="col">IFSC code</th><th scope="col">A/c Type</th><th scope="col">Beneficiary A/c No</th><th scope="col">Beneficiary Name</th><th scope="col">TransactionID</th><th scope="col">Amount</th>
+				</tr><tr class="GridViewRowStyle">
+					<td>indus2015</td><td>Saving</td><td>1234597890</td><td>Anjaiah Sabbani</td><td>MAD\201501\VPM-000002</td><td>1000.00</td>
+				</tr>
+			</table>
+		</div>
+                            </td>
+	</tr>
+</table>

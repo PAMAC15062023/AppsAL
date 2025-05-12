@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>515</MenuID>
+    <Text>ICICINDC</Text>
+    <Description>ICICINDC</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>519</MenuID>
+      <Text>QCTracking</Text>
+      <Description>QCTracking</Description>
+      <PagePath>~/Pages/ICICINDC/QCTracking.aspx</PagePath>
+      <ParentID>515</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

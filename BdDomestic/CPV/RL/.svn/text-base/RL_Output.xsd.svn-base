@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="RL_Output" targetNamespace="http://tempuri.org/RL_Output.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/RL_Output.xsd" xmlns:mstns="http://tempuri.org/RL_Output.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="RL_Reli_RV">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="case_id" type="xs:string" />
+        <xs:element name="case_rec_datetime" type="xs:string" />
+        <xs:element name="ref_no" type="xs:string" />
+        <xs:element name="FullName" type="xs:string" />
+        <xs:element name="res_add_line_1" type="xs:string" />
+        <xs:element name="verification_type_id" type="xs:string" />
+        <xs:element name="tel_no_type_phone" type="xs:string" />
+        <xs:element name="mobile_no_type_phone" type="xs:string" />
+        <xs:element name="education_background" type="xs:string" />
+        <xs:element name="locating_address" type="xs:string" />
+        <xs:element name="landmark" type="xs:string" />
+        <xs:element name="type_of_house" type="xs:string" />
+        <xs:element name="name_society_board" type="xs:string" />
+        <xs:element name="nameplate_on_door" type="xs:string" />
+        <xs:element name="ownership_details" type="xs:string" />
+        <xs:element name="permanent_address" type="xs:string" />
+        <xs:element name="years_at_residence" type="xs:string" />
+        <xs:element name="number_rooms" type="xs:string" />
+        <xs:element name="area_of_house" type="xs:string" />
+        <xs:element name="locality" type="xs:string" />
+        <xs:element name="assets" type="xs:string" />
+        <xs:element name="marital_status" type="xs:string" />
+        <xs:element name="no_of_dependent" type="xs:string" />
+        <xs:element name="no_of_earning_member" type="xs:string" />
+        <xs:element name="person_contacted" type="xs:string" />
+        <xs:element name="relationship" type="xs:string" />
+        <xs:element name="vehicles_ownership" type="xs:string" />
+        <xs:element name="vehicle_type" type="xs:string" />
+        <xs:element name="vehicles_financed" type="xs:string" />
+        <xs:element name="interior_premises" type="xs:string" />
+        <xs:element name="exterior_premises" type="xs:string" />
+        <xs:element name="affliated_political_party" type="xs:string" />
+        <xs:element name="door_locked" type="xs:string" />
+        <xs:element name="address_confirmed" type="xs:string" />
+        <xs:element name="name_neighbour1" type="xs:string" />
+        <xs:element name="add_neighbour1" type="xs:string" />
+        <xs:element name="verification_datetime" type="xs:string" />
+        <xs:element name="verifier_comments" type="xs:string" />
+        <xs:element name="supervisor_comments" type="xs:string" />
+        <xs:element name="status_name" type="xs:string" />
+        <xs:element name="verifier" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RL_Reli_BV">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="case_id" type="xs:string" />
+        <xs:element name="case_rec_datetime" type="xs:string" />
+        <xs:element name="FullName" type="xs:string" />
+        <xs:element name="off_add_line_1" type="xs:string" />
+        <xs:element name="verification_type_id" type="xs:string" />
+        <xs:element name="type_of_phone" type="xs:string" />
+        <xs:element name="type_of_mobile" type="xs:string" />
+        <xs:element name="company_name_board_seen" type="xs:string" />
+        <xs:element name="person_contacted" type="xs:string" />
+        <xs:element name="designation" type="xs:string" />
+        <xs:element name="person_confirm_address" type="xs:string" />
+        <xs:element name="nature_business" type="xs:string" />
+        <xs:element name="no_of_current_office" type="xs:string" />
+        <xs:element name="desgn_dept_collegue" type="xs:string" />
+        <xs:element name="no_of_emp_seen" type="xs:string" />
+        <xs:element name="total_no_employee" type="xs:string" />
+        <xs:element name="type_organization" type="xs:string" />
+        <xs:element name="type_office" type="xs:string" />
+        <xs:element name="locating_office" type="xs:string" />
+        <xs:element name="is_res_com_office" type="xs:string" />
+        <xs:element name="nam_plate_sighted" type="xs:string" />
+        <xs:element name="business_activity_seen" type="xs:string" />
+        <xs:element name="area_around_office" type="xs:string" />
+        <xs:element name="equipment_stock_sighted" type="xs:string" />
+        <xs:element name="nature_job" type="xs:string" />
+        <xs:element name="affilated_political_party" type="xs:string" />
+        <xs:element name="visitingcard_obtained" type="xs:string" />
+        <xs:element name="reason_not_collecting_vc" type="xs:string" />
+        <xs:element name="office_door_locked" type="xs:string" />
+        <xs:element name="name_add_third_party" type="xs:string" />
+        <xs:element name="where_contacted" type="xs:string" />
+        <xs:element name="verification_datetime" type="xs:string" />
+        <xs:element name="verifier_comment" type="xs:string" />
+        <xs:element name="supervisor_comments" type="xs:string" />
+        <xs:element name="verifier" type="xs:string" />
+        <xs:element name="ref_no" type="xs:string" />
+        <xs:element name="status_name" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Main">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Case_Id" type="xs:string" />
+        <xs:element name="Verification_Type_id" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RL_Ubi_RV">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="case_id" type="xs:string" />
+        <xs:element name="FullName" type="xs:string" />
+        <xs:element name="res_add_line_1" type="xs:string" />
+        <xs:element name="res_pin_code" type="xs:string" />
+        <xs:element name="Father_Spouse_Name" type="xs:string" />
+        <xs:element name="Mother_Name" type="xs:string" />
+        <xs:element name="landmark" type="xs:string" />
+        <xs:element name="PERSON_CONTACTED" type="xs:string" />
+        <xs:element name="Relationship" type="xs:string" />
+        <xs:element name="Type_Accmodation" type="xs:string" />
+        <xs:element name="ASSETS" type="xs:string" />
+        <xs:element name="Vehicle_Type" type="xs:string" />
+        <xs:element name="Ownership_RESIDENCE" type="xs:string" />
+        <xs:element name="Permanent_address" type="xs:string" />
+        <xs:element name="Vehicles_Ownership" type="xs:string" />
+        <xs:element name="YEARS_AT_RESIDENCE" type="xs:string" />
+        <xs:element name="Standard_of_Living" type="xs:string" />
+        <xs:element name="Location_house" type="xs:string" />
+        <xs:element name="Accessibility" type="xs:string" />
+        <xs:element name="Name_Neighbour1" type="xs:string" />
+        <xs:element name="ADD_Neighbour1" type="xs:string" />
+        <xs:element name="Verifier_Comments" type="xs:string" />
+        <xs:element name="SUPERVISOR_COMMENTS" type="xs:string" />
+        <xs:element name="verification_type_id" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RL_Ubi_BV">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="case_id" type="xs:string" />
+        <xs:element name="FullName" type="xs:string" />
+        <xs:element name="off_add_line_1" type="xs:string" />
+        <xs:element name="OFF_PIN_CODE" type="xs:string" />
+        <xs:element name="Landmark" type="xs:string" />
+        <xs:element name="Designation" type="xs:string" />
+        <xs:element name="Name_business" type="xs:string" />
+        <xs:element name="No_year_service" type="xs:string" />
+        <xs:element name="Address_Neighbour1" type="xs:string" />
+        <xs:element name="Total_No_employee" type="xs:string" />
+        <xs:element name="Ownership" type="xs:string" />
+        <xs:element name="No_of_branches" type="xs:string" />
+        <xs:element name="Type_oF_Phone" type="xs:string" />
+        <xs:element name="No_of_current_office" type="xs:string" />
+        <xs:element name="Easy_Locating_Office" type="xs:string" />
+        <xs:element name="Locality" type="xs:string" />
+        <xs:element name="entry_permited" type="xs:string" />
+        <xs:element name="Furniture_seen" type="xs:string" />
+        <xs:element name="Nam_Plate_sighted" type="xs:string" />
+        <xs:element name="Business_Activity_seen" type="xs:string" />
+        <xs:element name="Person_Contacted" type="xs:string" />
+        <xs:element name="Designation_contacted_person" type="xs:string" />
+        <xs:element name="Remarks" type="xs:string" />
+        <xs:element name="verification_type_id" type="xs:string" />
+        <xs:element name="off_name" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RL_Ubi_RT">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="case_id" type="xs:string" />
+        <xs:element name="FullName" type="xs:string" />
+        <xs:element name="Mother_Name" type="xs:string" />
+        <xs:element name="Father_Spouse_Name" type="xs:string" />
+        <xs:element name="TypeLoan" type="xs:string" />
+        <xs:element name="res_add_line_1" type="xs:string" />
+        <xs:element name="StreetName" type="xs:string" />
+        <xs:element name="res_pin_code" type="xs:string" />
+        <xs:element name="res_phone" type="xs:string" />
+        <xs:element name="Permanent_address" type="xs:string" />
+        <xs:element name="PerStreetName" type="xs:string" />
+        <xs:element name="per_pin_code" type="xs:string" />
+        <xs:element name="per_phone" type="xs:string" />
+        <xs:element name="mobile" type="xs:string" />
+        <xs:element name="ProofSubmit" type="xs:string" />
+        <xs:element name="PERSON_CONTACTED" type="xs:string" />
+        <xs:element name="Relationship" type="xs:string" />
+        <xs:element name="VerificationDate" type="xs:string" />
+        <xs:element name="verification_type_id" type="xs:string" />
+        <xs:element name="dob" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

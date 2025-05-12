@@ -1,0 +1,9 @@
+select a.case_id,a.ref_no,a.case_rec_datetime,isnull(first_name,'')+' '+isnull(middle_name,'')+' '+isnull(last_name,'') as applicant_name,c.client_name,d.centre_name,e.verification_type_code,f.status_code, h.fullname as TeleCallerName from cpv_cc_case_details a, cpv_cc_veri_details b,client_master c,centre_master d,verification_type_master e,case_status_master f, CASE_TRANSACTION_LOG g, employee_master h where a.case_id = b.case_id and a.case_id = g.case_id and a.client_id = c.client_id 
+and a.centre_id = d.centre_id and b.verification_type_id = e.verification_type_id and 
+b.case_status_id = f.case_status_id and g.user_id = h.emp_id and b.case_status_id = '37' and h.designation_id = '8' and a.send_datetime is null and @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE group by a.case_id,a.ref_no,a.case_rec_datetime,isnull(first_name,'')+' '+isnull(middle_name,'')+' '+isnull(last_name,''),c.client_name,d.centre_name, e.verification_type_code, f.status_code, h.fullname
+
+
+
+
+
+

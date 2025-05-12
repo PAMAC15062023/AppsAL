@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="EBC_BIFURCATIONREPORT" targetNamespace="http://tempuri.org/EBC_BIFURCATIONREPORT.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/EBC_BIFURCATIONREPORT.xsd" xmlns:mstns="http://tempuri.org/EBC_BIFURCATIONREPORT.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="BIFERCATION">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="COMPANYNAME" type="xs:string" />
+        <xs:element name="RECDATE" type="xs:string" />
+        <xs:element name="RECD_x0020_CASES" type="xs:string" />
+        <xs:element name="day0" type="xs:string" />
+        <xs:element name="day1" type="xs:string" />
+        <xs:element name="day2" type="xs:string" />
+        <xs:element name="day3" type="xs:string" />
+        <xs:element name="day4" type="xs:string" />
+        <xs:element name="day5" type="xs:string" />
+        <xs:element name="day6" type="xs:string" />
+        <xs:element name="day7" type="xs:string" />
+        <xs:element name="day8" type="xs:string" />
+        <xs:element name="day9" type="xs:string" />
+        <xs:element name="date1" type="xs:string" />
+        <xs:element name="date2" type="xs:string" />
+        <xs:element name="date3" type="xs:string" />
+        <xs:element name="date4" type="xs:string" />
+        <xs:element name="date5" type="xs:string" />
+        <xs:element name="date6" type="xs:string" />
+        <xs:element name="date7" type="xs:string" />
+        <xs:element name="date8" type="xs:string" />
+        <xs:element name="date9" type="xs:string" />
+        <xs:element name="After9Day" type="xs:string" />
+        <xs:element name="PENDING" type="xs:string" />
+        <xs:element name="FROMDATE" type="xs:string" />
+        <xs:element name="TODATE" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

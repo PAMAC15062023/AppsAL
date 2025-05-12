@@ -1,0 +1,146 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>460</MenuID>
+    <Text>HDFC_RIG</Text>
+    <Description>HDFC_RIG</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>461</MenuID>
+      <Text>Import Form</Text>
+      <Description>Import Form</Description>
+      <PagePath>~/Pages/HDFC_LOSTracking/Import.aspx</PagePath>
+      <ParentID>460</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>462</MenuID>
+      <Text>Super Admin</Text>
+      <Description>Super Admin</Description>
+      <PagePath>~/Pages/HDFC_LOSTracking/SuperAdmin.aspx</PagePath>
+      <ParentID>460</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>463</MenuID>
+      <Text>LOS User</Text>
+      <Description>LOS User</Description>
+      <PagePath>~/Pages/HDFC_LOSTracking/HUserAssign.aspx</PagePath>
+      <ParentID>460</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>464</MenuID>
+      <Text>Export MIS</Text>
+      <Description>Export MIS</Description>
+      <PagePath>~/Pages/HDFC_LOSTracking/ExportData.aspx</PagePath>
+      <ParentID>460</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>503</MenuID>
+    <Text>IDFC</Text>
+    <Description>IDFC</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>504</MenuID>
+      <Text>IDFC Data</Text>
+      <Description>IDFC Data</Description>
+      <PagePath>~/Pages/IDFC/IDFC.aspx</PagePath>
+      <ParentID>503</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>506</MenuID>
+      <Text>Discrepency Incomplete</Text>
+      <Description>Discrepency Incomplete</Description>
+      <PagePath>~/Pages/IDFC/Discrepancy.aspx</PagePath>
+      <ParentID>503</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>507</MenuID>
+      <Text>IDFC MIS</Text>
+      <Description>IDFC MIS</Description>
+      <PagePath>~/Pages/IDFC/IDFCMIS.aspx</PagePath>
+      <ParentID>503</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>513</MenuID>
+      <Text>FI Form</Text>
+      <Description>FI Form</Description>
+      <PagePath>~/Pages/IDFC/FI_Form.aspx</PagePath>
+      <ParentID>503</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>514</MenuID>
+      <Text>Credit Manager</Text>
+      <Description>Credit Manager</Description>
+      <PagePath>~/Pages/IDFC/IDFCCreditManager.aspx</PagePath>
+      <ParentID>503</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>536</MenuID>
+      <Text>Agency Manager</Text>
+      <Description>Agency Manager</Description>
+      <PagePath>~/Pages/IDFC/IDFCAgencymanager.aspx</PagePath>
+      <ParentID>503</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>520</MenuID>
+    <Text>SREI CPA</Text>
+    <Description>SREI CPA</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>521</MenuID>
+      <Text>Import</Text>
+      <Description>Import</Description>
+      <PagePath>~/Pages/SREI_CPA/Import.aspx</PagePath>
+      <ParentID>520</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>537</MenuID>
+      <Text>Lead Generation</Text>
+      <Description>Lead Generation</Description>
+      <PagePath />
+      <ParentID>520</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>530</MenuID>
+      <Text>Contract Preparation</Text>
+      <Description>Contract Preparation</Description>
+      <PagePath />
+      <ParentID>520</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>528</MenuID>
+      <Text>Superadmin</Text>
+      <Description>Superadmin</Description>
+      <PagePath>~/Pages/SREI_CPA/Superadmin.aspx</PagePath>
+      <ParentID>520</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>529</MenuID>
+      <Text>QC Tracking</Text>
+      <Description>QC Tracking</Description>
+      <PagePath>~/Pages/SREI_CPA/QCTracking.aspx</PagePath>
+      <ParentID>520</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>546</MenuID>
+      <Text>MIS</Text>
+      <Description>MIS</Description>
+      <PagePath>~/Pages/SREI_CPA/MIS.aspx</PagePath>
+      <ParentID>520</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

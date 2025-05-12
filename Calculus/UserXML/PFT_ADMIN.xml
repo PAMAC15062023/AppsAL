@@ -1,0 +1,730 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>133</MenuID>
+    <Text>Admin Master</Text>
+    <Description>Admin Master</Description>
+    <PagePath />
+  </Menu>
+  <Menu>
+    <MenuID>1</MenuID>
+    <Text>Common Master</Text>
+    <Description>Common Master</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>58</MenuID>
+      <Text>Payee Masters</Text>
+      <Description>Payee Masters</Description>
+      <PagePath>~/Pages/Calculus/Payee_Master.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>126</MenuID>
+      <Text>Change Password</Text>
+      <Description>Change Password</Description>
+      <PagePath>~/Pages/Change_Password.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>12</MenuID>
+    <Text>Cheuqe Process Traditional</Text>
+    <Description>Cheuqe Process Traditional</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>39</MenuID>
+      <Text>DBF File Upload</Text>
+      <Description>DBF File Upload</Description>
+      <PagePath>~/Pages/ChequeProcessing/ChequeUploadFILES.aspx</PagePath>
+      <ParentID>12</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>40</MenuID>
+      <Text>Generate Cheque Entry Report</Text>
+      <Description>Generate Cheque Entry Report</Description>
+      <PagePath>~/Pages/ChequeProcessing/ChequeEntryReport.aspx</PagePath>
+      <ParentID>12</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>41</MenuID>
+      <Text>SBI Generate Cheque Entry Report</Text>
+      <Description>SBI Generate Cheque Entry Report</Description>
+      <PagePath>~/pages/ChequeProcessing/ChequeEntryReport_SBI.aspx</PagePath>
+      <ParentID>12</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>90</MenuID>
+      <Text>File Cash Upload Validation</Text>
+      <Description>File Cash Upload Validation</Description>
+      <PagePath>~/Pages/ChequeProcessing/FileCashReceiptUpload.aspx</PagePath>
+      <ParentID>12</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>47</MenuID>
+      <Text>Generate MDB</Text>
+      <Description>Generate MDB</Description>
+      <PagePath>~/Pages/ChequeProcessing/GenerateMDBFile.aspx</PagePath>
+      <ParentID>12</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>42</MenuID>
+      <Text>SOC Generate Cheque Entry Report"</Text>
+      <Description>SOC Generate Cheque Entry Report"</Description>
+      <PagePath>~/pages/ChequeProcessing/ChequeEntryReport_SOC.aspx</PagePath>
+      <ParentID>12</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>43</MenuID>
+      <Text>Cheque Contact No</Text>
+      <Description>Cheque Contact No</Description>
+      <PagePath>~/Pages/ChequeProcessing/ChequeContactUpdate.aspx</PagePath>
+      <ParentID>12</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>49</MenuID>
+    <Text>Calculus Online Transactional</Text>
+    <Description>Calculus Online Transactional</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>50</MenuID>
+      <Text>Branch Payment Request</Text>
+      <Description>Branch Payment Request</Description>
+      <PagePath>~/Pages/Calculus/BranchPaymentRequest.aspx</PagePath>
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>86</MenuID>
+        <Text>Vendor Payment Request</Text>
+        <Description>Vendor Payment Request</Description>
+        <PagePath />
+        <ParentID>50</ParentID>
+        <Menu>
+          <MenuID>65</MenuID>
+          <Text>Payment Request -View</Text>
+          <Description>Payment Request -View</Description>
+          <PagePath>~/Pages/Calculus/BranchPaymentRequest_View.aspx</PagePath>
+          <ParentID>86</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>146</MenuID>
+        <Text>Utility Payment Request</Text>
+        <Description>Utility Payment Request</Description>
+        <PagePath />
+        <ParentID>50</ParentID>
+        <Menu>
+          <MenuID>148</MenuID>
+          <Text>Utility Payment Request -View</Text>
+          <Description>Utility Payment Request -View</Description>
+          <PagePath>~/Pages/Calculus/BranchUtilityPaymentRequest_View.aspx</PagePath>
+          <ParentID>146</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>87</MenuID>
+        <Text>Cash Voucher Request</Text>
+        <Description>Cash Voucher Request</Description>
+        <PagePath />
+        <ParentID>50</ParentID>
+        <Menu>
+          <MenuID>89</MenuID>
+          <Text>Petty Cash Voucher View</Text>
+          <Description>Petty Cash Voucher View</Description>
+          <PagePath>~/Pages/Calculus/BranchPettyCashVoucherRequest_View.aspx</PagePath>
+          <ParentID>87</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>122</MenuID>
+        <Text>Other Than 
+Petty Cash Request</Text>
+        <Description>Other Than 
+Petty Cash Request</Description>
+        <PagePath>~/Pages/Calculus/OtherThanPettyCash_View.aspx</PagePath>
+        <ParentID>50</ParentID>
+        <Menu>
+          <MenuID>124</MenuID>
+          <Text>Other Than Petty Cash -View</Text>
+          <Description>Other Than Petty Cash -View</Description>
+          <PagePath>~/Pages/Calculus/OtherThanPettyCash_View.aspx</PagePath>
+          <ParentID>122</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>192</MenuID>
+        <Text>Employee Payment Request</Text>
+        <Description>Employee Payment Request</Description>
+        <PagePath />
+        <ParentID>50</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>83</MenuID>
+      <Text>HO Payment Process</Text>
+      <Description>HO Payment Process</Description>
+      <PagePath />
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>62</MenuID>
+        <Text>Authorize Payment Request</Text>
+        <Description>Authorize Payment Request</Description>
+        <PagePath>~/Pages/Calculus/PaymentRequestProcess.aspx</PagePath>
+        <ParentID>83</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>91</MenuID>
+      <Text>Branch Opening Balance</Text>
+      <Description>Branch Opening Balance</Description>
+      <PagePath />
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>61</MenuID>
+        <Text>BranchWise Opening Balance</Text>
+        <Description>BranchWise Opening Balance</Description>
+        <PagePath>~/Pages/Calculus/Set_Opening_Balance.aspx</PagePath>
+        <ParentID>91</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>82</MenuID>
+        <Text>Opening Balance Request</Text>
+        <Description>Opening Balance Request</Description>
+        <PagePath>~/Pages/Calculus/RequestOpeningBalance.aspx</PagePath>
+        <ParentID>91</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>92</MenuID>
+      <Text>Calculus Reports</Text>
+      <Description>Calculus Reports</Description>
+      <PagePath />
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>93</MenuID>
+        <Text>Cheque Request Tracker-Core</Text>
+        <Description>Cheque Request Tracker-Core</Description>
+        <PagePath>~/Pages/Calculus/reports/ChequePayoutReport.aspx?T=1</PagePath>
+        <ParentID>92</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>94</MenuID>
+        <Text>Cheque Request Tracker-Payout</Text>
+        <Description>Cheque Request Tracker-Payout</Description>
+        <PagePath>~/Pages/Calculus/reports/ChequePayoutReport.aspx?T=2</PagePath>
+        <ParentID>92</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>95</MenuID>
+        <Text>Input ServiceTax Report</Text>
+        <Description>Input ServiceTax Report</Description>
+        <PagePath>~/Pages/Calculus/reports/InputServiceTax.aspx</PagePath>
+        <ParentID>92</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>96</MenuID>
+        <Text>TDS Report</Text>
+        <Description>TDS Report</Description>
+        <PagePath>~/Pages/Calculus/reports/TDS_PayReport.aspx</PagePath>
+        <ParentID>92</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>136</MenuID>
+        <Text>Calculus User Defined Reports</Text>
+        <Description>Calculus User Defined Reports</Description>
+        <PagePath>~/Pages/Calculus/Reports/CalculusUserDefinedReports.aspx</PagePath>
+        <ParentID>92</ParentID>
+      </Menu>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>111</MenuID>
+      <Text>Ticket Assignment</Text>
+      <Description>Ticket Assignment</Description>
+      <PagePath>~/Pages/Helpdesk/TicketAssignment.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>171</MenuID>
+      <Text>Reports</Text>
+      <Description>Reports</Description>
+      <PagePath>~/pages/helpdesk/Report.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>112</MenuID>
+    <Text>Cheque Processing System</Text>
+    <Description>Cheque Processing System</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>113</MenuID>
+      <Text>Generate Batch File</Text>
+      <Description>Generate Batch File</Description>
+      <PagePath>~/Pages/ChequeProcessingNEW/GenerateBatchFile.aspx</PagePath>
+      <ParentID>112</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>114</MenuID>
+      <Text>Generate Batch View</Text>
+      <Description>Generate Batch View</Description>
+      <PagePath>~/Pages/ChequeProcessingNEW/GenerateBatchNo_View.aspx</PagePath>
+      <ParentID>112</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>117</MenuID>
+      <Text>Cheque Entry View</Text>
+      <Description>Cheque Entry View</Description>
+      <PagePath>~/Pages/ChequeProcessingNEW/ChequeEntry_View.aspx</PagePath>
+      <ParentID>112</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>118</MenuID>
+      <Text>Validate Cheque Entry</Text>
+      <Description>Validate Cheque Entry</Description>
+      <PagePath>~/Pages/ChequeProcessingNEW/ValidateCheque_Search.aspx</PagePath>
+      <ParentID>112</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>119</MenuID>
+      <Text>Generate MDB File</Text>
+      <Description>Generate MDB File</Description>
+      <PagePath>~/Pages/ChequeProcessingNEW/GenerateMDBFile.aspx</PagePath>
+      <ParentID>112</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>115</MenuID>
+      <Text>Generate Deposit Slip</Text>
+      <Description>Generate Deposit Slip</Description>
+      <PagePath>~/Pages/ChequeProcessingNEW/DS_SearchView.aspx</PagePath>
+      <ParentID>112</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>116</MenuID>
+      <Text>Return/Bounce Cheque Updation</Text>
+      <Description>Return/Bounce Cheque Updation</Description>
+      <PagePath>~/Pages/ChequeProcessingNEW/ReturnChequeEntry.aspx</PagePath>
+      <ParentID>112</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>141</MenuID>
+      <Text>PDC Cheque Updation</Text>
+      <Description>PDC Cheque Updation</Description>
+      <PagePath>~/Pages/ChequeProcessingNEW/PDC_ChequeUpdation.aspx</PagePath>
+      <ParentID>112</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>120</MenuID>
+      <Text>Cheque Processing MIS</Text>
+      <Description>Cheque Processing MIS</Description>
+      <PagePath />
+      <ParentID>112</ParentID>
+      <Menu>
+        <MenuID>121</MenuID>
+        <Text>All SBI MIS</Text>
+        <Description>All SBI MIS</Description>
+        <PagePath>~/Pages/ChequeProcessingNEW/SBIReport.aspx</PagePath>
+        <ParentID>120</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>145</MenuID>
+      <Text>Generate Batch File New</Text>
+      <Description>Generate Batch File New</Description>
+      <PagePath>~/Pages/ChequeProcessingNEW/GenerateBatchFileNew.aspx</PagePath>
+      <ParentID>112</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>144</MenuID>
+      <Text>Modify Cheque Entry</Text>
+      <Description>Modify Cheque Entry</Description>
+      <PagePath>~/Pages/ChequeProcessingNEW/ModifyChequeEntry.aspx</PagePath>
+      <ParentID>112</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>150</MenuID>
+      <Text>ADI FIle Generation</Text>
+      <Description>ADI FIle Generation</Description>
+      <PagePath>~/Pages/ChequeProcessingNEW/ADI_FileGeneration.aspx</PagePath>
+      <ParentID>112</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>152</MenuID>
+    <Text>ATS</Text>
+    <Description>ATS</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>153</MenuID>
+      <Text>Import</Text>
+      <Description>Import</Description>
+      <PagePath>~/Pages/LOSTracker/ImportFile.aspx</PagePath>
+      <ParentID>152</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>162</MenuID>
+      <Text>Master</Text>
+      <Description>Master</Description>
+      <PagePath />
+      <ParentID>152</ParentID>
+      <Menu>
+        <MenuID>163</MenuID>
+        <Text>Client</Text>
+        <Description>Client</Description>
+        <PagePath>~/Pages/LOSTracker/Client.aspx</PagePath>
+        <ParentID>162</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>164</MenuID>
+        <Text>Location Master RPC</Text>
+        <Description>Location Master RPC</Description>
+        <PagePath>~/Pages/LOSTracker/LocationMaster.aspx</PagePath>
+        <ParentID>162</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>165</MenuID>
+        <Text>Staff</Text>
+        <Description>Staff</Description>
+        <PagePath>~/Pages/LOSTracker/RoleMaster.aspx</PagePath>
+        <ParentID>162</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>166</MenuID>
+        <Text>Product</Text>
+        <Description>Product</Description>
+        <PagePath>~/Pages/LOSTracker/Product.aspx</PagePath>
+        <ParentID>162</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>168</MenuID>
+        <Text>Los Edit</Text>
+        <Description>Los Edit</Description>
+        <PagePath>~/Pages/LOSTracker/los_Edit.aspx</PagePath>
+        <ParentID>162</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>170</MenuID>
+        <Text>Credit Manager</Text>
+        <Description>Credit Manager</Description>
+        <PagePath>~/Pages/LOSTracker/credit_manager.aspx</PagePath>
+        <ParentID>162</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>234</MenuID>
+        <Text>Location Master SCANAPPR</Text>
+        <Description>Location Master SCANAPPR</Description>
+        <PagePath>~/Pages/LOSTracker/LocationMaster_Scanappr.aspx</PagePath>
+        <ParentID>162</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>235</MenuID>
+        <Text>Location Master CCPA</Text>
+        <Description>Location Master CCPA</Description>
+        <PagePath>~/Pages/LOSTracker/LocationMaster_CCPA.aspx</PagePath>
+        <ParentID>162</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>236</MenuID>
+        <Text>Location Master WPO</Text>
+        <Description>Location Master WPO</Description>
+        <PagePath>~/Pages/LOSTracker/LocationMaster_WPO.aspx</PagePath>
+        <ParentID>162</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>156</MenuID>
+      <Text>Supervisor</Text>
+      <Description>Supervisor</Description>
+      <PagePath>~/Pages/LOSTracker/SuperAdmin.aspx</PagePath>
+      <ParentID>152</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>157</MenuID>
+      <Text>Case Tracking Page</Text>
+      <Description>Case Tracking Page</Description>
+      <PagePath>~/Pages/LOSTracker/LOS_Search.aspx</PagePath>
+      <ParentID>152</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>158</MenuID>
+      <Text>Que Station</Text>
+      <Description>Que Station</Description>
+      <PagePath />
+      <ParentID>152</ParentID>
+      <Menu>
+        <MenuID>154</MenuID>
+        <Text>Index</Text>
+        <Description>Index</Description>
+        <PagePath>~/Pages/LOSTracker/Indexing.aspx</PagePath>
+        <ParentID>158</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>185</MenuID>
+        <Text>QDE</Text>
+        <Description>QDE</Description>
+        <PagePath>~/Pages/LOSTracker/QDE.aspx</PagePath>
+        <ParentID>158</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>160</MenuID>
+        <Text>CPV</Text>
+        <Description>CPV</Description>
+        <PagePath>~/Pages/LOSTracker/CPV.aspx</PagePath>
+        <ParentID>158</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>155</MenuID>
+        <Text>DDE</Text>
+        <Description>DDE</Description>
+        <PagePath>~/Pages/LOSTracker/DDEEntry.aspx</PagePath>
+        <ParentID>158</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>159</MenuID>
+        <Text>QDE</Text>
+        <Description>QDE</Description>
+        <PagePath>~/Pages/LOSTracker/QDE.aspx</PagePath>
+        <ParentID>158</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>161</MenuID>
+        <Text>TVR</Text>
+        <Description>TVR</Description>
+        <PagePath>~/Pages/LOSTracker/TVR.aspx</PagePath>
+        <ParentID>158</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>183</MenuID>
+      <Text>MDR IMPORT</Text>
+      <Description>MDR IMPORT</Description>
+      <PagePath>~/Pages/LOSTracker/Import_MDR.aspx</PagePath>
+      <ParentID>152</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>184</MenuID>
+      <Text>MDR UPDATE</Text>
+      <Description>MDR UPDATE</Description>
+      <PagePath>~/Pages/LOSTracker/MRD_Update.aspx</PagePath>
+      <ParentID>152</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>167</MenuID>
+      <Text>MIS</Text>
+      <Description>MIS</Description>
+      <PagePath>~/Pages/LOSTracker/MIS.aspx</PagePath>
+      <ParentID>152</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>169</MenuID>
+      <Text>Error Update</Text>
+      <Description>Error Update</Description>
+      <PagePath>~/Pages/LOSTracker/Error_Update.aspx</PagePath>
+      <ParentID>152</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>186</MenuID>
+    <Text>RPC_OP</Text>
+    <Description>RPC_OP</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>187</MenuID>
+      <Text>Import</Text>
+      <Description>Import</Description>
+      <PagePath>~/Pages/RPC_OP/ImportFile.aspx</PagePath>
+      <ParentID>186</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>188</MenuID>
+      <Text>Indexing</Text>
+      <Description>Indexing</Description>
+      <PagePath>~/Pages/RPC_OP/Indexing.aspx</PagePath>
+      <ParentID>186</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>190</MenuID>
+      <Text>Supervisor</Text>
+      <Description>Supervisor</Description>
+      <PagePath>~/Pages/RPC_OP/supervisor.aspx</PagePath>
+      <ParentID>186</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>196</MenuID>
+      <Text>DID UPDATE</Text>
+      <Description>DID UPDATE</Description>
+      <PagePath>~/Pages/RPC_OP/did_edit.aspx</PagePath>
+      <ParentID>186</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>207</MenuID>
+      <Text>Location Master</Text>
+      <Description>Location Master</Description>
+      <PagePath>~/Pages/RPC_OP/LocationMaster.aspx</PagePath>
+      <ParentID>186</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>213</MenuID>
+      <Text>MIS</Text>
+      <Description>MIS</Description>
+      <PagePath>~/pages/RPC_OP/MIS.aspx</PagePath>
+      <ParentID>186</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>197</MenuID>
+    <Text>ICICI BLG</Text>
+    <Description>ICICI BLG</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>202</MenuID>
+      <Text>File Movement</Text>
+      <Description>File Movement</Description>
+      <PagePath>~/Pages/ICICIBank-BLGActivityMIS/MoveToLocation.aspx</PagePath>
+      <ParentID>197</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>203</MenuID>
+      <Text>File Status-Search</Text>
+      <Description>File Status-Search</Description>
+      <PagePath>~/Pages/ICICIBank-BLGActivityMIS/File_Status_Search.aspx</PagePath>
+      <ParentID>197</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>206</MenuID>
+      <Text>Client MIS</Text>
+      <Description>Client MIS</Description>
+      <PagePath>~/Pages/ICICIBank-BLGActivityMIS/MIS.aspx</PagePath>
+      <ParentID>197</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>217</MenuID>
+    <Text>FTS</Text>
+    <Description>FTS</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>218</MenuID>
+      <Text>Import Data</Text>
+      <Description>Import Data</Description>
+      <PagePath />
+      <ParentID>217</ParentID>
+      <Menu>
+        <MenuID>219</MenuID>
+        <Text>Import File</Text>
+        <Description>Import File</Description>
+        <PagePath>~/Pages/PFT/importfile.aspx</PagePath>
+        <ParentID>218</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>220</MenuID>
+        <Text>Mannual Entry</Text>
+        <Description>Mannual Entry</Description>
+        <PagePath>~/Pages/PFT/dataentry_page.aspx</PagePath>
+        <ParentID>218</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>221</MenuID>
+      <Text>Screening</Text>
+      <Description>Screening</Description>
+      <PagePath>~/Pages/PFT/Search.aspx</PagePath>
+      <ParentID>217</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>222</MenuID>
+      <Text>Eligbility Check</Text>
+      <Description>Eligbility Check</Description>
+      <PagePath />
+      <ParentID>217</ParentID>
+      <Menu>
+        <MenuID>223</MenuID>
+        <Text>CAM Document</Text>
+        <Description>CAM Document</Description>
+        <PagePath>~/Pages/PFT/bank_analysis.aspx</PagePath>
+        <ParentID>222</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>224</MenuID>
+        <Text>BANK CALCULATION</Text>
+        <Description>BANK CALCULATION</Description>
+        <PagePath>~/Pages/PFT/bank_calculation.aspx</PagePath>
+        <ParentID>222</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>225</MenuID>
+      <Text>DDE</Text>
+      <Description>DDE</Description>
+      <PagePath>~/Pages/PFT/DDE_stage.aspx</PagePath>
+      <ParentID>217</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>226</MenuID>
+      <Text>CPV</Text>
+      <Description>CPV</Description>
+      <PagePath>~/Pages/PFT/CPV.aspx</PagePath>
+      <ParentID>217</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>227</MenuID>
+      <Text>Send To BANK</Text>
+      <Description>Send To BANK</Description>
+      <PagePath>~/Pages/PFT/SendToCredit.aspx</PagePath>
+      <ParentID>217</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>228</MenuID>
+      <Text>File Status</Text>
+      <Description>File Status</Description>
+      <PagePath>~/Pages/PFT/recepivedfrm_bank.aspx</PagePath>
+      <ParentID>217</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>229</MenuID>
+      <Text>OPS Login</Text>
+      <Description>OPS Login</Description>
+      <PagePath>~/Pages/PFT/ops_login.aspx</PagePath>
+      <ParentID>217</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>230</MenuID>
+      <Text>Mannual Audit</Text>
+      <Description>Mannual Audit</Description>
+      <PagePath>~/Pages/PFT/maudit.aspx</PagePath>
+      <ParentID>217</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>231</MenuID>
+      <Text>DID</Text>
+      <Description>DID</Description>
+      <PagePath>~/Pages/PFT/ops_dde.aspx</PagePath>
+      <ParentID>217</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>232</MenuID>
+      <Text>Send To Bank</Text>
+      <Description>Send To Bank</Description>
+      <PagePath>~/Pages/PFT/ops_sendtobank.aspx</PagePath>
+      <ParentID>217</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>233</MenuID>
+      <Text>Search Page</Text>
+      <Description>Search Page</Description>
+      <PagePath>~/Pages/PFT/mis.aspx</PagePath>
+      <ParentID>217</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

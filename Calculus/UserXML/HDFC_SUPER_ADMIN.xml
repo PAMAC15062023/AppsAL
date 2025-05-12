@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>773</MenuID>
+    <Text>HDFC TRACKING</Text>
+    <Description>HDFC TRACKING</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>774</MenuID>
+      <Text>Upload Data</Text>
+      <Description>Upload Data</Description>
+      <PagePath>~/Pages/Calculus/HDFC/HDFCTM_UploadData.aspx</PagePath>
+      <ParentID>773</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>776</MenuID>
+      <Text>Admin Dashboard</Text>
+      <Description>Admin Dashboard</Description>
+      <PagePath>~/Pages/Calculus/HDFC/HDFCTM_SuperAdminDashboard.aspx</PagePath>
+      <ParentID>773</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>777</MenuID>
+      <Text>MIS</Text>
+      <Description>MIS</Description>
+      <PagePath>~/Pages/Calculus/HDFC/HDFCTM_SuperAdminMIS_outfile.aspx</PagePath>
+      <ParentID>773</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>778</MenuID>
+      <Text>Reason Master</Text>
+      <Description>Reason Master</Description>
+      <PagePath>~/Pages/Calculus/HDFC/HDFCTM_ReasonMaster.aspx</PagePath>
+      <ParentID>773</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

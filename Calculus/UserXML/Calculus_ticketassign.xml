@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>49</MenuID>
+    <Text>Calculus Online Transactional</Text>
+    <Description>Calculus Online Transactional</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>50</MenuID>
+      <Text>Branch Payment Request</Text>
+      <Description>Branch Payment Request</Description>
+      <PagePath>~/Pages/Calculus/BranchPaymentRequest.aspx</PagePath>
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>192</MenuID>
+        <Text>Employee Payment Request</Text>
+        <Description>Employee Payment Request</Description>
+        <PagePath />
+        <ParentID>50</ParentID>
+        <Menu>
+          <MenuID>193</MenuID>
+          <Text>EPM Request -ADD</Text>
+          <Description>EPM Request -ADD</Description>
+          <PagePath>~/Pages/Calculus/EPMAddRequest.aspx</PagePath>
+          <ParentID>192</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>194</MenuID>
+          <Text>EPM Request- View</Text>
+          <Description>EPM Request- View</Description>
+          <PagePath>~/Pages/Calculus/EPMViewRequest.aspx</PagePath>
+          <ParentID>192</ParentID>
+        </Menu>
+      </Menu>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

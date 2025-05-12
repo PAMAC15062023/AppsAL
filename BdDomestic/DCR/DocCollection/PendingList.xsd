@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="PendingList" targetNamespace="http://tempuri.org/PendingList.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/PendingList.xsd" xmlns:mstns="http://tempuri.org/PendingList.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="PENDINGLIST">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="REF_NO" type="xs:string" />
+        <xs:element name="FV_REQUIRED" type="xs:string" />
+        <xs:element name="RECD_DATE" type="xs:string" />
+        <xs:element name="FIRST_NAME" type="xs:string" />
+        <xs:element name="LAST_NAME" type="xs:string" />
+        <xs:element name="RES_CITY" type="xs:string" />
+        <xs:element name="COMPANYNAME" type="xs:string" />
+        <xs:element name="FROMDATE" type="xs:string" />
+        <xs:element name="TODATE" type="xs:string" />
+        <xs:element name="SR_NO" type="xs:string" />
+        <xs:element name="Residence_x0020_Address" type="xs:string" />
+        <xs:element name="Office_x0020_Address" type="xs:string" />
+        <xs:element name="Name" type="xs:string" />
+        <xs:element name="OFF_NAME" type="xs:string" />
+        <xs:element name="CASE_ID" type="xs:string" />
+        <xs:element name="RV-FEName" type="xs:string" />
+        <xs:element name="BV-FEName" type="xs:string" />
+        <xs:element name="PRV-FEName" type="xs:string" />
+        <xs:element name="BV_TEL" type="xs:string" />
+        <xs:element name="RV_TEL" type="xs:string" />
+        <xs:element name="MOBILE" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>379</MenuID>
+    <Text>KPML</Text>
+    <Description>KPML</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>381</MenuID>
+      <Text>Prospect Entry</Text>
+      <Description>Prospect Entry</Description>
+      <PagePath />
+      <ParentID>379</ParentID>
+      <Menu>
+        <MenuID>450</MenuID>
+        <Text>Dealer Agency Report</Text>
+        <Description>Dealer Agency Report</Description>
+        <PagePath>~/Pages/KMPL/exportExcelCPV.aspx</PagePath>
+        <ParentID>381</ParentID>
+      </Menu>
+    </Menu>
+  </Menu>
+</Menus>

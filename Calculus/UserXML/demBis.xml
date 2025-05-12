@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>579</MenuID>
+    <Text>Menu</Text>
+    <Description>Menu</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>602</MenuID>
+      <Text>Dashboard</Text>
+      <Description>Dashboard</Description>
+      <PagePath>~/Pages/Inword Tracking Module/DashBoard.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

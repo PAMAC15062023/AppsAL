@@ -1,0 +1,87 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile=""AutoEventWireup  ="true" CodeFile="CPRT_GereratorPrintFile.aspx.cs" Inherits="CPRT_GereratorPrintFile" %>
+
+<asp:Content ID="Content" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+   <script>
+    function printpage() {
+        //Get the print button and put it into a variable
+        var printButton = document.getElementById("printpagebutton");
+        //var printButton1 = document.getElementById("PrintConfirm");
+
+        //Set the print button visibility to 'hidden' 
+/*        printButton1.style.visibility = 'hidden';*/
+        printButton.style.visibility = 'hidden';
+   
+        //Print the page content
+ 
+        window.print();
+      
+        printButton.style.visibility = 'hidden';
+       // btnView.visibility='visible'
+      
+       }
+   </script>
+ 
+    <style type="text/css" media="print">
+        @page {
+            size: auto;   /* auto is the initial value */
+            margin: 0;  /* this affects the margin in the printer settings */
+            }
+</style>
+    <style>
+        @media print {
+            .noprint {
+                display: none !important;
+                 margin:0;
+            }
+           
+        }
+    </style>
+  
+     <tr>
+            <td colspan="5">
+                <asp:Label ID="lblMessage" runat="server" CssClass="ErrorMessage" class="noprint"></asp:Label>&nbsp;
+             </td>
+     </tr>
+
+
+
+    <div id="options">
+        <br />
+         <br /> <br /> <br />
+             <asp:Label ID="Label4" runat="server"  Text="NON PRINTABLE INFORMATION" class="noprint" ></asp:Label>&nbsp;
+        <br /> <br />
+            <asp:Label ID="Label1" runat="server"  Text="Bank Name" class="noprint" ></asp:Label>&nbsp;
+          <asp:Label ID="lblBank" runat="server"  class="noprint" ></asp:Label>&nbsp;
+        <br />
+         <asp:Label ID="Label2" runat="server"  Text="Branch Name" class="noprint" ></asp:Label>&nbsp;
+         <asp:Label ID="lblBranch" runat="server"  class="noprint" ></asp:Label>&nbsp;
+        <br />
+         <asp:Label ID="Label3" runat="server"  Text="Cheque Number" class="noprint" ></asp:Label>&nbsp;
+         <asp:Label ID="lblChqno" runat="server"  class="noprint" ></asp:Label>&nbsp;
+
+         <br /> <br /> <br /> <br /> <br />  
+        <input id="printpagebutton" type="button" value="Print" onclick="printpage()"/>
+            <asp:Button ID="Button1" runat="server" BorderWidth="1px" Text="Confirm Print" Width="152px" class="noprint" OnClick="btnView_Click"  Visible="true" />
+             <asp:Button ID="Button2" runat="server" BorderWidth="1px" Text="Cancel" Width="152px" class="noprint" OnClick="btnCancel_Click"  Visible="true" />
+
+<%--    <table border="0" cellpadding="2" cellspacing="2">
+            <tr>
+                <td style="height: 31px;" class="TableTitle" colspan="7">&nbsp;
+                    
+                    <asp:Button ID="btnView" runat="server" BorderWidth="1px" Text="Confirm Print" Width="152px" class="noprint" OnClick="btnView_Click"  Visible="true" />
+                </td>
+            </tr>      
+        
+    </table>--%>
+           </div>
+
+      <tr>
+            <td colspan="5">
+                <asp:HiddenField ID="hdnID" runat="server" Value="0" />
+                <asp:HiddenField ID="hdnCo" runat="server" Value="0" />
+                <asp:HiddenField ID="hdnBank" runat="server" Value="0" />
+                 <asp:HiddenField ID="hdnBranch" runat="server" Value="0" />
+                <asp:HiddenField ID="hdncheNo" runat="server" Value="0" />
+            </td>
+        </tr>
+</asp:Content>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="EBC_ClaimMISReport" targetNamespace="http://tempuri.org/EBC_ClaimMISReport.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/EBC_ClaimMISReport.xsd" xmlns:mstns="http://tempuri.org/EBC_ClaimMISReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="CLAIMMIS">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Received_x0020_Date" type="xs:string" />
+        <xs:element name="CASE_x0020_ID" type="xs:string" />
+        <xs:element name="BANK_REF_NO" type="xs:string" />
+        <xs:element name="Applicant_x0020_Name" type="xs:string" />
+        <xs:element name="Send_x0020_Date" type="xs:string" />
+        <xs:element name="VARIFICATION_x0020_TYPE_x0020_CODE" type="xs:string" />
+        <xs:element name="STATUS_x0020_NAME" type="xs:string" />
+        <xs:element name="FromDate" type="xs:string" />
+        <xs:element name="Todate" type="xs:string" />
+        <xs:element name="CompanyName" type="xs:string" />
+        <xs:element name="CLIENTNAME" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

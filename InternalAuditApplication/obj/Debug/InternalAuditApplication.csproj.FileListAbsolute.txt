@@ -1,0 +1,417 @@
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\obj\Debug\InternalAuditApplication.csproj.CoreCompileInputs.cache
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\InternalAuditApplication.dll.config
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\InternalAuditApplication.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\InternalAuditApplication.pdb
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\csc.exe
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\csc.exe.config
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\csc.rsp
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\csi.exe
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\csi.exe.config
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\csi.rsp
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.AppContext.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Console.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Globalization.Calendars.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.IO.Compression.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Net.Http.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Net.Sockets.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.ValueTuple.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Xml.XPath.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\vbc.exe
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\vbc.exe.config
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\vbc.rsp
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\VBCSCompiler.exe
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\obj\Debug\InternalAuditApplication.csproj.CopyComplete
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\obj\Debug\InternalAuditApplication.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\obj\Debug\InternalAuditApplication.pdb
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\ExcelDataReader.DataSet.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\ExcelDataReader.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\System.IO.Compression.dll
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\ExcelDataReader.pdb
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\ExcelDataReader.xml
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\ExcelDataReader.DataSet.pdb
+D:\SUHANI\Projects\ISMSTrackingModule\InternalAuditApplication\bin\ExcelDataReader.DataSet.xml
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\InternalAuditApplication.dll.config
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\InternalAuditApplication.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\InternalAuditApplication.pdb
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\csc.exe
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\csc.exe.config
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\csc.rsp
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\csi.exe
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\csi.exe.config
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\csi.rsp
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.AppContext.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Console.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Net.Http.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\vbc.exe
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\vbc.exe.config
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\vbc.rsp
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\ExcelDataReader.DataSet.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\ExcelDataReader.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\System.IO.Compression.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\ExcelDataReader.pdb
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\ExcelDataReader.xml
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\ExcelDataReader.DataSet.pdb
+C:\Users\PAMAC\Desktop\InternalAuditApplication\bin\ExcelDataReader.DataSet.xml
+C:\Users\PAMAC\Desktop\InternalAuditApplication\obj\Debug\InternalAuditApplication.csproj.CoreCompileInputs.cache
+C:\Users\PAMAC\Desktop\InternalAuditApplication\obj\Debug\InternalAuditApplication.csproj.CopyComplete
+C:\Users\PAMAC\Desktop\InternalAuditApplication\obj\Debug\InternalAuditApplication.dll
+C:\Users\PAMAC\Desktop\InternalAuditApplication\obj\Debug\InternalAuditApplication.pdb
+D:\UAT_Applications\InternalAuditApplication\bin\InternalAuditApplication.dll.config
+D:\UAT_Applications\InternalAuditApplication\bin\InternalAuditApplication.dll
+D:\UAT_Applications\InternalAuditApplication\bin\InternalAuditApplication.pdb
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\csc.exe
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\csc.exe.config
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\csc.rsp
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\csi.exe
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\csi.exe.config
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\csi.rsp
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.AppContext.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Console.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Globalization.Calendars.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Net.Http.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Net.Sockets.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.ValueTuple.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Xml.XPath.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\vbc.exe
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\vbc.exe.config
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\vbc.rsp
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\VBCSCompiler.exe
+D:\UAT_Applications\InternalAuditApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\UAT_Applications\InternalAuditApplication\bin\System.IO.Compression.dll
+D:\UAT_Applications\InternalAuditApplication\obj\Debug\InternalAuditApplication.csproj.CoreCompileInputs.cache
+D:\UAT_Applications\InternalAuditApplication\obj\Debug\InternalAuditApplication.csproj.CopyComplete
+D:\UAT_Applications\InternalAuditApplication\obj\Debug\InternalAuditApplication.dll
+D:\UAT_Applications\InternalAuditApplication\obj\Debug\InternalAuditApplication.pdb
+C:\Users\admin\Desktop\InternalAuditApplication\bin\InternalAuditApplication.dll.config
+C:\Users\admin\Desktop\InternalAuditApplication\bin\InternalAuditApplication.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\InternalAuditApplication.pdb
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\InternalAuditApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\InternalAuditApplication\bin\ExcelDataReader.DataSet.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\ExcelDataReader.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\System.IO.Compression.dll
+C:\Users\admin\Desktop\InternalAuditApplication\bin\ExcelDataReader.pdb
+C:\Users\admin\Desktop\InternalAuditApplication\bin\ExcelDataReader.xml
+C:\Users\admin\Desktop\InternalAuditApplication\bin\ExcelDataReader.DataSet.pdb
+C:\Users\admin\Desktop\InternalAuditApplication\bin\ExcelDataReader.DataSet.xml
+C:\Users\admin\Desktop\InternalAuditApplication\obj\Debug\InternalAuditApplication.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\InternalAuditApplication\obj\Debug\InternalAuditApplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\InternalAuditApplication\obj\Debug\InternalAuditApplication.csproj.CopyComplete
+C:\Users\admin\Desktop\InternalAuditApplication\obj\Debug\InternalAuditApplication.dll
+C:\Users\admin\Desktop\InternalAuditApplication\obj\Debug\InternalAuditApplication.pdb
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\obj\Debug\InternalAuditApplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\obj\Debug\InternalAuditApplication.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\obj\Debug\InternalAuditApplication.pdb
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\InternalAuditApplication.dll.config
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\InternalAuditApplication.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\InternalAuditApplication.pdb
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\bin\System.IO.Compression.dll
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\obj\Debug\InternalAuditApplication.csproj.CopyComplete
+C:\Users\admin\Desktop\New folder\InternalAuditApplication\obj\Debug\InternalAuditApplication.csproj.AssemblyReference.cache
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\InternalAuditApplication.dll.config
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\InternalAuditApplication.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\InternalAuditApplication.pdb
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\csc.exe
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\csc.exe.config
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\csc.rsp
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\csi.exe
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\csi.exe.config
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\csi.rsp
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.AppContext.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Console.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Globalization.Calendars.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Net.Http.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Net.Sockets.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.ValueTuple.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Xml.XPath.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\vbc.exe
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\vbc.exe.config
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\vbc.rsp
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\VBCSCompiler.exe
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\bin\System.IO.Compression.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\obj\Debug\InternalAuditApplication.csproj.AssemblyReference.cache
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\obj\Debug\InternalAuditApplication.csproj.CoreCompileInputs.cache
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\obj\Debug\InternalAuditApplication.csproj.CopyComplete
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\obj\Debug\InternalAuditApplication.dll
+D:\SUHANI\Projects\InternalAuditApplication\InternalAuditApplication\obj\Debug\InternalAuditApplication.pdb
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\InternalAuditApplication.dll.config
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\InternalAuditApplication.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\InternalAuditApplication.pdb
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\bin\System.IO.Compression.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\obj\Debug\InternalAuditApplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\obj\Debug\InternalAuditApplication.csproj.CopyComplete
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\obj\Debug\InternalAuditApplication.dll
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\obj\Debug\InternalAuditApplication.pdb
+C:\Users\admin\Desktop\IA_Suhani_07_03_2025\InternalAuditApplication\obj\Debug\InternalAuditApplication.csproj.AssemblyReference.cache

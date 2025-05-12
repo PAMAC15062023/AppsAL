@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>1</MenuID>
+    <Text>Common Master</Text>
+    <Description>Common Master</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>126</MenuID>
+      <Text>Change Password</Text>
+      <Description>Change Password</Description>
+      <PagePath>~/Pages/Change_Password.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>172</MenuID>
+    <Text>JFS</Text>
+    <Description>JFS</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>173</MenuID>
+      <Text>Import</Text>
+      <Description>Import</Description>
+      <PagePath>~/Pages/JFS/ImportFile.aspx</PagePath>
+      <ParentID>172</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>174</MenuID>
+      <Text>Import Updated Status</Text>
+      <Description>Import Updated Status</Description>
+      <PagePath>~/Pages/JFS/Import_statusUpdate.aspx</PagePath>
+      <ParentID>172</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>176</MenuID>
+      <Text>Receipt For DDE</Text>
+      <Description>Receipt For DDE</Description>
+      <PagePath>~/Pages/JFS/Receipt_for_DDE.aspx</PagePath>
+      <ParentID>172</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

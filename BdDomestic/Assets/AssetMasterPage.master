@@ -1,0 +1,56 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="AssetMasterPage.master.cs" Inherits="Assets_AssetMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>PAMAC Online</title>
+    <link href="../StyleSheet.css" rel="Stylesheet" type="text/css" />
+    <script language="javascript" type="text/javascript" src="popcalendar.js"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <atlas:ScriptManager id="ScriptManager1" runat="server" EnablePartialRendering="True">
+    </atlas:ScriptManager> 
+    <div>
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr><td>
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr bgcolor="#4EB9ED"><td bgcolor="#4EB9ED">
+    <asp:Menu ID="Menu1" runat="server" BackColor="#4EB9ED" DynamicHorizontalOffset="2"
+    Font-Names="Arial" Font-Size="10pt" ForeColor="White" Orientation="Horizontal"
+            StaticSubMenuIndent="10px" Font-Bold="True">
+            <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+            <DynamicHoverStyle BackColor="#0093DD" ForeColor="White" />
+            <DynamicMenuStyle BackColor="#4EB9ED" />
+            <StaticSelectedStyle BackColor="#C4C1C1" />
+            <DynamicSelectedStyle BackColor="#0093DD" />
+            <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+   <Items>
+   <asp:MenuItem Text="Assets"  Value="Assets">
+   
+   <asp:MenuItem Text="Import" Value="Import" NavigateUrl="~/Assets/Import.aspx"></asp:MenuItem>
+   <asp:MenuItem Text="Export" Value="Export" NavigateUrl="~/Assets/Export.aspx"></asp:MenuItem>
+   <asp:MenuItem Text="Asset Type Master" Value="Asset Type Master" NavigateUrl="~/Assets/AssetType.aspx"></asp:MenuItem>
+   <asp:MenuItem Text="Asset Desc Master" Value="Asset Desc Master" NavigateUrl="~/Assets/AssetDescription.aspx"></asp:MenuItem>
+   <asp:MenuItem Text="Generate Barcode" Value="Genarate Barcode" NavigateUrl="~/Assets/GenerateBarcode.aspx"></asp:MenuItem>
+   <asp:MenuItem Text="Search Asset" Value="Search Asset" NavigateUrl="~/Assets/AssetSearch.aspx"></asp:MenuItem>
+   <asp:MenuItem Text="Barcode Breakup" Value="Barcode Breakup" NavigateUrl="~/Assets/BarcodeBreakup.aspx"></asp:MenuItem>
+  <asp:MenuItem Text="Asset MIS" Value="Asset MIS" NavigateUrl="~/Assets/AssetMis.aspx"></asp:MenuItem>
+   </asp:MenuItem>
+   
+   </Items>
+   <StaticHoverStyle BackColor="#0093DD" ForeColor="White" />
+   </asp:Menu>
+    </td></tr>
+    </table>
+    </td></tr>
+    <tr><td>
+    <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        </asp:contentplaceholder></td></tr>
+</table>
+        
+    </div>
+    </form>
+</body>
+</html>

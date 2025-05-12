@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BdDomestic", ".", "{9A0B078B-37A9-4C91-B1DC-9EBD0793E215}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/Application"
+		Debug.AspNetCompiler.PhysicalPath = "..\BdDomestic\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Application\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Application"
+		Release.AspNetCompiler.PhysicalPath = "..\BdDomestic\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Application\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3896"
+		SlnRelativePath = "..\BdDomestic\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A0B078B-37A9-4C91-B1DC-9EBD0793E215}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{9A0B078B-37A9-4C91-B1DC-9EBD0793E215}.Debug|.NET.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B64FAF4-AC80-4DC0-82E8-E6E59206003C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>496</MenuID>
+    <Text>IndusInd PL-POST</Text>
+    <Description>IndusInd PL-POST</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>498</MenuID>
+      <Text>D1 stage PL-POST</Text>
+      <Description>D1 stage PL-POST</Description>
+      <PagePath>~/Pages/postindus/PostProcess.aspx</PagePath>
+      <ParentID>496</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

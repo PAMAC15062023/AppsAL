@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>297</MenuID>
+    <Text>ICICI RPC</Text>
+    <Description>ICICI RPC</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>300</MenuID>
+      <Text>BDE</Text>
+      <Description>BDE</Description>
+      <PagePath>~/Pages/ICICIRPC/BDE.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>301</MenuID>
+      <Text>CAM</Text>
+      <Description>CAM</Description>
+      <PagePath>~/Pages/ICICIRPC/CAM.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>302</MenuID>
+      <Text>CPV</Text>
+      <Description>CPV</Description>
+      <PagePath>~/Pages/ICICIRPC/CPV.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

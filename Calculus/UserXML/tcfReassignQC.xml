@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>661</MenuID>
+    <Text>TCFSL CD Loans</Text>
+    <Description>TCFSL CD Loans</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>679</MenuID>
+      <Text>Screening</Text>
+      <Description>Screening</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/Screening_QC.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>664</MenuID>
+      <Text>TCFSL Maker</Text>
+      <Description>TCFSL Maker</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/Maker.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>665</MenuID>
+      <Text>TCFSL Author</Text>
+      <Description>TCFSL Author</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/Author.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>689</MenuID>
+      <Text>QC Res</Text>
+      <Description>QC Res</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/QCTracker.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

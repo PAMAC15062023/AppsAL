@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>364</MenuID>
+    <Text>WFM</Text>
+    <Description>WFM</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>365</MenuID>
+      <Text>Import Page</Text>
+      <Description>Import Page</Description>
+      <PagePath>~/Pages/WFM/Import.aspx</PagePath>
+      <ParentID>364</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>367</MenuID>
+      <Text>Process Station</Text>
+      <Description>Process Station</Description>
+      <PagePath />
+      <ParentID>364</ParentID>
+      <Menu>
+        <MenuID>368</MenuID>
+        <Text>Screening/Login Page</Text>
+        <Description>Screening/Login Page</Description>
+        <PagePath>~/Pages/WFM/login.aspx</PagePath>
+        <ParentID>367</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>369</MenuID>
+        <Text>TVR Page</Text>
+        <Description>TVR Page</Description>
+        <PagePath>~/Pages/WFM/TVR_wfm.aspx</PagePath>
+        <ParentID>367</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>374</MenuID>
+        <Text>BRE</Text>
+        <Description>BRE</Description>
+        <PagePath>~/Pages/WFM/BRE.aspx</PagePath>
+        <ParentID>367</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>370</MenuID>
+        <Text>Mitigant/Deviation</Text>
+        <Description>Mitigant/Deviation</Description>
+        <PagePath>~/Pages/WFM/devition.aspx</PagePath>
+        <ParentID>367</ParentID>
+      </Menu>
+    </Menu>
+  </Menu>
+</Menus>

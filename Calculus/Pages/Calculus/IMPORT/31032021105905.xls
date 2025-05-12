@@ -1,0 +1,1423 @@
+<style> TD { mso-number-format:\@; } </style> <table border="0">
+	<tr style="height:20px;">
+		<td> </td>
+	</tr><tr>
+		<td class="SuccessMessage" colspan="20"><b> <span style='background-color:Gray'> <font size='4'>PAMAC FINSERVE PVT. LTD.,HO Transfer Details </font></span></b> <br/></td>
+	</tr>
+</table><table id="ctl00_ContentPlaceHolder1_tbExport" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td>
+                                    <div>
+			<table cellspacing="0" rules="all" border="1" id="ctl00_ContentPlaceHolder1_gvExportReport" style="height:100px;width:22%;border-collapse:collapse;">
+				<tr>
+					<th scope="col">Month</th><th scope="col">Year</th><th scope="col">Branch</th><th scope="col">HO_Amount</th><th scope="col">Date_OfTrnsfr</th><th scope="col">OTP_Amount</th><th scope="col">OTP_Date_Trnsfr</th>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2018</td><td>AHMEDABAD</td><td>14677.00</td><td>12/12/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2018</td><td>AURANGABAD</td><td>3000.00</td><td>07/4/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2018</td><td>BANGLORE</td><td>3000.00</td><td>10/4/2018</td><td>3523.00</td><td>24/4/2018</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2018</td><td>BARODA</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2018</td><td>BHOPAL</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2018</td><td>BVU Wadala</td><td>8000.00</td><td>10/4/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2018</td><td>CHANDIGARH</td><td>2500.00</td><td>10/4/2018</td><td>9217.00</td><td>10/4/2018</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2018</td><td>CHENNAI</td><td>4000.00</td><td>12/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2018</td><td>COCHIN</td><td>569.00</td><td>10/4/2018</td><td>2633.00</td><td>4/26/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2018</td><td>COIMBATORE</td><td>4000.00</td><td>10/4/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2018</td><td>DELHI</td><td>22500.00</td><td>4/10/2018 </td><td>42510.00</td><td>4/26/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2018</td><td>GOA</td><td>1700.00</td><td>10/4/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2018</td><td>HUBLI</td><td>1000.00</td><td>10/4/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2018</td><td>HYDERABAD</td><td>2900.00</td><td>4/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2018</td><td>INDORE</td><td>5000.00</td><td>10/4/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2018</td><td>JAIPUR</td><td>5500.00</td><td>10/4/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2018</td><td>JALANDHAR</td><td>1000.00</td><td>10/4/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2018</td><td>KANPUR</td><td>1500.00</td><td>10/4/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2018</td><td>KOLHAPUR</td><td>5400.00</td><td>10/4/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2018</td><td>KOLKATTA</td><td>5500.00</td><td>10/4/2018</td><td>8550.00</td><td>10/4/2018</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2018</td><td>LUCKNOW</td><td>2800.00</td><td>10/4/2018</td><td>10216.00</td><td>10/4/2018</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2018</td><td>LUDHIANA</td><td>500.00</td><td>10/4/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2018</td><td>MEERUT</td><td>1000.00</td><td>10/4/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2018</td><td>MUMBAI</td><td>5000.00</td><td>1/4/2018 1</td><td>2000.00</td><td>2/4/2018 1</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2018</td><td>Mumbai Admin</td><td>21000.00</td><td>7/4/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2018</td><td>Mumbai CPA</td><td>15500.00</td><td>07/4/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2018</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2018</td><td>NAGPUR</td><td>2000.00</td><td>10/4/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2018</td><td>NASIK</td><td>3400.00</td><td>10/4/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2018</td><td>PUNE</td><td>5000.00</td><td>10/4/2018</td><td>12313.00</td><td>24/4/2018</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2018</td><td>RAJKOT</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2018</td><td>SURAT</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2018</td><td>VIZAG</td><td>3750.00</td><td>10/4/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2018</td><td>AHMEDABAD</td><td>8000.00</td><td>09/5/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2018</td><td>AURANGABAD</td><td>3000.00</td><td>9/5/2018 1</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2018</td><td>BANGLORE</td><td>3000.00</td><td>5/9/2018 1</td><td>5510.00</td><td>5/9/2018 1</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2018</td><td>BVU Wadala</td><td>8000.00</td><td>05/07/2018</td><td>23870.00</td><td>05/07/2018</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2018</td><td>CHANDIGARH</td><td>2500.00</td><td>05/09/2018</td><td>5480.00</td><td>16/5/2018</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2018</td><td>CHENNAI</td><td>4000.00</td><td>05/09/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2018</td><td>COCHIN</td><td>1000.00</td><td>05/09/2018</td><td>1633.00</td><td>05/09/2018</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2018</td><td>COIMBATORE</td><td>4000.00</td><td>05/09/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2018</td><td>DELHI</td><td>22500.00</td><td>5/9/2018 1</td><td>52830.00</td><td>5/31/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2018</td><td>GOA</td><td>1700.00</td><td>5/9/2018 1</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2018</td><td>HUBLI</td><td>1000.00</td><td>5/9/2018 1</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2018</td><td>HYDERABAD</td><td>2900.00</td><td>5/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2018</td><td>INDORE</td><td>5000.00</td><td>5/9/2018 1</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2018</td><td>JAIPUR</td><td>5500.00</td><td>5/14/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2018</td><td>JALANDHAR</td><td>1000.00</td><td>5/13/2018 </td><td>8000.00</td><td>5/13/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2018</td><td>KANPUR</td><td>1500.00</td><td>5/13/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2018</td><td>KOLHAPUR</td><td>1700.00</td><td>5/9/2018 1</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2018</td><td>KOLKATTA</td><td>1500.00</td><td>5/11/2018 </td><td>5200.00</td><td>5/11/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2018</td><td>LUCKNOW</td><td>2800.00</td><td>5/9/2018 1</td><td>2870.00</td><td>5/9/2018 1</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2018</td><td>LUDHIANA</td><td>500.00</td><td>5/9/2018 1</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2018</td><td>MEERUT</td><td>1000.00</td><td>5/9/2018 1</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2018</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2018</td><td>Mumbai Admin</td><td>21000.00</td><td>07/5/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2018</td><td>Mumbai CPA</td><td>15500.00</td><td>07/5/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2018</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2018</td><td>NAGPUR</td><td>2000.00</td><td>5/9/2018 1</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2018</td><td>NASIK</td><td>3400.00</td><td>5/9/2018 1</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2018</td><td>PUNE</td><td>5000.00</td><td>5/9/2018 1</td><td>16908.00</td><td>5/16/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2018</td><td>VIZAG</td><td>3750.00</td><td>5/9/2018 1</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2018</td><td>AHMEDABAD</td><td>8000.00</td><td>6/11/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2018</td><td>AURANGABAD</td><td>3000.00</td><td>6/11/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2018</td><td>BANGLORE</td><td>3000.00</td><td>6/11/2018 </td><td>700.00</td><td>7/12/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2018</td><td>BVU Wadala</td><td>8000.00</td><td>6/11/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2018</td><td>CHANDIGARH</td><td>2500.00</td><td>6/11/2018 </td><td>4278.00</td><td>6/15/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2018</td><td>CHENNAI</td><td>4000.00</td><td>6/11/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2018</td><td>COCHIN</td><td>1000.00</td><td>6/11/2018 </td><td>497.00</td><td>6/11/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2018</td><td>COIMBATORE</td><td>4000.00</td><td>6/11/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2018</td><td>DELHI</td><td>22500.00</td><td>6/11/2018 </td><td>62282.00</td><td>6/15/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2018</td><td>GOA</td><td>1700.00</td><td>6/11/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2018</td><td>HUBLI</td><td>1000.00</td><td>6/11/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2018</td><td>HYDERABAD</td><td>2900.00</td><td>6/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2018</td><td>INDORE</td><td>5000.00</td><td>6/11/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2018</td><td>JAIPUR</td><td>5500.00</td><td>6/11/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2018</td><td>JALANDHAR</td><td>1000.00</td><td>6/11/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2018</td><td>KANPUR</td><td>1500.00</td><td>6/11/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2018</td><td>KOLHAPUR</td><td>5400.00</td><td>6/11/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2018</td><td>KOLKATTA</td><td>5500.00</td><td>6/11/2018 </td><td>4600.00</td><td>6/11/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2018</td><td>LUCKNOW</td><td>2800.00</td><td>6/11/2018 </td><td>6810.00</td><td>6/12/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2018</td><td>LUDHIANA</td><td>500.00</td><td>6/11/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2018</td><td>MEERUT</td><td>1000.00</td><td>6/11/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2018</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2018</td><td>Mumbai Admin</td><td>21000.00</td><td>6/20/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2018</td><td>Mumbai CPA</td><td>15500.00</td><td>6/20/2018 </td><td>1200.00</td><td>6/11/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2018</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2018</td><td>NAGPUR</td><td>2000.00</td><td>6/11/2018 </td><td>20000.00</td><td>6/27/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2018</td><td>NASIK</td><td>3400.00</td><td>6/11/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2018</td><td>PUNE</td><td>8200.00</td><td>6/11/2018 </td><td>13053.00</td><td>6/15/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2018</td><td>VIZAG</td><td>3750.00</td><td>6/11/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2018</td><td>AHMEDABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2018</td><td>AURANGABAD</td><td>3000.00</td><td>7/12/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2018</td><td>BANGLORE</td><td>3000.00</td><td>7/12/2018 </td><td>3756.00</td><td>7/12/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2018</td><td>BVU Wadala</td><td>8000.00</td><td>7/12/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2018</td><td>CHANDIGARH</td><td>2500.00</td><td>7/12/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2018</td><td>CHENNAI</td><td>4000.00</td><td>7/12/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2018</td><td>COCHIN</td><td>1000.00</td><td>7/12/2018 </td><td>7625.00</td><td>7/26/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2018</td><td>COIMBATORE</td><td>4000.00</td><td>7/12/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2018</td><td>DELHI</td><td>22500.00</td><td>7/12/2018 </td><td>36663.00</td><td>7/25/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2018</td><td>GOA</td><td>1700.00</td><td>7/12/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2018</td><td>HUBLI</td><td>1000.00</td><td>7/12/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2018</td><td>HYDERABAD</td><td>2900.00</td><td>7/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2018</td><td>INDORE</td><td>5000.00</td><td>7/12/2018 </td><td>13675.00</td><td>7/26/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2018</td><td>JAIPUR</td><td>5500.00</td><td>7/12/2018 </td><td>2860.00</td><td>7/26/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2018</td><td>JALANDHAR</td><td>1000.00</td><td>7/12/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2018</td><td>KANPUR</td><td>1500.00</td><td>7/12/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2018</td><td>KOLHAPUR</td><td>5400.00</td><td>7/12/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2018</td><td>KOLKATTA</td><td>5500.00</td><td>7/12/2018 </td><td>1100.00</td><td>7/12/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2018</td><td>LUCKNOW</td><td>2800.00</td><td>7/12/2018 </td><td>6905.00</td><td>7/12/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2018</td><td>LUDHIANA</td><td>500.00</td><td>7/12/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2018</td><td>MEERUT</td><td>1000.00</td><td>7/12/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2018</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2018</td><td>Mumbai Admin</td><td>21000.00</td><td>7/26/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2018</td><td>Mumbai CPA</td><td>15500.00</td><td>7/26/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2018</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2018</td><td>NAGPUR</td><td>2000.00</td><td>7/12/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2018</td><td>NASIK</td><td>3400.00</td><td>7/12/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2018</td><td>PUNE</td><td>7500.00</td><td>7/26/2018 </td><td>11178.00</td><td>7/26/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2018</td><td>VIZAG</td><td>3750.00</td><td>7/12/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2018</td><td>AHMEDABAD</td><td>9023.00</td><td>1/4/2019 1</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2018</td><td>AURANGABAD</td><td>3000.00</td><td>8/13/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2018</td><td>BANGLORE</td><td>3000.00</td><td>8/13/2018 </td><td>700.00</td><td>8/13/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2018</td><td>BVU Wadala</td><td>8000.00</td><td>8/13/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2018</td><td>CHANDIGARH</td><td>2500.00</td><td>8/13/2018 </td><td>9134.00</td><td>8/23/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2018</td><td>CHENNAI</td><td>4000.00</td><td>8/13/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2018</td><td>COCHIN</td><td>1000.00</td><td>8/13/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2018</td><td>COIMBATORE</td><td>4000.00</td><td>8/13/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2018</td><td>DELHI</td><td>22500.00</td><td>8/13/2018 </td><td>31750.00</td><td>8/23/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2018</td><td>GOA</td><td>1700.00</td><td>8/13/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2018</td><td>HUBLI</td><td>1000.00</td><td>8/13/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2018</td><td>HYDERABAD</td><td>2900.00</td><td>8/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2018</td><td>INDORE</td><td>0.00</td><td>&nbsp;</td><td>6123.00</td><td>8/23/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2018</td><td>JAIPUR</td><td>5500.00</td><td>8/13/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2018</td><td>JALANDHAR</td><td>1000.00</td><td>8/13/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2018</td><td>KANPUR</td><td>1500.00</td><td>8/13/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2018</td><td>KOLHAPUR</td><td>5400.00</td><td>8/13/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2018</td><td>KOLKATTA</td><td>5500.00</td><td>8/13/2018 </td><td>350.00</td><td>8/13/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2018</td><td>LUCKNOW</td><td>2800.00</td><td>8/13/2018 </td><td>4100.00</td><td>8/23/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2018</td><td>LUDHIANA</td><td>500.00</td><td>8/13/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2018</td><td>MEERUT</td><td>1000.00</td><td>8/13/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2018</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2018</td><td>Mumbai Admin</td><td>21000.00</td><td>8/23/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2018</td><td>Mumbai CPA</td><td>15500.00</td><td>8/23/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2018</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>4500.00</td><td>8/23/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2018</td><td>NAGPUR</td><td>2000.00</td><td>8/13/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2018</td><td>NASIK</td><td>3400.00</td><td>8/13/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2018</td><td>PUNE</td><td>7500.00</td><td>8/23/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2018</td><td>VIZAG</td><td>3750.00</td><td>8/13/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>AHMEDABAD</td><td>8000.00</td><td>9/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>AURANGABAD</td><td>4237.00</td><td>9/29/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>BANGLORE</td><td>3000.00</td><td>9/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>BVU Wadala</td><td>8000.00</td><td>9/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>CHANDIGARH</td><td>2500.00</td><td>9/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>CHENNAI</td><td>4000.00</td><td>9/10/2018 </td><td>26600.00</td><td>9/25/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>COCHIN</td><td>1000.00</td><td>9/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>COIMBATORE</td><td>4000.00</td><td>9/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>DELHI</td><td>22500.00</td><td>9/10/2018 </td><td>45822.00</td><td>9/29/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>GOA</td><td>1700.00</td><td>9/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>HUBLI</td><td>1000.00</td><td>9/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>HYDERABAD</td><td>2900.00</td><td>9/10/2018 </td><td>5764.00</td><td>9/29/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>INDORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>JAIPUR</td><td>5500.00</td><td>9/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>JALANDHAR</td><td>1000.00</td><td>9/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>KANPUR</td><td>1500.00</td><td>9/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>KOLHAPUR</td><td>5400.00</td><td>9/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>KOLKATTA</td><td>5500.00</td><td>9/10/2018 </td><td>15450.00</td><td>9/3/2018 1</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>LUCKNOW</td><td>2800.00</td><td>9/10/2018 </td><td>2900.00</td><td>9/29/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>LUDHIANA</td><td>500.00</td><td>9/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>MEERUT</td><td>1000.00</td><td>9/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>Mumbai Admin</td><td>21000.00</td><td>9/29/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>Mumbai CPA</td><td>10000.00</td><td>9/10/2018 </td><td>4237.00</td><td>9/29/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>NAGPUR</td><td>2000.00</td><td>9/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>NASIK</td><td>3400.00</td><td>9/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>PUNE</td><td>7500.00</td><td>9/29/2018 </td><td>6397.00</td><td>9/29/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2018</td><td>VIZAG</td><td>3750.00</td><td>9/10/2018 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>AHMEDABAD</td><td>&nbsp;</td><td>&nbsp;</td><td>66375.00</td><td>10/27/2018</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>AURANGABAD</td><td>3000.00</td><td>10/10/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>BANGLORE</td><td>3000.00</td><td>10/10/2018</td><td>73775.00</td><td>10/27/2018</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>BARODA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>BHOPAL</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>BVU Wadala</td><td>8000.00</td><td>10/10/2018</td><td>10000.00</td><td>10/27/2018</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>CHANDIGARH</td><td>2500.00</td><td>10/10/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>CHENNAI</td><td>4000.00</td><td>10/10/2018</td><td>41775.00</td><td>10/27/2018</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>COCHIN</td><td>1000.00</td><td>10/10/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>COIMBATORE</td><td>4000.00</td><td>10/10/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>DELHI</td><td>22500.00</td><td>10/10/2018</td><td>382669.00</td><td>10/27/2018</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>GOA</td><td>1700.00</td><td>10/10/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>HUBLI</td><td>1000.00</td><td>10/10/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>HYDERABAD</td><td>2900.00</td><td>10/10/2018</td><td>23575.00</td><td>10/27/2018</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>INDORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>JAIPUR</td><td>5500.00</td><td>10/10/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>JALANDHAR</td><td>1000.00</td><td>10/10/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>KANPUR</td><td>1500.00</td><td>10/10/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>KOLHAPUR</td><td>5400.00</td><td>10/10/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>KOLKATTA</td><td>5500.00</td><td>10/10/2018</td><td>33925.00</td><td>10/27/2018</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>LUCKNOW</td><td>2800.00</td><td>10/10/2018</td><td>2430.00</td><td>10/24/2018</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>LUDHIANA</td><td>500.00</td><td>10/10/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>MEERUT</td><td>1000.00</td><td>10/10/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>Mumbai Admin</td><td>21000.00</td><td>10/24/2018</td><td>20000.00</td><td>10/27/2018</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>Mumbai CPA</td><td>10000.00</td><td>10/10/2018</td><td>5353.00</td><td>10/27/2018</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>NAGPUR</td><td>2000.00</td><td>10/10/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>NASIK</td><td>3400.00</td><td>10/10/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>PUNE</td><td>10500.00</td><td>10/24/2018</td><td>48905.00</td><td>10/27/2018</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>RAJKOT</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>SURAT</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2018</td><td>VIZAG</td><td>3750.00</td><td>10/10/2018</td><td>2150.00</td><td>10/27/2018</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>AHMEDABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>ANTOP HILL</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>AURANGABAD</td><td>3000.00</td><td>11/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>BANGLORE</td><td>3000.00</td><td>11/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>BARODA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>BVU Wadala</td><td>8000.00</td><td>11/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>CHANDIGARH</td><td>2500.00</td><td>11/13/2018</td><td>7358.00</td><td>11/13/2018</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>CHENNAI</td><td>4000.00</td><td>11/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>COCHIN</td><td>1000.00</td><td>11/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>COIMBATORE</td><td>4000.00</td><td>11/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>DELHI</td><td>22500.00</td><td>11/13/2018</td><td>18720.00</td><td>11/23/2018</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>GOA</td><td>1700.00</td><td>11/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>HUBLI</td><td>1000.00</td><td>11/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>HYDERABAD</td><td>2900.00</td><td>11/13/2018</td><td>13000.00</td><td>11/23/2018</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>INDORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>JAIPUR</td><td>5500.00</td><td>11/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>JALANDHAR</td><td>1000.00</td><td>11/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>KANPUR</td><td>1500.00</td><td>11/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>KOLHAPUR</td><td>5400.00</td><td>11/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>KOLKATTA</td><td>5500.00</td><td>11/13/2018</td><td>2700.00</td><td>11/13/2018</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>LUCKNOW</td><td>2800.00</td><td>11/13/2018</td><td>5690.00</td><td>11/23/2018</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>LUDHIANA</td><td>500.00</td><td>11/10/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>MEERUT</td><td>1000.00</td><td>11/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>1000.00</td><td>11/23/2018</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>Mumbai Admin</td><td>21000.00</td><td>11/23/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>Mumbai CPA</td><td>10000.00</td><td>11/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>Mumbai FRC</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>NAGPUR</td><td>2000.00</td><td>11/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>NASIK</td><td>3400.00</td><td>11/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>PUNE</td><td>10500.00</td><td>11/23/2018</td><td>46628.00</td><td>11/5/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2018</td><td>VIZAG</td><td>3750.00</td><td>11/10/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>AHMEDABAD</td><td>0.00</td><td>&nbsp;</td><td>8000.00</td><td>12/8/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>AURANGABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>BANGLORE</td><td>3000.00</td><td>12/13/2018</td><td>4700.00</td><td>12/8/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>BVU Wadala</td><td>8000.00</td><td>12/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>CHANDIGARH</td><td>2500.00</td><td>12/13/2018</td><td>6319.00</td><td>12/8/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>CHENNAI</td><td>4000.00</td><td>12/13/2018</td><td>3400.00</td><td>12/8/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>COCHIN</td><td>1000.00</td><td>12/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>COIMBATORE</td><td>4000.00</td><td>12/13/2018</td><td>1500.00</td><td>12/8/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>DELHI</td><td>22500.00</td><td>12/13/2018</td><td>67544.00</td><td>12/8/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>GOA</td><td>1700.00</td><td>12/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>HUBLI</td><td>1000.00</td><td>12/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>HYDERABAD</td><td>2900.00</td><td>12/13/2018</td><td>1500.00</td><td>12/8/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>INDORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>JAIPUR</td><td>5500.00</td><td>12/13/2018</td><td>2000.00</td><td>12/8/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>JALANDHAR</td><td>1000.00</td><td>12/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>KANPUR</td><td>1500.00</td><td>12/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>KOLHAPUR</td><td>5400.00</td><td>12/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>KOLHAPUR_Muthoot</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>KOLKATTA</td><td>5500.00</td><td>12/13/2018</td><td>3250.00</td><td>12/8/2018 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>LUCKNOW</td><td>2800.00</td><td>12/13/2018</td><td>2000.00</td><td>12/8/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>LUDHIANA</td><td>500.00</td><td>12/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>MEERUT</td><td>1000.00</td><td>12/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>Mumbai Admin</td><td>21000.00</td><td>12/23/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>Mumbai CPA</td><td>10000.00</td><td>12/13/2018</td><td>1616.00</td><td>12/13/2018</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>Mumbai FRC</td><td>5000.00</td><td>12/11/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>NAGPUR</td><td>2000.00</td><td>12/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>NASIK</td><td>3400.00</td><td>12/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>PUNE</td><td>10500.00</td><td>12/23/2018</td><td>13502.00</td><td>12/8/2018 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2018</td><td>VIZAG</td><td>3750.00</td><td>12/13/2018</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>&nbsp;</td><td>2018</td><td>JALANDHAR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>&nbsp;</td><td>2018</td><td>NASIK</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>&nbsp;</td><td>2018</td><td>COCHIN</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>&nbsp;</td><td>2018</td><td>JALANDHAR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>&nbsp;</td><td>2018</td><td>AHMEDABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2019</td><td>AHMEDABAD</td><td>16000.00</td><td>1/22/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2019</td><td>AURANGABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2019</td><td>BANGLORE</td><td>10277.00</td><td>1/1/2019 1</td><td>1000.00</td><td>1/14/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2019</td><td>BVU Wadala</td><td>8000.00</td><td>1/14/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2019</td><td>CHANDIGARH</td><td>7136.00</td><td>1/1/2019 1</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2019</td><td>CHENNAI</td><td>37394.00</td><td>1/1/2019 1</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2019</td><td>COCHIN</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2019</td><td>COIMBATORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2019</td><td>DELHI</td><td>37064.00</td><td>1/1/2019 1</td><td>9098.00</td><td>1/22/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2019</td><td>GOA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2019</td><td>HUBLI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2019</td><td>HYDERABAD</td><td>2900.00</td><td>1/14/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2019</td><td>INDORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2019</td><td>JALANDHAR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2019</td><td>KANPUR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2019</td><td>KOLHAPUR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2019</td><td>KOLKATTA</td><td>5500.00</td><td>1/14/2019 </td><td>350.00</td><td>1/14/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2019</td><td>LUCKNOW</td><td>7850.00</td><td>1/1/2019 1</td><td>3220.00</td><td>1/22/2019 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2019</td><td>LUDHIANA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2019</td><td>MEERUT</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2019</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2019</td><td>Mumbai Admin</td><td>21000.00</td><td>1/22/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2019</td><td>Mumbai CPA</td><td>7000.00</td><td>1/14/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2019</td><td>Mumbai FRC</td><td>5000.00</td><td>1/14/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2019</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2019</td><td>NAGPUR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2019</td><td>NASIK</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2019</td><td>PUNE</td><td>52269.00</td><td>1/1/2019 1</td><td>2325.00</td><td>1/22/2019 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2019</td><td>VIZAG</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>AHMEDABAD</td><td>8000.00</td><td>2/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>AURANGABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>BANGLORE</td><td>4000.00</td><td>2/11/2019 </td><td>700.00</td><td>2/22/2019 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>BVU Wadala</td><td>8000.00</td><td>2/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>CHANDIGARH</td><td>4000.00</td><td>2/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>CHENNAI</td><td>9000.00</td><td>2/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>COCHIN</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>COIMBATORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>DELHI</td><td>28000.00</td><td>2/11/2019 </td><td>81858.00</td><td>2/22/2019 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>GOA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>HYDERABAD</td><td>2900.00</td><td>2/11/2019 </td><td>5720.00</td><td>2/5/2019 1</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>JALANDHAR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>KANPUR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>KOLHAPUR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>KOLKATTA</td><td>5500.00</td><td>2/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>LUCKNOW</td><td>5300.00</td><td>2/11/2019 </td><td>3290.00</td><td>2/22/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>LUDHIANA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>MEERUT</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>Mumbai Admin</td><td>21000.00</td><td>2/22/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>Mumbai CPA</td><td>7000.00</td><td>2/22/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>Mumbai FRC</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>NASIK</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2019</td><td>PUNE</td><td>42400.00</td><td>2/22/2019 </td><td>3606.00</td><td>2/22/2019 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2019</td><td>AHMEDABAD</td><td>8000.00</td><td>3/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2019</td><td>AURANGABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2019</td><td>BANGLORE</td><td>4000.00</td><td>3/11/2019 </td><td>1740.00</td><td>3/11/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2019</td><td>BVU Wadala</td><td>8000.00</td><td>3/20/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2019</td><td>CHANDIGARH</td><td>4307.00</td><td>3/1/2019 1</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2019</td><td>CHENNAI</td><td>9000.00</td><td>3/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2019</td><td>COCHIN</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2019</td><td>COIMBATORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2019</td><td>DELHI</td><td>28000.00</td><td>3/11/2019 </td><td>31465.00</td><td>3/20/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2019</td><td>GOA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2019</td><td>HYDERABAD</td><td>2900.00</td><td>3/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2019</td><td>JALANDHAR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2019</td><td>KANPUR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2019</td><td>KOLHAPUR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2019</td><td>KOLKATTA</td><td>5500.00</td><td>3/11/2019 </td><td>350.00</td><td>3/11/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2019</td><td>LUCKNOW</td><td>5300.00</td><td>3/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2019</td><td>LUDHIANA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2019</td><td>MEERUT</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2019</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2019</td><td>Mumbai Admin</td><td>21000.00</td><td>3/20/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2019</td><td>Mumbai CPA</td><td>5000.00</td><td>3/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2019</td><td>Mumbai FRC</td><td>5000.00</td><td>3/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2019</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2019</td><td>NASIK</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2019</td><td>PUNE</td><td>22900.00</td><td>3/20/2019 </td><td>1180.00</td><td>3/11/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2019</td><td>AHMEDABAD</td><td>8000.00</td><td>4/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2019</td><td>Ahmednagar</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2019</td><td>AURANGABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2019</td><td>BANGLORE</td><td>4000.00</td><td>4/11/2019 </td><td>700.00</td><td>4/22/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2019</td><td>BVU Wadala</td><td>7000.00</td><td>4/22/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2019</td><td>CHANDIGARH</td><td>4000.00</td><td>4/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2019</td><td>CHENNAI</td><td>9000.00</td><td>4/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2019</td><td>COCHIN</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2019</td><td>COIMBATORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2019</td><td>DELHI</td><td>28000.00</td><td>4/11/2019 </td><td>47566.00</td><td>4/24/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2019</td><td>GOA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2019</td><td>HYDERABAD</td><td>2900.00</td><td>4/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2019</td><td>JAIPUR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2019</td><td>JALANDHAR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2019</td><td>KANPUR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2019</td><td>KOLHAPUR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2019</td><td>KOLKATTA</td><td>5500.00</td><td>4/11/2019 </td><td>4850.00</td><td>4/11/2019 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2019</td><td>LUCKNOW</td><td>5300.00</td><td>4/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2019</td><td>LUDHIANA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2019</td><td>MEERUT</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2019</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2019</td><td>Mumbai Admin</td><td>21000.00</td><td>4/22/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2019</td><td>Mumbai CPA</td><td>5000.00</td><td>4/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2019</td><td>Mumbai FRC</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2019</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2019</td><td>NAGPUR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2019</td><td>NASIK</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2019</td><td>PANIPAT</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2019</td><td>PUNE</td><td>22900.00</td><td>4/22/2019 </td><td>2506.00</td><td>4/22/2019 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2019</td><td>SURAT</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2019</td><td>VIZAG</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2019</td><td>AHMEDABAD</td><td>8000.00</td><td>5/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2019</td><td>AURANGABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2019</td><td>BANGLORE</td><td>4000.00</td><td>5/10/2019 </td><td>700.00</td><td>5/10/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2019</td><td>BHOPAL</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2019</td><td>BVU Wadala</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2019</td><td>CHANDIGARH</td><td>4000.00</td><td>5/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2019</td><td>CHENNAI</td><td>9000.00</td><td>5/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2019</td><td>COCHIN</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2019</td><td>COIMBATORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2019</td><td>DELHI</td><td>28000.00</td><td>5/10/2019 </td><td>18085.00</td><td>5/30/2019 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2019</td><td>GOA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2019</td><td>HYDERABAD</td><td>2900.00</td><td>5/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2019</td><td>INDORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2019</td><td>JAIPUR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2019</td><td>JALANDHAR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2019</td><td>KANPUR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2019</td><td>KOLHAPUR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2019</td><td>KOLHAPUR_Muthoot</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2019</td><td>KOLKATTA</td><td>5500.00</td><td>5/10/2019 </td><td>5950.00</td><td>5/2/2019 1</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2019</td><td>LUCKNOW</td><td>5300.00</td><td>5/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2019</td><td>LUDHIANA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2019</td><td>MEERUT</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2019</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2019</td><td>Mumbai Admin</td><td>21000.00</td><td>5/22/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2019</td><td>Mumbai CPA</td><td>5000.00</td><td>5/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2019</td><td>Mumbai FRC</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2019</td><td>NAGPUR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2019</td><td>NASIK</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2019</td><td>PUNE</td><td>22900.00</td><td>5/30/2019 </td><td>10084.00</td><td>5/10/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2019</td><td>VIZAG</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2019</td><td>AHMEDABAD</td><td>8000.00</td><td>6/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2019</td><td>BANGLORE</td><td>4000.00</td><td>6/10/2019 </td><td>700.00</td><td>6/20/2019 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2019</td><td>BVU Wadala</td><td>6000.00</td><td>6/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2019</td><td>CHANDIGARH</td><td>4000.00</td><td>6/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2019</td><td>CHENNAI</td><td>9000.00</td><td>6/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2019</td><td>COCHIN</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2019</td><td>COIMBATORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2019</td><td>DELHI</td><td>28000.00</td><td>6/10/2019 </td><td>17530.00</td><td>6/20/2019 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2019</td><td>HYDERABAD</td><td>2900.00</td><td>6/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2019</td><td>JALANDHAR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2019</td><td>KOLKATTA</td><td>5500.00</td><td>6/10/2019 </td><td>4300.00</td><td>6/10/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2019</td><td>LUCKNOW</td><td>5300.00</td><td>6/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2019</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2019</td><td>Mumbai Admin</td><td>21000.00</td><td>6/20/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2019</td><td>Mumbai CPA</td><td>5000.00</td><td>6/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2019</td><td>Mumbai FRC</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2019</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2019</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2019</td><td>PUNE</td><td>22900.00</td><td>6/20/2019 </td><td>4000.00</td><td>6/10/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2019</td><td>AHMEDABAD</td><td>8000.00</td><td>7/10/2019 </td><td>4000.00</td><td>7/10/2019 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2019</td><td>BANGLORE</td><td>4000.00</td><td>7/10/2019 </td><td>4480.00</td><td>7/20/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2019</td><td>BVU Wadala</td><td>6000.00</td><td>7/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2019</td><td>CHANDIGARH</td><td>4000.00</td><td>7/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2019</td><td>CHENNAI</td><td>9000.00</td><td>7/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2019</td><td>COCHIN</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2019</td><td>COIMBATORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2019</td><td>DELHI</td><td>28000.00</td><td>7/10/2019 </td><td>22900.00</td><td>7/20/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2019</td><td>HUBLI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2019</td><td>HYDERABAD</td><td>2900.00</td><td>7/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2019</td><td>INDORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2019</td><td>JAIPUR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2019</td><td>KOLKATTA</td><td>5500.00</td><td>7/10/2019 </td><td>1650.00</td><td>7/10/2019 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2019</td><td>LUCKNOW</td><td>5300.00</td><td>7/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2019</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2019</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2019</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2019</td><td>Mumbai Admin</td><td>21000.00</td><td>7/20/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2019</td><td>Mumbai FRC</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2019</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2019</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2019</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2019</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2019</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2019</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2019</td><td>PUNE</td><td>22900.00</td><td>7/20/2019 </td><td>1334.00</td><td>7/10/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2019</td><td>THANE</td><td>3850.00</td><td>7/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2019</td><td>AHMEDABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2019</td><td>BANGLORE</td><td>4000.00</td><td>8/10/2019 </td><td>700.00</td><td>8/20/2019 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2019</td><td>BVU Wadala</td><td>6000.00</td><td>8/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2019</td><td>CHANDIGARH</td><td>4000.00</td><td>8/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2019</td><td>CHENNAI</td><td>9000.00</td><td>8/10/2019 </td><td>3897.00</td><td>8/7/2019 1</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2019</td><td>COCHIN</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2019</td><td>COIMBATORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2019</td><td>DELHI</td><td>41569.00</td><td>8/10/2019 </td><td>16981.00</td><td>8/20/2019 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2019</td><td>HYDERABAD</td><td>2900.00</td><td>8/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2019</td><td>KOLKATTA</td><td>5500.00</td><td>8/10/2019 </td><td>350.00</td><td>8/10/2019 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2019</td><td>LUCKNOW</td><td>5300.00</td><td>8/10/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2019</td><td>LUDHIANA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2019</td><td>Mumbai Admin</td><td>21000.00</td><td>8/20/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2019</td><td>PUNE</td><td>22900.00</td><td>8/20/2019 </td><td>4622.00</td><td>8/20/2019 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2019</td><td>THANE</td><td>3850.00</td><td>8/11/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2019</td><td>AHMEDABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2019</td><td>BANGLORE</td><td>4000.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2019</td><td>BVU Wadala</td><td>6000.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2019</td><td>CHANDIGARH</td><td>4000.00</td><td>9/12/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2019</td><td>CHENNAI</td><td>9000.00</td><td>9/12/2019 </td><td>1700.00</td><td>9/12/2019 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2019</td><td>DELHI</td><td>28000.00</td><td>9/12/2019 </td><td>24486.00</td><td>9/25/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2019</td><td>HYDERABAD</td><td>2900.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2019</td><td>KOLKATTA</td><td>5500.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2019</td><td>LUCKNOW</td><td>5300.00</td><td>9/12/2019 </td><td>0.00</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2019</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2019</td><td>Mumbai Admin</td><td>21000.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2019</td><td>Mumbai CPA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2019</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2019</td><td>PUNE</td><td>22900.00</td><td>9/25/2019 </td><td>5020.00</td><td>9/25/2019 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2019</td><td>THANE</td><td>3850.00</td><td>9/12/2019 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2019</td><td>AHMEDABAD</td><td>8000.00</td><td>10/23/2019</td><td>52100.00</td><td>10/19/2019</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2019</td><td>BANGLORE</td><td>4000.00</td><td>10/15/2019</td><td>71400.00</td><td>10/22/2019</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2019</td><td>BVU Wadala</td><td>6000.00</td><td>10/15/2019</td><td>10000.00</td><td>10/19/2019</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2019</td><td>CHANDIGARH</td><td>4000.00</td><td>10/15/2019</td><td>503.00</td><td>10/15/2019</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2019</td><td>CHENNAI</td><td>9000.00</td><td>10/15/2019</td><td>37200.00</td><td>10/19/2019</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2019</td><td>DELHI</td><td>28000.00</td><td>10/15/2019</td><td>282720.00</td><td>10/19/2019</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2019</td><td>HYDERABAD</td><td>2900.00</td><td>10/15/2019</td><td>30850.00</td><td>10/19/2019</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2019</td><td>KOLKATTA</td><td>5500.00</td><td>10/15/2019</td><td>28900.00</td><td>10/19/2019</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2019</td><td>LUCKNOW</td><td>5300.00</td><td>10/15/2019</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2019</td><td>MEERUT</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2019</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2019</td><td>Mumbai Admin</td><td>21000.00</td><td>10/23/2019</td><td>23500.00</td><td>10/19/2019</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2019</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2019</td><td>PUNE</td><td>100550.00</td><td>10/26/2019</td><td>10692.00</td><td>10/26/2019</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2019</td><td>THANE</td><td>3850.00</td><td>10/12/2019</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2019</td><td>AHMEDABAD</td><td>8000.00</td><td>11/13/2019</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2019</td><td>BANGLORE</td><td>12000.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2019</td><td>BVU Wadala</td><td>6000.00</td><td>11/13/2019</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2019</td><td>CHANDIGARH</td><td>4000.00</td><td>11/13/2019</td><td>2100.00</td><td>11/22/2019</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2019</td><td>CHENNAI</td><td>9000.00</td><td>11/13/2019</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2019</td><td>DELHI</td><td>28000.00</td><td>11/13/2019</td><td>14386.00</td><td>11/22/2019</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2019</td><td>HYDERABAD</td><td>2900.00</td><td>11/13/2019</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2019</td><td>JALANDHAR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2019</td><td>KOLKATTA</td><td>5500.00</td><td>11/13/2019</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2019</td><td>LUCKNOW</td><td>5300.00</td><td>11/13/2019</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2019</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2019</td><td>Mumbai Admin</td><td>21000.00</td><td>11/22/2019</td><td>37703.00</td><td>11/22/2019</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2019</td><td>PUNE</td><td>22900.00</td><td>11/22/2019</td><td>9941.00</td><td>11/28/2019</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2019</td><td>THANE</td><td>3850.00</td><td>11/13/2019</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2019</td><td>VIZAG</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2019</td><td>AHMEDABAD</td><td>8000.00</td><td>12/13/2019</td><td>5000.00</td><td>12/12/2019</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2019</td><td>AURANGABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2019</td><td>BANGLORE</td><td>4000.00</td><td>12/13/2019</td><td>4700.00</td><td>12/12/2019</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2019</td><td>BVU Wadala</td><td>6000.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2019</td><td>CHANDIGARH</td><td>4000.00</td><td>12/13/2019</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2019</td><td>CHENNAI</td><td>9000.00</td><td>12/13/2019</td><td>10450.00</td><td>12/12/2019</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2019</td><td>COCHIN</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2019</td><td>DELHI</td><td>28000.00</td><td>12/13/2019</td><td>54392.00</td><td>12/18/2019</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2019</td><td>HYDERABAD</td><td>2900.00</td><td>12/13/2019</td><td>2400.00</td><td>12/12/2019</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2019</td><td>JALANDHAR</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2019</td><td>KOLKATTA</td><td>5500.00</td><td>12/13/2019</td><td>5300.00</td><td>12/12/2019</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2019</td><td>LUCKNOW</td><td>5300.00</td><td>12/13/2019</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2019</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2019</td><td>Mumbai Admin</td><td>21000.00</td><td>12/21/2019</td><td>46947.00</td><td>12/12/2019</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2019</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2019</td><td>PUNE</td><td>22900.00</td><td>12/21/2019</td><td>10000.00</td><td>12/12/2019</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2019</td><td>THANE</td><td>3850.00</td><td>12/13/2019</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>&nbsp;</td><td>2020</td><td>DELHI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2020</td><td>AHMEDABAD</td><td>8000.00</td><td>1/10/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2020</td><td>BANGLORE</td><td>4000.00</td><td>1/10/2020 </td><td>700.00</td><td>1/10/2020 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2020</td><td>BVU Wadala</td><td>6000.00</td><td>1/10/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2020</td><td>CHANDIGARH</td><td>4000.00</td><td>1/10/2020 </td><td>1005.00</td><td>1/10/2020 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2020</td><td>CHENNAI</td><td>9000.00</td><td>1/10/2020 </td><td>900.00</td><td>1/10/2020 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2020</td><td>DELHI</td><td>28000.00</td><td>1/10/2020 </td><td>18258.00</td><td>1/23/2020 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2020</td><td>HYDERABAD</td><td>2900.00</td><td>1/10/2020 </td><td>16040.00</td><td>1/23/2020 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2020</td><td>KOLKATTA</td><td>5500.00</td><td>1/10/2020 </td><td>15900.00</td><td>1/27/2020 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2020</td><td>LUCKNOW</td><td>5300.00</td><td>1/10/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2020</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2020</td><td>Mumbai Admin</td><td>21000.00</td><td>1/23/2020 </td><td>20762.00</td><td>1/10/2020 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2020</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2020</td><td>PUNE</td><td>22900.00</td><td>1/23/2020 </td><td>8270.00</td><td>1/23/2020 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2020</td><td>THANE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2020</td><td>AHMEDABAD</td><td>8000.00</td><td>2/11/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2020</td><td>BANGLORE</td><td>4000.00</td><td>2/11/2020 </td><td>700.00</td><td>2/11/2020 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2020</td><td>BVU Wadala</td><td>6000.00</td><td>2/11/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2020</td><td>CHANDIGARH</td><td>4000.00</td><td>2/11/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2020</td><td>CHENNAI</td><td>9000.00</td><td>2/11/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2020</td><td>DELHI</td><td>28000.00</td><td>2/11/2020 </td><td>23580.00</td><td>2/20/2020 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2020</td><td>HYDERABAD</td><td>2900.00</td><td>2/11/2020 </td><td>1696.00</td><td>2/20/2020 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2020</td><td>KOLKATTA</td><td>5500.00</td><td>2/11/2020 </td><td>300.00</td><td>2/20/2020 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2020</td><td>LUCKNOW</td><td>5300.00</td><td>2/11/2020 </td><td>6750.00</td><td>2/11/2020 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2020</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2020</td><td>Mumbai Admin</td><td>21000.00</td><td>2/20/2020 </td><td>17100.00</td><td>2/11/2020 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2020</td><td>PUNE</td><td>22900.00</td><td>2/20/2020 </td><td>27300.00</td><td>2/11/2020 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2020</td><td>THANE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2020</td><td>AHMEDABAD</td><td>8000.00</td><td>3/16/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2020</td><td>BANGLORE</td><td>4000.00</td><td>3/16/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2020</td><td>BVU Wadala</td><td>6000.00</td><td>3/16/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2020</td><td>CHANDIGARH</td><td>4000.00</td><td>3/16/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2020</td><td>CHENNAI</td><td>9000.00</td><td>3/16/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2020</td><td>DELHI</td><td>28000.00</td><td>3/16/2020 </td><td>11380.00</td><td>3/16/2020 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2020</td><td>HYDERABAD</td><td>2900.00</td><td>3/16/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2020</td><td>KOLKATTA</td><td>5500.00</td><td>3/16/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2020</td><td>LUCKNOW</td><td>5300.00</td><td>3/16/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2020</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2020</td><td>Mumbai Admin</td><td>13000.00</td><td>3/16/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2020</td><td>PUNE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2020</td><td>THANE</td><td>3850.00</td><td>3/16/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2020</td><td>AHMEDABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2020</td><td>BANGLORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2020</td><td>BVU Wadala</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2020</td><td>CHANDIGARH</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2020</td><td>CHENNAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2020</td><td>DELHI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2020</td><td>HYDERABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2020</td><td>KOLKATTA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2020</td><td>LUCKNOW</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>APRIL</td><td>2020</td><td>Mumbai Admin</td><td>5000.00</td><td>4/22/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>APRIL</td><td>2020</td><td>PUNE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2020</td><td>AHMEDABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2020</td><td>BANGLORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2020</td><td>BVU Wadala</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2020</td><td>CHANDIGARH</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2020</td><td>DELHI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2020</td><td>HYDERABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2020</td><td>KOLKATTA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2020</td><td>LUCKNOW</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MAY</td><td>2020</td><td>Mumbai Admin</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MAY</td><td>2020</td><td>PUNE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2020</td><td>AHMEDABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2020</td><td>BANGLORE</td><td>3000.00</td><td>6/2/2020 1</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2020</td><td>BVU Wadala</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2020</td><td>CHANDIGARH</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2020</td><td>DELHI</td><td>61956.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2020</td><td>HYDERABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2020</td><td>KOLKATTA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2020</td><td>LUCKNOW</td><td>4980.00</td><td>6/30/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2020</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JUNE</td><td>2020</td><td>Mumbai Admin</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JUNE</td><td>2020</td><td>PUNE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2020</td><td>AHMEDABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2020</td><td>BANGLORE</td><td>3000.00</td><td>7/28/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2020</td><td>BVU Wadala</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2020</td><td>CHANDIGARH</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2020</td><td>CHENNAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2020</td><td>DELHI</td><td>0.00</td><td>&nbsp;</td><td>1200.00</td><td>7/28/2020 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2020</td><td>HUBLI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2020</td><td>HYDERABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2020</td><td>KOLKATTA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2020</td><td>LUCKNOW</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2020</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2020</td><td>Mumbai Admin</td><td>5000.00</td><td>7/28/2020 </td><td>46696.00</td><td>7/10/2020 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JULY</td><td>2020</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JULY</td><td>2020</td><td>PUNE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2020</td><td>AHMEDABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2020</td><td>BANGLORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2020</td><td>BVU Wadala</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2020</td><td>CHANDIGARH</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2020</td><td>CHENNAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2020</td><td>DELHI</td><td>0.00</td><td>&nbsp;</td><td>8085.00</td><td>8/20/2020 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2020</td><td>HYDERABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2020</td><td>KOLKATTA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2020</td><td>LUCKNOW</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2020</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2020</td><td>Mumbai Admin</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>AUGUST</td><td>2020</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>AUGUST</td><td>2020</td><td>PUNE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2020</td><td>AHMEDABAD</td><td>4000.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2020</td><td>BANGLORE</td><td>10060.00</td><td>9/29/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2020</td><td>BVU Wadala</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2020</td><td>CHENNAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2020</td><td>COIMBATORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2020</td><td>DELHI</td><td>15750.00</td><td>9/18/2020 </td><td>4590.00</td><td>9/14/2020 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2020</td><td>HUBLI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2020</td><td>HYDERABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2020</td><td>KOLKATTA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2020</td><td>LUCKNOW</td><td>3580.00</td><td>9/18/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2020</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2020</td><td>Mumbai Admin</td><td>12400.00</td><td>9/14/2020 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>SEPTEMBER</td><td>2020</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>SEPTEMBER</td><td>2020</td><td>PUNE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2020</td><td>AHMEDABAD</td><td>8000.00</td><td>10/28/2020</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2020</td><td>BANGLORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2020</td><td>BVU Wadala</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2020</td><td>GUJARAT</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2020</td><td>HYDERABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2020</td><td>KOLKATTA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2020</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>OCTOBER</td><td>2020</td><td>Mumbai Admin</td><td>10000.00</td><td>10/28/2020</td><td>7400.00</td><td>10/28/2020</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>OCTOBER</td><td>2020</td><td>PUNE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2020</td><td>AHMEDABAD</td><td>4000.00</td><td>11/11/2020</td><td>3000.00</td><td>11/10/2020</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2020</td><td>BANGLORE</td><td>3000.00</td><td>11/11/2020</td><td>1500.00</td><td>11/10/2020</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2020</td><td>BVU Wadala</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2020</td><td>COCHIN</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2020</td><td>GUJARAT</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2020</td><td>HYDERABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2020</td><td>KOLKATTA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2020</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2020</td><td>Mumbai Admin</td><td>0.00</td><td>&nbsp;</td><td>19240.00</td><td>11/10/2020</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>NOVEMBER</td><td>2020</td><td>MUMBAI HO</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>NOVEMBER</td><td>2020</td><td>PUNE</td><td>17000.00</td><td>11/11/2020</td><td>2500.00</td><td>11/10/2020</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2020</td><td>AHMEDABAD</td><td>4000.00</td><td>12/12/2020</td><td>9380.00</td><td>12/9/2020 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2020</td><td>BANGLORE</td><td>3000.00</td><td>12/12/2020</td><td>4900.00</td><td>12/9/2020 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2020</td><td>DELHI</td><td>93973.00</td><td>12/30/2020</td><td>15320.00</td><td>12/9/2020 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2020</td><td>HYDERABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2020</td><td>KOLKATTA</td><td>2465.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>DECEMBER</td><td>2020</td><td>Mumbai Admin</td><td>22876.00</td><td>12/31/2020</td><td>43664.00</td><td>12/31/2020</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>DECEMBER</td><td>2020</td><td>PUNE</td><td>17000.00</td><td>12/12/2020</td><td>20880.00</td><td>12/30/2020</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>&nbsp;</td><td>2020</td><td>PUNE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>&nbsp;</td><td>2020</td><td>BANGLORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2021</td><td>AHMEDABAD</td><td>4000.00</td><td>1/13/2021 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2021</td><td>BANGLORE</td><td>2900.00</td><td>1/13/2021 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2021</td><td>HYDERABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2021</td><td>INDORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2021</td><td>KOLKATTA</td><td>4630.00</td><td>1/13/2021 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>JANUARY</td><td>2021</td><td>Mumbai Admin</td><td>0.00</td><td>&nbsp;</td><td>1600.00</td><td>1/13/2021 </td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>JANUARY</td><td>2021</td><td>PUNE</td><td>17000.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2021</td><td>AHMEDABAD</td><td>4000.00</td><td>2/11/2021 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2021</td><td>BANGLORE</td><td>3000.00</td><td>2/11/2021 </td><td>7500.00</td><td>2/15/2021 </td>
+				</tr><tr class="GridViewRowStyle">
+					<td>FEBRUARY</td><td>2021</td><td>KOLKATTA</td><td>1700.00</td><td>2/11/2021 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>FEBRUARY</td><td>2021</td><td>PUNE</td><td>17000.00</td><td>2/11/2021 </td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2021</td><td>AHMEDABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2021</td><td>BANGLORE</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2021</td><td>HYDERABAD</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>MARCH</td><td>2021</td><td>KOLKATTA</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewRowStyle">
+					<td>MARCH</td><td>2021</td><td>MUMBAI</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr><tr class="GridViewAlternatingRowStyle">
+					<td>&nbsp;</td><td>2080</td><td>NASIK</td><td>0.00</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+				</tr>
+			</table>
+		</div>
+                                </td>
+	</tr>
+</table>

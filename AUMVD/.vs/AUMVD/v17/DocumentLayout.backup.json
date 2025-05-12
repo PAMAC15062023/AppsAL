@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SUHANI\\Projects\\AUMVD\\AUMVD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D60BF33-0613-480A-8E42-5BCCD78D2356}|AUMVD.csproj|d:\\suhani\\projects\\aumvd\\aumvd\\aumvd_master.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D60BF33-0613-480A-8E42-5BCCD78D2356}|AUMVD.csproj|solutionrelative:aumvd_master.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D60BF33-0613-480A-8E42-5BCCD78D2356}|AUMVD.csproj|d:\\suhani\\projects\\aumvd\\aumvd\\aumvd_login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D60BF33-0613-480A-8E42-5BCCD78D2356}|AUMVD.csproj|solutionrelative:aumvd_login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D60BF33-0613-480A-8E42-5BCCD78D2356}|AUMVD.csproj|d:\\suhani\\projects\\aumvd\\aumvd\\aumvd_reports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D60BF33-0613-480A-8E42-5BCCD78D2356}|AUMVD.csproj|solutionrelative:aumvd_reports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D60BF33-0613-480A-8E42-5BCCD78D2356}|AUMVD.csproj|d:\\suhani\\projects\\aumvd\\aumvd\\app_data\\commonmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D60BF33-0613-480A-8E42-5BCCD78D2356}|AUMVD.csproj|solutionrelative:app_data\\commonmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D60BF33-0613-480A-8E42-5BCCD78D2356}|AUMVD.csproj|d:\\suhani\\projects\\aumvd\\aumvd\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3D60BF33-0613-480A-8E42-5BCCD78D2356}|AUMVD.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AUMVD_Master.Master.cs",
+              "DocumentMoniker": "D:\\SUHANI\\Projects\\AUMVD\\AUMVD\\AUMVD_Master.Master.cs",
+              "RelativeDocumentMoniker": "AUMVD_Master.Master.cs",
+              "ToolTip": "D:\\SUHANI\\Projects\\AUMVD\\AUMVD\\AUMVD_Master.Master.cs",
+              "RelativeToolTip": "AUMVD_Master.Master.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:00:42.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AUMVD_Login.aspx.cs",
+              "DocumentMoniker": "D:\\SUHANI\\Projects\\AUMVD\\AUMVD\\AUMVD_Login.aspx.cs",
+              "RelativeDocumentMoniker": "AUMVD_Login.aspx.cs",
+              "ToolTip": "D:\\SUHANI\\Projects\\AUMVD\\AUMVD\\AUMVD_Login.aspx.cs",
+              "RelativeToolTip": "AUMVD_Login.aspx.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:59:43.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AUMVD_Reports.aspx.cs",
+              "DocumentMoniker": "D:\\SUHANI\\Projects\\AUMVD\\AUMVD\\AUMVD_Reports.aspx.cs",
+              "RelativeDocumentMoniker": "AUMVD_Reports.aspx.cs",
+              "ToolTip": "D:\\SUHANI\\Projects\\AUMVD\\AUMVD\\AUMVD_Reports.aspx.cs",
+              "RelativeToolTip": "AUMVD_Reports.aspx.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:59:27.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommonMaster.cs",
+              "DocumentMoniker": "D:\\SUHANI\\Projects\\AUMVD\\AUMVD\\App_Data\\CommonMaster.cs",
+              "RelativeDocumentMoniker": "App_Data\\CommonMaster.cs",
+              "ToolTip": "D:\\SUHANI\\Projects\\AUMVD\\AUMVD\\App_Data\\CommonMaster.cs",
+              "RelativeToolTip": "App_Data\\CommonMaster.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:57:14.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\SUHANI\\Projects\\AUMVD\\AUMVD\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\SUHANI\\Projects\\AUMVD\\AUMVD\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-19T06:31:27.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

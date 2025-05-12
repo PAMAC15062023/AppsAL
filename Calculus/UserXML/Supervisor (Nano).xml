@@ -1,0 +1,77 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>1</MenuID>
+    <Text>Master</Text>
+    <Description>Master</Description>
+    <PagePath>D:\</PagePath>
+    <Menu>
+      <MenuID>3</MenuID>
+      <Text>Source Branch Add</Text>
+      <Description>Source Branch Add</Description>
+      <PagePath>~/Pages/SouchBranchMaster.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>2</MenuID>
+    <Text>Entry Operation</Text>
+    <Description>Entry Operation</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>5</MenuID>
+      <Text>Customer Application</Text>
+      <Description>Customer Application</Description>
+      <PagePath>~/Pages/FrmBasicEntry.aspx</PagePath>
+      <ParentID>2</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>21</MenuID>
+      <Text>Customer Application Update</Text>
+      <Description>Customer Application Update</Description>
+      <PagePath>~/Pages/UpdateFrmBasicEntry.aspx</PagePath>
+      <ParentID>2</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>22</MenuID>
+      <Text>Schedule Update</Text>
+      <Description>Schedule Update</Description>
+      <PagePath>~/Pages/application.aspx</PagePath>
+      <ParentID>2</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>23</MenuID>
+      <Text>Schedule Modify</Text>
+      <Description>Schedule Modify</Description>
+      <PagePath>~/Pages/UpdateSchedule.aspx</PagePath>
+      <ParentID>2</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>24</MenuID>
+      <Text>Discrepancy Update</Text>
+      <Description>Discrepancy Update</Description>
+      <PagePath>~/Pages/DiscrepancyUpdate.aspx</PagePath>
+      <ParentID>2</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>25</MenuID>
+      <Text>Covering Letter</Text>
+      <Description>Covering Letter</Description>
+      <PagePath>~/Pages/ApplicationCoveringSheet.aspx</PagePath>
+      <ParentID>2</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>4</MenuID>
+    <Text>Reports</Text>
+    <Description>Reports</Description>
+    <PagePath>D:\</PagePath>
+    <Menu>
+      <MenuID>10</MenuID>
+      <Text>Discrepancy Report</Text>
+      <Description>Discrepancy Report</Description>
+      <PagePath>~/Pages/ApplicationCoveringSheet.aspx</PagePath>
+      <ParentID>4</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

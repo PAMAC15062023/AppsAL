@@ -1,0 +1,46 @@
+{
+  "name": "PWADemo",
+  "short_name": "PWA",
+  "description": "Demo PWA application in ASP.NET Core.",
+  "icons": [
+    {
+      "src": "Lamp.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/images/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+
+
+  ],
+  "display": "standalone",
+  "start_url": "//uat.pamac-online.com/MFEDL_Demo/MFEDL/?standalone=true",
+  "scope": ".",
+  "meta": [
+    {
+      "name ": "viewport",
+      "content": "width=device-width;",
+      "initial-scale": "1",
+      "viewport-fit": "cover"
+    },
+    {
+      "name=": "mobile-web-app-capable",
+      "content": "yes"
+    },
+    {
+      "name=": "apple-mobile-web-app-capable",
+      "content" :"yes"
+    }
+
+  ]
+
+
+}

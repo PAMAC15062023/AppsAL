@@ -1,0 +1,14 @@
+select distinct a.case_id,d.fullname,e.verification_type_code,c.ASSIGN_DATETIME,a.SubRemark,City_Limit from CPV_RL_VERIFICATION_ATTEMPT a,cpv_rl_fe_case_mapping_history b,CPV_RL_CASE_FE_MAPPING c,
+employee_master d,VERIFICATION_TYPE_MASTER e,CPV_RL_CASE_DETAILS f, CPV_RL_VERIFICATION_RVRT g
+where a.case_id=b.case_id and a.case_id=c.case_id and b.case_id=c.case_id and c.fe_id=d.emp_id and a.case_id=f.case_id and 
+a.verification_type_id=e.verification_type_id and a.verification_type_id=b.verification_type_id and a.verification_type_id=c.verification_type_id and
+g.case_id=a.case_id and g.verification_type_id=a.verification_type_id and
+@ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+union all
+select distinct a.case_id,d.fullname,e.verification_type_code,c.ASSIGN_DATETIME,a.SubRemark,City_Limit from CPV_RL_VERIFICATION_ATTEMPT a,cpv_rl_fe_case_mapping_history b,CPV_RL_CASE_FE_MAPPING c,
+employee_master d,VERIFICATION_TYPE_MASTER e,CPV_RL_CASE_DETAILS f,CPV_RL_VERIFICATION_BVBT g 
+where a.case_id=b.case_id and a.case_id=c.case_id and b.case_id=c.case_id and c.fe_id=d.emp_id and a.case_id=f.case_id and 
+a.verification_type_id=e.verification_type_id and a.verification_type_id=b.verification_type_id and a.verification_type_id=c.verification_type_id and
+g.case_id=a.case_id and g.verification_type_id=a.verification_type_id and
+@ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+

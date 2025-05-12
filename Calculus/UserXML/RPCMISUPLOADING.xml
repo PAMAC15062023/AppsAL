@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>152</MenuID>
+    <Text>ATS</Text>
+    <Description>ATS</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>153</MenuID>
+      <Text>Import</Text>
+      <Description>Import</Description>
+      <PagePath>~/Pages/LOSTracker/ImportFile.aspx</PagePath>
+      <ParentID>152</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>183</MenuID>
+      <Text>MDR IMPORT</Text>
+      <Description>MDR IMPORT</Description>
+      <PagePath>~/Pages/LOSTracker/Import_MDR.aspx</PagePath>
+      <ParentID>152</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>167</MenuID>
+      <Text>MIS</Text>
+      <Description>MIS</Description>
+      <PagePath>~/Pages/LOSTracker/MIS.aspx</PagePath>
+      <ParentID>152</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>169</MenuID>
+      <Text>Error Update</Text>
+      <Description>Error Update</Description>
+      <PagePath>~/Pages/LOSTracker/Error_Update.aspx</PagePath>
+      <ParentID>152</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>186</MenuID>
+    <Text>RPC_OP</Text>
+    <Description>RPC_OP</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>187</MenuID>
+      <Text>Import</Text>
+      <Description>Import</Description>
+      <PagePath>~/Pages/RPC_OP/ImportFile.aspx</PagePath>
+      <ParentID>186</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>460</MenuID>
+    <Text>HDFC_RIG</Text>
+    <Description>HDFC_RIG</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>461</MenuID>
+      <Text>Import Form</Text>
+      <Description>Import Form</Description>
+      <PagePath>~/Pages/HDFC_LOSTracking/Import.aspx</PagePath>
+      <ParentID>460</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>462</MenuID>
+      <Text>Super Admin</Text>
+      <Description>Super Admin</Description>
+      <PagePath>~/Pages/HDFC_LOSTracking/SuperAdmin.aspx</PagePath>
+      <ParentID>460</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>463</MenuID>
+      <Text>LOS User</Text>
+      <Description>LOS User</Description>
+      <PagePath>~/Pages/HDFC_LOSTracking/HUserAssign.aspx</PagePath>
+      <ParentID>460</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>464</MenuID>
+      <Text>Export MIS</Text>
+      <Description>Export MIS</Description>
+      <PagePath>~/Pages/HDFC_LOSTracking/ExportData.aspx</PagePath>
+      <ParentID>460</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

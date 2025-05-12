@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>708</MenuID>
+    <Text>Hero Housing</Text>
+    <Description>Hero Housing</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>711</MenuID>
+      <Text>CAM Entry</Text>
+      <Description>CAM Entry</Description>
+      <PagePath>~/pages/HeroHousing/CAM.aspx</PagePath>
+      <ParentID>708</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

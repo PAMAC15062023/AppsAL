@@ -1,0 +1,141 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>1</MenuID>
+    <Text>Master</Text>
+    <Description>Master</Description>
+    <PagePath>D:\</PagePath>
+    <Menu>
+      <MenuID>59</MenuID>
+      <Text>Service Tax Master</Text>
+      <Description>Service Tax Master</Description>
+      <PagePath>~/Pages/Calculus/ServiceTax.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>60</MenuID>
+      <Text>Account Head</Text>
+      <Description>Account Head</Description>
+      <PagePath>~/Pages/Calculus/Account_LedgerInfo.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>58</MenuID>
+      <Text>Payee Masters</Text>
+      <Description>Payee Masters</Description>
+      <PagePath>~/Pages/Calculus/Payee_Master.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>49</MenuID>
+    <Text>Calculus Online Transactional</Text>
+    <Description>Calculus Online Transactional</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>50</MenuID>
+      <Text>Branch Payment Request</Text>
+      <Description>Branch Payment Request</Description>
+      <PagePath>~/Pages/Calculus/BranchPaymentRequest.aspx</PagePath>
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>86</MenuID>
+        <Text>Vender Payment Request</Text>
+        <Description>Vender Payment Request</Description>
+        <PagePath />
+        <ParentID>50</ParentID>
+        <Menu>
+          <MenuID>67</MenuID>
+          <Text>Payment Request -Add</Text>
+          <Description>Payment Request -Add</Description>
+          <PagePath>~/Pages/Calculus/BranchPaymentRequest.aspx</PagePath>
+          <ParentID>86</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>65</MenuID>
+          <Text>Payment Request -View</Text>
+          <Description>Payment Request -View</Description>
+          <PagePath>~/Pages/Calculus/BranchPaymentRequest_View.aspx</PagePath>
+          <ParentID>86</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>87</MenuID>
+        <Text>Cash Voucher Request</Text>
+        <Description>Cash Voucher Request</Description>
+        <PagePath />
+        <ParentID>50</ParentID>
+        <Menu>
+          <MenuID>88</MenuID>
+          <Text>Petty Cash Voucher Add</Text>
+          <Description>Petty Cash Voucher Add</Description>
+          <PagePath>~/Pages/Calculus/BranchPettyCashVoucherRequest.aspx</PagePath>
+          <ParentID>87</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>89</MenuID>
+          <Text>Petty Cash Voucher View</Text>
+          <Description>Petty Cash Voucher View</Description>
+          <PagePath>~/Pages/Calculus/BranchPettyCashVoucherRequest_View.aspx</PagePath>
+          <ParentID>87</ParentID>
+        </Menu>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>83</MenuID>
+      <Text>HO Payment Process</Text>
+      <Description>HO Payment Process</Description>
+      <PagePath />
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>62</MenuID>
+        <Text>Approve Vender Payment Request</Text>
+        <Description>Approve Vender Payment Request</Description>
+        <PagePath>~/Pages/Calculus/PaymentRequestProcess.aspx</PagePath>
+        <ParentID>83</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>68</MenuID>
+        <Text>Vender Payment -Add</Text>
+        <Description>Vender Payment -Add</Description>
+        <PagePath>~/Pages/Calculus/PaymentIssueProcess.aspx</PagePath>
+        <ParentID>83</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>84</MenuID>
+        <Text>Vender Payment -View</Text>
+        <Description>Vender Payment -View</Description>
+        <PagePath>~/Pages/Calculus/MakeBranchPaymentView.aspx</PagePath>
+        <ParentID>83</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>81</MenuID>
+        <Text>Make Branch Payment</Text>
+        <Description>Make Branch Payment</Description>
+        <PagePath>~/Pages/Calculus/MakeBranchPayment.aspx</PagePath>
+        <ParentID>83</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>61</MenuID>
+      <Text>BranchWise Opening Balance</Text>
+      <Description>BranchWise Opening Balance</Description>
+      <PagePath>~/Pages/Calculus/Set_Opening_Balance.aspx</PagePath>
+      <ParentID>49</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>82</MenuID>
+      <Text>Opening Balance Request</Text>
+      <Description>Opening Balance Request</Description>
+      <PagePath>~/Pages/Calculus/RequestOpeningBalance.aspx</PagePath>
+      <ParentID>49</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>85</MenuID>
+      <Text>Approve Balance Request</Text>
+      <Description>Approve Balance Request</Description>
+      <PagePath>~/Pages/Calculus/ApproveOpeBalReq.aspx</PagePath>
+      <ParentID>49</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

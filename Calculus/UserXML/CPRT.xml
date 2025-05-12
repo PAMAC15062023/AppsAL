@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>780</MenuID>
+    <Text>ChequePrinting</Text>
+    <Description>ChequePrinting</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>781</MenuID>
+      <Text>Cheque Book Details</Text>
+      <Description>Cheque Book Details</Description>
+      <PagePath>~/Pages/ChequePrinting/CPRT_ChequeBookDetails.aspx</PagePath>
+      <ParentID>780</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>782</MenuID>
+      <Text>Import File</Text>
+      <Description>Import File</Description>
+      <PagePath>~/Pages/ChequePrinting/CPRT_Importfile.aspx</PagePath>
+      <ParentID>780</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>783</MenuID>
+      <Text>Cheque Printing</Text>
+      <Description>Cheque Printing</Description>
+      <PagePath>~/Pages/ChequePrinting/CPRT_ChequePrinting.aspx</PagePath>
+      <ParentID>780</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>784</MenuID>
+      <Text>Manage Cheque</Text>
+      <Description>Manage Cheque</Description>
+      <PagePath>~/Pages/ChequePrinting/CPRT_ManageCheque.aspx</PagePath>
+      <ParentID>780</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>785</MenuID>
+      <Text>Report</Text>
+      <Description>Report</Description>
+      <PagePath>~/Pages/ChequePrinting/CPRT_Report.aspx</PagePath>
+      <ParentID>780</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

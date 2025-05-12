@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" MasterPageFile="~/Pages/Auxilo/sample.master" AutoEventWireup="true" CodeFile="Maker.aspx.cs" Inherits="Pages_HeroHousing_Maker" %>

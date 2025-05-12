@@ -1,0 +1,63 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="NegativeDedup.master.cs" Inherits="NegativeDedup_NegativeDedup" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>PAMAC Online</title>
+    <script language="javascript" type="text/javascript" src="../popcalendar.js"></script>
+    <link href="../StyleSheet.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>    
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr bgcolor="#4eb9ed">
+                <td valign="top"  style="height: 15px">
+                    <asp:Menu ID="Menu1" runat="server" Width="500px" StaticEnableDefaultPopOutImage="False" BackColor="#4EB9ED" DynamicHorizontalOffset="2"
+                        Font-Names="Arial" Font-Size="10pt" ForeColor="White" Orientation="Horizontal"
+                        StaticSubMenuIndent="10px" Font-Bold="True">
+                            <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                            <DynamicHoverStyle BackColor="#0093DD" ForeColor="White" />
+                            <DynamicMenuStyle BackColor="#4EB9ED" />
+                            <StaticSelectedStyle BackColor="#C4C1C1" />
+                            <DynamicSelectedStyle BackColor="#0093DD" />
+                            <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                        <Items>
+                            <asp:MenuItem Text="Negative Dedup" Value="Negative Dedup">
+                                <asp:MenuItem NavigateUrl="~/NegativeDedup/NegativeDedupProcess.aspx" Text="Negative Dedup Process"
+                                    Value="Negative Dedup Process">                               
+                                </asp:MenuItem>                            
+                                <asp:MenuItem NavigateUrl="~/NegativeDedup/NegativeDedupResult.aspx" Text="Negative Dedup Results" 
+                                    Value="Negative Dedup Results">
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/NegativeDedup/NegativeDedupRemarkUpdation.aspx" Text="Negative Dedup Remark Updation" 
+                                    Value="Negative Dedup Remark Updation">
+                                </asp:MenuItem>
+                            </asp:MenuItem>
+                        </Items>
+                    </asp:Menu>
+                </td>
+                
+                <td width="40%">
+                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tr>                
+                   
+                    <td><a href="../OrganizationTree.aspx" target="_parent">[My PMS]</a></td>        
+                    <td width="2%">&nbsp;</td>
+                    <td><a href="../Logout.aspx" target="_parent">[Sign Out]</a></td>
+                </tr>
+                </table>
+                </td>
+                </tr>
+                <tr>
+                     <td colspan="2">
+                        <asp:contentplaceholder id="C1" runat="server">
+                        </asp:contentplaceholder>
+                    </td>
+                </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

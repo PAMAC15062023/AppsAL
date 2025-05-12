@@ -1,0 +1,133 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>133</MenuID>
+    <Text>Admin Master</Text>
+    <Description>Admin Master</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>13</MenuID>
+      <Text>User Master</Text>
+      <Description>User Master</Description>
+      <PagePath>~/Pages/Usermaster.aspx</PagePath>
+      <ParentID>133</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>661</MenuID>
+    <Text>TCFSL CD Loans</Text>
+    <Description>TCFSL CD Loans</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>662</MenuID>
+      <Text>TCFSL Import</Text>
+      <Description>TCFSL Import</Description>
+      <PagePath />
+      <ParentID>661</ParentID>
+      <Menu>
+        <MenuID>681</MenuID>
+        <Text>TCFSL Import(DD/MM/YYYY)</Text>
+        <Description>TCFSL Import(DD/MM/YYYY)</Description>
+        <PagePath>~/Pages/TCFSL_CDLOAN/IMPORT.aspx</PagePath>
+        <ParentID>662</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>663</MenuID>
+      <Text>TCFSL Screening</Text>
+      <Description>TCFSL Screening</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/SFDC_Screening.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>696</MenuID>
+      <Text>UpdateProductCount</Text>
+      <Description>UpdateProductCount</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/UpdateProductCount.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>679</MenuID>
+      <Text>Screening</Text>
+      <Description>Screening</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/Screening_QC.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>664</MenuID>
+      <Text>TCFSL Maker</Text>
+      <Description>TCFSL Maker</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/Maker.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>665</MenuID>
+      <Text>TCFSL Author</Text>
+      <Description>TCFSL Author</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/Author.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>668</MenuID>
+      <Text>Superadmin</Text>
+      <Description>Superadmin</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/Superadmin.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>669</MenuID>
+      <Text>Role Master</Text>
+      <Description>Role Master</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/Role_Master.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>670</MenuID>
+      <Text>MIS</Text>
+      <Description>MIS</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/MIS.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>680</MenuID>
+      <Text>Daily Tracker</Text>
+      <Description>Daily Tracker</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/DailyTracker.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>683</MenuID>
+      <Text>Case Tracker View</Text>
+      <Description>Case Tracker View</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/Case_Tracker.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>684</MenuID>
+      <Text>Down Time Tracker</Text>
+      <Description>Down Time Tracker</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/DownTimeTracker.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>689</MenuID>
+      <Text>QC Res</Text>
+      <Description>QC Res</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/QCTracker.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

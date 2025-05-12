@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CEL_FeWise_Report" targetNamespace="http://tempuri.org/CEL_FeWise_Report.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/CEL_FeWise_Report.xsd" xmlns:mstns="http://tempuri.org/CEL_FeWise_Report.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="FEWiseSearch">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="FENAME" type="xs:string" />
+        <xs:element name="VERIFICATIONTYPE" type="xs:string" />
+        <xs:element name="Client" type="xs:string" />
+        <xs:element name="FROMDATE" type="xs:string" />
+        <xs:element name="TODATE" type="xs:string" />
+        <xs:element name="COMPANYNAME" type="xs:string" />
+        <xs:element name="NOOFCASES" type="xs:integer" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

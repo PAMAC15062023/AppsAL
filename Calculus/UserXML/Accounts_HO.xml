@@ -1,0 +1,120 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>1</MenuID>
+    <Text>Master</Text>
+    <Description>Master</Description>
+    <PagePath>D:\</PagePath>
+    <Menu>
+      <MenuID>59</MenuID>
+      <Text>Service Tax Master</Text>
+      <Description>Service Tax Master</Description>
+      <PagePath>~/Pages/Calculus/ServiceTax.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>60</MenuID>
+      <Text>Account Head</Text>
+      <Description>Account Head</Description>
+      <PagePath>~/Pages/Calculus/Account_LedgerInfo.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>58</MenuID>
+      <Text>Payee Masters</Text>
+      <Description>Payee Masters</Description>
+      <PagePath>~/Pages/Calculus/Payee_Master.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>49</MenuID>
+    <Text>Calculus Online Transactional</Text>
+    <Description>Calculus Online Transactional</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>83</MenuID>
+      <Text>HO Payment Process</Text>
+      <Description>HO Payment Process</Description>
+      <PagePath />
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>62</MenuID>
+        <Text>Authorize Payment Request</Text>
+        <Description>Authorize Payment Request</Description>
+        <PagePath>~/Pages/Calculus/PaymentRequestProcess.aspx</PagePath>
+        <ParentID>83</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>68</MenuID>
+        <Text>Branch Payment -Add</Text>
+        <Description>Branch Payment -Add</Description>
+        <PagePath>~/Pages/Calculus/PaymentIssueProcess.aspx</PagePath>
+        <ParentID>83</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>84</MenuID>
+        <Text>Branch Payment -View</Text>
+        <Description>Branch Payment -View</Description>
+        <PagePath>~/Pages/Calculus/MakeBranchPaymentView.aspx</PagePath>
+        <ParentID>83</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>97</MenuID>
+        <Text>Cheque Send To Branch</Text>
+        <Description>Cheque Send To Branch</Description>
+        <PagePath>~/Pages/Calculus/ChequeSendToBranch.aspx</PagePath>
+        <ParentID>83</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>91</MenuID>
+      <Text>Branch Opening Balance</Text>
+      <Description>Branch Opening Balance</Description>
+      <PagePath />
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>85</MenuID>
+        <Text>Approve Balance Request</Text>
+        <Description>Approve Balance Request</Description>
+        <PagePath>~/Pages/Calculus/ApproveOpeBalReq.aspx</PagePath>
+        <ParentID>91</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>92</MenuID>
+      <Text>Calculus Reports</Text>
+      <Description>Calculus Reports</Description>
+      <PagePath />
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>93</MenuID>
+        <Text>Cheque Request Tracker-Core</Text>
+        <Description>Cheque Request Tracker-Core</Description>
+        <PagePath>~/Pages/Calculus/reports/ChequePayoutReport.aspx?T=1</PagePath>
+        <ParentID>92</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>94</MenuID>
+        <Text>Cheque Request Tracker-Payout</Text>
+        <Description>Cheque Request Tracker-Payout</Description>
+        <PagePath>~/Pages/Calculus/reports/ChequePayoutReport.aspx?T=2</PagePath>
+        <ParentID>92</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>95</MenuID>
+        <Text>Input ServiceTax Report</Text>
+        <Description>Input ServiceTax Report</Description>
+        <PagePath>~/Pages/Calculus/reports/InputServiceTax.aspx</PagePath>
+        <ParentID>92</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>96</MenuID>
+        <Text>TDS Report</Text>
+        <Description>TDS Report</Description>
+        <PagePath>~/Pages/Calculus/reports/TDS_PayReport.aspx</PagePath>
+        <ParentID>92</ParentID>
+      </Menu>
+    </Menu>
+  </Menu>
+</Menus>

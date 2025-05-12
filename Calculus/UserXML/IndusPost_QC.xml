@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>496</MenuID>
+    <Text>IndusInd PL-POST</Text>
+    <Description>IndusInd PL-POST</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>500</MenuID>
+      <Text>QC stage QC-POST</Text>
+      <Description>QC stage QC-POST</Description>
+      <PagePath>~/Pages/postindus/PostProcessQC.aspx</PagePath>
+      <ParentID>496</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>501</MenuID>
+      <Text>PL Post Compare</Text>
+      <Description>PL Post Compare</Description>
+      <PagePath>~/Pages/postindus/PostProcess_Compare.aspx</PagePath>
+      <ParentID>496</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

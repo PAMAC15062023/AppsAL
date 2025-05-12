@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CEL_VerifierMIS" targetNamespace="http://tempuri.org/CEL_VerifierMIS.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/CEL_VerifierMIS.xsd" xmlns:mstns="http://tempuri.org/CEL_VerifierMIS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="VERIFIERMIS">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="_x005B_Name_x0020_of_x0020_Verifiers_x005D_" type="xs:string" />
+        <xs:element name="WV" type="xs:string" />
+        <xs:element name="HFP" type="xs:string" />
+        <xs:element name="_x005B_No_x0020_of_x0020_cases_x0020_Done_x005D_" type="xs:string" />
+        <xs:element name="_x005B_Total_x0020_SEC_x0020_Codes_x0020_Obtained_x005D_" type="xs:string" />
+        <xs:element name="_x005B__x0025_age_x0020_SEC_x0020_Codes_x0020_Obtained_x005D_" type="xs:string" />
+        <xs:element name="_x005B_Documents_x0020_sighted_x005D_" type="xs:string" />
+        <xs:element name="_x005B__x0025_age_x0020_Documents_x0020_sighted_x005D_" type="xs:string" />
+        <xs:element name="_x005B_Subscriber_x0020_met_x005D_" type="xs:string" />
+        <xs:element name="_x005B__x0025_age_x0020_Subscriber_x0020_met_x005D_" type="xs:string" />
+        <xs:element name="_x005B_Subscriber_x0020_not_x0020_met_x005D_" type="xs:string" />
+        <xs:element name="_x005B__x0025_age_x0020_Subscriber_x0020_not_x0020_met_x005D_" type="xs:string" />
+        <xs:element name="_x005B_NM_x005D_" type="xs:string" />
+        <xs:element name="_x005B__x0025_age_x0020_NM_x005D_" type="xs:string" />
+        <xs:element name="_x005B_TARIF_x0020_PLAN_x005D_" type="xs:string" />
+        <xs:element name="_x005B__x0025_age_x0020_TARIFPLAN_x005D_" type="xs:string" />
+        <xs:element name="_x005B_Bill_x0020_Explaination_x005D_" type="xs:string" />
+        <xs:element name="_x005B__x0025_age_x0020_Bill_x0020_Explaination_x005D_" type="xs:string" />
+        <xs:element name="_x005B_DDB_x005D_" type="xs:string" />
+        <xs:element name="_x005B__x0025_age_x0020_Bill_x0020_DDB_x005D_" type="xs:string" />
+        <xs:element name="FROMDATE" type="xs:string" />
+        <xs:element name="TODATE" type="xs:string" />
+        <xs:element name="COMPANYNAME" type="xs:string" />
+        <xs:element name="TotalCase" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

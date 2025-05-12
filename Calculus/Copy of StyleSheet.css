@@ -1,0 +1,96 @@
+﻿.Masterbody
+{
+	font-weight: normal;
+	font-size: 8pt;
+	font-family: Verdana, Tahoma;
+	background-color: #cccccc;
+}
+
+.Pagebody
+{
+	font-weight: normal;
+	font-size: 8pt;
+	font-family: Verdana, Tahoma;
+	background-color: #ffffff;
+}
+ 
+body
+{
+	font-weight: normal;
+	font-size: 8pt;
+	font-family: Verdana, Tahoma;
+}
+.dropdown
+{
+	font-weight: normal;
+	font-size: 7pt;
+	font-family: Verdana, Tahoma;
+}
+.UpdateMessage
+{
+	font-weight: bold;
+	font-size: 8pt;
+	color: maroon;
+	font-family: Verdana, Tahoma;
+	background-color: navajowhite;
+	text-decoration: underline overline;
+}
+.ErrorMessage
+{
+	font-weight: bold;
+	font-size: 8pt;
+	color: red;
+	font-family: Verdana, Tahoma;
+	background-color: white;
+	text-decoration: underline overline;
+}
+
+.TableHeader
+{
+	font-weight: bold;
+	font-size: 9pt;
+	color: white;
+	border-bottom: #ffff00 thin solid;
+	font-family: Verdana, Tahoma;
+	background-color: #990000;
+}
+
+.TableTitle
+{
+	font-weight: bold;
+	font-size: 8pt;
+	color: maroon;
+	font-family: Verdana, Tahoma;
+	background-color: antiquewhite;
+	border-right: #660000 1px solid;
+	border-top: #660000 1px solid;
+	border-left: #660000 1px solid;
+	border-bottom: #660000 1px solid;
+}
+
+.Table
+{
+	font-size: 8pt;
+	font-family: Verdana, Tahoma;
+	border-right: white 1px solid;
+	border-top: white 1px solid;
+	border-left: white 1px solid;
+	border-bottom: white 1px solid;
+	
+}
+
+.TEXTBOX
+{
+	font-size: 8pt;
+	font-family: Verdana, Tahoma;
+	 
+	text-transform: uppercase;
+}
+TEXTAREA
+{
+	font-size: 8pt;
+	font-family: Verdana, Tahoma;
+	background-color: #ffff99;
+}
+	
+

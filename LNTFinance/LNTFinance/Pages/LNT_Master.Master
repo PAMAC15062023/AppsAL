@@ -1,0 +1,227 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="LNT_Master.Master.cs" Inherits="LNTFinance.Pages.LNT_User" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="icon" type="image/gif" href="animated_favicon1.gif" />
+    <title>LNT Finance LTD</title>
+    <link href="../App_Assets/css/StyleSheet.css" rel="stylesheet" />
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .navbar {
+            overflow: hidden;
+            background-color: gainsboro;
+            border: 1px solid;
+        }
+
+            .navbar a {
+                float: left;
+                font-size: 16px;
+                color: black;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+
+        .dropdown {
+            float: left;
+            overflow: hidden;
+        }
+
+            .dropdown .dropbtn {
+                font-size: 15px;
+                border: none;
+                outline: none;
+                color: black;
+                /*padding: 14px 16px;*/
+                background-color: inherit;
+                font-family: inherit;
+                margin: 0;
+            }
+
+            .navbar a:hover, .dropdown:hover .dropbtn {
+                background-color: #0089ff;
+            }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            /*min-width: 160px;*/
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+            .dropdown-content a {
+                float: none;
+                color: black;
+                padding: 1px 19px;
+                text-decoration: none;
+                display: block;
+                text-align: left;
+                border: 1px solid;
+                font-size: small;
+            }
+
+                .dropdown-content a:hover {
+                    background-color: #ddd;
+                }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table border="0" cellpadding="0" cellspacing="0" style="font-size: 8pt; width: 867px; font-family: Verdana, Tahoma; border-bottom-width: thin; border-bottom-color: #990033; height: 500px;">
+                <tr>
+                    <td align="left" valign="top">
+                        <table border="0" cellpadding="0" cellspacing="0" width="1300px">
+                        <td colspan="5" style="font-weight: bold; font-size: 20pt; color: blue; font-family: Verdana, Tahoma; background-color: gainsboro; border-top: gold thin solid;">&nbsp; &nbsp;&nbsp;&nbsp;<span><asp:Image ID="Image1" runat="server" ImageUrl="Calc.jpg" /></span>
+                            <asp:Label ID="lblWelcome" runat="server" Font-Bold="True"></asp:Label>
+                        </td>
+
+                    <tr>
+                        <td>
+                            <table cellspacing="0" border="0" cellpadding="2" width="100%">
+                                <tr>
+                                    <td style="height: 17px">
+                                        <asp:Label ID="lblUserName" runat="server" Font-Bold="True"></asp:Label>
+                                    </td>
+                                    <td align="right" style="height: 17px">&nbsp;&nbsp;<asp:LinkButton
+                                        ID="lnkChangePassword" runat="server" Font-Bold="True" ToolTip="Change Password" OnClick="lnkChangePassword_Click">Change Password</asp:LinkButton>
+                                        &nbsp;&nbsp;
+                                        &nbsp;&nbsp;<asp:LinkButton
+                                            ID="lnkLogOut" runat="server" Font-Bold="True" ToolTip="Log out from Nano PRO" OnClick="lnkLogOut_Click">Log out</asp:LinkButton>
+                                        &nbsp;&nbsp;
+                                    </td>
+                                </tr>
+                            </table>
+                            &nbsp;
+                        </td>
+                    </tr>
+            </table>
+            <div class="navbar">
+                <div class="dropdown">
+                    <button class="dropbtn">
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        Menu 
+      <i class="fa fa-caret-down"></i>
+                    </button>
+                    <%---------------------------------------------------------------------------------%>
+                    <div class="dropdown-content" id="LNT_UserMenu" runat="server" visible="false">
+                        <a href="LNT_TWLData.aspx">TWL Data</a>
+                    </div>
+                    <div class="dropdown-content" id="LNT_AdminMenu" runat="server" visible="false">
+                        <a href="LNT_UserMaster.aspx">User Master</a>
+                    </div>
+                    <div class="dropdown-content" id="LNT_SupervisorMenu" runat="server" visible="false">
+                        <a href="TWLDataUserTATReport.aspx">TWL User TAT Report</a>
+                    </div>
+                    <%---------------------------------------------------------------------------------%>
+                    <div class="dropdown-content" id="CLL_UserMenu" runat="server" visible="false">
+                        <a href="LNT_TWLData.aspx">TWL Data</a>
+                    </div>
+                    <div class="dropdown-content" id="CLL_Admin" runat="server" visible="false">
+                        <a href="LNT_UserMaster.aspx">User Master</a>
+                    </div>
+                    <div class="dropdown-content" id="CLL_Supervisor" runat="server" visible="false">
+                        <a href="TWLDataUserTATReport.aspx">TWL User TAT Report</a>
+                    </div>
+                    <%---------------------------------------------------------------------------------%>
+                    <div class="dropdown-content" id="LFTSTL_UserMenu" runat="server" visible="false">
+                        <a href="LNT_TWLData.aspx">LFTS TL</a>
+                    </div>
+                    <div class="dropdown-content" id="LFTSTL_Admin" runat="server" visible="false">
+                        <a href="TWLDataUserTATReport.aspx">LFTS TL TAT Report</a>
+                        <a href="LNT_UserMaster.aspx">User Master</a>
+                        <a href="DataPurge.aspx">Data Purge</a>
+                    </div>
+                    <div class="dropdown-content" id="LFTSTL_Supervisor" runat="server" visible="false">
+                        <a href="TWLDataUserTATReport.aspx">LFTS TL TAT Report</a>
+                        <a href="LNT_UserMaster.aspx">User Master</a>
+                    </div>
+                    <%---------------------------------------------------------------------------------%>
+                    <div class="dropdown-content" id="IP_UserMenu" runat="server" visible="false">
+                        <a href="LNT_LTFS_IP.aspx">LTFS IP</a>
+                        <a href="LNT_UserReport.aspx">Report</a>
+                    </div>
+                    <div class="dropdown-content" id="IP_Admin" runat="server" visible="false">
+                        <a href="LNT_ReportSummary.aspx">Report</a>
+                        <a href="LNT_UserMaster.aspx">User Master</a>
+                        <a href="DataPurge.aspx">Data Purge</a>
+                    </div>
+                    <div class="dropdown-content" id="PMS_Admin" runat="server" visible="false">
+                        <a href="LNT_ManageEmailID.aspx">Manage Email ID</a>
+                        <a href="LNT_PurgingEmailSend.aspx">Email Send On Purging</a>
+                        <a href="LNT_PurgingEmailSend_ViewLog.aspx">Email Send View Log</a>
+                    </div>
+                    <div class="dropdown-content" id="IP_Supervisor" runat="server" visible="false">
+                        <a href="LNT_ReportSummary.aspx">Report</a>
+                        <a href="LNT_UserMaster.aspx">User Master</a>
+                    </div>
+                    <%---------------------------------------------------------------------------------%>
+                    <div class="dropdown-content" id="FL_UserManu" runat="server" visible="false">
+                        <a href="LNT_FarmDigital.aspx">Farm Digital Data</a>
+                        <a href="FarmDigitalUserTATReport.aspx">Report</a>
+                    </div>
+                    <div class="dropdown-content" id="FL_Admin" runat="server" visible="false">
+                        <a href="LNT_UserMaster.aspx">User Master</a>
+                    </div>
+                    <div class="dropdown-content" id="FL_Supervisor" runat="server" visible="false">
+                        <a href="FarmDigitalUserTATReport.aspx">Farm Digital User TAT Report</a>
+                        <a href="LNT_UserMaster.aspx">User Master</a>
+                    </div>
+                    <%---------------------------------------------------------------------------------%>
+                </div>
+            </div>
+
+            <table style="width: 863px">
+                <tr>
+                    <td align="left" style="text-align: right" valign="top">
+                        <asp:Label ID="lblMasterFileInfo" runat="server" Font-Bold="False" ForeColor="Maroon"></asp:Label></td>
+                </tr>
+                <tr>
+                    <td align="left" valign="top">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" valign="top" style="border-top: #990000 1px solid; font-size: 8pt; color: gray; font-family: Verdana, Tahoma; border-bottom-width: 1px; border-bottom-color: #990000; background-color: gainsboro;">
+                        <span style="color: firebrick; font-size: 8pt; border-bottom-width: 1px; border-bottom-color: #990000; font-family: Verdana;">Developed by PAMAC IT Software Dept.</span></td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>

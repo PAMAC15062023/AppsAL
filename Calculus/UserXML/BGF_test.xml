@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>579</MenuID>
+    <Text>Menu</Text>
+    <Description>Menu</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>596</MenuID>
+      <Text>DedupSearch</Text>
+      <Description>DedupSearch</Description>
+      <PagePath>~/Pages/Inword Tracking Module/DedupSearch.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

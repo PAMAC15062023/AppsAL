@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CoverLetter" targetNamespace="http://tempuri.org/CoverLetter.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/CoverLetter.xsd" xmlns:mstns="http://tempuri.org/CoverLetter.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="COVERLETTER">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="VERIFICATIONCODE" type="xs:string" />
+        <xs:element name="REFNO" type="xs:string" />
+        <xs:element name="CASERECDATETIME" type="xs:string" />
+        <xs:element name="NAME" type="xs:string" />
+        <xs:element name="SENDDATETIME" type="xs:string" />
+        <xs:element name="FROMDATE" type="xs:string" />
+        <xs:element name="TODATE" type="xs:string" />
+        <xs:element name="COMPANYNAME" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

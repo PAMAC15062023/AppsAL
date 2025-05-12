@@ -1,0 +1,126 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>503</MenuID>
+    <Text>IDFC</Text>
+    <Description>IDFC</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>504</MenuID>
+      <Text>IDFC Data</Text>
+      <Description>IDFC Data</Description>
+      <PagePath>~/Pages/IDFC/IDFC.aspx</PagePath>
+      <ParentID>503</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>506</MenuID>
+      <Text>Discrepency Incomplete</Text>
+      <Description>Discrepency Incomplete</Description>
+      <PagePath>~/Pages/IDFC/Discrepancy.aspx</PagePath>
+      <ParentID>503</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>507</MenuID>
+      <Text>IDFC MIS</Text>
+      <Description>IDFC MIS</Description>
+      <PagePath>~/Pages/IDFC/IDFCMIS.aspx</PagePath>
+      <ParentID>503</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>513</MenuID>
+      <Text>FI Form</Text>
+      <Description>FI Form</Description>
+      <PagePath>~/Pages/IDFC/FI_Form.aspx</PagePath>
+      <ParentID>503</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>514</MenuID>
+      <Text>Credit Manager</Text>
+      <Description>Credit Manager</Description>
+      <PagePath>~/Pages/IDFC/IDFCCreditManager.aspx</PagePath>
+      <ParentID>503</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>536</MenuID>
+      <Text>Agency Manager</Text>
+      <Description>Agency Manager</Description>
+      <PagePath>~/Pages/IDFC/IDFCAgencymanager.aspx</PagePath>
+      <ParentID>503</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>657</MenuID>
+      <Text>Credit Manager BL</Text>
+      <Description>Credit Manager BL</Description>
+      <PagePath>~/Pages/IDFC/IDFCCreditmanagerBL.aspx</PagePath>
+      <ParentID>503</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>661</MenuID>
+    <Text>TCFSL CD Loans</Text>
+    <Description>TCFSL CD Loans</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>662</MenuID>
+      <Text>TCFSL Import</Text>
+      <Description>TCFSL Import</Description>
+      <PagePath />
+      <ParentID>661</ParentID>
+      <Menu>
+        <MenuID>681</MenuID>
+        <Text>TCFSL Import(DD/MM/YYYY)</Text>
+        <Description>TCFSL Import(DD/MM/YYYY)</Description>
+        <PagePath>~/Pages/TCFSL_CDLOAN/IMPORT.aspx</PagePath>
+        <ParentID>662</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>682</MenuID>
+        <Text>TCFSL Import(MM/DD/YYYY)</Text>
+        <Description>TCFSL Import(MM/DD/YYYY)</Description>
+        <PagePath>~/Pages/TCFSL_CDLOAN/IMPORT_MMDDYYYY.aspx</PagePath>
+        <ParentID>662</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>663</MenuID>
+      <Text>TCFSL Screening</Text>
+      <Description>TCFSL Screening</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/SFDC_Screening.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>679</MenuID>
+      <Text>Screening QC</Text>
+      <Description>Screening QC</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/Screening_QC.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>664</MenuID>
+      <Text>TCFSL Maker</Text>
+      <Description>TCFSL Maker</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/Maker.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>665</MenuID>
+      <Text>TCFSL Author</Text>
+      <Description>TCFSL Author</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/Author.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

@@ -1,0 +1,330 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>1</MenuID>
+    <Text>Common Master</Text>
+    <Description>Common Master</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>126</MenuID>
+      <Text>Change Password</Text>
+      <Description>Change Password</Description>
+      <PagePath>~/Pages/Change_Password.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>49</MenuID>
+    <Text>Calculus Online Transactional</Text>
+    <Description>Calculus Online Transactional</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>50</MenuID>
+      <Text>Branch Payment Request</Text>
+      <Description>Branch Payment Request</Description>
+      <PagePath>~/Pages/Calculus/BranchPaymentRequest.aspx</PagePath>
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>86</MenuID>
+        <Text>Vendor Payment Request</Text>
+        <Description>Vendor Payment Request</Description>
+        <PagePath />
+        <ParentID>50</ParentID>
+        <Menu>
+          <MenuID>67</MenuID>
+          <Text>Payment Request -Add</Text>
+          <Description>Payment Request -Add</Description>
+          <PagePath>~/Pages/Calculus/BranchPaymentRequest.aspx</PagePath>
+          <ParentID>86</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>65</MenuID>
+          <Text>Payment Request -View</Text>
+          <Description>Payment Request -View</Description>
+          <PagePath>~/Pages/Calculus/BranchPaymentRequest_View.aspx</PagePath>
+          <ParentID>86</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>146</MenuID>
+        <Text>Utility Payment Request</Text>
+        <Description>Utility Payment Request</Description>
+        <PagePath />
+        <ParentID>50</ParentID>
+        <Menu>
+          <MenuID>147</MenuID>
+          <Text>Payment Request -Add</Text>
+          <Description>Payment Request -Add</Description>
+          <PagePath>~/Pages/Calculus/BranchUtilityPaymentRequest.aspx</PagePath>
+          <ParentID>146</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>148</MenuID>
+          <Text>Utility Payment Request -View</Text>
+          <Description>Utility Payment Request -View</Description>
+          <PagePath>~/Pages/Calculus/BranchUtilityPaymentRequest_View.aspx</PagePath>
+          <ParentID>146</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>87</MenuID>
+        <Text>Cash Voucher Request</Text>
+        <Description>Cash Voucher Request</Description>
+        <PagePath />
+        <ParentID>50</ParentID>
+        <Menu>
+          <MenuID>88</MenuID>
+          <Text>Petty Cash Voucher Add</Text>
+          <Description>Petty Cash Voucher Add</Description>
+          <PagePath>~/Pages/Calculus/BranchPettyCashVoucherRequest.aspx</PagePath>
+          <ParentID>87</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>89</MenuID>
+          <Text>Petty Cash Voucher View</Text>
+          <Description>Petty Cash Voucher View</Description>
+          <PagePath>~/Pages/Calculus/BranchPettyCashVoucherRequest_View.aspx</PagePath>
+          <ParentID>87</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>122</MenuID>
+        <Text>Other Than 
+Petty Cash Request</Text>
+        <Description>Other Than 
+Petty Cash Request</Description>
+        <PagePath>~/Pages/Calculus/OtherThanPettyCash_View.aspx</PagePath>
+        <ParentID>50</ParentID>
+        <Menu>
+          <MenuID>123</MenuID>
+          <Text>Other Than Petty Cash -Add</Text>
+          <Description>Other Than Petty Cash -Add</Description>
+          <PagePath>~/Pages/Calculus/OtherThanPettyCash.aspx</PagePath>
+          <ParentID>122</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>124</MenuID>
+          <Text>Other Than Petty Cash -View</Text>
+          <Description>Other Than Petty Cash -View</Description>
+          <PagePath>~/Pages/Calculus/OtherThanPettyCash_View.aspx</PagePath>
+          <ParentID>122</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>192</MenuID>
+        <Text>Employee Payment Request</Text>
+        <Description>Employee Payment Request</Description>
+        <PagePath />
+        <ParentID>50</ParentID>
+        <Menu>
+          <MenuID>193</MenuID>
+          <Text>EPM Request -ADD</Text>
+          <Description>EPM Request -ADD</Description>
+          <PagePath>~/Pages/Calculus/EPMAddRequest.aspx</PagePath>
+          <ParentID>192</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>194</MenuID>
+          <Text>EPM Request- View</Text>
+          <Description>EPM Request- View</Description>
+          <PagePath>~/Pages/Calculus/EPMViewRequest.aspx</PagePath>
+          <ParentID>192</ParentID>
+        </Menu>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>92</MenuID>
+      <Text>Calculus Reports</Text>
+      <Description>Calculus Reports</Description>
+      <PagePath />
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>93</MenuID>
+        <Text>Cheque Request Tracker-Core</Text>
+        <Description>Cheque Request Tracker-Core</Description>
+        <PagePath>~/Pages/Calculus/reports/ChequePayoutReport.aspx?T=1</PagePath>
+        <ParentID>92</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>94</MenuID>
+        <Text>Cheque Request Tracker-Payout</Text>
+        <Description>Cheque Request Tracker-Payout</Description>
+        <PagePath>~/Pages/Calculus/reports/ChequePayoutReport.aspx?T=2</PagePath>
+        <ParentID>92</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>95</MenuID>
+        <Text>Input ServiceTax Report</Text>
+        <Description>Input ServiceTax Report</Description>
+        <PagePath>~/Pages/Calculus/reports/InputServiceTax.aspx</PagePath>
+        <ParentID>92</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>96</MenuID>
+        <Text>TDS Report</Text>
+        <Description>TDS Report</Description>
+        <PagePath>~/Pages/Calculus/reports/TDS_PayReport.aspx</PagePath>
+        <ParentID>92</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>136</MenuID>
+        <Text>Calculus User Defined Reports</Text>
+        <Description>Calculus User Defined Reports</Description>
+        <PagePath>~/Pages/Calculus/Reports/CalculusUserDefinedReports.aspx</PagePath>
+        <ParentID>92</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>678</MenuID>
+        <Text>Calculus User Defined Reports Accounts</Text>
+        <Description>Calculus User Defined Reports Accounts</Description>
+        <PagePath>~/Pages/Calculus/Reports/Account_CalculusUserDefinedReports.aspx</PagePath>
+        <ParentID>92</ParentID>
+      </Menu>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>111</MenuID>
+      <Text>Ticket Assignment</Text>
+      <Description>Ticket Assignment</Description>
+      <PagePath>~/Pages/Helpdesk/TicketAssignment.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>171</MenuID>
+      <Text>Reports</Text>
+      <Description>Reports</Description>
+      <PagePath>~/pages/helpdesk/Report.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>297</MenuID>
+    <Text>I-RPC</Text>
+    <Description>I-RPC</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>298</MenuID>
+      <Text>Import Data</Text>
+      <Description>Import Data</Description>
+      <PagePath>~/Pages/ICICIRPC/importfile.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>300</MenuID>
+      <Text>BDE</Text>
+      <Description>BDE</Description>
+      <PagePath>~/Pages/ICICIRPC/BDE.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>310</MenuID>
+      <Text>Bank calculation</Text>
+      <Description>Bank calculation</Description>
+      <PagePath>~/Pages/ICICIRPC/Bank_Cal.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>301</MenuID>
+      <Text>CAM</Text>
+      <Description>CAM</Description>
+      <PagePath>~/Pages/ICICIRPC/CAM.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>302</MenuID>
+      <Text>CPV</Text>
+      <Description>CPV</Description>
+      <PagePath>~/Pages/ICICIRPC/CPV.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>311</MenuID>
+      <Text>Doc Upload</Text>
+      <Description>Doc Upload</Description>
+      <PagePath>~/Pages/ICICIRPC/Doc_import.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>305</MenuID>
+      <Text>SuperAdmin</Text>
+      <Description>SuperAdmin</Description>
+      <PagePath>~/Pages/ICICIRPC/Superadmin.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>306</MenuID>
+      <Text>QC Tracking</Text>
+      <Description>QC Tracking</Description>
+      <PagePath>~/Pages/ICICIRPC/QCError.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>303</MenuID>
+      <Text>Search page</Text>
+      <Description>Search page</Description>
+      <PagePath>~/Pages/ICICIRPC/Search.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>304</MenuID>
+      <Text>MIS</Text>
+      <Description>MIS</Description>
+      <PagePath>~/Pages/ICICIRPC/ICICI_MIS.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>307</MenuID>
+      <Text>Role Master</Text>
+      <Description>Role Master</Description>
+      <PagePath>~/Pages/ICICIRPC/Rolemaster.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>312</MenuID>
+      <Text>Cam Edit</Text>
+      <Description>Cam Edit</Description>
+      <PagePath>~/Pages/ICICIRPC/did_edit.aspx</PagePath>
+      <ParentID>297</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>378</MenuID>
+      <Text>Location Master I-RPC</Text>
+      <Description>Location Master I-RPC</Description>
+      <PagePath />
+      <ParentID>297</ParentID>
+      <Menu>
+        <MenuID>361</MenuID>
+        <Text>Location Master PL</Text>
+        <Description>Location Master PL</Description>
+        <PagePath>~/Pages/ICICIRPC/LocationMaster.aspx</PagePath>
+        <ParentID>378</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>362</MenuID>
+        <Text>Location Master AL</Text>
+        <Description>Location Master AL</Description>
+        <PagePath>~/Pages/ICICIRPC/AL_locationmaster.aspx</PagePath>
+        <ParentID>378</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>363</MenuID>
+        <Text>Location Master HL</Text>
+        <Description>Location Master HL</Description>
+        <PagePath>~/Pages/ICICIRPC/HLlocation.aspx</PagePath>
+        <ParentID>378</ParentID>
+      </Menu>
+    </Menu>
+  </Menu>
+</Menus>

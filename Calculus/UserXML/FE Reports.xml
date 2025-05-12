@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>18</MenuID>
+    <Text>Custom Reports</Text>
+    <Description>Custom Reports</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>19</MenuID>
+      <Text>FE Productivity MIS</Text>
+      <Description>FE Productivity MIS</Description>
+      <PagePath />
+      <ParentID>18</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>44</MenuID>
+      <Text>FE Productivity MIS Monthly</Text>
+      <Description>FE Productivity MIS Monthly</Description>
+      <PagePath />
+      <ParentID>18</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CEL_ClaimMISBilling" targetNamespace="http://tempuri.org/CEL_ClaimMISBilling.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/CEL_ClaimMISBilling.xsd" xmlns:mstns="http://tempuri.org/CEL_ClaimMISBilling.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="CLAIMMISBILLING">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="CaseType" type="xs:string" />
+        <xs:element name="TotalCount" type="xs:string" />
+        <xs:element name="APP_MET" type="xs:string" />
+        <xs:element name="APP_NOT_MET" type="xs:string" />
+        <xs:element name="FROMDATE" type="xs:string" />
+        <xs:element name="TODATE" type="xs:string" />
+        <xs:element name="COMPANYNAME" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

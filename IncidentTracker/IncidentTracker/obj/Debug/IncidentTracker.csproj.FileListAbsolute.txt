@@ -1,0 +1,95 @@
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\IncidentTracker.dll.config
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\IncidentTracker.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\IncidentTracker.pdb
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\csc.exe
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\csc.exe.config
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\csc.rsp
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\csi.exe
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\csi.rsp
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\System.AppContext.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\System.Collections.Immutable.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\System.IO.FileSystem.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\System.Reflection.Metadata.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\vbc.exe
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\vbc.exe.config
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\vbc.rsp
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\VBCSCompiler.exe
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\roslyn\VBCSCompiler.exe.config
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\Antlr3.Runtime.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\AspNet.ScriptManager.jQuery.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\Microsoft.Web.Infrastructure.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\Newtonsoft.Json.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\System.Web.Optimization.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\WebGrease.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\System.Web.Optimization.xml
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\Newtonsoft.Json.xml
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\Antlr3.Runtime.pdb
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\obj\Debug\IncidentTracker.csproj.CoreCompileInputs.cache
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\obj\Debug\IncidentTracker.csproj.CopyComplete
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\obj\Debug\IncidentTracker.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\obj\Debug\IncidentTracker.pdb
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\SqlServerTypes\x64\msvcr120.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\SqlServerTypes\x86\msvcr120.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\Microsoft.SqlServer.Types.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\BouncyCastle.Crypto.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\itextsharp.dll
+E:\Yasir\My Data\Incident Tracker Module\IncidentTracker\IncidentTracker\bin\itextsharp.xml
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\SqlServerTypes\x64\msvcr120.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\SqlServerTypes\x86\msvcr120.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\IncidentTracker.dll.config
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\IncidentTracker.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\IncidentTracker.pdb
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\csc.exe
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\csc.exe.config
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\csc.rsp
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\csi.exe
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\csi.rsp
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\System.AppContext.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\System.Collections.Immutable.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\System.IO.FileSystem.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\System.Reflection.Metadata.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\vbc.exe
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\vbc.exe.config
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\vbc.rsp
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\VBCSCompiler.exe
+D:\UAT_Applications\IncidentTracker\IncidentTracker\bin\roslyn\VBCSCompiler.exe.config
+D:\UAT_Applications\IncidentTracker\IncidentTracker\obj\Debug\IncidentTracker.csproj.CoreCompileInputs.cache
+D:\UAT_Applications\IncidentTracker\IncidentTracker\obj\Debug\IncidentTracker.csproj.CopyComplete
+D:\UAT_Applications\IncidentTracker\IncidentTracker\obj\Debug\IncidentTracker.dll
+D:\UAT_Applications\IncidentTracker\IncidentTracker\obj\Debug\IncidentTracker.pdb

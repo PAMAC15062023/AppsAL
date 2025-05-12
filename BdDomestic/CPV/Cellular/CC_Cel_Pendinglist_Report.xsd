@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CC_Cel_Pendinglist_Report" targetNamespace="http://tempuri.org/CC_Cel_Pendinglist_Report.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/CC_Cel_Pendinglist_Report.xsd" xmlns:mstns="http://tempuri.org/CC_Cel_Pendinglist_Report.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="PENDINGLIST">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Name" type="xs:string" />
+        <xs:element name="ZipCode" type="xs:string" />
+        <xs:element name="FROMDATE" type="xs:string" />
+        <xs:element name="TODATE" type="xs:string" />
+        <xs:element name="ResidenceAddres" type="xs:string" />
+        <xs:element name="COMPANYNAME" type="xs:string" />
+        <xs:element name="Client" type="xs:string" />
+        <xs:element name="SrNo" type="xs:string" />
+        <xs:element name="RefNo" type="xs:string" />
+        <xs:element name="CellNo" type="xs:string" />
+        <xs:element name="CompName" type="xs:string" />
+        <xs:element name="customerClass" type="xs:string" />
+        <xs:element name="PhNo1" type="xs:string" />
+        <xs:element name="PhNo2" type="xs:string" />
+        <xs:element name="FE_x0020_Name" type="xs:string" />
+        <xs:element name="CASE_TYPE_CODE" type="xs:string" />
+        <xs:element name="RECD_DATE" type="xs:string" />
+        <xs:element name="CASE_ID" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

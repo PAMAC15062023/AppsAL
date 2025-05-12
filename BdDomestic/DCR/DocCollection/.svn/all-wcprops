@@ -1,0 +1,905 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection
+END
+TELETIMELOG.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/TELETIMELOG.aspx
+END
+oveall_remarks.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/oveall_remarks.aspx.cs
+END
+CC_OverallCaseStatus.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_OverallCaseStatus.aspx.cs
+END
+CC_ResidenceVerification.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_ResidenceVerification.aspx.cs
+END
+CaseStatusView.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CaseStatusView.aspx.cs
+END
+excelSBISocoutput.xls
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/excelSBISocoutput.xls
+END
+telecilentwisereport.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/telecilentwisereport.aspx.cs
+END
+CC_FEWiseSearch.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_FEWiseSearch.aspx.cs
+END
+CC_Import.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_Import.aspx.cs
+END
+CC_SMSGeneration.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_SMSGeneration.aspx
+END
+ClaimMISReport.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/ClaimMISReport.rpt
+END
+CC_ResidenceVerificationTelephonic.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_ResidenceVerificationTelephonic.aspx
+END
+CC_FEAutoAssignment.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_FEAutoAssignment.aspx.cs
+END
+CC_FE_Login_View.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_FE_Login_View.aspx.cs
+END
+Dcr_Mis_Tele_Report.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/Dcr_Mis_Tele_Report.aspx.cs
+END
+SendDateNull.aspx.vb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/SendDateNull.aspx.vb
+END
+CC_FEAssignment.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_FEAssignment.aspx
+END
+CC_TCAutoWiseReport.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_TCAutoWiseReport.aspx
+END
+CC_Export.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_Export.aspx.cs
+END
+CC_TCAutoWiseReport.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_TCAutoWiseReport.aspx.cs
+END
+CC_FEAssignment.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_FEAssignment.aspx.cs
+END
+crFEWiseReport.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/crFEWiseReport.rpt
+END
+Sup_remarks.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/Sup_remarks.aspx.cs
+END
+CC_ClaimMISReport.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_ClaimMISReport.aspx
+END
+CC_SearchSms.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_SearchSms.aspx.cs
+END
+NoAccess.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/NoAccess.aspx.cs
+END
+CC_FeAssignmentNew.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_FeAssignmentNew.aspx
+END
+CC_LabelPrinting.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_LabelPrinting.aspx.cs
+END
+HdfcCC.xls
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/HdfcCC.xls
+END
+CC_CaseEntry.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_CaseEntry.aspx.cs
+END
+CC_Crawler.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_Crawler.aspx.cs
+END
+crTcAutoReport.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/crTcAutoReport.rpt
+END
+CC_FEWiseSearch.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_FEWiseSearch.aspx
+END
+RejectCaseMIS.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/RejectCaseMIS.aspx
+END
+Default.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/Default.aspx
+END
+CC_SMSGeneration.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_SMSGeneration.aspx.cs
+END
+CC_PendingList.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_PendingList.aspx.cs
+END
+MIS_Centre_VerificationType.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/MIS_Centre_VerificationType.aspx
+END
+CC_SearchSms.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_SearchSms.aspx
+END
+TeleMisReport.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/TeleMisReport.aspx.cs
+END
+PendingList.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/PendingList.xsd
+END
+CC_BatchDedup.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_BatchDedup.aspx
+END
+CaseStatusView.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CaseStatusView.aspx
+END
+CC_BatchDedup.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_BatchDedup.aspx.cs
+END
+cc_import_transact.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/cc_import_transact.aspx
+END
+CC_TC_Assign.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_TC_Assign.aspx
+END
+CC_PendingList.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_PendingList.aspx
+END
+CC_SMS_Generation.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_SMS_Generation.aspx.cs
+END
+PendingList.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/PendingList.xsx
+END
+SendToClient.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/SendToClient.aspx
+END
+StdOutput.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/StdOutput.xsd
+END
+CC_DeDupSearch.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_DeDupSearch.aspx.cs
+END
+CC_CaseEntry.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_CaseEntry.aspx
+END
+rptTAT_Report.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/rptTAT_Report.rpt
+END
+CC_Import_Dump.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_Import_Dump.aspx
+END
+cryCoverLetter.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/cryCoverLetter.rpt
+END
+TcAssignedCasesQueue.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/TcAssignedCasesQueue.aspx
+END
+excelBARCLAYoutput.xls
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/excelBARCLAYoutput.xls
+END
+TcAssignedCasesQueue.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/TcAssignedCasesQueue.aspx.cs
+END
+CC_Import.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_Import.aspx
+END
+CC_MasterPage.master.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_MasterPage.master.cs
+END
+StdOutput.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/StdOutput.xsx
+END
+CC_ConsolidatedTAT.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_ConsolidatedTAT.aspx
+END
+TcWiseSearch.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/TcWiseSearch.aspx.cs
+END
+CC_rpt_CRV_Office_santosh.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_rpt_CRV_Office_santosh.rpt
+END
+SendToClient.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/SendToClient.aspx.cs
+END
+CC_LabelPrinting.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_LabelPrinting.aspx
+END
+CC_ExportDataDump.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_ExportDataDump.aspx
+END
+CC_CaseView.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_CaseView.aspx
+END
+telecilentwisereport.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/telecilentwisereport.aspx
+END
+CC_MasterPage.master
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_MasterPage.master
+END
+excelSBIhl.xls
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/excelSBIhl.xls
+END
+CC_Generate_Label_1.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_Generate_Label_1.aspx
+END
+CC_SendToClientFinal.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_SendToClientFinal.aspx.cs
+END
+XMLSchema_LabelPrinting.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/XMLSchema_LabelPrinting.xsd
+END
+CC_SMS_Generation.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_SMS_Generation.aspx
+END
+cc_import_transact.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/cc_import_transact.aspx.cs
+END
+Dcr_Mis_Tele_Report.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/Dcr_Mis_Tele_Report.aspx
+END
+RejectCaseMIS.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/RejectCaseMIS.aspx.cs
+END
+CC_VerificationView.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_VerificationView.aspx.cs
+END
+CC_ResidenceVerificationTelephonic.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_ResidenceVerificationTelephonic.aspx.cs
+END
+Dcr_Mis_Fe_Report.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/Dcr_Mis_Fe_Report.aspx.cs
+END
+CC_Standard_Output.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_Standard_Output.aspx.cs
+END
+DedupSearch.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/DedupSearch.aspx.cs
+END
+CC_TC_ManuAssign.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_TC_ManuAssign.aspx
+END
+XMLSchema_LabelPrinting.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/XMLSchema_LabelPrinting.xsx
+END
+CC_TC_ManuAssign.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_TC_ManuAssign.aspx.cs
+END
+CC_Crawler.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_Crawler.aspx
+END
+CC_TC_ReAssign.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_TC_ReAssign.aspx
+END
+CC_OverallCaseStatus.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_OverallCaseStatus.aspx
+END
+CC_ResidenceVerification.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_ResidenceVerification.aspx
+END
+CC_BusinessVerificationTelephonic.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_BusinessVerificationTelephonic.aspx
+END
+CC_CaseView.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_CaseView.aspx.cs
+END
+CoverLetter.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CoverLetter.xsd
+END
+CC_FEAutoAssignment.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_FEAutoAssignment.aspx
+END
+CC_FE_Login_View.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_FE_Login_View.aspx
+END
+Dcr_Mis_Fe_Report.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/Dcr_Mis_Fe_Report.aspx
+END
+CC_Standard_Output.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_Standard_Output.aspx
+END
+Default.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/Default.aspx.cs
+END
+CC_DCR_ResiVeri.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_DCR_ResiVeri.aspx.cs
+END
+CC_ConsolidatedTAT.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_ConsolidatedTAT.aspx.cs
+END
+MIS_Centre_VerificationType.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/MIS_Centre_VerificationType.aspx.cs
+END
+CC_BusinessVerification.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_BusinessVerification.aspx
+END
+CC_ClaimMISReport.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_ClaimMISReport.aspx.cs
+END
+CoverLetter.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CoverLetter.xsx
+END
+CC_Cover_Letter.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_Cover_Letter.aspx.cs
+END
+oveall_remarks.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/oveall_remarks.aspx
+END
+vssver2.scc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/vssver2.scc
+END
+CC_ExportDataDump.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_ExportDataDump.aspx.cs
+END
+CC_SendToClientFinal.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_SendToClientFinal.aspx
+END
+Dcr_Mis_Report.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/Dcr_Mis_Report.aspx
+END
+TELETIMELOG.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/TELETIMELOG.aspx.cs
+END
+TELEREPORT.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/TELEREPORT.rpt
+END
+followupmis.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/followupmis.aspx
+END
+CC_VerificationView.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_VerificationView.aspx
+END
+CC_Generate_Label_1.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_Generate_Label_1.aspx.cs
+END
+followupmis.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/followupmis.aspx.cs
+END
+CC_DCR_ResiVeri.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_DCR_ResiVeri.aspx
+END
+CC_Export.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_Export.aspx
+END
+CoverLetter.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CoverLetter.rpt
+END
+excelstanderoutput_old.xls
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/excelstanderoutput_old.xls
+END
+CC_DeDupSearch.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_DeDupSearch.aspx
+END
+excelstanderoutput.xls
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/excelstanderoutput.xls
+END
+NoAccess.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/NoAccess.aspx
+END
+TELETIMELOG.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/TELETIMELOG.rpt
+END
+CC_FeAssignmentNew.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_FeAssignmentNew.aspx.cs
+END
+CC_BusinessVerification.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_BusinessVerification.aspx.cs
+END
+CC_Import_Dump.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_Import_Dump.aspx.cs
+END
+excelBARCLAYoutput_old.xls
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/excelBARCLAYoutput_old.xls
+END
+CC_TC_ReAssign.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_TC_ReAssign.aspx.cs
+END
+CCreditCardGenerateLabel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CCreditCardGenerateLabel.cs
+END
+ClaimMISReport.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/ClaimMISReport.xsd
+END
+SbiCc.xls
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/SbiCc.xls
+END
+Dcr_Mis_Report.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/Dcr_Mis_Report.aspx.cs
+END
+SendDateNull.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/SendDateNull.aspx
+END
+CC_BusinessVerificationTelephonic.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_BusinessVerificationTelephonic.aspx.cs
+END
+CC_TC_Assign.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_TC_Assign.aspx.cs
+END
+TcWiseSearch.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/TcWiseSearch.aspx
+END
+DedupSearch.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/DedupSearch.aspx
+END
+TestMis.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/TestMis.aspx
+END
+CC_rpt_CRV_Office.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_rpt_CRV_Office.rpt
+END
+Sup_remarks.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/Sup_remarks.aspx
+END
+TestMis.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/TestMis.aspx.cs
+END
+TeleMisReport.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/TeleMisReport.aspx
+END
+CRTest.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CRTest.rpt
+END
+crPendingList.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/crPendingList.rpt
+END
+CC_SendToClient.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_SendToClient.aspx
+END
+ClaimMISReport.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/ClaimMISReport.xsx
+END
+CC_Cover_Letter.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_Cover_Letter.aspx
+END
+CC_SendToClient.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sandbox/!svn/ver/1/Application/DCR/DocCollection/CC_SendToClient.aspx.cs
+END

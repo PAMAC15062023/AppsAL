@@ -1,0 +1,56 @@
+﻿body 
+{
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	font-family:Arial;
+	font-size:9pt;
+}
+.textbox
+{
+	border-right: #476085 1px solid; 
+	border-top: #476085 1px solid; 
+	font-weight: normal; 
+	font-size: 11px; 	
+	border-left: #476085 1px solid; 
+	color: #000033;
+	border-bottom: #476085 1px solid; 
+	font-family: Arial; 
+	background-color: #ffffff;
+}
+.label
+{
+	font-family:Arial; 
+	color:#000000; 
+	font-size:11px; 
+	font-weight:bold;	
+}
+.msg
+{
+	font-family:Arial; 
+	color:Red; 
+	font-size:11px; 
+	font-weight:normal;	
+}
+.normal
+{
+	font-family:Arial; 
+	color:#000000; 
+	font-size:11px; 
+	font-weight:normal;
+}
+.legend
+{
+	font-family:Arial; 	
+	font-size:14px; 
+	font-weight:bold;	
+}
+.tr1
+{
+	background-color:#D0D5D8;
+	font-family:Arial; 
+	color:#000000; 
+	font-size:9pt; 
+	font-weight:bold;	
+}

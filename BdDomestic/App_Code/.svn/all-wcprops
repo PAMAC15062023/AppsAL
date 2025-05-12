@@ -1,0 +1,677 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/sandbox/!svn/ver/45/Application/App_Code
+END
+AImport.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sandbox/!svn/ver/1/Application/App_Code/AImport.cs
+END
+CLogin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/sandbox/!svn/ver/1/Application/App_Code/CLogin.cs
+END
+CEL_CDedupSearch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/App_Code/CEL_CDedupSearch.cs
+END
+CCaseStatusView.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sandbox/!svn/ver/1/Application/App_Code/CCaseStatusView.cs
+END
+C_Sms_Generation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/App_Code/C_Sms_Generation.cs
+END
+CSendSMS.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sandbox/!svn/ver/1/Application/App_Code/CSendSMS.cs
+END
+CC_CFEWiseSearch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/App_Code/CC_CFEWiseSearch.cs
+END
+CDepartmentMaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/App_Code/CDepartmentMaster.cs
+END
+CProduct.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sandbox/!svn/ver/1/Application/App_Code/CProduct.cs
+END
+RL_DedupSearch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/App_Code/RL_DedupSearch.cs
+END
+C_QueryBuilder_MIS.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/App_Code/C_QueryBuilder_MIS.cs
+END
+C_CELLULAR_ENTRY.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/App_Code/C_CELLULAR_ENTRY.cs
+END
+CBDContract.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sandbox/!svn/ver/1/Application/App_Code/CBDContract.cs
+END
+CBISENTRYFORM.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sandbox/!svn/ver/1/Application/App_Code/CBISENTRYFORM.cs
+END
+CIDOC_DV_ITR.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sandbox/!svn/ver/1/Application/App_Code/CIDOC_DV_ITR.cs
+END
+MIS.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/sandbox/!svn/ver/1/Application/App_Code/MIS.cs
+END
+RL_SendToClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sandbox/!svn/ver/1/Application/App_Code/RL_SendToClient.cs
+END
+KYC_FEAssignment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/App_Code/KYC_FEAssignment.cs
+END
+CRL_SendToClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/App_Code/CRL_SendToClient.cs
+END
+CKYCVerification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/41/Application/App_Code/CKYCVerification.cs
+END
+C_QueryBuilder_TATMIS.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/App_Code/C_QueryBuilder_TATMIS.cs
+END
+KYC_CDedupSearch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/App_Code/KYC_CDedupSearch.cs
+END
+CCCenterMaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/App_Code/CCCenterMaster.cs
+END
+CBISENTRY.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sandbox/!svn/ver/1/Application/App_Code/CBISENTRY.cs
+END
+C_QueryBuilderMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/App_Code/C_QueryBuilderMenu.cs
+END
+EBC_CDedupSearch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/App_Code/EBC_CDedupSearch.cs
+END
+CExportDataDump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sandbox/!svn/ver/1/Application/App_Code/CExportDataDump.cs
+END
+C_QueryBuilderPreDefined.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/App_Code/C_QueryBuilderPreDefined.cs
+END
+CSendToClientFinal.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/App_Code/CSendToClientFinal.cs
+END
+CImportTemplate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sandbox/!svn/ver/1/Application/App_Code/CImportTemplate.cs
+END
+GESBI_ExportGenX.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/34/Application/App_Code/GESBI_ExportGenX.cs
+END
+C_QuerryBuilder_MIS_FE.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/App_Code/C_QuerryBuilder_MIS_FE.cs
+END
+CRL_FEAssignment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/App_Code/CRL_FEAssignment.cs
+END
+OleDbHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sandbox/!svn/ver/1/Application/App_Code/OleDbHelper.cs
+END
+CCreditCardTelephonicVerification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sandbox/!svn/ver/32/Application/App_Code/CCreditCardTelephonicVerification.cs
+END
+CFEAssignment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sandbox/!svn/ver/1/Application/App_Code/CFEAssignment.cs
+END
+IDOC_CDedupSearch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/App_Code/IDOC_CDedupSearch.cs
+END
+CFE_Report.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sandbox/!svn/ver/1/Application/App_Code/CFE_Report.cs
+END
+DAT_ENTRY.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sandbox/!svn/ver/1/Application/App_Code/DAT_ENTRY.cs
+END
+CKYC_Export.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sandbox/!svn/ver/1/Application/App_Code/CKYC_Export.cs
+END
+CCommon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sandbox/!svn/ver/1/Application/App_Code/CCommon.cs
+END
+CRL_TelephonicVerification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/App_Code/CRL_TelephonicVerification.cs
+END
+CsendToClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sandbox/!svn/ver/1/Application/App_Code/CsendToClient.cs
+END
+CEmployeeMaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/44/Application/App_Code/CEmployeeMaster.cs
+END
+CDeclineCode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sandbox/!svn/ver/1/Application/App_Code/CDeclineCode.cs
+END
+CAdmin_Summary_Panel_Mapping.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/App_Code/CAdmin_Summary_Panel_Mapping.cs
+END
+CCreditCardVerificationDCR.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/App_Code/CCreditCardVerificationDCR.cs
+END
+CCClusterMaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sandbox/!svn/ver/1/Application/App_Code/CCClusterMaster.cs
+END
+CChangePwd.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sandbox/!svn/ver/1/Application/App_Code/CChangePwd.cs
+END
+CCreditCard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sandbox/!svn/ver/1/Application/App_Code/CCreditCard.cs
+END
+COverallCaseStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/App_Code/COverallCaseStatus.cs
+END
+CResetPassword.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/App_Code/CResetPassword.cs
+END
+vssver2.scc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sandbox/!svn/ver/1/Application/App_Code/vssver2.scc
+END
+CImport.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sandbox/!svn/ver/1/Application/App_Code/CImport.cs
+END
+CReport.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sandbox/!svn/ver/1/Application/App_Code/CReport.cs
+END
+CCPVDetail.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sandbox/!svn/ver/45/Application/App_Code/CCPVDetail.cs
+END
+CFE_Tracking.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sandbox/!svn/ver/1/Application/App_Code/CFE_Tracking.cs
+END
+CClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sandbox/!svn/ver/1/Application/App_Code/CClient.cs
+END
+CIDOC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/sandbox/!svn/ver/45/Application/App_Code/CIDOC.cs
+END
+CStandard_Output.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/App_Code/CStandard_Output.cs
+END
+CEncDec.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sandbox/!svn/ver/1/Application/App_Code/CEncDec.cs
+END
+CIDocVerification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/App_Code/CIDocVerification.cs
+END
+CIdoc_FEAssignment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/App_Code/CIdoc_FEAssignment.cs
+END
+CCompanyMaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/App_Code/CCompanyMaster.cs
+END
+C_QueryBuilderTAT.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/App_Code/C_QueryBuilderTAT.cs
+END
+CBuildQuery.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sandbox/!svn/ver/1/Application/App_Code/CBuildQuery.cs
+END
+CKYC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/sandbox/!svn/ver/1/Application/App_Code/CKYC.cs
+END
+CTCReAssignment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sandbox/!svn/ver/1/Application/App_Code/CTCReAssignment.cs
+END
+CHR_ImportToExcel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/App_Code/CHR_ImportToExcel.cs
+END
+EBC_StandardOutPut.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/App_Code/EBC_StandardOutPut.cs
+END
+CIDOC_SendToClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/App_Code/CIDOC_SendToClient.cs
+END
+CRL_REF1.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sandbox/!svn/ver/1/Application/App_Code/CRL_REF1.cs
+END
+CRL_CaseEntry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sandbox/!svn/ver/1/Application/App_Code/CRL_CaseEntry.cs
+END
+CMaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sandbox/!svn/ver/1/Application/App_Code/CMaster.cs
+END
+C_EBC_FEAssignment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/App_Code/C_EBC_FEAssignment.cs
+END
+DATREPORT.CS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sandbox/!svn/ver/1/Application/App_Code/DATREPORT.CS
+END
+KYCreports.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sandbox/!svn/ver/1/Application/App_Code/KYCreports.cs
+END
+CCEL_Export.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sandbox/!svn/ver/1/Application/App_Code/CCEL_Export.cs
+END
+CDesignation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sandbox/!svn/ver/1/Application/App_Code/CDesignation.cs
+END
+CSubCentreMaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/App_Code/CSubCentreMaster.cs
+END
+C_Alert.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sandbox/!svn/ver/1/Application/App_Code/C_Alert.cs
+END
+C_QueryBuilder_NegativeMIS.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/App_Code/C_QueryBuilder_NegativeMIS.cs
+END
+CActivityMaster.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sandbox/!svn/ver/1/Application/App_Code/CActivityMaster.cs
+END
+CrystalReportDocument.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/App_Code/CrystalReportDocument.cs
+END
+CHR_Export.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/sandbox/!svn/ver/1/Application/App_Code/CHR_Export.cs
+END
+CConfigurationVerification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/App_Code/CConfigurationVerification.cs
+END
+CLabelTemplate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/App_Code/CLabelTemplate.cs
+END
+CEL_SendToClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/App_Code/CEL_SendToClient.cs
+END
+CQueryBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sandbox/!svn/ver/1/Application/App_Code/CQueryBuilder.cs
+END
+CConsolidateTAT.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sandbox/!svn/ver/1/Application/App_Code/CConsolidateTAT.cs
+END
+CGet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/sandbox/!svn/ver/1/Application/App_Code/CGet.cs
+END
+CCreditCardGenerateLabel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/App_Code/CCreditCardGenerateLabel.cs
+END
+CRL_ResiCumBusiness.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/App_Code/CRL_ResiCumBusiness.cs
+END
+CRoleOperation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/App_Code/CRoleOperation.cs
+END
+cDedupSearch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sandbox/!svn/ver/1/Application/App_Code/cDedupSearch.cs
+END
+EBC_Verification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/App_Code/EBC_Verification.cs
+END
+sup_remarks.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/sandbox/!svn/ver/1/Application/App_Code/sup_remarks.cs
+END
+CEBC.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/sandbox/!svn/ver/1/Application/App_Code/CEBC.cs
+END
+C_EIS_Reports.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sandbox/!svn/ver/1/Application/App_Code/C_EIS_Reports.cs
+END
+CRL_VisitVerification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/App_Code/CRL_VisitVerification.cs
+END
+KYC_SendToClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/App_Code/KYC_SendToClient.cs
+END
+CDataDump.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/sandbox/!svn/ver/1/Application/App_Code/CDataDump.cs
+END
+CHR_UploadFiles.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/sandbox/!svn/ver/1/Application/App_Code/CHR_UploadFiles.cs
+END
+EBC_SendToClient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/App_Code/EBC_SendToClient.cs
+END
+HRImport.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sandbox/!svn/ver/1/Application/App_Code/HRImport.cs
+END
+C_GeneralQuery.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/App_Code/C_GeneralQuery.cs
+END
+CIDOC_RC_Verification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/App_Code/CIDOC_RC_Verification.cs
+END
+C_FE_PinCodeMapping.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/App_Code/C_FE_PinCodeMapping.cs
+END
+C_StandardTatHour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/App_Code/C_StandardTatHour.cs
+END
+CProductiveMIS_FE.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/App_Code/CProductiveMIS_FE.cs
+END
+CCC_Pending_Reports.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/App_Code/CCC_Pending_Reports.cs
+END
+CCreditCardVerification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/25/Application/App_Code/CCreditCardVerification.cs
+END

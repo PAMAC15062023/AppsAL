@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="RL_CoveringLetter" targetNamespace="http://tempuri.org/RL_CoveringLetter.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/RL_CoveringLetter.xsd" xmlns:mstns="http://tempuri.org/RL_CoveringLetter.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="COVERLETTER">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="CASEID" type="xs:string" />
+        <xs:element name="APPLICANTNAME" type="xs:string" />
+        <xs:element name="REFNO" type="xs:string" />
+        <xs:element name="VERIFICATIONTYPECODE" type="xs:string" />
+        <xs:element name="CHANNELNAME" type="xs:string" />
+        <xs:element name="CASETYPE" type="xs:string" />
+        <xs:element name="CASERECDATETIME" type="xs:string" />
+        <xs:element name="SENDDATETIME" type="xs:string" />
+        <xs:element name="STATUSNAME" type="xs:string" />
+        <xs:element name="UNSATISFACTORYREASON" type="xs:string" />
+        <xs:element name="PERSONCONTACTED" type="xs:string" />
+        <xs:element name="FromDate" type="xs:string" />
+        <xs:element name="Todate" type="xs:string" />
+        <xs:element name="CompanyName" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

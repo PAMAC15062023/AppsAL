@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular
+END
+CEL_VerifierMISReport.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_VerifierMISReport.aspx.cs
+END
+CELL_Bifercation.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CELL_Bifercation.xsd
+END
+CEL_ConsolidatedTAT.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_ConsolidatedTAT.aspx.cs
+END
+CC_Cel_Pendinglist_Report.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CC_Cel_Pendinglist_Report.xsx
+END
+CEL_DedupSearch.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_DedupSearch.aspx
+END
+CEL_LabelPrinting.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_LabelPrinting.aspx
+END
+XMLSchema_LabelPrinting.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/XMLSchema_LabelPrinting.xsd
+END
+CEL_SendToClient.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_SendToClient.aspx.cs
+END
+CEL_ExportExcel.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_ExportExcel.aspx.cs
+END
+CELL_Bifercation.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CELL_Bifercation.xsx
+END
+CellularFEWiseSearch.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CellularFEWiseSearch.aspx
+END
+CEL_FEAssignmentTracking.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_FEAssignmentTracking.aspx.cs
+END
+CellularFEWiseSearch.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CellularFEWiseSearch.aspx.cs
+END
+CEL_Sms_Generation.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_Sms_Generation.aspx
+END
+CEL_Import.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_Import.aspx.cs
+END
+NoAccess.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/NoAccess.aspx.cs
+END
+XMLSchema_LabelPrinting.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/XMLSchema_LabelPrinting.xsx
+END
+CEL_FEAutoAssignment.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_FEAutoAssignment.aspx.cs
+END
+CEL_Sms_Generation.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_Sms_Generation.aspx.cs
+END
+CEL_ClaimMISBilling.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_ClaimMISBilling.xsd
+END
+CC_Cellular_PendingList_Report.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CC_Cellular_PendingList_Report.aspx.cs
+END
+CEL_FEAssignment.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_FEAssignment.aspx.cs
+END
+CEL_SendDateNull.aspx.vb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_SendDateNull.aspx.vb
+END
+CEL_Generate_Label.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_Generate_Label.aspx
+END
+CELL_Bifercation.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CELL_Bifercation.rpt
+END
+CEL_Generate_Label.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_Generate_Label.aspx.cs
+END
+CEL_ClaimBillingMIS_Report.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_ClaimBillingMIS_Report.aspx.cs
+END
+CEL_Cellular_Verification_View.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_Cellular_Verification_View.aspx
+END
+Default.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/Default.aspx
+END
+CEL_ExportExcel.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_ExportExcel.aspx
+END
+Default.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/Default.aspx.cs
+END
+CEL_ClaimMISBilling.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_ClaimMISBilling.xsx
+END
+CEL_FEAssignmentTracking.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_FEAssignmentTracking.aspx
+END
+CEL_VerifierMIS.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_VerifierMIS.xsd
+END
+CEL_Import.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_Import.aspx
+END
+CC_Cellular_PendingList_Report.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CC_Cellular_PendingList_Report.rpt
+END
+rptVerifierMISReport.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/rptVerifierMISReport.rpt
+END
+CELL_BifercationCases.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CELL_BifercationCases.aspx
+END
+CEL_CaseUpdation.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_CaseUpdation.aspx.cs
+END
+vssver2.scc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/vssver2.scc
+END
+CEL_SearchSms.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_SearchSms.aspx
+END
+CEL_Cellular_Verification_Entry.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_Cellular_Verification_Entry.aspx.cs
+END
+CEL_ClaimBillingMIS_Report.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_ClaimBillingMIS_Report.aspx
+END
+CEL_SendToClient.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_SendToClient.aspx
+END
+CEL_DedupSearch.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_DedupSearch.aspx.cs
+END
+rpt_Cellular.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/rpt_Cellular.rpt
+END
+CEL_FeWise_Report.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_FeWise_Report.xsd
+END
+CEL_SendToClientFinal.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_SendToClientFinal.aspx
+END
+CEL_MasterPage.master
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_MasterPage.master
+END
+CEL_SendToClientFinal.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_SendToClientFinal.aspx.cs
+END
+NoAccess.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/NoAccess.aspx
+END
+CEL_VerifierMISReport.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_VerifierMISReport.aspx
+END
+rptTAT_Report.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/rptTAT_Report.rpt
+END
+CEL_SendDateNull.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_SendDateNull.aspx
+END
+CEL_FEAssignment.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_FEAssignment.aspx
+END
+CEL_FeWise_Report.xsx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_FeWise_Report.xsx
+END
+CELL_BifercationCases.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CELL_BifercationCases.aspx.cs
+END
+CEL_Cellular_Verification_Entry.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_Cellular_Verification_Entry.aspx
+END
+CEL_SearchSms.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_SearchSms.aspx.cs
+END
+rptClaimMisBilling.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/rptClaimMisBilling.rpt
+END
+CEL_LabelPrinting.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_LabelPrinting.aspx.cs
+END
+CC_Cel_Pendinglist_Report.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CC_Cel_Pendinglist_Report.xsd
+END
+CEL_Cellular_Verification_View.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_Cellular_Verification_View.aspx.cs
+END
+CEL_FeWise_Report.rpt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_FeWise_Report.rpt
+END
+CEL_MasterPage.master.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_MasterPage.master.cs
+END
+CEL_FEAutoAssignment.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_FEAutoAssignment.aspx
+END
+CELL_CaseSearch.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CELL_CaseSearch.aspx
+END
+CEL_CaseUpdation.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_CaseUpdation.aspx
+END
+CC_Cellular_PendingList_Report.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CC_Cellular_PendingList_Report.aspx
+END
+CELL_CaseSearch.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CELL_CaseSearch.aspx.cs
+END
+CEL_ConsolidatedTAT.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/sandbox/!svn/ver/1/Application/CPV/Cellular/CEL_ConsolidatedTAT.aspx
+END

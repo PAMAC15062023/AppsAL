@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Nano_Calculus_Online">
+</Property><Property Name="Solution File" Value="E:\SOftware\NANO-PRO-App_Csharp_Calculus(28-Apr-2014)\Nano_Calculus_Online.sln">
+</Property><Property Name="User Options File" Value="E:\SOftware\NANO-PRO-App_Csharp_Calculus(28-Apr-2014)\Nano_Calculus_Online.suo">
+</Property><Property Name="Date" Value="Sunday, May 08, 2016">
+</Property><Property Name="Time" Value="3:03 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Nano_Calculus_Online.sln" Description="File successfully backed up as E:\SOftware\NANO-PRO-App_Csharp_Calculus(28-Apr-2014)\Backup\Nano_Calculus_Online.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Nano_Calculus_Online.suo" Description="File successfully backed up as E:\SOftware\NANO-PRO-App_Csharp_Calculus(28-Apr-2014)\Backup\Nano_Calculus_Online.suo">
+</Event><Event ErrorLevel="1" Project="NANO-PRO-App_Csharp_Calculus(28-Apr-2014)" Source="..\NANO-PRO-App_Csharp_Calculus(28-Apr-2014)" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="" Source="Nano_Calculus_Online.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Nano_Calculus_Online.sln" Description="Converted">
+</Event></UpgradeLog>

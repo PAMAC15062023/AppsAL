@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="RL_PendingList" targetNamespace="http://tempuri.org/RL_PendingList.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/RL_PendingList.xsd" xmlns:mstns="http://tempuri.org/RL_PendingList.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="PENDINGLIST">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="REF_NO" type="xs:string" />
+        <xs:element name="Name" type="xs:string" />
+        <xs:element name="RECD_DATE" type="xs:string" />
+        <xs:element name="Residence_x0020_Address" type="xs:string" />
+        <xs:element name="Office_x0020_Address" type="xs:string" />
+        <xs:element name="FV_REQUIRED" type="xs:string" />
+        <xs:element name="RES_CITY" type="xs:string" />
+        <xs:element name="FROMDATE" type="xs:string" />
+        <xs:element name="TODATE" type="xs:string" />
+        <xs:element name="COMPANYNAME" type="xs:string" />
+        <xs:element name="RV-FEName" type="xs:string" />
+        <xs:element name="BV-FEName" type="xs:string" />
+        <xs:element name="PRV-FEName" type="xs:string" />
+        <xs:element name="RCO-FEName" type="xs:string" />
+        <xs:element name="Case_Id" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Resi_Tele">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Case_Id" type="xs:string" />
+        <xs:element name="Applicant_Name" type="xs:string" />
+        <xs:element name="recd_Dt" type="xs:string" />
+        <xs:element name="Tele_Phone" type="xs:string" />
+        <xs:element name="Mobile" type="xs:string" />
+        <xs:element name="Department" type="xs:string" />
+        <xs:element name="Ownership" type="xs:string" />
+        <xs:element name="Number_Of_Yrs" type="xs:string" />
+        <xs:element name="PP_No" type="xs:string" />
+        <xs:element name="Staying_With" type="xs:string" />
+        <xs:element name="Alt_Resi_Number" type="xs:string" />
+        <xs:element name="Person_Contacted" type="xs:string" />
+        <xs:element name="relationship" type="xs:string" />
+        <xs:element name="Applicant_Availbility" type="xs:string" />
+        <xs:element name="remark" type="xs:string" />
+        <xs:element name="DirCheck" type="xs:string" />
+        <xs:element name="Name_Confirm" type="xs:string" />
+        <xs:element name="Date_Call" type="xs:string" />
+        <xs:element name="Date_Time" type="xs:string" />
+        <xs:element name="Tele_Status" type="xs:string" />
+        <xs:element name="Status" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Office_Tele">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Case_Id" type="xs:string" />
+        <xs:element name="Applicant_Name" type="xs:string" />
+        <xs:element name="Recd_Dt" type="xs:string" />
+        <xs:element name="Tele_Phone" type="xs:string" />
+        <xs:element name="Mobile" type="xs:string" />
+        <xs:element name="Department" type="xs:string" />
+        <xs:element name="Ext_No" type="xs:string" />
+        <xs:element name="Ownership" type="xs:string" />
+        <xs:element name="Name_Of_Company" type="xs:string" />
+        <xs:element name="Designation" type="xs:string" />
+        <xs:element name="Type_Of_Office" type="xs:string" />
+        <xs:element name="Nature_of_Business" type="xs:string" />
+        <xs:element name="Alt_Off_Number" type="xs:string" />
+        <xs:element name="Person_Contacted" type="xs:string" />
+        <xs:element name="relationship" type="xs:string" />
+        <xs:element name="Applicant_Availbility" type="xs:string" />
+        <xs:element name="remark" type="xs:string" />
+        <xs:element name="DirCheck" type="xs:string" />
+        <xs:element name="Name_Confirm" type="xs:string" />
+        <xs:element name="Date_Call" type="xs:string" />
+        <xs:element name="Date_Time" type="xs:string" />
+        <xs:element name="Tele_Status" type="xs:string" />
+        <xs:element name="Status" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Resi_Crv">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Case_Id" type="xs:string" />
+        <xs:element name="Applicant_Name" type="xs:string" />
+        <xs:element name="recd_Dt" type="xs:string" />
+        <xs:element name="DSA" type="xs:string" />
+        <xs:element name="Resi_Add" type="xs:string" />
+        <xs:element name="Resi_Tel" type="xs:string" />
+        <xs:element name="Off_Tel" type="xs:string" />
+        <xs:element name="Off_Extn" type="xs:string" />
+        <xs:element name="Loan_Type" type="xs:string" />
+        <xs:element name="Loan_Amt" type="xs:string" />
+        <xs:element name="Loan_Tenure" type="xs:string" />
+        <xs:element name="Loan_Month" type="xs:string" />
+        <xs:element name="Resi_Type" type="xs:string" />
+        <xs:element name="Society_Board" type="xs:string" />
+        <xs:element name="Name_Plate" type="xs:string" />
+        <xs:element name="Resi_Owner" type="xs:string" />
+        <xs:element name="Pmt_Add" type="xs:string" />
+        <xs:element name="No_Of_Yrs" type="xs:string" />
+        <xs:element name="No_Of_Rooms" type="xs:string" />
+        <xs:element name="Area_SqFt" type="xs:string" />
+        <xs:element name="Approx_Value" type="xs:string" />
+        <xs:element name="Bachelor_Accom" type="xs:string" />
+        <xs:element name="Locality" type="xs:string" />
+        <xs:element name="Assets" type="xs:string" />
+        <xs:element name="Marital" type="xs:string" />
+        <xs:element name="No_Of_Dependent" type="xs:string" />
+        <xs:element name="Person_Contacted" type="xs:string" />
+        <xs:element name="Relationship" type="xs:string" />
+        <xs:element name="Vechicle_Used" type="xs:string" />
+        <xs:element name="Vechicle_Finan" type="xs:string" />
+        <xs:element name="Other_Assets" type="xs:string" />
+        <xs:element name="Exterior" type="xs:string" />
+        <xs:element name="Interior" type="xs:string" />
+        <xs:element name="TPC" type="xs:string" />
+        <xs:element name="TPC_Name" type="xs:string" />
+        <xs:element name="TPC_Where" type="xs:string" />
+        <xs:element name="Any_Veri" type="xs:string" />
+        <xs:element name="Reject" type="xs:string" />
+        <xs:element name="Remark" type="xs:string" />
+        <xs:element name="Status" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Rl_Main">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Case_Id" type="xs:string" />
+        <xs:element name="Veri_Type" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Off_Crv">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Case_Id" type="xs:string" />
+        <xs:element name="Applicant_Name" type="xs:string" />
+        <xs:element name="Recd_Dt" type="xs:string" />
+        <xs:element name="DSA" type="xs:string" />
+        <xs:element name="Off_Add" type="xs:string" />
+        <xs:element name="Off_Tel" type="xs:string" />
+        <xs:element name="Mobile" type="xs:string" />
+        <xs:element name="Off_Extn" type="xs:string" />
+        <xs:element name="Loan_Type" type="xs:string" />
+        <xs:element name="Loan_Amt" type="xs:string" />
+        <xs:element name="Loan_Tenure" type="xs:string" />
+        <xs:element name="Loan_Month" type="xs:string" />
+        <xs:element name="Off_Type" type="xs:string" />
+        <xs:element name="Type_Of_Business" type="xs:string" />
+        <xs:element name="Board_Seen" type="xs:string" />
+        <xs:element name="Location" type="xs:string" />
+        <xs:element name="Ownership" type="xs:string" />
+        <xs:element name="Nature_Of_Business" type="xs:string" />
+        <xs:element name="No_Of_Years" type="xs:string" />
+        <xs:element name="Area_SqFt" type="xs:string" />
+        <xs:element name="Approx_Value" type="xs:string" />
+        <xs:element name="No_Of_Emp" type="xs:string" />
+        <xs:element name="No_Of_Emp_Seen" type="xs:string" />
+        <xs:element name="Assets" type="xs:string" />
+        <xs:element name="Observation" type="xs:string" />
+        <xs:element name="Off_Structure" type="xs:string" />
+        <xs:element name="Employee" type="xs:string" />
+        <xs:element name="Equiment" type="xs:string" />
+        <xs:element name="Stock" type="xs:string" />
+        <xs:element name="Person_Contacted" type="xs:string" />
+        <xs:element name="Relationship" type="xs:string" />
+        <xs:element name="Vechile_Used" type="xs:string" />
+        <xs:element name="Vechile_Finan" type="xs:string" />
+        <xs:element name="Business_Activity" type="xs:string" />
+        <xs:element name="Exterior" type="xs:string" />
+        <xs:element name="Interior" type="xs:string" />
+        <xs:element name="TPC" type="xs:string" />
+        <xs:element name="TPC_Name" type="xs:string" />
+        <xs:element name="TPC_Relation" type="xs:string" />
+        <xs:element name="Fact_Nature" type="xs:string" />
+        <xs:element name="Fact_Non_Nature" type="xs:string" />
+        <xs:element name="Any_Varition" type="xs:string" />
+        <xs:element name="Reject" type="xs:string" />
+        <xs:element name="Remark" type="xs:string" />
+        <xs:element name="Status" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

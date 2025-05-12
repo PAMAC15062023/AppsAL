@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>477</MenuID>
+    <Text>Indus-Ind Credit</Text>
+    <Description>Indus-Ind Credit</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>487</MenuID>
+      <Text>QC/Compare Credit</Text>
+      <Description>QC/Compare Credit</Description>
+      <PagePath>~/Pages/IndusInd/CreditQC.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

@@ -1,0 +1,83 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="~/HR/HR/HRMasterPage.master.cs" Inherits="HR_HRMasterPage" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+<head id="Head1" runat="server">
+    <title>PAMAC Online</title>
+    <%--<meta http-equiv="Page-Enter" content="revealTrans(Duration=1.0,Transition=2)">
+  <meta http-equiv="Page-Exit" content="progid: DXImageTransform.Microsoft.gradientWipe(duration=1)">--%>
+    <script language="javascript" type="text/javascript" src="../../popcalendar.js"></script>
+    <link href="../../StyleSheet.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr bgcolor="#4EB9ED">
+    <td width="60%">
+    <asp:Menu ID="Menu1" runat="server" Width="500px" StaticEnableDefaultPopOutImage="False" BackColor="#4EB9ED" DynamicHorizontalOffset="2"
+            Font-Names="Arial" Font-Size="10pt" ForeColor="White" Orientation="Horizontal"
+            StaticSubMenuIndent="10px" Font-Bold="True">
+
+                            <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                            <DynamicHoverStyle BackColor="#0093DD" ForeColor="White" />
+                            <DynamicMenuStyle BackColor="#4EB9ED" />
+                            <StaticSelectedStyle BackColor="#C4C1C1" />
+                            <DynamicSelectedStyle BackColor="#0093DD" />
+                            <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                            
+                           <%-- <Items>--%>
+                           <%--<asp:MenuItem Text="DAT" Value="DAT">--%>
+   <%--<asp:MenuItem Text="DAT Entry" Value="DAT Entry View" NavigateUrl="~/HR/HR/Dat_Entry.aspx"></asp:MenuItem>--%>
+   <%--<asp:MenuItem Text="EDIT ENTRY BY HO" Value="EDIT ENTRY BY HO" NavigateUrl="EDIT_HO.aspx"></asp:MenuItem>--%>
+    <%--<asp:MenuItem Text="Attendance Count Report" Value="Attendance Count Report" NavigateUrl="DATREPORT.aspx"></asp:MenuItem>
+    <asp:MenuItem Text="DAT Daily Report" Value="DAT Daily Report" NavigateUrl="RolewiseReport.aspx"></asp:MenuItem>
+   <asp:MenuItem Text="Attendance Dump Report" Value="Attendance Dump Report" NavigateUrl="~/HR/HR/EISReports.aspx"></asp:MenuItem>
+   </asp:MenuItem>
+   
+   <asp:MenuItem Text="BIS" Value="BIS" >
+   <asp:MenuItem Text="BIS Entry view" Value="BIS Entry view" NavigateUrl="~/HR/HR/BIS_ENTRY_VIEW.aspx"></asp:MenuItem>
+<asp:MenuItem Text="BIS Entry" Value="BIS Entry" NavigateUrl="~/HR/HR/BISENTRY.aspx"></asp:MenuItem>
+<asp:MenuItem Text="BIS Approval view" Value="BIS Approval view" NavigateUrl="~/HR/HR/BIS_APPROVAL_VIEW.aspx"></asp:MenuItem>
+
+<asp:MenuItem Text="HR-Import" Value="BIS Approval view" NavigateUrl="~/HR/HR/HRBRIDGINGIMPORT.aspx"></asp:MenuItem>
+<asp:MenuItem Text="HR Pan India Detail" Value="BIS Approval view" NavigateUrl="~/HR/HR/HRPANINDIADETAIL.aspx"></asp:MenuItem>
+<asp:MenuItem Text="HR Salary Report" Value="BIS Approval view" NavigateUrl="~/HR/HR/HRSALRYREPORT.aspx"></asp:MenuItem>
+
+<asp:MenuItem Text="Pamac Bank Mis" Value="BIS Approval view" NavigateUrl="~/HR/HR/pamachrbankmis.aspx"></asp:MenuItem>
+<asp:MenuItem Text="Pamac CTC Mis" Value="BIS Approval view" NavigateUrl="~/HR/HR/pamacctcmis.aspx"></asp:MenuItem>
+<asp:MenuItem Text="Pamac FE Payout" Value="BIS Approval view" NavigateUrl="~/HR/HR/pamacfepayout.aspx"></asp:MenuItem>
+<asp:MenuItem Text="Pamac Head Count" Value="BIS Approval view" NavigateUrl="~/HR/HR/PAMACHEADCOUNT.aspx"></asp:MenuItem>
+<asp:MenuItem Text="Pamac HR Pan Card" Value="BIS Approval view" NavigateUrl="~/HR/HR/PAMACHRPANCCARDDETAIL.aspx"></asp:MenuItem>
+<asp:MenuItem Text="HR Zonal MIS" Value="BIS Approval view" NavigateUrl="~/HR/HR/PAMACHRZONALMIS.aspx"></asp:MenuItem>
+                            </asp:MenuItem>
+                            </Items>--%>
+            </asp:Menu>
+            
+            
+
+    </td>
+    <td width="40%"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+    <td></td>
+    <td style="width: 2%">&nbsp;</td>
+    <td></td> 
+    <td style="width: 2%">&nbsp;<asp:Label ID="lblNme" runat="server" Font-Bold="True"></asp:Label></td>
+    <td><a href="../../OrganizationTree.aspx" target="_parent">[My PMS]</a></td>        
+    <td width="2%">&nbsp;</td>
+    <td><a href="../../Logout.aspx" target="_parent">[Sign Out]</a></td>
+      </tr></table>
+        &nbsp;&nbsp;
+    </td>
+    </tr>
+    <tr>
+    <td colspan="2">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </td>
+    </tr>    
+    </table>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>579</MenuID>
+    <Text>Menu</Text>
+    <Description>Menu</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>694</MenuID>
+      <Text>DashBoardOPSmis</Text>
+      <Description>DashBoardOPSmis</Description>
+      <PagePath>~/Pages/DashBoardOPSmis.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>692</MenuID>
+      <Text>OPS MIS</Text>
+      <Description>OPS MIS</Description>
+      <PagePath>~/Pages/Inword Tracking Module/Ops MIS.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

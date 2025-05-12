@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>1</MenuID>
+    <Text>Master</Text>
+    <Description>Master</Description>
+    <PagePath>D:\</PagePath>
+    <Menu>
+      <MenuID>17</MenuID>
+      <Text>Branch Master</Text>
+      <Description>Branch Master</Description>
+      <PagePath />
+      <ParentID>1</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>9</MenuID>
+      <Text>Menu Master</Text>
+      <Description>Menu Master</Description>
+      <PagePath>~/Pages/MenuMaster.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>13</MenuID>
+      <Text>User Master</Text>
+      <Description>User Master</Description>
+      <PagePath>~/Pages/Usermaster.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>3</MenuID>
+      <Text>Source Branch Add</Text>
+      <Description>Source Branch Add</Description>
+      <PagePath>~/Pages/SouchBranchMaster.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>45</MenuID>
+      <Text>Group Rights Assignment</Text>
+      <Description>Group Rights Assignment</Description>
+      <PagePath>~/Pages/GroupRightsInfo.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>46</MenuID>
+      <Text>Group Master</Text>
+      <Description>Group Master</Description>
+      <PagePath>~/Pages/GroupMaster.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

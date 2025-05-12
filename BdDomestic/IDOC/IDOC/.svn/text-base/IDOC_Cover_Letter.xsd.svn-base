@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="IDOC_Cover_Letter" targetNamespace="http://tempuri.org/IDOC_Cover_Letter.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/IDOC_Cover_Letter.xsd" xmlns:mstns="http://tempuri.org/IDOC_Cover_Letter.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="COVERING_x0020_LETTER">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="REFNO" type="xs:string" />
+        <xs:element name="NAME" type="xs:string" />
+        <xs:element name="STATUS" type="xs:string" />
+        <xs:element name="FROMDATE" type="xs:string" />
+        <xs:element name="TODATE" type="xs:string" />
+        <xs:element name="COMPANY_x0020_NAME" type="xs:string" />
+        <xs:element name="Case_x0020_ID" type="xs:string" />
+        <xs:element name="Verification" type="xs:string" />
+        <xs:element name="Ref_x0020_no" type="xs:string" />
+        <xs:element name="Client_x0020_name" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

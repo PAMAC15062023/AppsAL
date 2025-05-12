@@ -1,0 +1,81 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="QueryBuilderMasterPage.master.cs" Inherits="QueryBuilder_QueryBuilderMasterPage" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>PAMAC Online</title>
+    <script language="javascript" type="text/javascript" src="../popcalendar.js"></script>
+    <link href="../../StyleSheet.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr bgcolor="#4eb9ed">
+                <td valign="top" style="height: 15px">
+                   <asp:Menu ID="Menu1" runat="server" Width="500px" StaticEnableDefaultPopOutImage="False" BackColor="#4EB9ED" DynamicHorizontalOffset="2"
+                        Font-Names="Arial" Font-Size="10pt" ForeColor="White" Orientation="Horizontal"
+                        StaticSubMenuIndent="10px" Font-Bold="True">
+                         <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                            <DynamicHoverStyle BackColor="#0093DD" ForeColor="White" />
+                            <DynamicMenuStyle BackColor="#4EB9ED" />
+                            <StaticSelectedStyle BackColor="#C4C1C1" />
+                            <DynamicSelectedStyle BackColor="#0093DD" />
+                            <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                        <Items>
+                            <asp:MenuItem Text="TAT Analysis"
+                                Value="TAT Analysis">
+                                <asp:MenuItem NavigateUrl="~/QueryBuilder/TatAnalysisCentreWise.aspx" Text="Centre Wise"
+                                    Value="Centre Wise"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/QueryBuilder/TatAnalysisClientWise.aspx" Text="Client Wise"
+                                    Value="Client Wise"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/QueryBuilder/TatAnalysisClient_MonthWise.aspx" Text="Client Month Wise"
+                                    Value="Client Month Wise"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/QueryBuilder/TAT_MIS.aspx" Text="TAT MIS" Value="TAT MIS">
+                                </asp:MenuItem>
+                            </asp:MenuItem>
+                            <asp:MenuItem Text="FE-MIS-Analysis" Value="FE-MIS-Analysis"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Administrator/BuildQuery.aspx" Text="Build Query" Value="Build Query">
+                            </asp:MenuItem>
+                            <asp:MenuItem Text="MIS" Value="MIS">
+                                <asp:MenuItem NavigateUrl="~/QueryBuilder/MIS_Centre_VerificationType.aspx" Text="Centre Wise"
+                                    Value="Centre Wise"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/QueryBuilder/MIS_Client_VerificationType.aspx" Text="Client Wise"
+                                    Value="Client Wise"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/QueryBuilder/Productivity_MIS_DEO_FE.aspx" Text="Productivity MIS of DEO/ FE"
+                                    Value="Productivity MIS of DEO/ FE"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/QueryBuilder/VerificationTypeWiseMIS_DEO.aspx" Text="Verification Typewise MIS- DEO"
+                                    Value="Verification Typewise MIS- DEO"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/QueryBuilder/NegativeMISTypeWise.aspx" Text="Negative MIS"
+                                    Value="Negative MIS"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/QueryBuilder/RejectCaseMIS.aspx" Text="Negative MIS"
+                                    Value="Rejected Case MIS"></asp:MenuItem>
+                            </asp:MenuItem>
+                            <asp:MenuItem  Text="General Query" Value="General Query">
+                            <asp:MenuItem NavigateUrl="~/QueryBuilder/GeneralQuery.aspx" Text="General Saved Query"
+                                    Value="General Saved Query"></asp:MenuItem>
+                            </asp:MenuItem>
+                        </Items>
+                    </asp:Menu>
+                </td>
+                <td width="40%">
+                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tr>                
+                   
+                    <td><a href="../OrganizationTree.aspx" target="_parent">[My PMS]</a></td>        
+                    <td width="2%">&nbsp;</td>
+                    <td><a href="../Logout.aspx" target="_parent">[Sign Out]</a></td>
+                </tr>
+                </table>
+                </td>
+                </tr> 
+            <tr>
+                <td colspan="2">
+                    <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+                    </asp:contentplaceholder>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

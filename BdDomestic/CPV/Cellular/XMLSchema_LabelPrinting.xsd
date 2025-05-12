@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLSchema_LabelPrinting" targetNamespace="http://tempuri.org/XMLSchema_LabelPrinting.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XMLSchema_LabelPrinting.xsd" xmlns:mstns="http://tempuri.org/XMLSchema_LabelPrinting.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="LblPrinting">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Field1" type="xs:string" />
+        <xs:element name="Field2" type="xs:string" />
+        <xs:element name="Field3" type="xs:string" />
+        <xs:element name="Field4" type="xs:string" />
+        <xs:element name="Field5" type="xs:string" />
+        <xs:element name="Field6" type="xs:string" />
+        <xs:element name="Field7" type="xs:string" />
+        <xs:element name="Field8" type="xs:string" />
+        <xs:element name="Field9" type="xs:string" />
+        <xs:element name="Field10" type="xs:string" />
+        <xs:element name="Field11" type="xs:string" />
+        <xs:element name="Field12" type="xs:string" />
+        <xs:element name="SR_NO" type="xs:string" />
+        <xs:element name="VERIFICATION_CODE" type="xs:string" />
+        <xs:element name="CASE_REC_DATETIME" type="xs:string" />
+        <xs:element name="CASE_ID" type="xs:string" />
+        <xs:element name="fe_name" type="xs:string" />
+        <xs:element name="fe_code" type="xs:string" />
+        <xs:element name="BarCode" type="xs:string" />
+        <xs:element name="BrCode" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LblPrinting_Cellular">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Field1" type="xs:string" />
+        <xs:element name="Field2" type="xs:string" />
+        <xs:element name="Field3" type="xs:string" />
+        <xs:element name="Field4" type="xs:string" />
+        <xs:element name="Field5" type="xs:string" />
+        <xs:element name="Field6" type="xs:string" />
+        <xs:element name="Field7" type="xs:string" />
+        <xs:element name="Field8" type="xs:string" />
+        <xs:element name="Field9" type="xs:string" />
+        <xs:element name="Field10" type="xs:string" />
+        <xs:element name="Field11" type="xs:string" />
+        <xs:element name="Field12" type="xs:string" />
+        <xs:element name="CUSTOMER_CLASS" type="xs:string" />
+        <xs:element name="CASE_REC_DATETIME" type="xs:string" />
+        <xs:element name="CELL_ACTIVATED_DATE" type="xs:string" />
+        <xs:element name="CASE_TYPE_CODE" type="xs:string" />
+        <xs:element name="CELLNO" type="xs:string" />
+        <xs:element name="CUSTOMER_CLASS_CODE" type="xs:string" />
+        <xs:element name="SR_NO" type="xs:string" />
+        <xs:element name="CASE_ID" type="xs:string" />
+        <xs:element name="fe_name" type="xs:string" />
+        <xs:element name="fe_code" type="xs:string" />
+        <xs:element name="BarCode" type="xs:string" />
+        <xs:element name="BrCode" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TATMIS_Report">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="CASE_REC_DATETIME" type="xs:dateTime" />
+        <xs:element name="SEND_DATETIME" type="xs:dateTime" />
+        <xs:element name="NO" type="xs:string" />
+        <xs:element name="WITHIN_TAT" type="xs:string" />
+        <xs:element name="GRATER_THAN_TAT" type="xs:string" />
+        <xs:element name="PENDING" type="xs:string" />
+        <xs:element name="PER_WITHIN" type="xs:string" />
+        <xs:element name="PER_GRATER_TAT" type="xs:string" />
+        <xs:element name="PER_PENDING" type="xs:string" />
+        <xs:element name="FROMDATE" type="xs:string" />
+        <xs:element name="TODATE" type="xs:string" />
+        <xs:element name="COMPANYNAME" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LblPrinting_RL">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Field1" type="xs:string" />
+        <xs:element name="Field2" type="xs:string" />
+        <xs:element name="Field3" type="xs:string" />
+        <xs:element name="Field4" type="xs:string" />
+        <xs:element name="Field5" type="xs:string" />
+        <xs:element name="Field6" type="xs:string" />
+        <xs:element name="Field7" type="xs:string" />
+        <xs:element name="Field8" type="xs:string" />
+        <xs:element name="Field9" type="xs:string" />
+        <xs:element name="Field10" type="xs:string" />
+        <xs:element name="Field11" type="xs:string" />
+        <xs:element name="Field12" type="xs:string" />
+        <xs:element name="SR_NO" type="xs:string" />
+        <xs:element name="VERIFICATION_CODE" type="xs:string" />
+        <xs:element name="CASE_REC_DATETIME" type="xs:string" />
+        <xs:element name="CASE_ID" type="xs:string" />
+        <xs:element name="fe_name" type="xs:string" />
+        <xs:element name="fe_code" type="xs:string" />
+        <xs:element name="BarCode" type="xs:string" />
+        <xs:element name="BrCode" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

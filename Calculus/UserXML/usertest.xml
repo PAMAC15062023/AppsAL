@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>579</MenuID>
+    <Text>Menu</Text>
+    <Description>Menu</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>693</MenuID>
+      <Text>DashBoardCourier</Text>
+      <Description>DashBoardCourier</Description>
+      <PagePath>~/Pages/DashBoardCourier.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>625</MenuID>
+      <Text>SearchCourier</Text>
+      <Description>SearchCourier</Description>
+      <PagePath>~/Pages/Inword Tracking Module/SearchCourier.aspx</PagePath>
+      <ParentID>579</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

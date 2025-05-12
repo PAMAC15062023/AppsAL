@@ -1,0 +1,161 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>12</MenuID>
+    <Text>Transactional</Text>
+    <Description>Transactional</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>37</MenuID>
+      <Text>Cheque Assignment</Text>
+      <Description>Cheque Assignment</Description>
+      <PagePath>~/Pages/ChequeProcessing/ChequeAssignment.aspx</PagePath>
+      <ParentID>12</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>38</MenuID>
+      <Text>Cheque Entry</Text>
+      <Description>Cheque Entry</Description>
+      <PagePath>~/Pages/ChequeProcessing/ChequeEntryModule.aspx</PagePath>
+      <ParentID>12</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>39</MenuID>
+      <Text>DBF File Upload</Text>
+      <Description>DBF File Upload</Description>
+      <PagePath>~/Pages/ChequeProcessing/ChequeUploadFILES.aspx</PagePath>
+      <ParentID>12</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>40</MenuID>
+      <Text>Generate Cheque Entry Report</Text>
+      <Description>Generate Cheque Entry Report</Description>
+      <PagePath>~/Pages/ChequeProcessing/ChequeEntryReport.aspx</PagePath>
+      <ParentID>12</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>41</MenuID>
+      <Text>SBI Generate Cheque Entry Report</Text>
+      <Description>SBI Generate Cheque Entry Report</Description>
+      <PagePath>~/pages/ChequeProcessing/ChequeEntryReport_SBI.aspx</PagePath>
+      <ParentID>12</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>42</MenuID>
+      <Text>SOC Generate Cheque Entry Report"</Text>
+      <Description>SOC Generate Cheque Entry Report"</Description>
+      <PagePath>~/pages/ChequeProcessing/ChequeEntryReport_SOC.aspx</PagePath>
+      <ParentID>12</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>43</MenuID>
+      <Text>Cheque Contact No</Text>
+      <Description>Cheque Contact No</Description>
+      <PagePath>~/Pages/ChequeProcessing/ChequeContactUpdate.aspx</PagePath>
+      <ParentID>12</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>4</MenuID>
+    <Text>Reports</Text>
+    <Description>Reports</Description>
+    <PagePath>D:\</PagePath>
+    <Menu>
+      <MenuID>16</MenuID>
+      <Text>Cheque Processing Reports</Text>
+      <Description>Cheque Processing Reports</Description>
+      <PagePath />
+      <ParentID>4</ParentID>
+      <Menu>
+        <MenuID>26</MenuID>
+        <Text>Dropbox MIS</Text>
+        <Description>Dropbox MIS</Description>
+        <PagePath>~/Pages/ChequeProcessing/Reports/DropboxMIS.aspx</PagePath>
+        <ParentID>16</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>27</MenuID>
+        <Text>Final Process MIS</Text>
+        <Description>Final Process MIS</Description>
+        <PagePath>~/Pages/ChequeProcessing/Reports/ProcessMIS.aspx</PagePath>
+        <ParentID>16</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>28</MenuID>
+        <Text>ForClosure Cheque MIS</Text>
+        <Description>ForClosure Cheque MIS</Description>
+        <PagePath>~/Pages/ChequeProcessing/Reports/ClosureChequeMIS.aspx</PagePath>
+        <ParentID>16</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>29</MenuID>
+        <Text>Invalid Cheque MIS</Text>
+        <Description>Invalid Cheque MIS</Description>
+        <PagePath>~/Pages/ChequeProcessing/Reports/InvalidChequeMIS.aspx</PagePath>
+        <ParentID>16</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>30</MenuID>
+        <Text>Invalid Physical Cheque MIS</Text>
+        <Description>Invalid Physical Cheque MIS</Description>
+        <PagePath>~/Pages/ChequeProcessing/Reports/InvalidPhysicalChequeMIS.aspx</PagePath>
+        <ParentID>16</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>31</MenuID>
+        <Text>Inward BT Identification MIS</Text>
+        <Description>Inward BT Identification MIS</Description>
+        <PagePath>~/Pages/ChequeProcessing/Reports/InwardBTChequeMIS.aspx</PagePath>
+        <ParentID>16</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>32</MenuID>
+        <Text>Non SBI Cheque MIS</Text>
+        <Description>Non SBI Cheque MIS</Description>
+        <PagePath>~/Pages/ChequeProcessing/Reports/NonSBIChequeMIS.aspx</PagePath>
+        <ParentID>16</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>33</MenuID>
+        <Text>Suspense Cheque MIS</Text>
+        <Description>Suspense Cheque MIS</Description>
+        <PagePath>~/Pages/ChequeProcessing/Reports/SuspenseChequeMIS.aspx</PagePath>
+        <ParentID>16</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>34</MenuID>
+        <Text>Return Cheque MIS</Text>
+        <Description>Return Cheque MIS</Description>
+        <PagePath>~/Pages/ChequeProcessing/Reports/ReturnChequeMIS.aspx</PagePath>
+        <ParentID>16</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>35</MenuID>
+        <Text>Return Physical Cheque MIS</Text>
+        <Description>Return Physical Cheque MIS</Description>
+        <PagePath>~/Pages/ChequeProcessing/Reports/ReturnPhysicalChequeMIS.aspx</PagePath>
+        <ParentID>16</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>36</MenuID>
+        <Text>UpCountry Cheque MIS</Text>
+        <Description>UpCountry Cheque MIS</Description>
+        <PagePath>~/Pages/ChequeProcessing/Reports/UpCountyChequeMIS.aspx</PagePath>
+        <ParentID>16</ParentID>
+      </Menu>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>49</MenuID>
+    <Text>Calculus Online Transactional</Text>
+    <Description>Calculus Online Transactional</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>50</MenuID>
+      <Text>Branch Payment Request</Text>
+      <Description>Branch Payment Request</Description>
+      <PagePath>~/Pages/Calculus/BranchPaymentRequest.aspx</PagePath>
+      <ParentID>49</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

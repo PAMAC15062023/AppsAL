@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>701</MenuID>
+    <Text>Hero_Housing</Text>
+    <Description>Hero_Housing</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>704</MenuID>
+      <Text>Upload Data</Text>
+      <Description>Upload Data</Description>
+      <PagePath>~/Pages/Hero_Housing/UploadCases.aspx</PagePath>
+      <ParentID>701</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>706</MenuID>
+      <Text>DataEntry</Text>
+      <Description>DataEntry</Description>
+      <PagePath>~/pages/Hero_Housing/DataEntry.aspx</PagePath>
+      <ParentID>701</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>703</MenuID>
+      <Text>CAM_Entry</Text>
+      <Description>CAM_Entry</Description>
+      <PagePath>~/Pages/Hero_Housing/CAM.aspx</PagePath>
+      <ParentID>701</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

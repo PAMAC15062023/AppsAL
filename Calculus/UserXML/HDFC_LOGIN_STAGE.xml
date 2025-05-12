@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>773</MenuID>
+    <Text>HDFC TRACKING</Text>
+    <Description>HDFC TRACKING</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>775</MenuID>
+      <Text>Login Stage</Text>
+      <Description>Login Stage</Description>
+      <PagePath>~/Pages/Calculus/HDFC/HDFCTM_Loginstage.aspx</PagePath>
+      <ParentID>773</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

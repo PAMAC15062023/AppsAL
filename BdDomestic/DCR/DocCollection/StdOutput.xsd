@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="StdOutput" targetNamespace="http://tempuri.org/StdOutput.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/StdOutput.xsd" xmlns:mstns="http://tempuri.org/StdOutput.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="OFFICERECORD">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="VERIFICATION_TYPE_ID" type="xs:string" />
+        <xs:element name="APPLICANT_NAME" type="xs:string" />
+        <xs:element name="REF_NO" type="xs:string" />
+        <xs:element name="AGENCY_NAME" type="xs:string" />
+        <xs:element name="RES_ADD_LINE_1" type="xs:string" />
+        <xs:element name="RES_ADD_LINE_2" type="xs:string" />
+        <xs:element name="RES_ADD_LINE_3" type="xs:string" />
+        <xs:element name="RES_PIN_CODE" type="xs:string" />
+        <xs:element name="RES_PHONE" type="xs:string" />
+        <xs:element name="MOBILE" type="xs:string" />
+        <xs:element name="CASE_ID" type="xs:string" />
+        <xs:element name="DESIGNATION" type="xs:string" />
+        <xs:element name="COMPANY_NAME" type="xs:string" />
+        <xs:element name="OFFICE_TELEPHONE" type="xs:string" />
+        <xs:element name="OFFICE_EXT" type="xs:string" />
+        <xs:element name="LOCALITY" type="xs:string" />
+        <xs:element name="PORTRAIT" type="xs:string" />
+        <xs:element name="CENTRE_ID" type="xs:string" />
+        <xs:element name="CLIENT_ID" type="xs:string" />
+        <xs:element name="CONTACTED_PERSON_NAME" type="xs:string" />
+        <xs:element name="CONTACTED_PERSON_DESIGN" type="xs:string" />
+        <xs:element name="OFFICE_SIZE" type="xs:string" />
+        <xs:element name="BUSINESS_TYPE" type="xs:string" />
+        <xs:element name="BUSINESS_ACTIVITY_SEEN" type="xs:string" />
+        <xs:element name="NO_OF_EMP_SIGHTED_IN_PERMISES" type="xs:string" />
+        <xs:element name="CO_APP_NAME" type="xs:string" />
+        <xs:element name="NO_CUSTOMER_PERDAY" type="xs:string" />
+        <xs:element name="APPLICANT_JOB_TRANSFERABLE" type="xs:string" />
+        <xs:element name="CONSTRUCTION_OFFICE" type="xs:string" />
+        <xs:element name="NO_CUSTOMER_SEEN" type="xs:string" />
+        <xs:element name="JOB_DESC" type="xs:string" />
+        <xs:element name="JOB_TYPE" type="xs:string" />
+        <xs:element name="OFFICE_TYPE" type="xs:string" />
+        <xs:element name="PARTICULARS" type="xs:string" />
+        <xs:element name="VISITING_CARD_OBTAINED" type="xs:string" />
+        <xs:element name="EASE_OF_LOCATING_OFFICE" type="xs:string" />
+        <xs:element name="ITEM_SEEN_IN_PERMISES" type="xs:string" />
+        <xs:element name="BUSINESS_BOARD_SEEN_OUTSIDE_BUILDING" type="xs:string" />
+        <xs:element name="VisitDate" type="xs:string" />
+        <xs:element name="Time_Of_calling" type="xs:string" />
+        <xs:element name="VERIFIER_ID" type="xs:string" />
+        <xs:element name="Verifier_Name" type="xs:string" />
+        <xs:element name="OFFICE_OWNERSHIP" type="xs:string" />
+        <xs:element name="BRANCH" type="xs:string" />
+        <xs:element name="APPROXIMATE_AREA" type="xs:string" />
+        <xs:element name="RECOMENDATION_NO" type="xs:string" />
+        <xs:element name="NO_OF_EMP" type="xs:string" />
+        <xs:element name="BUSINESS_NATURE" type="xs:string" />
+        <xs:element name="AVG_MONTH_TURNOVER" type="xs:string" />
+        <xs:element name="OFFICE_LOCALITY" type="xs:string" />
+        <xs:element name="APPLICANT_NAME_VERIFIED_FROM" type="xs:string" />
+        <xs:element name="ADRESS_CONFIRMATION" type="xs:string" />
+        <xs:element name="INTERIOR" type="xs:string" />
+        <xs:element name="EXTERIOR" type="xs:string" />
+        <xs:element name="TIME_AT_CURRENT_EMPLOYMENT_x0020_" type="xs:string" />
+        <xs:element name="AFFILATION_POLITICAL_PARTY_SEEN" type="xs:string" />
+        <xs:element name="FE_REMARK" type="xs:string" />
+        <xs:element name="OFFICE_IS_IN" type="xs:string" />
+        <xs:element name="OFF_ADD_LINE" type="xs:string" />
+        <xs:element name="TPC_DETAILS" type="xs:string" />
+        <xs:element name="ANY_OTHER_INFO_OBT" type="xs:string" />
+        <xs:element name="DECLINED_REASON" type="xs:string" />
+        <xs:element name="NoYrs" type="xs:string" />
+        <xs:element name="TYPE_OF_OFFICE" type="xs:string" />
+        <xs:element name="APP_WORKING_AS" type="xs:string" />
+        <xs:element name="DECLINED_CODE" type="xs:string" />
+        <xs:element name="SUPERVISOR_REMARKS" type="xs:string" />
+        <xs:element name="overall_comments" type="xs:string" />
+        <xs:element name="STOCK_SIGHTED" type="xs:string" />
+        <xs:element name="OTHER_NATURE_OF_BUSINESS" type="xs:string" />
+        <xs:element name="NATURE_BUSINESS" type="xs:string" />
+        <xs:element name="FullName" type="xs:string" />
+        <xs:element name="Emp_Job_Type" type="xs:string" />
+        <xs:element name="Assets_Visible" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="MAIN">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="CASE_ID" type="xs:string" />
+        <xs:element name="verified" type="xs:integer" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RESIDENCERECORD">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="VERIFICATION_TYPE_ID" type="xs:string" />
+        <xs:element name="APPLICANT_NAME" type="xs:string" />
+        <xs:element name="REF_NO" type="xs:string" />
+        <xs:element name="AGENCY_NAME" type="xs:string" />
+        <xs:element name="RES_ADD_LINE_1" type="xs:string" />
+        <xs:element name="RES_ADD_LINE_2" type="xs:string" />
+        <xs:element name="RES_ADD_LINE_3" type="xs:string" />
+        <xs:element name="RES_PIN_CODE" type="xs:string" />
+        <xs:element name="RES_LAND_MARK" type="xs:string" />
+        <xs:element name="RES_PHONE" type="xs:string" />
+        <xs:element name="MOBILE" type="xs:string" />
+        <xs:element name="PINCODE" type="xs:string" />
+        <xs:element name="CASE_ID" type="xs:string" />
+        <xs:element name="DOB" type="xs:string" />
+        <xs:element name="MARITAL_STATUS" type="xs:string" />
+        <xs:element name="NO_OF_DEPENDENT" type="xs:string" />
+        <xs:element name="DESIGNATION" type="xs:string" />
+        <xs:element name="APPLICANT_AVAILABILITY" type="xs:string" />
+        <xs:element name="IS_SPOUSE_WORKING" type="xs:string" />
+        <xs:element name="VERIFIED_NEIGHBOUR" type="xs:string" />
+        <xs:element name="LOCALITY" type="xs:string" />
+        <xs:element name="ASSETS_VISIBLE" type="xs:string" />
+        <xs:element name="PORTRAIT" type="xs:string" />
+        <xs:element name="IS_OCL" type="xs:string" />
+        <xs:element name="CENTRE_ID" type="xs:string" />
+        <xs:element name="CLIENT_ID" type="xs:string" />
+        <xs:element name="OFF_ADD_LINE" type="xs:string" />
+        <xs:element name="CONTACTED_PERSON_NAME" type="xs:string" />
+        <xs:element name="CONTACTED_PERSON_DESIGN" type="xs:string" />
+        <xs:element name="PERSON_CONTACTED" type="xs:string" />
+        <xs:element name="REL_WITH_APPLICANT" type="xs:string" />
+        <xs:element name="DOB_APPLICANT" type="xs:string" />
+        <xs:element name="APPLICANT_IS_AVAILABLE_AT" type="xs:string" />
+        <xs:element name="APPLICANT_AGE" type="xs:string" />
+        <xs:element name="SPK_TO" type="xs:string" />
+        <xs:element name="APPLICANT_NAME_VERIFIED_FROM" type="xs:string" />
+        <xs:element name="APP_QUALIFICATION" type="xs:string" />
+        <xs:element name="NAME_OF_PERSON_CONTACTED" type="xs:string" />
+        <xs:element name="PERSON_CONTACTED_MET" type="xs:string" />
+        <xs:element name="CUSTOMER_COOPERATION" type="xs:string" />
+        <xs:element name="COMMENTS_EXTERIORS" type="xs:string" />
+        <xs:element name="FAMILY_MEMBERS" type="xs:string" />
+        <xs:element name="NO_OF_EARNING_FAMILY_MEMBER" type="xs:string" />
+        <xs:element name="INTERIOR" type="xs:string" />
+        <xs:element name="EXTERIOR" type="xs:string" />
+        <xs:element name="APP_DOB_APPROX_AGE" type="xs:string" />
+        <xs:element name="RECOMMENDATION" type="xs:string" />
+        <xs:element name="VisitDate" type="xs:string" />
+        <xs:element name="Time_Of_calling" type="xs:string" />
+        <xs:element name="VERIFIER_ID" type="xs:string" />
+        <xs:element name="Verifier_Name" type="xs:string" />
+        <xs:element name="SPECIAL_INSTRUCTIONS" type="xs:string" />
+        <xs:element name="IS_CREDIT_CARD" type="xs:string" />
+        <xs:element name="CARD_TYPE" type="xs:string" />
+        <xs:element name="CARD_NO" type="xs:string" />
+        <xs:element name="CARD_LIMIT" type="xs:string" />
+        <xs:element name="CARD_EXPIRY" type="xs:string" />
+        <xs:element name="ISSUING_BANK" type="xs:string" />
+        <xs:element name="RESIDANCE_STATUS" type="xs:string" />
+        <xs:element name="RECOMENDATION_NO" type="xs:string" />
+        <xs:element name="NEIGHBOUR_REFERENCE" type="xs:string" />
+        <xs:element name="CURRENT_RESIDENCE_PERIOD" type="xs:string" />
+        <xs:element name="SPL_INSTRUCTION" type="xs:string" />
+        <xs:element name="RELATION_PERSON_CONTACTED" type="xs:string" />
+        <xs:element name="TIME_AT_CURR_RESIDANCE" type="xs:string" />
+        <xs:element name="APPROXIMATE_AREA" type="xs:string" />
+        <xs:element name="LOCATING_ADDRESS" type="xs:string" />
+        <xs:element name="CONSTRUCTION_OF_RESIDANCE" type="xs:string" />
+        <xs:element name="APPLICANT_STAYED_RESIDANCE" type="xs:string" />
+        <xs:element name="ADRESS_CONFIRMATION" type="xs:string" />
+        <xs:element name="QUALIFICATION" type="xs:string" />
+        <xs:element name="RESI_TYPE" type="xs:string" />
+        <xs:element name="TPC_DETAILS" type="xs:string" />
+        <xs:element name="ANY_OTHER_INFO_OBT" type="xs:string" />
+        <xs:element name="FE_REMARK" type="xs:string" />
+        <xs:element name="DECLINED_REASON" type="xs:string" />
+        <xs:element name="WORKING" type="xs:string" />
+        <xs:element name="CHILDREN" type="xs:string" />
+        <xs:element name="DECLINED_CODE" type="xs:string" />
+        <xs:element name="SUPERVISOR_REMARKS" type="xs:string" />
+        <xs:element name="FullName" type="xs:string" />
+        <xs:element name="CHANGE_IN_ADRESS" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="RESIDENCETELEPHONICREOCRD">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="VERIFICATION_TYPE_ID" type="xs:string" />
+        <xs:element name="APPLICANT_NAME" type="xs:string" />
+        <xs:element name="REF_NO" type="xs:string" />
+        <xs:element name="AGENCY_NAME" type="xs:string" />
+        <xs:element name="RES_ADD_LINE_1" type="xs:string" />
+        <xs:element name="RES_ADD_LINE_2" type="xs:string" />
+        <xs:element name="RES_ADD_LINE_3" type="xs:string" />
+        <xs:element name="RES_PIN_CODE" type="xs:string" />
+        <xs:element name="RES_LAND_MARK" type="xs:string" />
+        <xs:element name="RES_PHONE" type="xs:string" />
+        <xs:element name="MOBILE" type="xs:string" />
+        <xs:element name="CASE_ID" type="xs:string" />
+        <xs:element name="DOB" type="xs:string" />
+        <xs:element name="DESIGNATION" type="xs:string" />
+        <xs:element name="CENTRE_ID" type="xs:string" />
+        <xs:element name="CLIENT_ID" type="xs:string" />
+        <xs:element name="OFF_ADD_LINE" type="xs:string" />
+        <xs:element name="CONTACTED_PERSON_NAME" type="xs:string" />
+        <xs:element name="PERSON_CONTACTED" type="xs:string" />
+        <xs:element name="REL_WITH_APPLICANT" type="xs:string" />
+        <xs:element name="DOB_APPLICANT" type="xs:string" />
+        <xs:element name="APPLICANT_IS_AVAILABLE_AT" type="xs:string" />
+        <xs:element name="SPK_TO" type="xs:string" />
+        <xs:element name="VisitDate" type="xs:string" />
+        <xs:element name="Time_Of_calling" type="xs:string" />
+        <xs:element name="VERIFIER_ID" type="xs:string" />
+        <xs:element name="Verifier_Name" type="xs:string" />
+        <xs:element name="SPECIAL_INSTRUCTIONS" type="xs:string" />
+        <xs:element name="SPL_INSTRUCTION" type="xs:string" />
+        <xs:element name="RELATION_PERSON_CONTACTED" type="xs:string" />
+        <xs:element name="PMT_ADD_LINE_1" type="xs:string" />
+        <xs:element name="PMT_ADD_LINE_2" type="xs:string" />
+        <xs:element name="PMT_ADD_LINE_3" type="xs:string" />
+        <xs:element name="PMT_CITY" type="xs:string" />
+        <xs:element name="PMT_STATE" type="xs:string" />
+        <xs:element name="PMT_PIN_CODE" type="xs:string" />
+        <xs:element name="EMP_CONFIRMED_OR_NOT_CONFIRMED" type="xs:string" />
+        <xs:element name="TELE_VERIFICATION_RESULT" type="xs:string" />
+        <xs:element name="OUTCOME" type="xs:string" />
+        <xs:element name="TCREMARK" type="xs:string" />
+        <xs:element name="REMARK" type="xs:string" />
+        <xs:element name="APPLICANT_NAME_CONFIRMED_AT_GIVEN_NO" type="xs:string" />
+        <xs:element name="RESIDANCE_IS" type="xs:string" />
+        <xs:element name="SUPERVISOR_REMARKS" type="xs:string" />
+        <xs:element name="DECLINED_REASON" type="xs:string" />
+        <xs:element name="MISMATCH_RESI_ADD" type="xs:string" />
+        <xs:element name="directory_chk_add_reason" type="xs:string" />
+        <xs:element name="DIRECTORY_CHECK" type="xs:string" />
+        <xs:element name="TIME_AT_CURR_RESIDANCE" type="xs:string" />
+        <xs:element name="TELE_CALLER_NAME" type="xs:string" />
+        <xs:element name="FullName" type="xs:string" />
+        <xs:element name="CHANGE_IN_ADRESS" type="xs:string" />
+        <xs:element name="TELEPHONE_NO" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="OFFICETELEPHONICERECORD">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="VERIFICATION_TYPE_ID" type="xs:string" />
+        <xs:element name="APPLICANT_NAME" type="xs:string" />
+        <xs:element name="REF_NO" type="xs:string" />
+        <xs:element name="CASE_ID" type="xs:string" />
+        <xs:element name="DESIGNATION" type="xs:string" />
+        <xs:element name="CENTRE_ID" type="xs:string" />
+        <xs:element name="CLIENT_ID" type="xs:string" />
+        <xs:element name="OFF_ADD_LINE" type="xs:string" />
+        <xs:element name="PERSON_CONTACTED" type="xs:string" />
+        <xs:element name="REL_WITH_APPLICANT" type="xs:string" />
+        <xs:element name="SPK_TO" type="xs:string" />
+        <xs:element name="VisitDate" type="xs:string" />
+        <xs:element name="Time_Of_calling" type="xs:string" />
+        <xs:element name="VERIFIER_ID" type="xs:string" />
+        <xs:element name="Verifier_Name" type="xs:string" />
+        <xs:element name="SPECIAL_INSTRUCTIONS" type="xs:string" />
+        <xs:element name="SPL_INSTRUCTION" type="xs:string" />
+        <xs:element name="RELATION_PERSON_CONTACTED" type="xs:string" />
+        <xs:element name="TELE_VERIFICATION_RESULT" type="xs:string" />
+        <xs:element name="OFF_PHONE" type="xs:string" />
+        <xs:element name="OFF_EXTN" type="xs:string" />
+        <xs:element name="FIRST_NAME" type="xs:string" />
+        <xs:element name="MIDDLE_NAME" type="xs:string" />
+        <xs:element name="LAST_NAME" type="xs:string" />
+        <xs:element name="FULL_NAME" type="xs:string" />
+        <xs:element name="OFF_ADD_LINE_1" type="xs:string" />
+        <xs:element name="OFF_ADD_LINE_2" type="xs:string" />
+        <xs:element name="OFF_ADD_LINE_3" type="xs:string" />
+        <xs:element name="OFF_CITY" type="xs:string" />
+        <xs:element name="OFF_STATE" type="xs:string" />
+        <xs:element name="OFF_PIN_CODE" type="xs:string" />
+        <xs:element name="Expr1" type="xs:string" />
+        <xs:element name="DEPARTMENT" type="xs:string" />
+        <xs:element name="TIME_AT_CURRENT_EMPL_Y_M" type="xs:string" />
+        <xs:element name="REMARKS" type="xs:string" />
+        <xs:element name="TCRemark" type="xs:string" />
+        <xs:element name="COMPANYNAME" type="xs:string" />
+        <xs:element name="LANDMARK" type="xs:string" />
+        <xs:element name="APPLICANT_NAME_CONFIRMED_AT_GIVEN_NO" type="xs:string" />
+        <xs:element name="FOR_SELF_EMPLOYED_TYPE_OF_ORGANIZATION" type="xs:string" />
+        <xs:element name="OTHER_NATURE_OF_BUSINESS" type="xs:string" />
+        <xs:element name="ADDITIONAL_REMARK" type="xs:string" />
+        <xs:element name="DECLINED_REASON" type="xs:string" />
+        <xs:element name="SUPERVISOR_REMARKS" type="xs:string" />
+        <xs:element name="MISMATCH_RESI_ADD" type="xs:string" />
+        <xs:element name="directory_chk_add_reason" type="xs:string" />
+        <xs:element name="DIRECTORY_CHECK" type="xs:string" />
+        <xs:element name="TELE_CALLER_NAME" type="xs:string" />
+        <xs:element name="FullName" type="xs:string" />
+        <xs:element name="CHANGE_IN_ADRESS" type="xs:string" />
+        <xs:element name="TELEPHONE_NO" type="xs:string" />
+        <xs:element name="Other_Nature_Buss" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TeleReport">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="CLIENT_id" type="xs:string" />
+        <xs:element name="RT_RECEIVED" type="xs:integer" />
+        <xs:element name="BT_RECEIVED" type="xs:integer" />
+        <xs:element name="CUSTOMER_RECEIVED" type="xs:integer" />
+        <xs:element name="RT_ATTEMPTED" type="xs:integer" />
+        <xs:element name="BT_ATTEMPTED" type="xs:integer" />
+        <xs:element name="CUSTOMER_ATTEMPTED" type="xs:integer" />
+        <xs:element name="RT_COMPLETED" type="xs:integer" />
+        <xs:element name="BT_COMPLETED" type="xs:integer" />
+        <xs:element name="CUSTOMER_COMPLETED" type="xs:integer" />
+        <xs:element name="RT_PENDING" type="xs:integer" />
+        <xs:element name="BT_PENDING" type="xs:integer" />
+        <xs:element name="CUSTOMER_PENDING" type="xs:integer" />
+        <xs:element name="FROMDATE" type="xs:date" />
+        <xs:element name="TODATE" type="xs:date" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TELETIMELOG">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="CLIENTNAME" type="xs:string" />
+        <xs:element name="REF_NO" type="xs:string" />
+        <xs:element name="NAME" type="xs:string" />
+        <xs:element name="TYPE" type="xs:string" />
+        <xs:element name="TIME_OF_CALL" type="xs:time" />
+        <xs:element name="REMARK" type="xs:string" />
+        <xs:element name="DATE" type="xs:date" />
+        <xs:element name="TCNAME" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TcWiseReport">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="TcId" type="xs:string" />
+        <xs:element name="TcName" type="xs:string" />
+        <xs:element name="Client_Name" type="xs:string" />
+        <xs:element name="VerificationType" type="xs:string" />
+        <xs:element name="FromDate" type="xs:string" />
+        <xs:element name="ToDate" type="xs:string" />
+        <xs:element name="CompanyName" type="xs:string" />
+        <xs:element name="Rt_Assigned" type="xs:integer" />
+        <xs:element name="Bt_Assigned" type="xs:integer" />
+        <xs:element name="Cust_Assigned" type="xs:integer" />
+        <xs:element name="Rt_Attempt" type="xs:integer" />
+        <xs:element name="Bt_Attempt" type="xs:integer" />
+        <xs:element name="Cust_Attempt" type="xs:integer" />
+        <xs:element name="Rt_Complete" type="xs:integer" />
+        <xs:element name="Bt_Complete" type="xs:integer" />
+        <xs:element name="Cust_Complete" type="xs:integer" />
+        <xs:element name="Rt_Pending" type="xs:integer" />
+        <xs:element name="Bt_Pending" type="xs:integer" />
+        <xs:element name="Cust_Pending" type="xs:integer" />
+        <xs:element name="Rt_Untouched" type="xs:integer" />
+        <xs:element name="Bt_Untouched" type="xs:integer" />
+        <xs:element name="Cust_Untouched" type="xs:integer" />
+        <xs:element name="Client_Id" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

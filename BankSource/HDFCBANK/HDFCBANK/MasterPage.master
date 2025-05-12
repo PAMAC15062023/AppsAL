@@ -1,0 +1,93 @@
+<%@ master language="C#" autoeventwireup="true" inherits="HDFC_HDFC_MasterPage, App_Web_masterpage.master.513d3bc3" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+<head id="Head1" runat="server">
+    <title>PAMAC Online</title>
+    <%--<meta http-equiv="Page-Enter" content="revealTrans(Duration=1.0,Transition=2)">
+  <meta http-equiv="Page-Exit" content="progid: DXImageTransform.Microsoft.gradientWipe(duration=1)">--%>
+    <script language="javascript" type="text/javascript" src="../../popcalendar.js"></script>
+    <link href="../../StyleSheet.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr bg color="#4EB9ED">
+    <td style="background-color: #4eb9ed; width: 26%; height: 46px;">
+    <asp:Menu ID="Menu1" runat="server" Width="500px" StaticEnableDefaultPopOutImage="False" BackColor="#4EB9ED" DynamicHorizontalOffset="2"
+            Font-Names="Arial" Font-Size="10pt" ForeColor="White" Orientation="Horizontal"
+            StaticSubMenuIndent="10px" Font-Bold="True">
+
+                            <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                            <DynamicHoverStyle BackColor="#0093DD" ForeColor="White" />
+                            <DynamicMenuStyle BackColor="#4EB9ED" />
+                            <StaticSelectedStyle BackColor="#C4C1C1" />
+                            <DynamicSelectedStyle BackColor="#0093DD" />
+                            <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+            </asp:Menu>
+
+    </td>
+    
+    <td width="40%" style="background-color: #4eb9ed; height: 46px;">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+    <td style="height: 14px; width: 2%;">&nbsp;</td>
+        <td style="width: 2%; height: 14px">
+        </td>
+    <td style="height: 14px; width: 128px;">
+        &nbsp;<asp:LinkButton ID="LinkButton2" runat="server" Font-Bold="True" ForeColor="White"
+            OnClick="LinkButton2_Click" Width="153px">HDFC Process Manual</asp:LinkButton></td> 
+    <td style="height: 14px; width: 2%;">&nbsp;</td>
+    <td style="width: 60px; height: 14px;">
+        <asp:LinkButton ID="lnkChangePassword" runat="server" Font-Bold="True" ForeColor="White"
+            PostBackUrl="~/ChangePassword.aspx" Width="124px">[Change Password]</asp:LinkButton><a href="../../OrganizationTree.aspx" target="_parent"></a></td>        
+    <td style="height: 14px; width: 1%;"> <strong></strong></td>
+    <td style="height: 14px; width: 82px;"><a href="../../Logout.aspx" target="_parent" style="color: white"><strong>[Sign Out]</strong></a></td>
+    </tr>    
+        <tr>
+            <td style="width: 2%;">
+            </td>
+            <td style="width: 2%;">
+            </td>
+            <td style="width: 128px;">
+            </td>
+            <td style="width: 2%;">
+            </td>
+            <td style="width: 60px;">
+            </td>
+            <td style="width: 1%;">
+            </td>
+            <td style="width: 82px;">
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 2%; height: 14px">
+            </td>
+            <td style="width: 2%; height: 14px">
+            </td>
+            <td style="width: 128px; height: 14px">
+                <asp:Label ID="lblName" runat="server" Font-Bold="True" ForeColor="White"></asp:Label></td>
+            <td style="width: 2%; height: 14px">
+            </td>
+            <td colspan="3" style="height: 14px">
+                <asp:Label ID="lbldate" runat="server" Font-Bold="True" Font-Size="Small" ForeColor="Blue"
+                    Width="326px"></asp:Label></td>
+        </tr>
+    </table>
+      </td>
+    
+    </tr>
+    <tr>
+    <td colspan="2">
+        <asp:ContentPlaceHolder ID="C1" runat="server">
+        </asp:ContentPlaceHolder>
+    </td>
+    </tr>    
+    </table>
+    </div>
+    </form>
+</body>
+</html>

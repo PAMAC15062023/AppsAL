@@ -1,0 +1,50 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="QueryBuilder.master.cs" Inherits="QueryBuilder_QueryBuilder" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <title>PAMAC Online</title>
+    <link rel="stylesheet" type="text/css" href="../StyleSheet.css" />  
+    <script language="javascript" type="text/javascript" src="../popcalendar.js"></script>  
+</head>
+<body>
+   <form id="form1" runat="server">
+     <atlas:ScriptManager id="ScriptManager1" runat="server" EnablePartialRendering="True">
+    </atlas:ScriptManager> <div>
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr bgcolor="#4EB9ED">
+    <td>
+        <asp:Menu ID="Menu1" runat="server" BackColor="#4EB9ED" DynamicHorizontalOffset="2"
+            Font-Names="Arial" Font-Size="10pt" ForeColor="White" Orientation="Horizontal"
+            StaticSubMenuIndent="10px" Font-Bold="True">
+            <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+            <DynamicHoverStyle BackColor="#0093DD" ForeColor="White" />
+            <DynamicMenuStyle BackColor="#4EB9ED" />
+            <StaticSelectedStyle BackColor="#C4C1C1" />
+            <DynamicSelectedStyle BackColor="#0093DD" />
+            <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                            <Items>
+                             <asp:MenuItem Text="Pre Defined MIS"
+                                Value="Pre Defined MIS">
+                            </asp:MenuItem>
+                            <asp:MenuItem Text="General Query" Value="General Query">
+                <asp:MenuItem NavigateUrl="~/QueryBuilder/GeneralQuery.aspx" Text="General Saved Query"
+                                    Value="General Saved Query"></asp:MenuItem>
+                </asp:MenuItem>
+                            </Items>
+                            <StaticHoverStyle BackColor="#0093DD" ForeColor="White" />
+            </asp:Menu>
+  </td>
+    </tr>
+    <tr>
+    <td>
+        <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        </asp:contentplaceholder>
+    </td>
+    </tr>    
+    </table>
+    </div>
+    </form>
+</body>
+</html>

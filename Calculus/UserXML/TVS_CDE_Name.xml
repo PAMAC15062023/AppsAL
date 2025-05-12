@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>737</MenuID>
+    <Text>TVS New</Text>
+    <Description>TVS New</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>738</MenuID>
+      <Text>QDE</Text>
+      <Description>QDE</Description>
+      <PagePath>~/pages/TVS_new/QDE.aspx</PagePath>
+      <ParentID>737</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

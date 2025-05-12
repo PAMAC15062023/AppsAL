@@ -1,0 +1,263 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>133</MenuID>
+    <Text>Admin Master</Text>
+    <Description>Admin Master</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>13</MenuID>
+      <Text>User Master</Text>
+      <Description>User Master</Description>
+      <PagePath>~/Pages/Usermaster.aspx</PagePath>
+      <ParentID>133</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>473</MenuID>
+    <Text>Indus-Ind Personal Loan</Text>
+    <Description>Indus-Ind Personal Loan</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>476</MenuID>
+      <Text>Basic Transcription</Text>
+      <Description>Basic Transcription</Description>
+      <PagePath>~/Pages/IndusInd/TranscriptionPLNew.aspx</PagePath>
+      <ParentID>473</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>578</MenuID>
+      <Text>Import CFD Data</Text>
+      <Description>Import CFD Data</Description>
+      <PagePath>~/Pages/Indus_CFDInsurance/IndusImportCFD_Dump.aspx</PagePath>
+      <ParentID>473</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>477</MenuID>
+    <Text>Indus-Ind Credit</Text>
+    <Description>Indus-Ind Credit</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>483</MenuID>
+      <Text>Transcription</Text>
+      <Description>Transcription</Description>
+      <PagePath>~/Pages/IndusInd/PreTranscriptionCC.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>489</MenuID>
+      <Text>Handsoff Credit</Text>
+      <Description>Handsoff Credit</Description>
+      <PagePath>~/Pages/IndusInd/HandsoffCredit.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>490</MenuID>
+      <Text>Upload Hands Off</Text>
+      <Description>Upload Hands Off</Description>
+      <PagePath>~/Pages/IndusInd/ImportHandsoffSheet.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>493</MenuID>
+      <Text>Resolve FTNR</Text>
+      <Description>Resolve FTNR</Description>
+      <PagePath>~/Pages/IndusInd/FtnrResolve.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>494</MenuID>
+      <Text>IndusInd MIS</Text>
+      <Description>IndusInd MIS</Description>
+      <PagePath>~/Pages/IndusInd/IndusMis.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>502</MenuID>
+      <Text>Upload Masters Credit</Text>
+      <Description>Upload Masters Credit</Description>
+      <PagePath>~/Pages/IndusInd/Upload.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>505</MenuID>
+      <Text>Sole File - Credit</Text>
+      <Description>Sole File - Credit</Description>
+      <PagePath>~/Pages/IndusInd/SoleMIS.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>508</MenuID>
+      <Text>Case Tracke View</Text>
+      <Description>Case Tracke View</Description>
+      <PagePath />
+      <ParentID>477</ParentID>
+      <Menu>
+        <MenuID>560</MenuID>
+        <Text>Case User View Credit Card</Text>
+        <Description>Case User View Credit Card</Description>
+        <PagePath>~/Pages/IndusInd/Indus_Case_Tracker.aspx</PagePath>
+        <ParentID>508</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>561</MenuID>
+        <Text>Case Tracker View Cardit Card</Text>
+        <Description>Case Tracker View Cardit Card</Description>
+        <PagePath>~/Pages/IndusInd/TransCC.aspx</PagePath>
+        <ParentID>508</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>509</MenuID>
+      <Text>Case Reversal</Text>
+      <Description>Case Reversal</Description>
+      <PagePath>~/Pages/IndusInd/Case_Reversal.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>510</MenuID>
+      <Text>Superadmin</Text>
+      <Description>Superadmin</Description>
+      <PagePath>~/Pages/IndusInd/Indus_Superadmin.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>512</MenuID>
+      <Text>IndusInd Role Master</Text>
+      <Description>IndusInd Role Master</Description>
+      <PagePath>~/Pages/IndusInd/RoleMaster.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>523</MenuID>
+      <Text>Import IBL</Text>
+      <Description>Import IBL</Description>
+      <PagePath>~/Pages/IndusInd/ImportSendIBL.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>527</MenuID>
+      <Text>Send To IBL</Text>
+      <Description>Send To IBL</Description>
+      <PagePath>~/Pages/IndusInd/SendToIBL.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>565</MenuID>
+      <Text>Scheme Update</Text>
+      <Description>Scheme Update</Description>
+      <PagePath>~/Pages/IndusInd/Qc_Scheme.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>577</MenuID>
+      <Text>PL SOLE FILE -FOR COAPPLICANT</Text>
+      <Description>PL SOLE FILE -FOR COAPPLICANT</Description>
+      <PagePath>~/Pages/IndusInd/PLSoleFileCoapp.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>590</MenuID>
+      <Text>IndusInd Insurance MIS</Text>
+      <Description>IndusInd Insurance MIS</Description>
+      <PagePath>~/Pages/IndusInd/IndusInsuranceMIS.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>660</MenuID>
+      <Text>Transcription Sheet</Text>
+      <Description>Transcription Sheet</Description>
+      <PagePath>~/Pages/IndusInd/CaseSearchPdf.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>685</MenuID>
+      <Text>Inventory of CAF</Text>
+      <Description>Inventory of CAF</Description>
+      <PagePath>~/Pages/IndusInd/Application_Update.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>745</MenuID>
+      <Text>Resolve Case</Text>
+      <Description>Resolve Case</Description>
+      <PagePath>~/Pages/IndusInd/ResolveCase.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>779</MenuID>
+      <Text>Data Purging</Text>
+      <Description>Data Purging</Description>
+      <PagePath>~/Pages/IndusInd/DataPurge.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>496</MenuID>
+    <Text>IndusInd PL-POST</Text>
+    <Description>IndusInd PL-POST</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>750</MenuID>
+      <Text>PreTranscription Stage PL-POST</Text>
+      <Description>PreTranscription Stage PL-POST</Description>
+      <PagePath>~/Pages/postindus/PreTranscriptionStage.aspx</PagePath>
+      <ParentID>496</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>542</MenuID>
+    <Text>IndusInd PL</Text>
+    <Description>IndusInd PL</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>543</MenuID>
+      <Text>PL FTNR RESOLVE</Text>
+      <Description>PL FTNR RESOLVE</Description>
+      <PagePath>~/Pages/IndusInd/PL_FtnrResolve.aspx</PagePath>
+      <ParentID>542</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>544</MenuID>
+      <Text>CIFF REPORT - PL POST</Text>
+      <Description>CIFF REPORT - PL POST</Description>
+      <PagePath>~/Pages/postindus/Cif_report.aspx</PagePath>
+      <ParentID>542</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>545</MenuID>
+      <Text>Sole File - PL</Text>
+      <Description>Sole File - PL</Description>
+      <PagePath>~/Pages/IndusInd/PLSoleFile.aspx</PagePath>
+      <ParentID>542</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>497</MenuID>
+      <Text>Import Approved Dump PL Post</Text>
+      <Description>Import Approved Dump PL Post</Description>
+      <PagePath>~/Pages/postindus/importfile.aspx</PagePath>
+      <ParentID>542</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>555</MenuID>
+      <Text>PL POST - FTNR RESOLVE</Text>
+      <Description>PL POST - FTNR RESOLVE</Description>
+      <PagePath>~/Pages/postindus/FtnrResolve.aspx</PagePath>
+      <ParentID>542</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

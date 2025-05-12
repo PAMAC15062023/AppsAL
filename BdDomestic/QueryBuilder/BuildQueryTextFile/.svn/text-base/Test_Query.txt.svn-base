@@ -1,0 +1,67 @@
+SELECT     TOP 100 PERCENT vd.VERIFICATION_TYPE_ID, ISNULL(cd.FIRST_NAME + ' ', '') + ISNULL(cd.MIDDLE_NAME + ' ', '') + ISNULL(cd.LAST_NAME + ' ', '') 
+                      AS APPLICANT_NAME, cd.REF_NO, cd.WITHIN_TAT, cd.SEND_DATETIME, cd.CASE_REC_DATETIME, d3.AGENCY_NAME, 
+                      ISNULL(cd.RES_ADD_LINE_1 + ' ', '') + ISNULL(cd.RES_ADD_LINE_2 + ' ', '') + ISNULL(cd.RES_ADD_LINE_3 + ' ', '') AS RES_ADD_LINE, 
+                      cd.RES_PIN_CODE, cd.RES_LAND_MARK, cd.RES_PHONE, d1.PP_NORMAL, cd.MOBILE, d2.PERMANENT_ADDRESS, d2.PINCODE, 
+                      d2.LAND_MARK_OBSERVED, cd.CASE_ID, cd.DOB, d1.QUALIFICATION, d1.TIME_AT_CURR_Y_M, d1.MARITAL_STATUS, d1.NO_OF_DEPENDENT, 
+                      d2.DESIGNATION, d2.COMPANY_NAME, d1.OFFICE_TELEPHONE, d2.OFFICE_EXT, d2.OFFICE_ADDRESS, d1.VEHICLE_TYPE, d1.VEHICLE_MAKE, 
+                      d1.VEHICLE_IS, d2.INCOME_DOC_SUBMITTED_WITH_APLICATION, d1.IS_CREDIT_CARD, d1.CARD_TYPE, d1.CARD_NO, d1.CARD_LIMIT, 
+                      d1.CARD_EXPIRY, d1.APPLICANT_AVAILABILITY, d1.TIME_AT_CURR_RESIDANCE, d1.IS_SPOUSE_WORKING, d1.APPLICANT_WORKS_AT, 
+                      d1.VERIFIED_NEIGHBOUR, d3.RES_TYPE, d1.APPROXIMATE_AREA, d1.GENRAL_APPEARANCE, d1.LOCALITY, d1.LOCATING_ADDRESS, 
+                      d1.ASSETS_VISIBLE, d1.PORTRAIT, d1.PROOF_OF_VISIT_COLLECTED, d1.ROUTE_MAP_DRAWN, d3.IS_NEGATIVE_AREA, d3.IS_OCL, d1.TPC_DONE, 
+                      d1.TPC_DETAILS, d1.ANY_OTHER_INFO_OBT, d2.FE_REMARK, d1.ADRESS_CONFIRMATION, d1.CONTACTABILITY, 
+                      d1.CONFIRMATION_IF_APPLICANT_MET, d1.PROFILE, d1.REPUTATION, cd.CENTRE_ID, cd.CLIENT_ID, ISNULL(cd.OFF_ADD_LINE_1 + ' ', '') 
+                      + ISNULL(cd.OFF_ADD_LINE_2 + ' ', '') + ISNULL(cd.OFF_ADD_LINE_3 + ' ', '') AS OFF_ADD_LINE, cd.OFF_PIN_CODE, 
+                      d2.CONTACTED_PERSON_NAME, d2.CONTACTED_PERSON_DESIGN, d1.PERSON_CONTACTED_MET, d2.BUSINESS_NATURE, 
+                      d2.COMPANY_EXISTENCE_YEAR, d2.TIME_AT_CURRENT_EMPLOYMENT, d2.EMP_JOB_TYPE, d2.BUSINESS_PERMISES, d3.ADD_ON_APPLIED, 
+                      d2.ANY_OTHER_RESIDANCE_PHONE_NO, d3.OFF_NAME_ON_BOARD, d2.REASON_NONVISIBLE_NAMEPLATE, d2.OFFICE_SIZE, d2.NO_OF_EMP, 
+                      d2.OFFICE_LOCALITY, d2.OFFICE_REPUTATION, d2.OFFICE_IS_IN, d2.BUSINESS_TYPE, d2.AFFILATION_POLITICAL_PARTY_SEEN, 
+                      d2.EQUIPMENT_SIGHTED_IN_OFFICE, d2.BUSINESS_STOCK_SEEN, d2.STOCK_TYPE, d2.BUSINESS_ACTIVITY_SEEN, d1.ENTRY_PERMITTED, 
+                      d2.TPC_NAME, d3.OFF_ADDRESS_YEARS, vd.OVERALL_ASSESMENT, vd.OVERALL_ASSESMENT_REASON, d2.BUSINESS_CONTACT_NO, 
+                      d2.PP_ADD_LOCATION, d2.MAILING_ADDRESS, d2.RESIDANCE_IS, d2.RESI_COMOFF_OWNED, d2.BUSINESS_CONTACT_EXTN, d2.NOB, 
+                      d3.PERSON_CONTACTED, d3.REL_WITH_APPLICANT, d2.DOB_APPLICANT, d2.APPLICANT_IS_AVAILABLE_AT, d1.APPLICANT_AGE, 
+                      d2.VERIFIER_COMMENTS, d2.NEW_DETAILS_OBTAINED, d2.CHANGE_IN_PHONE_NO, d2.TELE_COMMENTS, 
+                      d2.NO_OF_EMP_SIGHTED_IN_PERMISES, vd.DECLINED_CODE, vd.DECLINED_REASON, dbo.SUP_VW.FULLNAME, 
+                      d2.NAME_OF_PERSON_CONTACTED, vd.ANY_INFO, d2.TIME_AT_CURRENT_EMPL_Y_M, d3.OTHERS_DESIGNATION, 
+                      d2.NATURE_BUSINESS_RESI_CUM_OFF, d1.FOR_SELF_EMPLOYED_TYPE_OF_ORGANIZATION, d2.CO_APP_NAME, d2.SPECIAL_INSTRUCTIONS, 
+                      d2.APPLICANT_NAME_CONFIRMED_AT_GIVEN_NO, d2.SPK_TO, d2.SELF_EMP_CODE_TYPE_ORGANIZATION, d2.JOB_DESC, d2.JOB_TYPE, 
+                      d2.OFFICE_TYPE, d2.PARTICULARS, d2.VISITING_CARD_OBTAINED, d2.NO_OF_YEARS_AT_CURRENT_EMPLOYMENT, cs.STATUS_NAME, 
+                      cd.OFF_PHONE, cd.OFF_EXTN, cd.DEPARTMENT, d1.OTHER_CONTACTED_DESIGNATION, d3.PERMANENT_ADDRESS AS Expr1, 
+                      d1.OTHER_NATURE_OF_BUSINESS, cd.OFF_ADD_LINE_1, cd.OFF_ADD_LINE_2, cd.OFF_ADD_LINE_3, cd.OFF_CITY, cd.OFF_STATE, 
+                      cd.RES_ADD_LINE_1, cd.RES_ADD_LINE_2, cd.RES_ADD_LINE_3, cd.RES_CITY, cd.RES_STATE, vd.SUPERVISOR_REMARKS, 
+                      d1.ADDITIONAL_REMARK, cd.PMT_PHONE, cd.DESIGNATION AS InputDesignation, d1.ISSUING_BANK, d1.CUSTOMER_COOPERATION, 
+                      d1.CONSTRUCTION_OF_RESIDANCE, d1.COMMENTS_EXTERIORS, d1.APPLICANT_STAYED_RESIDANCE, d1.FAMILY_MEMBERS, 
+                      d1.NO_OF_EARNING_FAMILY_MEMBER, d1.BRANCH, d1.INTERIOR, d1.EXTERIOR, d1.WORKING, d1.CHILDREN, d2.NO_CUSTOMER_PERDAY, 
+                      d2.APPLICANT_JOB_TRANSFERABLE, d2.YEARS_WORKED, d2.SALARY_DRAWN, d2.CONSTRUCTION_OFFICE, d2.NO_CUSTOMER_SEEN, 
+                      d2.RELATION_PERSON_CONTACTED, d2.IF_OFFICE_ADD_IS_IN_NEGATIVE_AREA, d2.RESIDANCE_STATUS, d2.OFFICE_OWNERSHIP, 
+                      d2.AVG_MONTH_TURNOVER, d2.BUSINESS_BOARD_SEEN_OUTSIDE_BUILDING, d2.APPLICANT_NAME_VERIFIED_FROM, 
+                      d2.ITEM_SEEN_IN_PERMISES, d2.EASE_OF_LOCATING_OFFICE, d2.NEIGHBOUR_REFERENCE, d2.IS_RESI_ADD_IS_IN_NEGATIVE_AREA, 
+                      d2.NAMEOFCOMPANY1, d2.APP_WORKING_AS, d2.TYPE_OF_OFFICE, d3.LOCALITY_TYPE, d1.APPLICANT_AGE2, cd.TITLE, cd.SPL_INSTRUCTION, 
+                      vd.CASE_STATUS_ID, d3.CONT_PERSON_REMARK, d3.IS_RESIDANT, d3.ADDRESS_MATCH, d3.RES_YEAR, d3.IS_APP_NAME_ON_DOOR, 
+                      d3.NAME_PLATE, d3.IS_APP_NAME_ON_SOCIETY_BOARD, d3.NAME_SOCIETY_BOARD, d3.DOC_PROFF, d3.DUMMY_NO, d3.NEIGHBOURS_NAME, 
+                      d3.NEIGHBOUR_FOR, d3.WATCHMEN_NAME, d3.WATCHMEN_FOR, d3.LANDLORD_NAME, d3.LANDLORD_FOR, d3.OFF_STAFF, d3.EMP_SIGHTED, 
+                      d3.INFRASTRUCTUR, d3.STOCK_SIGHTED, d3.OFF_ACTIVITY_SIGHTED, d3.IS_OFF_NEGATIVE_INFO, d3.OFF_NEGATIVE_INFO, d3.BUSINESS_YEARS, 
+                      d3.BUSINESS_TYPE AS Expr2, d3.OFF_LOCATION_TYPE, d3.BUSINESS_CONSTITUENCY, d3.FaxNumber, d3.Is_Security_guard_building, 
+                      d3.Is_Reception_Desk, d3.No_Desks_Workstations_Tables, d3.Is_TradeLicense_Displayed, d3.No_Of_Employees, d3.Branch1_Location, 
+                      d3.Branch1_TelephoneNo, d3.Branch1_Rental_Amt, d3.Branch1_FaxNo, d3.Branch1_ManagerName, d3.Branch2_Location, d3.Branch2_TelephoneNo, 
+                      d3.Branch2_Rental_Amt, d3.Branch2_FaxNo, d3.Branch2_ManagerName, d3.Branch3_Location, d3.Branch3_TelephoneNo, d3.Branch3_Rental_Amt, 
+                      d3.Branch3_FaxNo, d3.Branch3_ManagerName, d3.Sponsor1_Name, d3.Type1, d3.Sponsor1_TelephoneNo, d3.Sponsor1_Address, 
+                      d3.Sponsor2_Name, d3.Type2, d3.Sponsor2_TelephoneNo, d3.Sponsor2_Address, d3.Sponsor3_Name, d3.Type3, d3.Sponsor3_TelephoneNo, 
+                      d3.Sponsor3_Address, d3.No_Emps_SeniorPosition, d3.Business_Nature AS Business_NatureCITI, d3.Product_Dealt_With, d3.BankName1, 
+                      d3.Type_Of_Account1, d3.Facilities1, d3.BankName2, d3.Type_Of_Account2, d3.Facilities2, d3.BankName3, d3.Type_Of_Account3, d3.Facilities3, 
+                      d3.Sales_In, d3.Avg_Monthly_Turnover, d3.Client_List, d3.Impression_Of_Office, d3.Credit_Analyst_Decision, d3.Credit_Analyst_Name, 
+                      d3.Credit_Analyst_Date, d3.Office_Verification_No, d3.Telephone_Bill, d3.Employment_Status, d3.Years_In_Employment_Business, d3.Cm_Design, 
+                      d3.Basic_Salary, d3.Transport_Allowance, d3.House_Rent_Allowance, d3.Fixed_Allowance, d3.Total_Fixed_Salary, d3.Additional_Comments, 
+                      d3.Employment_Confirmed_With, d3.Employment_Confirmed_With_Designation, d3.Details_Of_Trade_License, d3.Type_Of_Salary, cd.OFF_NAME, 
+                      cd.TYPE_OF_APPLICANT, vd.SUPERVISOR_ID, d3.Application_No, d3.Number_Branches_Office_Warehouse, cd.TYPE_OF_LOAN, 
+                      d3.Branch4_Location, d3.Branch4_TelephoneNo, d3.Branch4_Rental_Amt, d3.Branch4_FaxNo, d3.Branch4_ManagerName, DCM.DESCRIPTION, 
+                      cd.Overall_comments, cd.Overall_Status_ID
+FROM         dbo.CPV_CC_VERI_DETAILS vd INNER JOIN
+                      dbo.CPV_CC_CASE_DETAILS cd ON vd.CASE_ID = cd.CASE_ID LEFT OUTER JOIN
+                      dbo.DECLINED_CODE_MASTER DCM ON vd.DECLINED_CODE = DCM.DECLINED_CODE LEFT OUTER JOIN
+                      dbo.SUP_VW ON vd.SUPERVISOR_ID = dbo.SUP_VW.EMP_ID LEFT OUTER JOIN
+                      dbo.CASE_STATUS_MASTER cs ON vd.CASE_STATUS_ID = cs.CASE_STATUS_ID LEFT OUTER JOIN
+                      dbo.VERIFICATION_TYPE_MASTER vt ON vd.VERIFICATION_TYPE_ID = vt.VERIFICATION_TYPE_ID LEFT OUTER JOIN
+                      dbo.CPV_CC_VERI_DESCRIPTION d1 ON vd.CASE_ID = d1.CASE_ID AND vd.VERIFICATION_TYPE_ID = d1.VERIFICATION_TYPE_ID LEFT OUTER JOIN
+                      dbo.CPV_CC_VERI_DESCRIPTION1 d2 ON vd.CASE_ID = d2.CASE_ID AND vd.VERIFICATION_TYPE_ID = d2.VERIFICATION_TYPE_ID LEFT OUTER JOIN
+                      dbo.CPV_CC_VERI_OTHER_DETAILS d3 ON vd.CASE_ID = d3.CASE_ID AND vd.VERIFICATION_TYPE_ID = d3.VERIFICATION_TYPE_ID
+ORDER BY vd.CASE_ID, vd.VERIFICATION_TYPE_ID

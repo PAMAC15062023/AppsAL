@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>737</MenuID>
+    <Text>TVS New</Text>
+    <Description>TVS New</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>739</MenuID>
+      <Text>CDE</Text>
+      <Description>CDE</Description>
+      <PagePath>~/pages/TVS_new/CDE.aspx</PagePath>
+      <ParentID>737</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>740</MenuID>
+      <Text>DEDUP</Text>
+      <Description>DEDUP</Description>
+      <PagePath>~/pages/TVS_new/DEDUP.aspx</PagePath>
+      <ParentID>737</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>741</MenuID>
+      <Text>CIBIL</Text>
+      <Description>CIBIL</Description>
+      <PagePath>~/pages/TVS_new/CIBIL.aspx</PagePath>
+      <ParentID>737</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>742</MenuID>
+      <Text>FI</Text>
+      <Description>FI</Description>
+      <PagePath>~/pages/TVS_new/FI.aspx</PagePath>
+      <ParentID>737</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>743</MenuID>
+      <Text>Super Admin</Text>
+      <Description>Super Admin</Description>
+      <PagePath>~/pages/TVS_new/Superadmin.aspx</PagePath>
+      <ParentID>737</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>744</MenuID>
+      <Text>MIS</Text>
+      <Description>MIS</Description>
+      <PagePath>~/pages/TVS_new/MIS.aspx</PagePath>
+      <ParentID>737</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>738</MenuID>
+      <Text>QDE</Text>
+      <Description>QDE</Description>
+      <PagePath>~/pages/TVS_new/QDE.aspx</PagePath>
+      <ParentID>737</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

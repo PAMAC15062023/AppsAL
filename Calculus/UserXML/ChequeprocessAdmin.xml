@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>133</MenuID>
+    <Text>Admin Master</Text>
+    <Description>Admin Master</Description>
+    <PagePath />
+  </Menu>
+  <Menu>
+    <MenuID>1</MenuID>
+    <Text>Common Master</Text>
+    <Description>Common Master</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>134</MenuID>
+      <Text>PTPU Master</Text>
+      <Description>PTPU Master</Description>
+      <PagePath />
+      <ParentID>1</ParentID>
+      <Menu>
+        <MenuID>127</MenuID>
+        <Text>Client Master</Text>
+        <Description>Client Master</Description>
+        <PagePath>~/Pages/ChequeProcessingNew/Client_Master.aspx</PagePath>
+        <ParentID>134</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>128</MenuID>
+        <Text>DropBox Master</Text>
+        <Description>DropBox Master</Description>
+        <PagePath>~/Pages/ChequeProcessingNEW/DropBox_Master.aspx</PagePath>
+        <ParentID>134</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>129</MenuID>
+        <Text>Reason Master</Text>
+        <Description>Reason Master</Description>
+        <PagePath>~/Pages/ChequeProcessingNEW/Reason_Master.aspx</PagePath>
+        <ParentID>134</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>130</MenuID>
+        <Text>MICR Master</Text>
+        <Description>MICR Master</Description>
+        <PagePath>~/Pages/ChequeProcessingNEW/MICR_Master.aspx</PagePath>
+        <ParentID>134</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>131</MenuID>
+        <Text>Binlogo Master</Text>
+        <Description>Binlogo Master</Description>
+        <PagePath>~/Pages/ChequeProcessingNEW/Binlogo_Master.aspx</PagePath>
+        <ParentID>134</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>132</MenuID>
+        <Text>Bank Transaction Master</Text>
+        <Description>Bank Transaction Master</Description>
+        <PagePath>~/Pages/ChequeProcessingNEW/Transaction_Master.aspx</PagePath>
+        <ParentID>134</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>142</MenuID>
+        <Text>MDB Details Master</Text>
+        <Description>MDB Details Master</Description>
+        <PagePath>~/Pages/ChequeProcessingNEW/MDBDetails_master.aspx</PagePath>
+        <ParentID>134</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>126</MenuID>
+      <Text>Change Password</Text>
+      <Description>Change Password</Description>
+      <PagePath>~/Pages/Change_Password.aspx</PagePath>
+      <ParentID>1</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

@@ -1,0 +1,13 @@
+select distinct va.case_id,fullname,verification_type_code,cd.Case_rec_datetime,subremark,reason as 'City Limit' from CPV_CC_VERI_ATTEMPTS va inner join cpv_cc_case_details cd on va.case_id=cd.case_id inner join
+CPV_CC_FE_CASE_MAPPING fm on cd.case_id=fm.case_id inner join employee_master em on fm.fe_id=em.emp_id and 
+va.verification_type_id=fm.verification_type_id inner join verification_type_master vm on va.verification_type_id=vm.verification_type_id and
+vm.verification_type_id=va.verification_type_id inner join CPV_CC_VERI_DETAILS vd on vd.case_id=va.case_id and 
+vd.verification_type_id=va.verification_type_id and vd.case_id=va.case_id and 
+vd.verification_type_id=va.verification_type_id where 
+@ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE
+union all
+select distinct va.case_id,fullname,verification_type_code,cd.Case_rec_datetime,subremark, reason as 'City Limit' from CPV_CC_VERI_ATTEMPTS va inner join cpv_cc_case_details cd on va.case_id=cd.case_id inner join
+cpv_cc_fe_case_mapping_history fm on cd.case_id=fm.case_id inner join employee_master em on fm.fe_id=em.emp_id and 
+va.verification_type_id=fm.verification_type_id inner join verification_type_master vm on va.verification_type_id=vm.verification_type_id
+inner join CPV_CC_VERI_DETAILS vd on vd.case_id=va.case_id and vd.verification_type_id=va.verification_type_id
+where @ONWHICHDATE>=@FROMDATE AND @ONWHICHDATE<=@TODATE

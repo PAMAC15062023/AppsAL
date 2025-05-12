@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>573</MenuID>
+    <Text>CNHI</Text>
+    <Description>CNHI</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>575</MenuID>
+      <Text>CNHI Activity</Text>
+      <Description>CNHI Activity</Description>
+      <PagePath>~/Pages/CNHI/CaseSearch.aspx</PagePath>
+      <ParentID>573</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>576</MenuID>
+      <Text>Import</Text>
+      <Description>Import</Description>
+      <PagePath>~/Pages/CNHI/ImportFile.aspx</PagePath>
+      <ParentID>573</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

@@ -1,0 +1,40 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="~/BD/BD/BDMasterPage.master.cs" Inherits="BD_BDMasterPage" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>PAMAC Online</title>
+    <link href="main.css" rel="Stylesheet" type="text/css" />
+    <link href="StyleSheet_EBC.css" rel="stylesheet" type="text/css" />
+    <script language="javascript" src="popcalendar.js" type="text/javascript"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr><td>
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr bgcolor="#4EB9ED"><td bgcolor="#4EB9ED">
+   <asp:Menu ID="mnBD" runat="server" Orientation="Horizontal" BackColor="#4EB9ED" DynamicHorizontalOffset="2"
+            Font-Names="Arial" Font-Size="10pt" ForeColor="White" 
+            StaticSubMenuIndent="10px" Font-Bold="True">
+            <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+            <DynamicHoverStyle BackColor="#0093DD" ForeColor="White" />          
+            <StaticSelectedStyle BackColor="#C4C1C1" />
+   <Items>
+      <asp:MenuItem Text="Client Master" NavigateUrl="ClientMasterpage.aspx" Value="Cient Master"></asp:MenuItem>
+   <asp:MenuItem Text="Presale Contract" NavigateUrl="ViewPresaleCase.aspx" Value="Presale Contract"></asp:MenuItem>
+   <asp:MenuItem Text="Confirm Contract" NavigateUrl="ViewConfirmContract.aspx" Value="Confirm Contract"></asp:MenuItem>
+   <asp:MenuItem Text="MIS Report" NavigateUrl="Export.aspx" Value="MIS Report"></asp:MenuItem>
+   </Items>
+   </asp:Menu></td>
+    <td align="right"><a href="../../OrganizationTree.aspx" target="_parent">[My PMS]</a> &nbsp;
+    <a href="../../Logout.aspx" target="_parent">[Sign Out]</a> &nbsp;&nbsp;
+    </td></tr></table></td></tr>
+    <tr><td>
+        <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        </asp:contentplaceholder>
+    </td></tr></table>
+    </div>
+    </form>
+</body>
+</html>

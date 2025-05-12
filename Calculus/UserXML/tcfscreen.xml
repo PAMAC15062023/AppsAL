@@ -1,0 +1,125 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>477</MenuID>
+    <Text>Indus-Ind Credit</Text>
+    <Description>Indus-Ind Credit</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>483</MenuID>
+      <Text>Transcription</Text>
+      <Description>Transcription</Description>
+      <PagePath>~/Pages/IndusInd/PreTranscriptionCC.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>484</MenuID>
+      <Text>Basic Transcription</Text>
+      <Description>Basic Transcription</Description>
+      <PagePath>~/Pages/IndusInd/TranscriptionCC.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>480</MenuID>
+      <Text>D1 Stage</Text>
+      <Description>D1 Stage</Description>
+      <PagePath>~/Pages/IndusInd/IndusCredit.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>485</MenuID>
+      <Text>D2 Stage</Text>
+      <Description>D2 Stage</Description>
+      <PagePath>~/Pages/IndusInd/CreditD2.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>487</MenuID>
+      <Text>QC Credit</Text>
+      <Description>QC Credit</Description>
+      <PagePath>~/Pages/IndusInd/CreditQC.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>493</MenuID>
+      <Text>Resolve FTNR</Text>
+      <Description>Resolve FTNR</Description>
+      <PagePath>~/Pages/IndusInd/FtnrResolve.aspx</PagePath>
+      <ParentID>477</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>520</MenuID>
+    <Text>SREI CPA</Text>
+    <Description>SREI CPA</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>537</MenuID>
+      <Text>Lead Generation</Text>
+      <Description>Lead Generation</Description>
+      <PagePath />
+      <ParentID>520</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>530</MenuID>
+      <Text>Contract Preparation</Text>
+      <Description>Contract Preparation</Description>
+      <PagePath />
+      <ParentID>520</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>529</MenuID>
+      <Text>QC Tracking</Text>
+      <Description>QC Tracking</Description>
+      <PagePath>~/Pages/SREI_CPA/QCTracking.aspx</PagePath>
+      <ParentID>520</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>661</MenuID>
+    <Text>TCFSL CD Loans</Text>
+    <Description>TCFSL CD Loans</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>679</MenuID>
+      <Text>Screening</Text>
+      <Description>Screening</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/Screening_QC.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>664</MenuID>
+      <Text>TCFSL Maker</Text>
+      <Description>TCFSL Maker</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/Maker.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>665</MenuID>
+      <Text>TCFSL Author</Text>
+      <Description>TCFSL Author</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/Author.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>689</MenuID>
+      <Text>QC Res</Text>
+      <Description>QC Res</Description>
+      <PagePath>~/Pages/TCFSL_CDLOAN/QCTracker.aspx</PagePath>
+      <ParentID>661</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

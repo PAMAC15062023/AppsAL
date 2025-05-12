@@ -1,0 +1,554 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>111</MenuID>
+      <Text>Ticket Assignment</Text>
+      <Description>Ticket Assignment</Description>
+      <PagePath>~/Pages/Helpdesk/TicketAssignment.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>171</MenuID>
+      <Text>Reports</Text>
+      <Description>Reports</Description>
+      <PagePath>~/pages/helpdesk/Report.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>379</MenuID>
+    <Text>KPML</Text>
+    <Description>KPML</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>380</MenuID>
+      <Text>Entry Form</Text>
+      <Description>Entry Form</Description>
+      <PagePath />
+      <ParentID>379</ParentID>
+      <Menu>
+        <MenuID>387</MenuID>
+        <Text>Search InComplete Entry</Text>
+        <Description>Search InComplete Entry</Description>
+        <PagePath>~/Pages/KMPL/SearchEntry.aspx</PagePath>
+        <ParentID>380</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>386</MenuID>
+        <Text>Fresh Entry</Text>
+        <Description>Fresh Entry</Description>
+        <PagePath>~/Pages/KMPL/EntryForm.aspx</PagePath>
+        <ParentID>380</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>381</MenuID>
+      <Text>Prospect Entry</Text>
+      <Description>Prospect Entry</Description>
+      <PagePath />
+      <ParentID>379</ParentID>
+      <Menu>
+        <MenuID>388</MenuID>
+        <Text>Generate Lead No</Text>
+        <Description>Generate Lead No</Description>
+        <PagePath />
+        <ParentID>381</ParentID>
+        <Menu>
+          <MenuID>389</MenuID>
+          <Text>Search Lead No</Text>
+          <Description>Search Lead No</Description>
+          <PagePath>~/Pages/KMPL/SearchLeadNo.aspx</PagePath>
+          <ParentID>388</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>390</MenuID>
+          <Text>New Lead No</Text>
+          <Description>New Lead No</Description>
+          <PagePath>~/Pages/KMPL/GenRateLeadNo.aspx</PagePath>
+          <ParentID>388</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>391</MenuID>
+        <Text>Generate Prospect No</Text>
+        <Description>Generate Prospect No</Description>
+        <PagePath />
+        <ParentID>381</ParentID>
+        <Menu>
+          <MenuID>392</MenuID>
+          <Text>Search Propsect No</Text>
+          <Description>Search Propsect No</Description>
+          <PagePath>~/Pages/KMPL/GenerateProspectNo.aspx</PagePath>
+          <ParentID>391</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>393</MenuID>
+          <Text>New Prospect No</Text>
+          <Description>New Prospect No</Description>
+          <PagePath>~/Pages/KMPL/Prospect_Link.aspx</PagePath>
+          <ParentID>391</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>394</MenuID>
+        <Text>CPV Firing</Text>
+        <Description>CPV Firing</Description>
+        <PagePath />
+        <ParentID>381</ParentID>
+        <Menu>
+          <MenuID>395</MenuID>
+          <Text>Search CPV No</Text>
+          <Description>Search CPV No</Description>
+          <PagePath>~/Pages/KMPL/SearchCPV.aspx</PagePath>
+          <ParentID>394</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>396</MenuID>
+          <Text>CPVFire Page</Text>
+          <Description>CPVFire Page</Description>
+          <PagePath>~/Pages/KMPL/CPVFirirng.aspx</PagePath>
+          <ParentID>394</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>465</MenuID>
+        <Text>Bank Officer Report</Text>
+        <Description>Bank Officer Report</Description>
+        <PagePath>~/Pages/KMPL/BankOfficer.aspx</PagePath>
+        <ParentID>381</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>397</MenuID>
+        <Text>IDOC Firing</Text>
+        <Description>IDOC Firing</Description>
+        <PagePath />
+        <ParentID>381</ParentID>
+        <Menu>
+          <MenuID>398</MenuID>
+          <Text>Search IDOC Page</Text>
+          <Description>Search IDOC Page</Description>
+          <PagePath>~/Pages/KMPL/SearchIDOCFire.aspx</PagePath>
+          <ParentID>397</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>399</MenuID>
+          <Text>IDOC Fire page</Text>
+          <Description>IDOC Fire page</Description>
+          <PagePath>~/Pages/KMPL/IDOCSFirePage.aspx</PagePath>
+          <ParentID>397</ParentID>
+        </Menu>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>382</MenuID>
+      <Text>Credit Process</Text>
+      <Description>Credit Process</Description>
+      <PagePath />
+      <ParentID>379</ParentID>
+      <Menu>
+        <MenuID>400</MenuID>
+        <Text>RFS</Text>
+        <Description>RFS</Description>
+        <PagePath />
+        <ParentID>382</ParentID>
+        <Menu>
+          <MenuID>401</MenuID>
+          <Text>Search RFS page</Text>
+          <Description>Search RFS page</Description>
+          <PagePath>~/Pages/KMPL/SearchRFSlink.aspx</PagePath>
+          <ParentID>400</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>402</MenuID>
+          <Text>RFS Link Page</Text>
+          <Description>RFS Link Page</Description>
+          <PagePath>~/Pages/KMPL/RPCLink.aspx</PagePath>
+          <ParentID>400</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>403</MenuID>
+        <Text>RCU</Text>
+        <Description>RCU</Description>
+        <PagePath />
+        <ParentID>382</ParentID>
+        <Menu>
+          <MenuID>404</MenuID>
+          <Text>Search RCU</Text>
+          <Description>Search RCU</Description>
+          <PagePath>~/Pages/KMPL/SearchRCU.aspx</PagePath>
+          <ParentID>403</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>405</MenuID>
+          <Text>RCU Page</Text>
+          <Description>RCU Page</Description>
+          <PagePath>~/Pages/KMPL/RCULink.aspx</PagePath>
+          <ParentID>403</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>406</MenuID>
+        <Text>KMPL CAM</Text>
+        <Description>KMPL CAM</Description>
+        <PagePath />
+        <ParentID>382</ParentID>
+        <Menu>
+          <MenuID>407</MenuID>
+          <Text>Search CAM</Text>
+          <Description>Search CAM</Description>
+          <PagePath>~/Pages/KMPL/SearhCreditProcess.aspx</PagePath>
+          <ParentID>406</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>408</MenuID>
+          <Text>CAM Link Page</Text>
+          <Description>CAM Link Page</Description>
+          <PagePath>~/Pages/KMPL/CAM.aspx</PagePath>
+          <ParentID>406</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>409</MenuID>
+        <Text>FTNR Process</Text>
+        <Description>FTNR Process</Description>
+        <PagePath />
+        <ParentID>382</ParentID>
+        <Menu>
+          <MenuID>410</MenuID>
+          <Text>Search FTNR Process</Text>
+          <Description>Search FTNR Process</Description>
+          <PagePath>~/Pages/KMPL/SearchFTNR.aspx</PagePath>
+          <ParentID>409</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>411</MenuID>
+          <Text>FTNR Process Link</Text>
+          <Description>FTNR Process Link</Description>
+          <PagePath>~/Pages/KMPL/FTNRLink.aspx</PagePath>
+          <ParentID>409</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>412</MenuID>
+        <Text>Send To Bank</Text>
+        <Description>Send To Bank</Description>
+        <PagePath>~/Pages/KMPL/SendToBank.aspx</PagePath>
+        <ParentID>382</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>456</MenuID>
+        <Text>RCU HOLD</Text>
+        <Description>RCU HOLD</Description>
+        <PagePath />
+        <ParentID>382</ParentID>
+        <Menu>
+          <MenuID>457</MenuID>
+          <Text>Search RCU Hold</Text>
+          <Description>Search RCU Hold</Description>
+          <PagePath>~/Pages/KMPL/SearchRCUHoldPage.aspx</PagePath>
+          <ParentID>456</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>458</MenuID>
+          <Text>RCU Hold Page</Text>
+          <Description>RCU Hold Page</Description>
+          <PagePath>~/Pages/KMPL/RCUHoldLinkPage.aspx</PagePath>
+          <ParentID>456</ParentID>
+        </Menu>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>383</MenuID>
+      <Text>Status Updation</Text>
+      <Description>Status Updation</Description>
+      <PagePath />
+      <ParentID>379</ParentID>
+      <Menu>
+        <MenuID>413</MenuID>
+        <Text>Update CPV Status</Text>
+        <Description>Update CPV Status</Description>
+        <PagePath />
+        <ParentID>383</ParentID>
+        <Menu>
+          <MenuID>414</MenuID>
+          <Text>Search CPV Status Updation</Text>
+          <Description>Search CPV Status Updation</Description>
+          <PagePath>~/Pages/KMPL/SearchCPVStatusUpdation.aspx</PagePath>
+          <ParentID>413</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>415</MenuID>
+          <Text>CPV Status Updation</Text>
+          <Description>CPV Status Updation</Description>
+          <PagePath>~/Pages/KMPL/CPVStatusUpdation.aspx</PagePath>
+          <ParentID>413</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>416</MenuID>
+        <Text>Update IDOC Status</Text>
+        <Description>Update IDOC Status</Description>
+        <PagePath />
+        <ParentID>383</ParentID>
+        <Menu>
+          <MenuID>417</MenuID>
+          <Text>Search IDOC Status Updation</Text>
+          <Description>Search IDOC Status Updation</Description>
+          <PagePath>~/Pages/KMPL/SearchIDOCStatusUpdation.aspx</PagePath>
+          <ParentID>416</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>418</MenuID>
+          <Text>IDOC Status Updation</Text>
+          <Description>IDOC Status Updation</Description>
+          <PagePath>~/Pages/KMPL/IDOCSstatusUpdationPage.aspx</PagePath>
+          <ParentID>416</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>419</MenuID>
+        <Text>Update RCU Status</Text>
+        <Description>Update RCU Status</Description>
+        <PagePath />
+        <ParentID>383</ParentID>
+        <Menu>
+          <MenuID>420</MenuID>
+          <Text>Search RCU Status Updation</Text>
+          <Description>Search RCU Status Updation</Description>
+          <PagePath>~/Pages/KMPL/SearchRCUStatusUpdate.aspx</PagePath>
+          <ParentID>419</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>421</MenuID>
+          <Text>RCU Status Updation</Text>
+          <Description>RCU Status Updation</Description>
+          <PagePath>~/Pages/KMPL/RCUStatusUpdate.aspx</PagePath>
+          <ParentID>419</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>422</MenuID>
+        <Text>Credit Decision Updation</Text>
+        <Description>Credit Decision Updation</Description>
+        <PagePath />
+        <ParentID>383</ParentID>
+        <Menu>
+          <MenuID>423</MenuID>
+          <Text>Search Credit Decision Updation</Text>
+          <Description>Search Credit Decision Updation</Description>
+          <PagePath>~/Pages/KMPL/SearchCreditSearchUpdation.aspx</PagePath>
+          <ParentID>422</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>424</MenuID>
+          <Text>Credit Decision  Updation Process</Text>
+          <Description>Credit Decision  Updation Process</Description>
+          <PagePath>~/Pages/KMPL/CreditStatusUpdation.aspx</PagePath>
+          <ParentID>422</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>425</MenuID>
+        <Text>Subjectivity Clearance</Text>
+        <Description>Subjectivity Clearance</Description>
+        <PagePath />
+        <ParentID>383</ParentID>
+        <Menu>
+          <MenuID>426</MenuID>
+          <Text>Search Subjectivity Clearance Process</Text>
+          <Description>Search Subjectivity Clearance Process</Description>
+          <PagePath>~/Pages/KMPL/SearchSubjectivity.aspx</PagePath>
+          <ParentID>425</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>427</MenuID>
+          <Text>Subjectivity Clearance Updation</Text>
+          <Description>Subjectivity Clearance Updation</Description>
+          <PagePath>~/Pages/KMPL/SubjectivityClearance.aspx</PagePath>
+          <ParentID>425</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>428</MenuID>
+        <Text>Relook Updation</Text>
+        <Description>Relook Updation</Description>
+        <PagePath />
+        <ParentID>383</ParentID>
+        <Menu>
+          <MenuID>429</MenuID>
+          <Text>Search Relook Updation</Text>
+          <Description>Search Relook Updation</Description>
+          <PagePath>~/Pages/KMPL/SearchRelookUpdation.aspx</PagePath>
+          <ParentID>428</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>430</MenuID>
+          <Text>Relook Updation Process</Text>
+          <Description>Relook Updation Process</Description>
+          <PagePath>~/Pages/KMPL/RelookUpdation.aspx</PagePath>
+          <ParentID>428</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>449</MenuID>
+        <Text>Receive From Bank Credit</Text>
+        <Description>Receive From Bank Credit</Description>
+        <PagePath>~/Pages/KMPL/ReceiveFromBankCredit.aspx</PagePath>
+        <ParentID>383</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>431</MenuID>
+      <Text>RFD1 Credit Process</Text>
+      <Description>RFD1 Credit Process</Description>
+      <PagePath />
+      <ParentID>379</ParentID>
+      <Menu>
+        <MenuID>432</MenuID>
+        <Text>RFD1 Credit</Text>
+        <Description>RFD1 Credit</Description>
+        <PagePath />
+        <ParentID>431</ParentID>
+        <Menu>
+          <MenuID>433</MenuID>
+          <Text>Search RFD1 Credit</Text>
+          <Description>Search RFD1 Credit</Description>
+          <PagePath>~/Pages/KMPL/SearchRFDCredit.aspx</PagePath>
+          <ParentID>432</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>434</MenuID>
+          <Text>RFD Credits</Text>
+          <Description>RFD Credits</Description>
+          <PagePath>~/Pages/KMPL/RDFCredit.aspx</PagePath>
+          <ParentID>432</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>435</MenuID>
+        <Text>RFD1 Hold</Text>
+        <Description>RFD1 Hold</Description>
+        <PagePath />
+        <ParentID>431</ParentID>
+        <Menu>
+          <MenuID>436</MenuID>
+          <Text>Search RFD1 Hold</Text>
+          <Description>Search RFD1 Hold</Description>
+          <PagePath>~/Pages/KMPL/SearchRFD1Hold.aspx</PagePath>
+          <ParentID>435</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>437</MenuID>
+          <Text>RFD1 Hold Process</Text>
+          <Description>RFD1 Hold Process</Description>
+          <PagePath>~/Pages/KMPL/RFD1HOLD.aspx</PagePath>
+          <ParentID>435</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>438</MenuID>
+        <Text>RFDCredit Send To Bank</Text>
+        <Description>RFDCredit Send To Bank</Description>
+        <PagePath>~/Pages/KMPL/RFDCredit_SentToBank.aspx</PagePath>
+        <ParentID>431</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>439</MenuID>
+        <Text>RFD1Credit Receive From Bank</Text>
+        <Description>RFD1Credit Receive From Bank</Description>
+        <PagePath>~/Pages/KMPL/RFDCreditReceiveFromBank.aspx</PagePath>
+        <ParentID>431</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>385</MenuID>
+      <Text>Disbursment Process</Text>
+      <Description>Disbursment Process</Description>
+      <PagePath />
+      <ParentID>379</ParentID>
+      <Menu>
+        <MenuID>440</MenuID>
+        <Text>RFD CPU</Text>
+        <Description>RFD CPU</Description>
+        <PagePath />
+        <ParentID>385</ParentID>
+        <Menu>
+          <MenuID>441</MenuID>
+          <Text>Search RFD CPU</Text>
+          <Description>Search RFD CPU</Description>
+          <PagePath>~/Pages/KMPL/SearchRFDOPS.aspx</PagePath>
+          <ParentID>440</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>442</MenuID>
+          <Text>RFD_CPU Processes</Text>
+          <Description>RFD_CPU Processes</Description>
+          <PagePath>~/Pages/KMPL/RFDOPSProcess.aspx</PagePath>
+          <ParentID>440</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>443</MenuID>
+        <Text>RFDCPU FTNR</Text>
+        <Description>RFDCPU FTNR</Description>
+        <PagePath />
+        <ParentID>385</ParentID>
+        <Menu>
+          <MenuID>444</MenuID>
+          <Text>Search RFDCPU FTNR</Text>
+          <Description>Search RFDCPU FTNR</Description>
+          <PagePath>~/Pages/KMPL/SearchFTNROps.aspx</PagePath>
+          <ParentID>443</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>445</MenuID>
+          <Text>RFDCPU FTNR Process</Text>
+          <Description>RFDCPU FTNR Process</Description>
+          <PagePath>~/Pages/KMPL/FTNROPSProcess.aspx</PagePath>
+          <ParentID>443</ParentID>
+        </Menu>
+      </Menu>
+      <Menu>
+        <MenuID>446</MenuID>
+        <Text>RFD CPU SendToOPS</Text>
+        <Description>RFD CPU SendToOPS</Description>
+        <PagePath>~/Pages/KMPL/RFDOPS_SendToOPS.aspx</PagePath>
+        <ParentID>385</ParentID>
+      </Menu>
+      <Menu>
+        <MenuID>447</MenuID>
+        <Text>RFDCPU Return From OPS</Text>
+        <Description>RFDCPU Return From OPS</Description>
+        <PagePath>~/Pages/KMPL/ReceiveFromRFDOPS.aspx</PagePath>
+        <ParentID>385</ParentID>
+      </Menu>
+    </Menu>
+    <Menu>
+      <MenuID>448</MenuID>
+      <Text>MIS</Text>
+      <Description>MIS</Description>
+      <PagePath>~/Pages/KMPL/KMPL_MIS.aspx</PagePath>
+      <ParentID>379</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>466</MenuID>
+      <Text>Case Tracker View</Text>
+      <Description>Case Tracker View</Description>
+      <PagePath>~/Pages/KMPL/CaseTrackerView.aspx</PagePath>
+      <ParentID>379</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

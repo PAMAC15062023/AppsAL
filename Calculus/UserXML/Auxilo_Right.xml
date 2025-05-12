@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>715</MenuID>
+    <Text>Auxilo</Text>
+    <Description>Auxilo</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>716</MenuID>
+      <Text>Login Stage</Text>
+      <Description>Login Stage</Description>
+      <PagePath>~/pages/Auxilo/Login_Stage.aspx</PagePath>
+      <ParentID>715</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>717</MenuID>
+      <Text>Maker</Text>
+      <Description>Maker</Description>
+      <PagePath>~/pages/Auxilo/Aux_Maker.aspx</PagePath>
+      <ParentID>715</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>718</MenuID>
+      <Text>Checker</Text>
+      <Description>Checker</Description>
+      <PagePath>~/pages/Auxilo/Aux_Checker.aspx</PagePath>
+      <ParentID>715</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>719</MenuID>
+      <Text>Superadmin</Text>
+      <Description>Superadmin</Description>
+      <PagePath>~/pages/Auxilo/Superadmin.aspx</PagePath>
+      <ParentID>715</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>721</MenuID>
+      <Text>Role Master</Text>
+      <Description>Role Master</Description>
+      <PagePath>~/pages/Auxilo/Role Master.aspx</PagePath>
+      <ParentID>715</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>722</MenuID>
+      <Text>MIS</Text>
+      <Description>MIS</Description>
+      <PagePath>~/pages/Auxilo/MIS.aspx</PagePath>
+      <ParentID>715</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

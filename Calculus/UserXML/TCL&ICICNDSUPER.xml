@@ -1,0 +1,133 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>49</MenuID>
+    <Text>Calculus Online Transactional</Text>
+    <Description>Calculus Online Transactional</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>50</MenuID>
+      <Text>Branch Payment Request</Text>
+      <Description>Branch Payment Request</Description>
+      <PagePath>~/Pages/Calculus/BranchPaymentRequest.aspx</PagePath>
+      <ParentID>49</ParentID>
+      <Menu>
+        <MenuID>192</MenuID>
+        <Text>Employee Payment Request</Text>
+        <Description>Employee Payment Request</Description>
+        <PagePath />
+        <ParentID>50</ParentID>
+        <Menu>
+          <MenuID>193</MenuID>
+          <Text>EPM Request -ADD</Text>
+          <Description>EPM Request -ADD</Description>
+          <PagePath>~/Pages/Calculus/EPMAddRequest.aspx</PagePath>
+          <ParentID>192</ParentID>
+        </Menu>
+        <Menu>
+          <MenuID>194</MenuID>
+          <Text>EPM Request- View</Text>
+          <Description>EPM Request- View</Description>
+          <PagePath>~/Pages/Calculus/EPMViewRequest.aspx</PagePath>
+          <ParentID>192</ParentID>
+        </Menu>
+      </Menu>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>515</MenuID>
+    <Text>ICICINDC</Text>
+    <Description>ICICINDC</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>534</MenuID>
+      <Text>Import</Text>
+      <Description>Import</Description>
+      <PagePath>~/Pages/ICICINDC/Import.aspx</PagePath>
+      <ParentID>515</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>517</MenuID>
+      <Text>DEO</Text>
+      <Description>DEO</Description>
+      <PagePath>~/Pages/ICICINDC/DEO.aspx</PagePath>
+      <ParentID>515</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>518</MenuID>
+      <Text>Superadmin</Text>
+      <Description>Superadmin</Description>
+      <PagePath>~/Pages/ICICINDC/Superadmin.aspx</PagePath>
+      <ParentID>515</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>519</MenuID>
+      <Text>QCTracking</Text>
+      <Description>QCTracking</Description>
+      <PagePath>~/Pages/ICICINDC/QCTracking.aspx</PagePath>
+      <ParentID>515</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>525</MenuID>
+      <Text>MIS</Text>
+      <Description>MIS</Description>
+      <PagePath>~/Pages/ICICINDC/MIS.aspx</PagePath>
+      <ParentID>515</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>563</MenuID>
+      <Text>Role Master</Text>
+      <Description>Role Master</Description>
+      <PagePath>~/Pages/ICICINDC/RoleMaster.aspx</PagePath>
+      <ParentID>515</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>715</MenuID>
+    <Text>Auxilo</Text>
+    <Description>Auxilo</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>716</MenuID>
+      <Text>Login Stage</Text>
+      <Description>Login Stage</Description>
+      <PagePath>~/pages/Auxilo/Login_Stage.aspx</PagePath>
+      <ParentID>715</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>717</MenuID>
+      <Text>Maker</Text>
+      <Description>Maker</Description>
+      <PagePath>~/pages/Auxilo/Aux_Maker.aspx</PagePath>
+      <ParentID>715</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>718</MenuID>
+      <Text>Checker</Text>
+      <Description>Checker</Description>
+      <PagePath>~/pages/Auxilo/Aux_Checker.aspx</PagePath>
+      <ParentID>715</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>719</MenuID>
+      <Text>Superadmin</Text>
+      <Description>Superadmin</Description>
+      <PagePath>~/pages/Auxilo/Superadmin.aspx</PagePath>
+      <ParentID>715</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>721</MenuID>
+      <Text>Role Master</Text>
+      <Description>Role Master</Description>
+      <PagePath>~/pages/Auxilo/Role Master.aspx</PagePath>
+      <ParentID>715</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>722</MenuID>
+      <Text>MIS</Text>
+      <Description>MIS</Description>
+      <PagePath>~/pages/Auxilo/MIS.aspx</PagePath>
+      <ParentID>715</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

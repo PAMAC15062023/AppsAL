@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="yes"?>
+<Menus>
+  <Menu>
+    <MenuID>109</MenuID>
+    <Text>Helpdesk Support</Text>
+    <Description>Helpdesk Support</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>110</MenuID>
+      <Text>Generate Incident Ticket</Text>
+      <Description>Generate Incident Ticket</Description>
+      <PagePath>~/Pages/Helpdesk/NewTicket.aspx</PagePath>
+      <ParentID>109</ParentID>
+    </Menu>
+  </Menu>
+  <Menu>
+    <MenuID>515</MenuID>
+    <Text>ICICINDC</Text>
+    <Description>ICICINDC</Description>
+    <PagePath />
+    <Menu>
+      <MenuID>534</MenuID>
+      <Text>Import</Text>
+      <Description>Import</Description>
+      <PagePath>~/Pages/ICICINDC/Import.aspx</PagePath>
+      <ParentID>515</ParentID>
+    </Menu>
+    <Menu>
+      <MenuID>517</MenuID>
+      <Text>DEO</Text>
+      <Description>DEO</Description>
+      <PagePath>~/Pages/ICICINDC/DEO.aspx</PagePath>
+      <ParentID>515</ParentID>
+    </Menu>
+  </Menu>
+</Menus>

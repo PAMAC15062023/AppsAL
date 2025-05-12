@@ -1,0 +1,2 @@
+Select Case_ID from CPV_CC_Case_Details
+

@@ -1,0 +1,499 @@
+﻿.Masterbody
+{
+	font-weight: normal;
+	font-size: 8pt;
+	font-family: Verdana, Tahoma;
+	background-color: #cccccc;
+}
+
+.Pagebody
+{
+	font-weight: normal;
+	font-size: 8pt;
+	font-family: Verdana, Tahoma;
+	background-color: #ffffff;
+}
+ 
+body
+{
+	font-weight: normal;
+	font-size: 8pt;
+	font-family: Verdana, Tahoma;
+}
+.dropdown
+{
+	font-weight: normal;
+	font-size: 7pt;
+	font-family: Verdana, Tahoma;
+}
+.UpdateMessage
+{
+	font-weight: bold;
+	font-size: 8pt;
+	color: maroon;
+	font-family: Verdana, Tahoma;
+	background-color: navajowhite;
+	text-decoration: underline overline;
+}
+.SuccessMessage
+{
+	font-weight: bold;
+	font-size: 8pt;
+	color: maroon;
+	font-family: Verdana, Tahoma;
+	background-color: navajowhite;
+	text-decoration: underline overline;
+}
+.ErrorMessage
+{
+	font-weight: bold;
+	font-size: 8pt;
+	color: red;
+	font-family: Verdana, Tahoma;
+	background-color: white;
+	text-decoration: underline overline;
+}
+.ErrorCell
+{
+	border-bottom: black 1px solid;
+	border-left: black 1px solid;
+	background-color: khaki;
+	font-family: Verdana, Tahoma;
+	color: black;
+	font-size: 7.5pt;
+	border-top: black 1px solid;
+	border-right: black 1px solid;
+}
+
+.TableGrid
+{
+    border-bottom: dimgray 1px solid;
+    border-left: dimgray 1px solid;
+    background-color: lightgrey;
+    font-family: Verdana, Tahoma;
+    color: #333300;
+    font-size: 8pt;
+    border-top: dimgray 1px solid;
+    border-right: dimgray 1px solid;
+    background-image: url('Pages/Images/bgr.gif');
+}
+
+.TableHeader
+{
+    font-weight: bold;
+    font-size: 9pt;
+    color: #333333;
+    font-family: Verdana, Tahoma;
+    border-bottom: #ffcc33 thick solid;
+    border-bottom-color: #FF3300;
+    background-image: url('Pages/Images/bgr.gif');
+    border-style: solid;
+    border-width: 1.5px 1.5px thin 1.5px;
+}
+
+.TableTitle
+{
+    font-size: 8pt;
+    color: #333333;
+    font-family: Verdana, Tahoma;
+    background-color: #C0C0C0;
+    border-right: #660000 1px solid;
+    border-top: #660000 1px solid;
+    border-left: #660000 1px solid;
+    border-bottom: #660000 1px solid;
+    white-space: no-wrap;
+    border-color: #808080;
+}
+
+.Table
+{
+	font-size: 8pt;
+	font-family: Verdana, Tahoma;
+	border-right: white 1px solid;
+	border-top: white 1px solid;
+	border-left: white 1px solid;
+	border-bottom: white 1px solid;
+	
+}
+
+.TEXTBOX
+{
+	font-size: 8pt;
+	font-family: Verdana, Tahoma;	 
+	text-transform: uppercase;
+}
+TEXTAREA
+{
+	font-size: 8pt;
+	font-family: Verdana, Tahoma;
+	background-color: #ffff99;
+}
+	
+
+.GridViewRowStyle td, .GridViewAlternatingRowStyle td
+{
+    /* style for the td*/
+}
+
+.GridViewStyle
+{
+	border-right: 2px solid #A7A6AA;
+	border-bottom: 2px solid #A7A6AA;
+	border-left: 2px solid white;
+	border-top: 2px solid white;
+	padding: 4px;
+	font-size: 8pt;
+	font-family: Verdana, 'Trebuchet MS';
+}
+
+.GridViewStyle a
+{
+    color: #FFFFFF;
+}
+
+.GridViewHeaderStyle th
+{
+	border-left: 1px solid #EBE9ED;
+	border-right: 1px solid #EBE9ED;
+	background-color: dimgray;
+}
+
+.GridViewHeaderStyle
+{
+	background-color: #660000;
+	font-weight: bold;
+	color: White;
+}
+
+.GridViewFooterStyle
+{
+    background-color: #5D7B9D;
+    font-weight: bold;
+    color: White;
+}
+
+.GridViewRowStyle
+{
+    background-color: #F7F6F3;
+    color: #333333;
+}
+
+.GridViewAlternatingRowStyle
+{
+    background-color: #FFFFFF;
+    color: #284775;
+}
+
+.GridViewRowStyle td, .GridViewAlternatingRowStyle td
+{
+    border: 1px solid #EBE9ED;
+}
+
+.GridViewSelectedRowStyle
+{
+    background-color: #E2DED6;
+    font-weight: bold;
+    color: #333333;
+}
+
+.GridViewPagerStyle
+{
+    background-color: #284775;
+    color: #FFFFFF;
+}
+
+.GridViewPagerStyle table /* to center the paging links*/
+{
+    margin: 0 auto 0 auto;
+}
+
+#tabs
+{
+    FONT-SIZE: 93%;
+    FLOAT: left;
+    WIDTH: 100%;
+    LINE-HEIGHT: normal;
+    BORDER-BOTTOM: #84776b 1px solid
+}
+#tabs UL
+{
+    PADDING-RIGHT: 10px;
+    PADDING-LEFT: 50px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-TOP: 10px;
+    LIST-STYLE-TYPE: none
+}
+#tabs LI
+{
+    PADDING-RIGHT: 0px;
+    DISPLAY: inline;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-TOP: 0px
+}
+.tabsmain
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 4px;
+    BACKGROUND: url(./Pages/images/tableft.gif) no-repeat right top;
+    FLOAT: right;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-TOP: 0px;
+    TEXT-DECORATION: none
+}
+.tabs1
+{
+	padding-right: 15px;
+	display: block;
+	padding-left: 6px;
+	background: url(./Pages/Images/tabright.gif) no-repeat right 9%;
+	float: left;
+	padding-bottom: 4px;
+	color: #84776b;
+	padding-top: 5px;
+}
+.tabs2
+{
+	padding-right: 15px;
+	display: block;
+	padding-left: 6px;
+	background: url(./Pages/Images/tabright.gif) no-repeat right bottom;
+	float: left;
+	padding-bottom: 4px;
+	color: #84776b;
+	padding-top: 5px;
+}
+
+#tabs A SPAN
+{
+    FLOAT: none
+}
+#tabs A:hover SPAN
+{
+    COLOR: #74675b
+}
+#tabs A:hover
+{
+    BACKGROUND-POSITION: 0% -42px
+}
+#tabs A:hover SPAN
+{
+    BACKGROUND-POSITION: 100% -42px
+}
+.Tableheader_a
+{
+	display: block;
+	float: left;
+	color: #fff;
+	text-decoration: none;
+	padding: 5px 20px 0 20px;
+	height: 19px;
+	background-image: url(./Pages/Images/foxmenu_bg-OFF.gif);
+	background-color: transparent;
+	background-position-x: 50%;
+	backgro
+
+
+
+ ttachment: scroll;
+	background-repeat: repeat;
+}
+
+ .Tableheader_b {
+	color:#fff;
+	background:transparent url(./Pages/Images/foxmenu_bg-OVER.gif) no-repeat top right;
+	}
+	
+ .mGrid
+{
+    background-color: #fff;
+    margin: 5px 0 10px 0;
+    border: solid 1px #525252;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #333333;
+}  
+rid td {   
+    padding: 2px;   
+    border: solid 1px #c1c1c1;   
+    color: #717171;   
+}  
+.mGrid th {   
+    padding: 4px 2px;   
+    color: #fff;   
+    background: #424242 url(grd_head.png) repeat-x top;   
+    border-left: solid 1px #525252;   
+    font-size: 0.9em;   
+}  
+.mGrid .alt { background: #fcfcfc url(grd_alt.png) repeat-x top; }  
+.mGrid .pgr { background: #424242 url(grd_pgr.png) repeat-x top; }  
+.mGrid .pgr table { margin: 5px 0; }  
+.mGrid .pgr td {   
+    border-width: 0;   
+    padding: 0 6px;   
+    border-left: solid 1px #666;   
+    font-weight: bold;   
+    color: #fff;   
+    line-height: 12px;   
+ }     
+.mGrid .pgr a { color: #666; text-decoration: none; }  
+.mGrid .pgr a:hover { color: #000; text-decoration: none; }
+
+
+.style
+{
+	z-index:100;
+}
+
+.grv_hover_in
+{ 
+	background-color: #ffff33; cursor: auto;
+	
+ }
+
+.grv_Column_hidden
+{
+	background-color: white;	
+	visibility: hidden;
+}
+
+.Error_Validate
+{
+	border-bottom: red 1px solid;
+	border-left: red 1px solid;
+	font-family: Verdana, Tahoma;
+	color: red;
+	font-size: 8pt;
+	border-top: red 1px solid;
+	font-weight: bold;
+	border-right: red 1px solid;
+	text-align: center;
+	vertical-align: middle;
+}
+ 
+
+.modalBackground {
+	background-color:Gray;
+	filter:alpha(opacity=70);
+	opacity:0.7;
+}
+.modalPopup
+{
+	background-color: #ffffdd;
+	padding: 3px;
+	width: 250px;
+	border-bottom: black 3px solid;
+	border-left: black 3px solid;
+	border-top: black 3px solid;
+	border-right: black 3px solid;
+}
+TEXTAREA
+{
+	background-color: white;
+	font-family: Tahoma, Verdana;
+	font-size: 8pt;
+	font-weight: normal;
+}
+.Menu
+{
+	background-image: url(Pages/Images/menu_Calc.jpg);
+	background-repeat: repeat-x;
+	background-position-y: top;
+}
+ div.rounded {
+ width: 200px;
+ background: #1b5151 url(tr.gif) no-repeat top right;
+}
+div.rounded div {
+ background: transparent url(tl.gif) no-repeat top left;
+}
+div.rounded div div {
+ background: transparent url(br.gif) no-repeat bottom right;
+}
+div.rounded div div div {
+ background: transparent url(bl.gif) no-repeat bottom left;
+ padding: 15px;
+}
+
+.TableCorner_Bottom
+{
+	background: url(./Pages/Images/Bot_LineN.jpg) repeat-x right bottom;
+}
+
+.TableCorner_Top
+{
+	background: url(./Pages/Images/Top_Middle.jpg) repeat-x right bottom;
+} 
+.TableCorner_Left
+{
+	background: url(./Pages/Images/Left.png) repeat-y left bottom;
+}
+.TableCorner_Right
+{
+	background: url(./Pages/Images/Right.png) repeat-y
+}
+.aa
+{
+	color: #333300;
+	display: block;
+	float: left;
+	font: normal 12px arial, sans-serif;
+	padding-right: 2px; /* sliding doors padding */
+	text-decoration: none;
+	text-align: center;
+	text-decoration: none;
+	background-image: url('Pages/Images/tabright.gif');
+	border-bottom: dimgray 1px solid;
+	border-left: crimson thick solid;
+	background-color: transparent;
+	border-top: dimgray 1px solid;
+	border-right: dimgray 1px solid;
+	padding-bottom: 2px;
+	padding-left: 5px;
+	padding-top: 2px;
+	margin: 1px 1px 1px 5px;
+	
+}
+
+
+.button span {
+    background: transparent url('./Pages/Images/bg_button_span.gif') no-repeat;
+}
+ 
+ 
+
+ 
+ 
+ 
+
+Input[type="submit"]
+{
+    -webkit-background-clip: padding-box;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    border-radius: 1px;
+    color: #fff;
+    line-height: normal;
+    margin: 0;
+    padding: 1px;
+    position: relative;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+    background-color: #2c3131;
+    border-color: #FFFFFF;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 11px;
+    font-family: Helvetica, Arial, sans-serif;
+    top: -2px;
+    left: 0px;
+    width: 96px;
+    height: 22px;
+}
+
+ 
+
