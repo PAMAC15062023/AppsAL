@@ -535,6 +535,8 @@ namespace CoreDailyMISAutomation
                 cmd.Parameters.AddWithValue("@UserId", Userid);
                 cmd.Parameters.AddWithValue("@Branch", Convert.ToString(Session["Branch_Name"]));
 
+                // TEST //
+
                 sqlCon.Open();
                 int result = cmd.ExecuteNonQuery();
 
