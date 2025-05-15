@@ -21,7 +21,6 @@ namespace LNTFinance
                 {
                     Get_ClientList();
                     GenerateCaptcha();
-                    //Test//
                 }
 
             }
